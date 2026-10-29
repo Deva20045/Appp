@@ -30,6 +30,19 @@ Everything needed to continue work on the PULSE MBBS offline app. Read this firs
   payload instead of recompiling it; the Java sources were untouched, so the binary payload is byte-identical (verified).
   Next time `build.sh` can run, prefer it — it is the canonical path and produces the same app.
 - Signing material is **not** in this repo and is gitignored (`.gitignore`, §9). It must be restored before any rebuild.
+- **The MBBS site is still serving 1.3.** Publishing was attempted in this session and blocked: the available GitHub
+  credential is an installation token with read-only access to `Deva20045/MBBS` (`git push` -> 403 "Permission to
+  Deva20045/MBBS.git denied", `POST /git/blobs` -> 403 "Resource not accessible by integration"), even though it can
+  push to `Deva20045/Appp`. Nothing was published there; do not claim otherwise. The site commit is prepared and
+  verified locally — re-run it with a token that has Contents: Read & Write on MBBS, or upload both files by hand:
+
+  ```bash
+  # what the site needs, both already verified in this repo
+  PULSE-MBBS-offline.apk   sha256 13ac313684bfe68edc9b40de78943a95fa7d599adc787e3625fef5b17ae8ff9e
+  index.html               sha256 0c58ad84b21654ceb4ac42b4d7743f07f26184fad68a9e825acd16b79c7a64d4
+  ```
+- One harmless consequence of the block: `tools/apk/keys/` must be restored by hand (§9), because this session could
+  only verify the key against the previously shipped APK, not fetch it from anywhere.
 - `pulse-mbbs.html` is a transient build output; it is not tracked (it is just a copy of `index.html`).
 
 ## 2. File map
