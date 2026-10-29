@@ -1,12 +1,13 @@
 /* Regression: Medicine volumes on the dashboard + Med-V1 / Gyne / Aneesh subjects. */
-const {chromium}=require(process.env.PW_PATH||'/tmp/node_modules/playwright');
+const {PW_PATH,HTML,launchOptions}=require('./test-env');
+const {chromium}=require(PW_PATH);
 const assert=require('assert');
 (async()=>{
-  const b=await chromium.launch();const errors=[];
+  const b=await chromium.launch(launchOptions());const errors=[];
   const p=await b.newPage({viewport:{width:393,height:851},isMobile:true,hasTouch:true});
   p.on('pageerror',e=>errors.push(e.message));
   p.on('dialog',d=>d.accept());
-  await p.goto('file:///home/user/index.html');await p.waitForTimeout(600);
+  await p.goto(HTML);await p.waitForTimeout(600);
 
   const stats=await p.evaluate(()=>({subs:window.__pulse.SUBJECTS.length,
     q:window.__pulse.SUBJECTS.reduce((a,s)=>a+s.d.q.length,0),

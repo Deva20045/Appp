@@ -1,9 +1,10 @@
 /* PULSE UI regression: resume-after-exit, results "Next unit", question editor, footer link. */
-const {chromium}=require(process.env.PW_PATH||'/tmp/node_modules/playwright');
+const {PW_PATH,HTML,launchOptions}=require('./test-env');
+const {chromium}=require(PW_PATH);
 const assert=require('assert');
-const FILE='file:///home/user/index.html';
+const FILE=HTML;
 (async()=>{
-  const b=await chromium.launch();
+  const b=await chromium.launch(launchOptions());
   const errors=[];
   // page 1: Android bridge present (footer APK link must stay hidden)
   const p=await b.newPage({viewport:{width:393,height:851},isMobile:true,hasTouch:true});
