@@ -1,0 +1,523 @@
+{
+ "chapter": 48,
+ "title": "Community Ophthalmology",
+ "pageRange": "223-227",
+ "questions": [
+  {
+   "id": "OPH-C48-001",
+   "sec": "NPCBVI",
+   "page": 223,
+   "fmt": "numeric",
+   "q": "The original National Programme for Control of Blindness (NPCB) began in ___; it became NPCBVI in 2017.",
+   "opts": [
+    "1956",
+    "1976",
+    "1986",
+    "1999"
+   ],
+   "ans": 1,
+   "exp": "NPCB started in 1976 and was amended to NPCBVI in 2017. (Book p223)"
+  },
+  {
+   "id": "OPH-C48-002",
+   "sec": "Blindness definitions",
+   "page": 223,
+   "fmt": "recall",
+   "q": "Clinical blindness is defined as:",
+   "opts": [
+    "Visual acuity below 6/18",
+    "A visual field below 40 degrees",
+    "No perception of light",
+    "Inability to read N6"
+   ],
+   "ans": 2,
+   "exp": "The clinical definition given is no perception of light. (Book p223)"
+  },
+  {
+   "id": "OPH-C48-003",
+   "sec": "Blindness definitions",
+   "page": 223,
+   "fmt": "match",
+   "q": "Under NPCBVI/WHO, blindness is presenting VA below 3/60 in the better eye with best correction OR visual field below ___ degrees from fixation.",
+   "opts": [
+    "5",
+    "20",
+    "30",
+    "10"
+   ],
+   "ans": 3,
+   "exp": "The definition is presenting VA <3/60 in the better eye with best possible correction or visual-field limitation to <10° from fixation. (Book p223)"
+  },
+  {
+   "id": "OPH-C48-004",
+   "sec": "Visual impairment",
+   "page": 223,
+   "fmt": "match",
+   "q": "Which ordered visual-acuity bands correctly describe severe, moderate and early visual impairment?",
+   "opts": [
+    "SVI: <6/60–3/60; MVI: <6/18–6/60; EVI: <6/12–6/18",
+    "SVI: <6/12–6/18; MVI: <6/60–3/60; EVI: <6/18–6/60",
+    "SVI: <6/18–6/60; MVI: <6/12–6/18; EVI: <6/60–3/60",
+    "SVI: <3/60 only; MVI: <6/9–6/18; EVI: <6/60–3/60"
+   ],
+   "ans": 0,
+   "exp": "NPCBVI categories in the better eye with available correction: blindness <3/60, severe VI <6/60–3/60, moderate VI <6/18–6/60, early VI <6/12–6/18. (Book p223)"
+  },
+  {
+   "id": "OPH-C48-005",
+   "sec": "Functional low vision",
+   "page": 223,
+   "fmt": "scenario",
+   "q": "A person has VA <6/18 or field <10° from the fovea and can potentially use vision to plan or execute a task. This meets the listed description of:",
+   "opts": [
+    "Clinical blindness",
+    "Early visual impairment only",
+    "Transient visual obscuration",
+    "Functional low vision"
+   ],
+   "ans": 3,
+   "exp": "Functional low vision is VA <6/18 or field <10° from fovea with ability/potential to use vision for a task; the table also defines BCVA/pinhole blindness as best-corrected <3/60. (Book p223)"
+  },
+  {
+   "id": "OPH-C48-006",
+   "sec": "Blindness indicators",
+   "page": 223,
+   "fmt": "numeric",
+   "q": "The 2015-19 National Blindness and Visual Impairment Survey reported blindness prevalence of ___ in 2019.",
+   "opts": [
+    "0.05%",
+    "0.36%",
+    "1.2%",
+    "3.6%"
+   ],
+   "ans": 1,
+   "exp": "The recent-facts note gives blindness prevalence as 0.36% in 2019. (Book p223)"
+  },
+  {
+   "id": "OPH-C48-007",
+   "sec": "Blindness indicators",
+   "page": 223,
+   "fmt": "numeric",
+   "q": "The program goal is to reduce avoidable blindness prevalence to below ___ by 2025.",
+   "opts": [
+    "0.25%",
+    "0.05%",
+    "1%",
+    "2.5%"
+   ],
+   "ans": 0,
+   "exp": "The listed goal is <0.25% avoidable blindness by 2025. (Book p223)"
+  },
+  {
+   "id": "OPH-C48-008",
+   "sec": "Blindness causes",
+   "page": 224,
+   "fmt": "match",
+   "q": "For blindness, which cause ranking is shown for age >=50 versus age 0-49?",
+   "opts": [
+    ">=50: amblyopia then refractive error; 0-49: cataract then glaucoma",
+    ">=50: glaucoma then cataract; 0-49: refractive error then trauma",
+    ">=50: cataract then corneal opacity; 0-49: corneal opacity then amblyopia",
+    ">=50: corneal opacity then cataract; 0-49: amblyopia then cataract"
+   ],
+   "ans": 2,
+   "exp": "At >=50, cataract is most common (66.2%) and corneal opacity second (8.2%); at 0-49, corneal opacity is most common (37.5%) and amblyopia second (25%). (Book p224)"
+  },
+  {
+   "id": "OPH-C48-009",
+   "sec": "Visual impairment causes",
+   "page": 224,
+   "fmt": "match",
+   "q": "Which visual-impairment cause ranking is correct for older versus younger age groups?",
+   "opts": [
+    ">=50: refractive errors then cataract; 0-49: cataract then glaucoma",
+    ">=50: cataract then refractive errors; 0-49: refractive errors then cataract",
+    ">=50: corneal opacity then glaucoma; 0-49: amblyopia then cataract",
+    ">=50: cataract then corneal opacity; 0-49: glaucoma then refractive errors"
+   ],
+   "ans": 1,
+   "exp": "For visual impairment, >=50: cataract 71.2% then refractive error 13.4%; age 0-49: refractive error 29.6% then cataract 25%. (Book p224)"
+  },
+  {
+   "id": "OPH-C48-010",
+   "sec": "Vision 2020",
+   "page": 224,
+   "fmt": "numeric",
+   "q": "Vision 2020 launched in Geneva in 1999 and was adopted by India in ___ at Goa.",
+   "opts": [
+    "2001",
+    "1997",
+    "2005",
+    "2010"
+   ],
+   "ans": 0,
+   "exp": "Vision 2020 launched in 1999 in Geneva and India adopted it in 2001 at Goa. (Book p224)"
+  },
+  {
+   "id": "OPH-C48-011",
+   "sec": "Vision 2020",
+   "page": 224,
+   "fmt": "recall",
+   "q": "One stated Vision 2020 aim was to reduce the number of blind people to ___ million by 2020.",
+   "opts": [
+    "5",
+    "10",
+    "25",
+    "50"
+   ],
+   "ans": 2,
+   "exp": "The stated aims were to reduce blind people to 25 million by 2020 and eliminate avoidable blindness. (Book p224)"
+  },
+  {
+   "id": "OPH-C48-012",
+   "sec": "Vision 2020",
+   "page": 224,
+   "fmt": "match",
+   "q": "Which condition appears among India's Vision 2020 priorities but not the listed global five?",
+   "opts": [
+    "Cataract",
+    "Refractive errors",
+    "Endemic trachoma",
+    "Glaucoma"
+   ],
+   "ans": 3,
+   "exp": "India's list includes cataract, refractive errors, childhood blindness, endemic trachoma, glaucoma, diabetic retinopathy and corneal blindness; global list includes the first four and onchocerciasis. (Book p224)"
+  },
+  {
+   "id": "OPH-C48-013",
+   "sec": "Vision 2020 service pyramid",
+   "page": 225,
+   "fmt": "match",
+   "q": "Match Vision 2020 centre tier with approximate number — 1) Apex  2) Centre of excellence  3) Training centre  4) Service centre  5) Vision centre … A) 200  B) 20,000  C) 2  D) 2,000  E) 20",
+   "opts": [
+    "1-E, 2-C, 3-D, 4-A, 5-B",
+    "1-C, 2-A, 3-E, 4-B, 5-D",
+    "1-B, 2-D, 3-A, 4-E, 5-C",
+    "1-C, 2-E, 3-A, 4-D, 5-B"
+   ],
+   "ans": 3,
+   "exp": "The pyramid lists 2 apexes, one per 500 million population. (Book p225)"
+  },
+  {
+   "id": "OPH-C48-014",
+   "sec": "Vision 2020 service pyramid",
+   "page": 225,
+   "fmt": "match",
+   "q": "Professional leadership, CME/research, quality assurance and strategy development are functions of the:",
+   "opts": [
+    "Centre of excellence",
+    "Vision centre",
+    "Service centre",
+    "Apex centre only"
+   ],
+   "ans": 0,
+   "exp": "The centre of excellence is assigned leadership, CME/research, standards/QA and strategy development. (Book p225)"
+  },
+  {
+   "id": "OPH-C48-015",
+   "sec": "Vision 2020 service pyramid",
+   "page": 225,
+   "fmt": "match",
+   "q": "Which tier and service are paired correctly?",
+   "opts": [
+    "Vision centre: retinal surgery and corneal transplantation",
+    "Training centre: tertiary eye care and surgical training at a medical-college ophthalmology department",
+    "Service centre: school screening by a paramedic",
+    "Apex: routine refraction and spectacles"
+   ],
+   "ans": 1,
+   "exp": "Training centres are ophthalmology departments of medical colleges, providing tertiary eye care (retinal, corneal and glaucoma surgery) and training/CME. (Book p225)"
+  },
+  {
+   "id": "OPH-C48-016",
+   "sec": "Vision 2020 service pyramid",
+   "page": 225,
+   "fmt": "match",
+   "q": "A service centre is staffed by an ophthalmologist and provides common eye surgery, refraction and:",
+   "opts": [
+    "Only school screening",
+    "National strategy development",
+    "Referral services",
+    "Retinal gene therapy"
+   ],
+   "ans": 2,
+   "exp": "Service centres provide cataract/other common surgery, refraction and referral services; ratio 1 per 500,000. (Book p225)"
+  },
+  {
+   "id": "OPH-C48-017",
+   "sec": "Vision 2020 service pyramid",
+   "page": 225,
+   "fmt": "recall",
+   "q": "Vision centres provide primary eye care and school screening; the listed provider is a:",
+   "opts": [
+    "Retinal surgeon",
+    "District ophthalmologist only",
+    "Paramedic ophthalmic assistant",
+    "Classroom teacher only"
+   ],
+   "ans": 2,
+   "exp": "Vision centres provide refraction/glasses, primary eye care and screening/referral, performed by a paramedic ophthalmic assistant. (Book p225)"
+  },
+  {
+   "id": "OPH-C48-018",
+   "sec": "School screening",
+   "page": 225,
+   "fmt": "match",
+   "q": "The school eye-screening programme targets children in classes ___, usually aged 10-14 years.",
+   "opts": [
+    "I-II",
+    "V-VIII",
+    "III-IV",
+    "IX-XII"
+   ],
+   "ans": 1,
+   "exp": "The target is classes V-VIII (10-14 years); one teacher screens about 150 students. (Book p225)"
+  },
+  {
+   "id": "OPH-C48-019",
+   "sec": "School screening",
+   "page": 225,
+   "fmt": "management",
+   "q": "A school-screening child has VA <6/9 in either eye. The listed next step is referral to the nearest:",
+   "opts": [
+    "Primary health centre (PHC)",
+    "Apex centre directly",
+    "Optical shop only",
+    "District medical college without assessment"
+   ],
+   "ans": 0,
+   "exp": "Vision screening cards and a measurement tape are used, VA is recorded and a child with VA <6/9 in either eye is referred to the nearest PHC. (Book p225)"
+  },
+  {
+   "id": "OPH-C48-020",
+   "sec": "RBSK",
+   "page": 226,
+   "fmt": "recall",
+   "q": "Rashtriya Bal Swasthya Karyakram (RBSK) operates under the:",
+   "opts": [
+    "National AIDS Control Programme",
+    "National Rural Livelihood Mission",
+    "National Tobacco Control Programme",
+    "National Health Mission"
+   ],
+   "ans": 3,
+   "exp": "RBSK is launched under the National Health Mission and covers screening/early intervention from birth to 18 years. (Book p226)"
+  },
+  {
+   "id": "OPH-C48-021",
+   "sec": "RBSK",
+   "page": 226,
+   "fmt": "match",
+   "q": "The RBSK 4 Ds are defects at birth, diseases, deficiencies and:",
+   "opts": [
+    "Disability certificates",
+    "Dental care",
+    "Drug reactions",
+    "Developmental delays"
+   ],
+   "ans": 3,
+   "exp": "RBSK screens the 4 Ds: defects at birth, diseases, deficiencies and developmental delays. (Book p226)"
+  },
+  {
+   "id": "OPH-C48-022",
+   "sec": "RBSK screened conditions",
+   "page": 226,
+   "fmt": "match",
+   "q": "Which set contains only listed congenital/birth defects screened under RBSK?",
+   "opts": [
+    "Age-related cataract, diabetic retinopathy, glaucoma and trachoma",
+    "Dry eye, pterygium, keratoconus and uveitis",
+    "Congenital cataract, retinopathy of prematurity, neural-tube defect and congenital heart disease",
+    "Myopia, optic neuritis, AMD and retinal detachment"
+   ],
+   "ans": 2,
+   "exp": "Birth defects include neural-tube defect, Down syndrome, cleft lip/palate, talipes, developmental dysplasia of hip, congenital cataract/deafness/heart disease and ROP. (Book p226)"
+  },
+  {
+   "id": "OPH-C48-023",
+   "sec": "RBSK screened conditions",
+   "page": 226,
+   "fmt": "match",
+   "q": "Which list is made up of RBSK deficiency conditions?",
+   "opts": [
+    "Otitis media, dental caries, scabies and convulsions",
+    "Severe anaemia, vitamin A deficiency, vitamin D deficiency, severe acute malnutrition and goitre",
+    "Autism, ADHD, language delay and hearing impairment",
+    "Cleft palate, talipes, ROP and congenital cataract"
+   ],
+   "ans": 1,
+   "exp": "Deficiencies include severe anaemia, vitamin A deficiency (Bitot spot), vitamin D deficiency (rickets), severe acute malnutrition and goitre. (Book p226)"
+  },
+  {
+   "id": "OPH-C48-024",
+   "sec": "RBSK screened conditions",
+   "page": 226,
+   "fmt": "match",
+   "q": "Which collection belongs to the childhood-disease group in RBSK?",
+   "opts": [
+    "Skin conditions, otitis media, rheumatic heart disease, reactive airway disease, dental caries and convulsive disorders",
+    "Cleft lip, Down syndrome, talipes and ROP",
+    "Anaemia, goitre, rickets and Bitot spots",
+    "Autism, ADHD, hearing loss and motor delay"
+   ],
+   "ans": 0,
+   "exp": "The childhood-disease list includes skin conditions (scabies/fungal infection/eczema), otitis media, rheumatic heart disease, reactive airway disease, dental caries and convulsive disorders. (Book p226)"
+  },
+  {
+   "id": "OPH-C48-025",
+   "sec": "RBSK screened conditions",
+   "page": 226,
+   "fmt": "match",
+   "q": "Which is listed under developmental delays, with congenital hypothyroidism/sickle cell/beta thalassemia marked optional?",
+   "opts": [
+    "Vision impairment",
+    "Cleft palate",
+    "Otitis media",
+    "Severe acute malnutrition"
+   ],
+   "ans": 0,
+   "exp": "Developmental delays include vision/hearing impairment, neuromotor/motor/cognitive/language delay, autism, learning disorder and ADHD; congenital hypothyroidism, sickle cell anaemia and beta thalassemia are optional. (Book p226)"
+  },
+  {
+   "id": "OPH-C48-026",
+   "sec": "RBSK screened conditions",
+   "page": 226,
+   "fmt": "truefalse",
+   "q": "Tuberculosis and leprosy appear in the RBSK list but are noted as not specific to children.",
+   "opts": [
+    "False",
+    "Only tuberculosis is listed",
+    "Only leprosy is listed",
+    "True"
+   ],
+   "ans": 3,
+   "exp": "The page brackets tuberculosis and leprosy as conditions not specific to children. (Book p226)"
+  },
+  {
+   "id": "OPH-C48-027",
+   "sec": "RBSK screening",
+   "page": 227,
+   "fmt": "match",
+   "q": "Match the RBSK screening category with age, approximate coverage and provider — newborns; preschool; school children.",
+   "opts": [
+    "Birth-6 weeks / 17 crore / teacher; 6 weeks-6 years / 2 crore / mobile team; 6-18 / 8 crore / ANM",
+    "Birth-6 weeks / 2 crore / mobile team; 6 weeks-6 years / 8 crore / Anganwadi + ANM; 6-18 years / 17 crore / school-district hospital questionnaires",
+    "Birth-6 years / 2 crore / district hospital; 6-18 / 8 crore / mobile team; preschool / 17 crore / teacher",
+    "Birth-6 weeks / 8 crore / ANM; preschool / 17 crore / district hospital; school / 2 crore / mobile team"
+   ],
+   "ans": 1,
+   "exp": "Newborns (birth-6 weeks): 2 crores, mobile health team; preschool (6 weeks-6 years): 8 crores, Anganwadi/ANM; school (6-18): 17 crores, district-hospital-supported school questionnaires. (Book p227)"
+  },
+  {
+   "id": "OPH-C48-028",
+   "sec": "RBSK intervention",
+   "page": 227,
+   "fmt": "match",
+   "q": "For a child aged 0-6 years needing RBSK intervention, referral is through the:",
+   "opts": [
+    "Vision centre only",
+    "Existing public health facility only",
+    "District Early Intervention Center (DEIC) to an appropriate tertiary centre",
+    "School questionnaire team"
+   ],
+   "ans": 2,
+   "exp": "For ages 0-6, intervention is via DEIC with referral to an appropriate tertiary centre; for 6-18 years, use an existing public health facility. (Book p227)"
+  },
+  {
+   "id": "OPH-C48-029",
+   "sec": "RBSK intervention",
+   "page": 227,
+   "fmt": "match",
+   "q": "RBSK intervention for ages 6-18 years is provided through an:",
+   "opts": [
+    "DEIC exclusively",
+    "Mobile team only",
+    "Existing public health facility",
+    "Private tertiary hospital only"
+   ],
+   "ans": 2,
+   "exp": "The listed route is DEIC/tertiary referral for ages 0-6 and existing public health facility for ages 6-18. (Book p227)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U48-1",
+   "ch": 48,
+   "n": 1,
+   "title": "NPCBVI definitions and blindness indicators",
+   "sec": "Miscellaneous · p223",
+   "guide": "NPCB became NPCBVI in 2017. Distinguish clinical blindness from program/WHO definitions and the visual-impairment bands; learn survey prevalence and the avoidable-blindness target.",
+   "qs": [
+    "OPH-C48-001",
+    "OPH-C48-002",
+    "OPH-C48-003",
+    "OPH-C48-004",
+    "OPH-C48-005",
+    "OPH-C48-006",
+    "OPH-C48-007"
+   ]
+  },
+  {
+   "id": "OPH-U48-2",
+   "ch": 48,
+   "n": 2,
+   "title": "Causes of blindness and Vision 2020",
+   "sec": "Miscellaneous · p224",
+   "guide": "Know age-stratified blindness and visual-impairment causes, Vision 2020 dates and aims, and the differing India/global priority-disease lists.",
+   "qs": [
+    "OPH-C48-008",
+    "OPH-C48-009",
+    "OPH-C48-010",
+    "OPH-C48-011",
+    "OPH-C48-012"
+   ]
+  },
+  {
+   "id": "OPH-U48-3",
+   "ch": 48,
+   "n": 3,
+   "title": "Vision 2020 service pyramid and school screening",
+   "sec": "Miscellaneous · p225",
+   "guide": "The Vision 2020 pyramid scales apex, excellence, training, service and vision centres by population served, workforce and services. School screening targets class V-VIII and refers reduced acuity to PHC.",
+   "qs": [
+    "OPH-C48-013",
+    "OPH-C48-014",
+    "OPH-C48-015",
+    "OPH-C48-016",
+    "OPH-C48-017",
+    "OPH-C48-018",
+    "OPH-C48-019"
+   ]
+  },
+  {
+   "id": "OPH-U48-4",
+   "ch": 48,
+   "n": 4,
+   "title": "RBSK: aims, 4 Ds and screened conditions",
+   "sec": "Miscellaneous · p226",
+   "guide": "RBSK under NHM provides screening/early intervention from birth to 18 years. Its 4 Ds organize birth defects, diseases, deficiencies and developmental delays; know the eye-relevant birth-defect and vision-impairment entries among the broader list.",
+   "qs": [
+    "OPH-C48-020",
+    "OPH-C48-021",
+    "OPH-C48-022",
+    "OPH-C48-023",
+    "OPH-C48-024",
+    "OPH-C48-025",
+    "OPH-C48-026"
+   ]
+  },
+  {
+   "id": "OPH-U48-5",
+   "ch": 48,
+   "n": 5,
+   "title": "RBSK screening pathways and intervention",
+   "sec": "Miscellaneous · p227",
+   "guide": "RBSK groups screening by age and setting: newborns, preschool children and school children. Know coverage estimates, responsible screeners and the intervention destination for ages 0-6 versus 6-18.",
+   "qs": [
+    "OPH-C48-027",
+    "OPH-C48-028",
+    "OPH-C48-029"
+   ]
+  }
+ ]
+}

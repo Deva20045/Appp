@@ -1,0 +1,763 @@
+{
+ "chapter": 37,
+ "title": "Retinal Detachment",
+ "pageRange": "169-171",
+ "questions": [
+  {
+   "id": "OPH-C37-001",
+   "sec": "Definition",
+   "page": 169,
+   "fmt": "fillup",
+   "q": "Retinal detachment is the separation of the neurosensory retina from the ___ with collection of subretinal fluid.",
+   "opts": [
+    "Choroid",
+    "Retinal pigment epithelium",
+    "Bruch's membrane",
+    "Internal limiting membrane"
+   ],
+   "ans": 1,
+   "exp": "RD: separation of neurosensory retina from retinal pigment epithelium and collection of subretinal fluid. (Book p169)"
+  },
+  {
+   "id": "OPH-C37-002",
+   "sec": "Investigations",
+   "page": 169,
+   "fmt": "management",
+   "q": "Which investigation is the investigation of choice (IOC) for retinal detachment in the book?",
+   "opts": [
+    "Optical coherence tomography",
+    "B-scan ultrasonography",
+    "Indirect ophthalmoscopy",
+    "Fundus fluorescein angiography"
+   ],
+   "ans": 2,
+   "exp": "Investigations: Indirect ophthalmoscopy: IOC; also OCT and B-scan ultrasonography. (Book p169)"
+  },
+  {
+   "id": "OPH-C37-003",
+   "sec": "Investigations",
+   "page": 169,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT listed among the investigations for retinal detachment?",
+   "opts": [
+    "Fundus fluorescein angiography",
+    "Optical coherence tomography (OCT)",
+    "B-scan ultrasonography",
+    "Indirect ophthalmoscopy"
+   ],
+   "ans": 0,
+   "exp": "Listed investigations: indirect ophthalmoscopy (IOC), OCT and B-scan ultrasonography. (Book p169)"
+  },
+  {
+   "id": "OPH-C37-004",
+   "sec": "Investigations",
+   "page": 169,
+   "fmt": "recall",
+   "q": "In the 'Normal' diagram beside the investigations, the labelled layers from top to bottom are:",
+   "opts": [
+    "RPE, subretinal space, NSR",
+    "NSR, RPE, subretinal space",
+    "Subretinal space, NSR, RPE",
+    "NSR, subretinal space, RPE"
+   ],
+   "ans": 3,
+   "exp": "Normal: NSR / Subretinal space / RPE. In the retinal detachment diagram the space is filled with Fluid between NSR and RPE. (Book p169)"
+  },
+  {
+   "id": "OPH-C37-005",
+   "sec": "Types",
+   "page": 169,
+   "fmt": "recall",
+   "q": "How does the book classify retinal detachment?",
+   "opts": [
+    "Primary RD (tractional), and Secondary RD (rhegmatogenous and exudative)",
+    "Primary/Rhegmatogenous RD, and Secondary RD (tractional and exudative)",
+    "Rhegmatogenous RD, tractional RD, and Secondary RD (exudative only)",
+    "Primary/Rhegmatogenous RD (exudative), and Secondary RD (tractional)"
+   ],
+   "ans": 1,
+   "exp": "Types: RD -> Primary/Rhegmatogenous RD; Secondary RD -> Tractional and Exudative. (Book p169)"
+  },
+  {
+   "id": "OPH-C37-006",
+   "sec": "Pathogenesis",
+   "page": 169,
+   "fmt": "fillup",
+   "q": "The pathogenesis of rhegmatogenous RD begins with ___ (liquefaction of vitreous), followed by posterior vitreous detachment.",
+   "opts": [
+    "Dynamic vitreoretinal traction",
+    "Formation of retinal breaks",
+    "Entry of fluid into the subretinal space",
+    "Syneresis"
+   ],
+   "ans": 3,
+   "exp": "Pathogenesis: Syneresis (liquefaction of vitreous) -> posterior vitreous detachment (PVD). (Book p169)"
+  },
+  {
+   "id": "OPH-C37-007",
+   "sec": "Pathogenesis",
+   "page": 169,
+   "fmt": "recall",
+   "q": "Which sequence follows posterior vitreous detachment in the pathogenesis of RRD?",
+   "opts": [
+    "Dynamic vitreoretinal traction from attached vitreous, retinal breaks develop, fluid enters subretinal space",
+    "Retinal breaks develop, dynamic vitreoretinal traction, fluid enters subretinal space",
+    "Fluid enters subretinal space, retinal breaks develop, dynamic vitreoretinal traction",
+    "Dynamic vitreoretinal traction, fluid enters subretinal space, retinal breaks develop"
+   ],
+   "ans": 0,
+   "exp": "PVD -> dynamic vitreoretinal traction from attached parts of vitreous -> retinal breaks develop -> fluid enters subretinal space. (Book p169)"
+  },
+  {
+   "id": "OPH-C37-008",
+   "sec": "Pathogenesis",
+   "page": 169,
+   "fmt": "recall",
+   "q": "The pathogenesis figure with arrows on the curved retina is labelled with:",
+   "opts": [
+    "Retina, posterior vitreous face, subretinal fluid and vitreoretinal traction",
+    "Retina, detached parts of retina, attached parts of retina and retinal break",
+    "Retina, detached parts of retina, attached parts of retina and vitreoretinal traction",
+    "Neurosensory retina, RPE, attached parts of retina and vitreoretinal traction"
+   ],
+   "ans": 2,
+   "exp": "Figure labels: Retina, Detached parts of retina, Attached parts of retina, Vitreoretinal traction. (Book p169)"
+  },
+  {
+   "id": "OPH-C37-009",
+   "sec": "RRD - causes",
+   "page": 169,
+   "fmt": "recall",
+   "q": "What is the most common cause of rhegmatogenous retinal detachment?",
+   "opts": [
+    "Lattice degeneration of retina",
+    "Pathological myopia",
+    "Cataract surgery (aphakia)",
+    "Blunt trauma"
+   ],
+   "ans": 1,
+   "exp": "Causes: Pathological myopia (m/c), blunt trauma, cataract surgery (aphakia), lattice degeneration of retina. (Book p169)"
+  },
+  {
+   "id": "OPH-C37-010",
+   "sec": "RRD - causes",
+   "page": 169,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed causes of primary/rhegmatogenous RD EXCEPT:",
+   "opts": [
+    "Diabetic retinopathy",
+    "Blunt trauma",
+    "Cataract surgery (aphakia)",
+    "Lattice degeneration of retina"
+   ],
+   "ans": 0,
+   "exp": "RRD causes: pathological myopia, blunt trauma, cataract surgery (aphakia), lattice degeneration. Diabetic retinopathy is the m/c cause of tractional RD (p171). (Book p169)"
+  },
+  {
+   "id": "OPH-C37-011",
+   "sec": "RRD - symptoms",
+   "page": 169,
+   "fmt": "fillup",
+   "q": "The book explains the 'flashes of light' of RRD (written as photophobia) by stretching of ___, which sends ectopic neural impulses to the brain.",
+   "opts": [
+    "Vitreal opacities",
+    "Retinal pigment epithelial cells",
+    "Nerve fibers",
+    "Subretinal fluid layers"
+   ],
+   "ans": 2,
+   "exp": "Photophobia: Flashes of light (Stretching of nerve fibers -> Ectopic neural impulses to brain). (Book p169)"
+  },
+  {
+   "id": "OPH-C37-012",
+   "sec": "RRD - symptoms",
+   "page": 169,
+   "fmt": "recall",
+   "q": "In RRD, small black flying dots (floaters) are due to:",
+   "opts": [
+    "Stretching of nerve fibers",
+    "Membrane formation and scarring",
+    "Shifting subretinal fluid",
+    "Vitreal opacities"
+   ],
+   "ans": 3,
+   "exp": "Floaters: Small black flying dots (d/t vitreal opacities). (Book p169)"
+  },
+  {
+   "id": "OPH-C37-013",
+   "sec": "RRD - symptoms",
+   "page": 169,
+   "fmt": "scenario",
+   "q": "A patient reports floaters and flashes, then a curtain falling in front of the eye with sudden, painless loss of vision. Which diagnosis fits the book's symptom list?",
+   "opts": [
+    "Primary/rhegmatogenous retinal detachment",
+    "Tractional retinal detachment",
+    "Coats' disease",
+    "Eales' disease"
+   ],
+   "ans": 0,
+   "exp": "RRD symptoms: flashes of light, floaters, curtain falling in front of eye, loss of vision sudden & painless. (Book p169)"
+  },
+  {
+   "id": "OPH-C37-014",
+   "sec": "RRD - signs",
+   "page": 170,
+   "fmt": "recall",
+   "q": "How is the detached retina described in RRD?",
+   "opts": [
+    "Gray/opaque and concave shaped",
+    "Gray/opaque and convex shaped",
+    "Red and convex shaped",
+    "Pale and flat with cherry red spot"
+   ],
+   "ans": 1,
+   "exp": "Signs: Detached retina: Gray/opaque, convex shaped. (Concave shape belongs to tractional RD, p171.) (Book p170)"
+  },
+  {
+   "id": "OPH-C37-015",
+   "sec": "RRD - signs",
+   "page": 170,
+   "fmt": "fillup",
+   "q": "In RRD the extent of the detachment goes up to the ___.",
+   "opts": [
+    "Optic disc",
+    "Macula",
+    "Equator",
+    "Ora serrata"
+   ],
+   "ans": 3,
+   "exp": "Signs: Extent of RD till ora serrata. (Book p170)"
+  },
+  {
+   "id": "OPH-C37-016",
+   "sec": "RRD - signs",
+   "page": 170,
+   "fmt": "scenario",
+   "q": "Slit-lamp examination of the anterior vitreous shows a tobacco-dust appearance in a patient with RD. Which sign is this?",
+   "opts": [
+    "Salus sign",
+    "Gunn sign",
+    "Shafer's sign",
+    "Marcus Gunn sign"
+   ],
+   "ans": 2,
+   "exp": "Signs 3: Shafer's sign - tobacco-dust appearance. (Book p170)"
+  },
+  {
+   "id": "OPH-C37-017",
+   "sec": "RRD - signs",
+   "page": 170,
+   "fmt": "fillup",
+   "q": "Shafer's sign is due to deposition of brown pigmented cells at the ___ surface of the vitreous.",
+   "opts": [
+    "Posterior",
+    "Anterior",
+    "Lateral",
+    "Basal retinal"
+   ],
+   "ans": 1,
+   "exp": "Shafer's sign: d/t deposition of brown pigmented cells at the anterior surface of vitreous. (Book p170)"
+  },
+  {
+   "id": "OPH-C37-018",
+   "sec": "RRD - signs",
+   "page": 170,
+   "fmt": "recall",
+   "q": "The eye diagram drawn beside the signs list is labelled with:",
+   "opts": [
+    "RD and Lincoff rules",
+    "RD and high water marks",
+    "RD and Shafer's sign",
+    "Shafer's sign and intraretinal cysts"
+   ],
+   "ans": 2,
+   "exp": "The eye diagram's labels: RD and Shafer's sign. (Book p170)"
+  },
+  {
+   "id": "OPH-C37-019",
+   "sec": "RRD - signs",
+   "page": 170,
+   "fmt": "recall",
+   "q": "Under the photograph captioned 'U shaped retinal tear', the book gives which m/c location?",
+   "opts": [
+    "Superotemporal quadrant",
+    "Inferonasal quadrant",
+    "Superonasal quadrant",
+    "Inferotemporal quadrant"
+   ],
+   "ans": 0,
+   "exp": "U shaped retinal tear - m/c location: Superotemporal quadrant. (The photograph before it is captioned RD.) (Book p170)"
+  },
+  {
+   "id": "OPH-C37-020",
+   "sec": "RRD - signs",
+   "page": 170,
+   "fmt": "scenario",
+   "q": "An OCT scan captioned 'Longstanding RRD' is annotated with which features?",
+   "opts": [
+    "RD, subretinal fluid and Shafer's sign",
+    "RD, high water marks and intraretinal cysts",
+    "Retinal breaks, subretinal fluid and RPE",
+    "RD, subretinal fluid and intraretinal cysts"
+   ],
+   "ans": 3,
+   "exp": "OCT of longstanding RRD labels: RD, Subretinal fluid, Intraretinal cysts. (Book p170)"
+  },
+  {
+   "id": "OPH-C37-021",
+   "sec": "RRD - signs",
+   "page": 170,
+   "fmt": "recall",
+   "q": "What are Lincoff rules used for?",
+   "opts": [
+    "To decide the duration of silicone oil tamponade",
+    "To grade proliferative vitreo-retinopathy",
+    "To time prophylactic laser photocoagulation",
+    "To locate breaks in the retina"
+   ],
+   "ans": 3,
+   "exp": "Lincoff rules: Rules to locate breaks in retina (repeated in the note at the end of the page). (Book p170)"
+  },
+  {
+   "id": "OPH-C37-022",
+   "sec": "RRD - signs",
+   "page": 170,
+   "fmt": "fillup",
+   "q": "Sign 4 of RRD in the book is ___ (relative afferent pupillary defect).",
+   "opts": [
+    "RAPD",
+    "Argyll Robertson pupil",
+    "Adie's pupil",
+    "Relative efferent pupillary defect"
+   ],
+   "ans": 0,
+   "exp": "Signs 4: RAPD (Relative afferent pupillary defect). (Book p170)"
+  },
+  {
+   "id": "OPH-C37-023",
+   "sec": "RRD - chronic RD",
+   "page": 170,
+   "fmt": "fillup",
+   "q": "In chronic RD, subretinal demarcation lines known as 'high water marks' (and retinal atrophy) appear after more than ___.",
+   "opts": [
+    "1 month",
+    "3 months",
+    "6 months",
+    "1 year"
+   ],
+   "ans": 1,
+   "exp": "In chronic RD: retinal atrophy; subretinal demarcation lines K/a high water marks (> 3 months). (Book p170)"
+  },
+  {
+   "id": "OPH-C37-024",
+   "sec": "RRD - chronic RD",
+   "page": 170,
+   "fmt": "numeric",
+   "q": "Intraretinal cysts appear in chronic RD after more than:",
+   "opts": [
+    "3 months",
+    "6 weeks",
+    "1 year",
+    "5 years"
+   ],
+   "ans": 2,
+   "exp": "Intraretinal cysts (> 1 year). (Book p170)"
+  },
+  {
+   "id": "OPH-C37-025",
+   "sec": "RRD - management",
+   "page": 170,
+   "fmt": "management",
+   "q": "What prophylaxis does the book give for retinal breaks?",
+   "opts": [
+    "Laser photocoagulation to seal the breaks (usually superotemporal quadrant)",
+    "Pneumatic retinopexy with SF6 in the inferior quadrant",
+    "Scleral buckling with silicone oil",
+    "Vitrectomy with subretinal fluid drainage"
+   ],
+   "ans": 0,
+   "exp": "Prophylaxis: Laser photocoagulation to seal breaks (usually superotemporal quadrant). (Book p170)"
+  },
+  {
+   "id": "OPH-C37-026",
+   "sec": "RRD - management",
+   "page": 170,
+   "fmt": "management",
+   "q": "In the treatment flowchart, a mobile retina is managed by:",
+   "opts": [
+    "Vitrectomy plus subretinal fluid drainage",
+    "Laser photocoagulation alone",
+    "Tamponade, either internal or external",
+    "Treating the underlying cause only"
+   ],
+   "ans": 2,
+   "exp": "Treatment: mobile retina -> Tamponade -> Internal / External. Immobile retina -> vitrectomy + subretinal fluid drainage. (Book p170)"
+  },
+  {
+   "id": "OPH-C37-027",
+   "sec": "RRD - management",
+   "page": 170,
+   "fmt": "fillup",
+   "q": "Pneumatic retinopexy uses ___ gas.",
+   "opts": [
+    "SF6 or CO2",
+    "C3F8 or silicone oil",
+    "Carbogen (95% O2 + 5% CO2)",
+    "SF6 or C3F8 (propane)"
+   ],
+   "ans": 3,
+   "exp": "Internal tamponade 1. Pneumatic retinopexy: uses SF6 or C3F8 (Propane). (Book p170)"
+  },
+  {
+   "id": "OPH-C37-028",
+   "sec": "RRD - management",
+   "page": 170,
+   "fmt": "management",
+   "q": "Pneumatic retinopexy is done for breaks in which location?",
+   "opts": [
+    "Inferior breaks",
+    "Superior breaks",
+    "Macular breaks only",
+    "Breaks at the ora serrata only"
+   ],
+   "ans": 1,
+   "exp": "Pneumatic retinopexy: Done in superior breaks. (Book p170)"
+  },
+  {
+   "id": "OPH-C37-029",
+   "sec": "RRD - management",
+   "page": 170,
+   "fmt": "recall",
+   "q": "Silicone oil tamponade is injected into the ___ and removed after ___.",
+   "opts": [
+    "Vitreous cavity ; 8-12 weeks",
+    "Subretinal space ; 8-12 weeks",
+    "Vitreous cavity ; 3 months",
+    "Anterior chamber ; 1 year"
+   ],
+   "ans": 0,
+   "exp": "Silicone oil: injected into vitreous cavity; removed after 8-12 weeks. (Book p170)"
+  },
+  {
+   "id": "OPH-C37-030",
+   "sec": "RRD - management",
+   "page": 170,
+   "fmt": "scenario",
+   "q": "After silicone oil tamponade, oil leaks into the anterior chamber and collects superiorly, forming an inverse hypopyon. What is this complication called?",
+   "opts": [
+    "Shafer's sign",
+    "Hypopyon uveitis",
+    "Hyperoleon",
+    "Proliferative vitreo-retinopathy"
+   ],
+   "ans": 2,
+   "exp": "Silicone oil complication: Hyperoleon -> oil leaks into anterior chamber and collects superiorly (inverse hypopyon). (Book p170)"
+  },
+  {
+   "id": "OPH-C37-031",
+   "sec": "RRD - management",
+   "page": 170,
+   "fmt": "fillup",
+   "q": "In scleral buckling, the scleral weight pushes the ___ anteriorly.",
+   "opts": [
+    "Neurosensory retina",
+    "RPE",
+    "Vitreous base",
+    "Silicone oil bubble"
+   ],
+   "ans": 1,
+   "exp": "External tamponade: Scleral buckling (Scleral weight pushes RPE anteriorly). (Book p170)"
+  },
+  {
+   "id": "OPH-C37-032",
+   "sec": "RRD - management",
+   "page": 170,
+   "fmt": "scenario",
+   "q": "An RD has an immobile retina due to proliferative vitreo-retinopathy, which causes membrane formation and scarring. Which treatment does the flowchart give?",
+   "opts": [
+    "Pneumatic retinopexy",
+    "Scleral buckling alone",
+    "Laser photocoagulation to seal breaks",
+    "Vitrectomy plus subretinal fluid drainage"
+   ],
+   "ans": 3,
+   "exp": "Immobile retina: in proliferative vitreo-retinopathy (causes membrane formation & scarring) -> Vitrectomy + subretinal fluid drainage. (Book p170)"
+  },
+  {
+   "id": "OPH-C37-033",
+   "sec": "Secondary RD - pathology",
+   "page": 171,
+   "fmt": "match",
+   "q": "Match the secondary RD with its pathology — 1) Tractional RD  2) Exudative RD  … A) Exudation into subretinal space  B) Static vitreoretinal traction  C) Dynamic vitreoretinal traction",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-C, 2-A",
+    "1-B, 2-C"
+   ],
+   "ans": 0,
+   "exp": "Pathology: tractional RD - static vitreoretinal traction; exudative RD - exudation into subretinal space. (RRD has dynamic traction, p169.) (Book p171)"
+  },
+  {
+   "id": "OPH-C37-034",
+   "sec": "Tractional RD",
+   "page": 171,
+   "fmt": "recall",
+   "q": "What is the most common cause of tractional retinal detachment?",
+   "opts": [
+    "Retinopathy of prematurity",
+    "Penetrating trauma",
+    "Sickle cell retinopathy",
+    "Diabetic retinopathy"
+   ],
+   "ans": 3,
+   "exp": "Tractional RD etiology: Diabetic retinopathy (m/c), ROP, penetrating trauma, sickle cell retinopathy. (Book p171)"
+  },
+  {
+   "id": "OPH-C37-035",
+   "sec": "Tractional RD",
+   "page": 171,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT listed as an etiology of tractional RD?",
+   "opts": [
+    "Retinopathy of prematurity",
+    "VKH syndrome",
+    "Penetrating trauma",
+    "Sickle cell retinopathy"
+   ],
+   "ans": 1,
+   "exp": "Tractional RD: DR (m/c), ROP, penetrating trauma, sickle cell retinopathy. VKH syndrome is listed under exudative RD. (Book p171)"
+  },
+  {
+   "id": "OPH-C37-036",
+   "sec": "Tractional RD",
+   "page": 171,
+   "fmt": "scenario",
+   "q": "A tractional RD cause shows Roth spots, described as hemorrhage with clear centre. Which cause is this?",
+   "opts": [
+    "Diabetic retinopathy",
+    "Retinopathy of prematurity",
+    "Sickle cell retinopathy",
+    "Penetrating trauma"
+   ],
+   "ans": 2,
+   "exp": "Sickle cell retinopathy (Roth spots (+): Hemorrhage with clear centre). (Book p171)"
+  },
+  {
+   "id": "OPH-C37-037",
+   "sec": "Exudative RD",
+   "page": 171,
+   "fmt": "recall",
+   "q": "What is the most common cause of exudative RD?",
+   "opts": [
+    "Toxemia of pregnancy",
+    "Central serous retinopathy",
+    "Choroidal melanoma",
+    "Diabetic retinopathy"
+   ],
+   "ans": 2,
+   "exp": "Exudative RD etiology: Choroidal melanoma (m/c). (Book p171)"
+  },
+  {
+   "id": "OPH-C37-038",
+   "sec": "Exudative RD",
+   "page": 171,
+   "fmt": "scenario",
+   "q": "A woman with toxemia of pregnancy develops a retinal detachment. Which type of secondary RD does the book list it under?",
+   "opts": [
+    "Tractional RD",
+    "Primary/rhegmatogenous RD",
+    "Chronic RD with high water marks",
+    "Exudative RD"
+   ],
+   "ans": 3,
+   "exp": "Exudative RD etiology: choroidal melanoma (m/c), toxemia of pregnancy, Coat's disease, VKH syndrome, central serous retinopathy. (Book p171)"
+  },
+  {
+   "id": "OPH-C37-039",
+   "sec": "Exudative RD",
+   "page": 171,
+   "fmt": "oddoneout",
+   "q": "Which is NOT listed as an etiology of exudative RD?",
+   "opts": [
+    "Retinopathy of prematurity",
+    "Coat's disease (idiopathic retinal telengiectasia)",
+    "VKH syndrome",
+    "Central serous retinopathy"
+   ],
+   "ans": 0,
+   "exp": "Exudative RD: choroidal melanoma, toxemia of pregnancy, Coat's disease, VKH syndrome, central serous retinopathy. ROP is a tractional RD cause. (Book p171)"
+  },
+  {
+   "id": "OPH-C37-040",
+   "sec": "Tractional RD",
+   "page": 171,
+   "fmt": "scenario",
+   "q": "A patient has gradual, painless loss of vision and the detachment is concave in shape. Which secondary RD is this?",
+   "opts": [
+    "Exudative RD",
+    "Tractional RD",
+    "Primary/rhegmatogenous RD",
+    "Retinopathy of prematurity stage 5"
+   ],
+   "ans": 1,
+   "exp": "Tractional RD clinical features: loss of vision gradual & painless; shape of RD concave. (Book p171)"
+  },
+  {
+   "id": "OPH-C37-041",
+   "sec": "Tractional RD",
+   "page": 171,
+   "fmt": "truefalse",
+   "q": "True or false — 'Tractional RD is characterised by photopsia, floaters and extension of RD up to the ora serrata.' Choose the correct verdict:",
+   "opts": [
+    "True - all three features are present in tractional RD",
+    "False - the bracket marks all three as absent (-) in tractional RD",
+    "False - only photopsia is absent, floaters and ora serrata extension are present",
+    "True - they are present in tractional RD but absent in exudative RD"
+   ],
+   "ans": 1,
+   "exp": "For tractional RD, photopsia, floaters and extension of RD till ora serrata are grouped by a bracket with (-). (Book p171)"
+  },
+  {
+   "id": "OPH-C37-042",
+   "sec": "Exudative RD",
+   "page": 171,
+   "fmt": "recall",
+   "q": "Which pair gives the loss of vision and shape of RD in exudative RD?",
+   "opts": [
+    "Sudden, painless ; convex",
+    "Gradual, painless ; concave",
+    "Sudden, painless ; concave",
+    "Gradual, painless ; convex"
+   ],
+   "ans": 0,
+   "exp": "Exudative RD: loss of vision sudden, painless; shape of RD convex. (Book p171)"
+  },
+  {
+   "id": "OPH-C37-043",
+   "sec": "Exudative RD",
+   "page": 171,
+   "fmt": "scenario",
+   "q": "In a patient with exudative RD, the subretinal fluid moves when the head position is changed. What does the book call this feature?",
+   "opts": [
+    "Shafer's sign",
+    "High water marks",
+    "Hyperoleon",
+    "The hallmark feature: shifting fluid"
+   ],
+   "ans": 3,
+   "exp": "Exudative RD hallmark features: Shifting fluid (with shifting head position). (Book p171)"
+  },
+  {
+   "id": "OPH-C37-044",
+   "sec": "Secondary RD - treatment",
+   "page": 171,
+   "fmt": "management",
+   "q": "What is the treatment of secondary (tractional or exudative) RD in the table?",
+   "opts": [
+    "Pneumatic retinopexy",
+    "Scleral buckling",
+    "Treat the cause",
+    "Silicone oil injection"
+   ],
+   "ans": 2,
+   "exp": "Treatment (spanning both columns): Treat the cause. (Book p171)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U37-1",
+   "ch": 37,
+   "n": 1,
+   "title": "Retinal detachment: definition, investigations, types and pathogenesis",
+   "sec": "Retina · p169",
+   "guide": "RD definition neurosensory retina RPE subretinal fluid; indirect ophthalmoscopy IOC OCT B-scan; figure normal vs RD; primary rhegmatogenous vs secondary tractional exudative; pathogenesis syneresis PVD vitreoretinal traction retinal breaks.",
+   "qs": [
+    "OPH-C37-001",
+    "OPH-C37-002",
+    "OPH-C37-003",
+    "OPH-C37-004",
+    "OPH-C37-005",
+    "OPH-C37-006",
+    "OPH-C37-007",
+    "OPH-C37-008"
+   ]
+  },
+  {
+   "id": "OPH-U37-2",
+   "ch": 37,
+   "n": 2,
+   "title": "RRD: causes and symptoms",
+   "sec": "Retina · p169",
+   "guide": "RRD causes pathological myopia m/c blunt trauma cataract surgery aphakia lattice degeneration; symptoms flashes of light floaters curtain sudden painless loss.",
+   "qs": [
+    "OPH-C37-009",
+    "OPH-C37-010",
+    "OPH-C37-011",
+    "OPH-C37-012",
+    "OPH-C37-013"
+   ]
+  },
+  {
+   "id": "OPH-U37-3",
+   "ch": 37,
+   "n": 3,
+   "title": "RRD: signs",
+   "sec": "Retina · p170",
+   "guide": "RRD signs gray opaque convex detached retina extent to ora serrata Shafer's sign tobacco-dust; U shaped tear superotemporal; OCT labels; Lincoff rules; RAPD; chronic RD retinal atrophy high water marks intraretinal cysts.",
+   "qs": [
+    "OPH-C37-014",
+    "OPH-C37-015",
+    "OPH-C37-016",
+    "OPH-C37-017",
+    "OPH-C37-018",
+    "OPH-C37-019",
+    "OPH-C37-020",
+    "OPH-C37-021",
+    "OPH-C37-022",
+    "OPH-C37-023",
+    "OPH-C37-024"
+   ]
+  },
+  {
+   "id": "OPH-U37-4",
+   "ch": 37,
+   "n": 4,
+   "title": "RRD: prophylaxis and treatment",
+   "sec": "Retina · p170",
+   "guide": "RRD prophylaxis laser to seal breaks; mobile retina tamponade internal external; pneumatic retinopexy SF6 C3F8 superior breaks; silicone oil 8-12 weeks hyperoleon inverse hypopyon; scleral buckling; immobile retina PVR vitrectomy subretinal fluid drainage.",
+   "qs": [
+    "OPH-C37-025",
+    "OPH-C37-026",
+    "OPH-C37-027",
+    "OPH-C37-028",
+    "OPH-C37-029",
+    "OPH-C37-030",
+    "OPH-C37-031",
+    "OPH-C37-032"
+   ]
+  },
+  {
+   "id": "OPH-U37-5",
+   "ch": 37,
+   "n": 5,
+   "title": "Secondary retinal detachment: tractional vs exudative",
+   "sec": "Retina · p171",
+   "guide": "Tractional RD static vitreoretinal traction diabetic retinopathy m/c ROP penetrating trauma sickle cell Roth spots concave gradual; exudative RD subretinal exudation choroidal melanoma m/c toxemia Coat's VKH CSR sudden convex shifting fluid; treat the cause.",
+   "qs": [
+    "OPH-C37-033",
+    "OPH-C37-034",
+    "OPH-C37-035",
+    "OPH-C37-036",
+    "OPH-C37-037",
+    "OPH-C37-038",
+    "OPH-C37-039",
+    "OPH-C37-040",
+    "OPH-C37-041",
+    "OPH-C37-042",
+    "OPH-C37-043",
+    "OPH-C37-044"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,683 @@
+{
+ "chapter": 38,
+ "title": "Special Investigations for Cornea",
+ "pageRange": "172-174",
+ "questions": [
+  {
+   "id": "OPH-C38-001",
+   "sec": "Keratometry",
+   "page": 172,
+   "fmt": "fillup",
+   "q": "The principle of keratometry is that the anterior surface of the cornea acts as a ___.",
+   "opts": [
+    "Concave mirror",
+    "Plane mirror",
+    "Converging lens",
+    "Convex mirror"
+   ],
+   "ans": 3,
+   "exp": "Keratometry principle: anterior surface of cornea acts as a convex mirror. (Book p172)"
+  },
+  {
+   "id": "OPH-C38-002",
+   "sec": "Keratometry",
+   "page": 172,
+   "fmt": "recall",
+   "q": "In keratometry, the size of the image is ___ the curvature, and the image is seen as ___.",
+   "opts": [
+    "Directly proportional to ; keratometric mires",
+    "Inversely proportional to ; keratometric mires",
+    "Inversely proportional to ; placido rings",
+    "Directly proportional to ; placido rings"
+   ],
+   "ans": 1,
+   "exp": "Size of image is proportional to 1/curvature; image seen as keratometric mires. (Book p172)"
+  },
+  {
+   "id": "OPH-C38-003",
+   "sec": "Keratometry",
+   "page": 172,
+   "fmt": "recall",
+   "q": "The two photographs at the top right of the keratometry page are captioned:",
+   "opts": [
+    "Keratometer and Reflection of placido disc",
+    "Pachymetry and Keratometric mires",
+    "Keratometer and Keratometric mires",
+    "Keratometric mires and Good fit of lens"
+   ],
+   "ans": 2,
+   "exp": "Photograph captions: Keratometer; Keratometric mires. (Book p172)"
+  },
+  {
+   "id": "OPH-C38-004",
+   "sec": "Keratometry",
+   "page": 172,
+   "fmt": "recall",
+   "q": "In the diagram of correct positioning of mires, the mires must show which appearance?",
+   "opts": [
+    "A single, overlapped plus sign and a single, overlapped minus sign",
+    "Two separate plus signs and a single minus sign",
+    "A single plus sign with two separate minus signs",
+    "Two separate plus signs and two separate minus signs"
+   ],
+   "ans": 0,
+   "exp": "Correct positioning of mires: single, overlapped minus sign and single, overlapped plus sign. (Book p172)"
+  },
+  {
+   "id": "OPH-C38-005",
+   "sec": "Keratometry - uses",
+   "page": 172,
+   "fmt": "management",
+   "q": "Which corneal parameter is measured by keratometry, as the first use listed?",
+   "opts": [
+    "Corneal curvature",
+    "Corneal thickness",
+    "Corneal sensation",
+    "Topographic elevation of the posterior surface"
+   ],
+   "ans": 0,
+   "exp": "Uses of keratometry: 1. Measure corneal curvature. (Book p172)"
+  },
+  {
+   "id": "OPH-C38-006",
+   "sec": "Keratometry - uses",
+   "page": 172,
+   "fmt": "match",
+   "q": "Match the keratometric mire shape with the astigmatism it diagnoses — 1) Horizontally oval mires  2) Vertically oval mires  … A) Against the rule astigmatism  B) With the rule astigmatism",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A"
+   ],
+   "ans": 2,
+   "exp": "Horizontally oval mires: with the rule astigmatism. Vertically oval mires: against the rule astigmatism. (Book p172)"
+  },
+  {
+   "id": "OPH-C38-007",
+   "sec": "Keratometry - uses",
+   "page": 172,
+   "fmt": "management",
+   "q": "For which purpose, other than measuring curvature and diagnosing astigmatism, is a keratometer used per the book?",
+   "opts": [
+    "To measure corneal thickness",
+    "To examine corneal sensations",
+    "To visualise an ulcer against healthy tissue",
+    "To ascertain proper fitting of contact lens"
+   ],
+   "ans": 3,
+   "exp": "Uses 3: To ascertain proper fitting of contact lens. (Book p172)"
+  },
+  {
+   "id": "OPH-C38-008",
+   "sec": "Keratometry - uses",
+   "page": 172,
+   "fmt": "scenario",
+   "q": "On keratometry the mires appear pulsating. Which corneal disorder does the book say this diagnoses?",
+   "opts": [
+    "With the rule astigmatism",
+    "Keratoconus",
+    "Against the rule astigmatism",
+    "Steep fit of a contact lens"
+   ],
+   "ans": 1,
+   "exp": "Uses 4: To diagnose keratoconus (pulsating mires seen). (Book p172)"
+  },
+  {
+   "id": "OPH-C38-009",
+   "sec": "Keratometry - uses",
+   "page": 172,
+   "fmt": "recall",
+   "q": "In the pair of mire pictures, the one with a distorted, wavy mire circle is captioned:",
+   "opts": [
+    "Good fit of lens",
+    "Steep fit of lens",
+    "Keratometric mires",
+    "Reflection of placido disc: Normal"
+   ],
+   "ans": 1,
+   "exp": "The two mire pictures are captioned Good fit of lens (regular circle) and Steep fit of lens (wavy circle). (Book p172)"
+  },
+  {
+   "id": "OPH-C38-010",
+   "sec": "Pachymetry",
+   "page": 172,
+   "fmt": "fillup",
+   "q": "Pachymetry measures corneal ___.",
+   "opts": [
+    "Curvature",
+    "Sensation",
+    "Thickness",
+    "Surface elevation"
+   ],
+   "ans": 2,
+   "exp": "Pachymetry: measures corneal thickness. (Book p172)"
+  },
+  {
+   "id": "OPH-C38-011",
+   "sec": "Pachymetry",
+   "page": 172,
+   "fmt": "numeric",
+   "q": "The normal corneal thickness (CT) in the book is:",
+   "opts": [
+    "0.5 to 0.6 mm (0.54 mm or 540 micron)",
+    "0.4 to 0.45 mm (0.42 mm or 420 micron)",
+    "0.7 to 0.8 mm (0.75 mm or 750 micron)",
+    "0.3 to 0.4 mm (0.35 mm or 350 micron)"
+   ],
+   "ans": 0,
+   "exp": "Normal Corneal Thickness (CT): 0.5 to 0.6 mm (0.54 mm) or 540 micron. (Book p172)"
+  },
+  {
+   "id": "OPH-C38-012",
+   "sec": "Pachymetry",
+   "page": 172,
+   "fmt": "truefalse",
+   "q": "True or false — 'Corneal thickness is highest at the periphery and reduces towards the centre.' Choose the correct verdict:",
+   "opts": [
+    "True - CT is highest at the periphery",
+    "False - CT is uniform across the cornea",
+    "True - CT is lowest in the centre and highest at the limbus",
+    "False - CT is highest in the centre and reduces towards the periphery"
+   ],
+   "ans": 3,
+   "exp": "CT is highest in the centre -> reduces towards periphery. (Book p172)"
+  },
+  {
+   "id": "OPH-C38-013",
+   "sec": "Pachymetry",
+   "page": 172,
+   "fmt": "scenario",
+   "q": "A patient is being assessed for eligibility for LASIK, and the surgeon needs to know the corneal thickness. Which investigation does the book list for this use?",
+   "opts": [
+    "Keratometry",
+    "Pentacam elevation map alone",
+    "Pachymetry",
+    "Corneal aesthesiometer"
+   ],
+   "ans": 2,
+   "exp": "Pachymetry uses: 1. Eligibility for LASIK. (Book p172)"
+  },
+  {
+   "id": "OPH-C38-014",
+   "sec": "Pachymetry",
+   "page": 173,
+   "fmt": "numeric",
+   "q": "LASIK is contraindicated if the corneal thickness is less than:",
+   "opts": [
+    "540 micron",
+    "350 micron",
+    "600 micron",
+    "450 micron"
+   ],
+   "ans": 3,
+   "exp": "Eligibility for LASIK: c/i if CT < 450 micron. (Book p173)"
+  },
+  {
+   "id": "OPH-C38-015",
+   "sec": "Pachymetry",
+   "page": 173,
+   "fmt": "numeric",
+   "q": "For IOP measurement, 1 mm Hg of IOP corresponds to how much corneal thickness?",
+   "opts": [
+    "1 micron",
+    "10 micron",
+    "100 micron",
+    "50 micron"
+   ],
+   "ans": 1,
+   "exp": "IOP measurement: 1 mm Hg IOP = 10 micron of CT. (Book p173)"
+  },
+  {
+   "id": "OPH-C38-016",
+   "sec": "Pachymetry",
+   "page": 173,
+   "fmt": "match",
+   "q": "Match the corneal thickness change with its effect on the measured IOP — 1) CT increased  2) CT decreased  … A) False low IOP  B) False high IOP",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-A, 2-A"
+   ],
+   "ans": 0,
+   "exp": "CT up -> false high IOP; CT down -> false low IOP. (Book p173)"
+  },
+  {
+   "id": "OPH-C38-017",
+   "sec": "Pachymetry",
+   "page": 173,
+   "fmt": "recall",
+   "q": "The colour-coded corneal thickness map and section at the top right of p173 is captioned:",
+   "opts": [
+    "Pachymetry",
+    "Corneal topography",
+    "Keratometric mires",
+    "Reflection of placido disc: Normal"
+   ],
+   "ans": 0,
+   "exp": "Figure caption: Pachymetry. (Book p173)"
+  },
+  {
+   "id": "OPH-C38-018",
+   "sec": "Corneal topography",
+   "page": 173,
+   "fmt": "fillup",
+   "q": "Corneal topography is the examination of the corneal ___.",
+   "opts": [
+    "Thickness",
+    "Sensations",
+    "Endothelial layer",
+    "Surface"
+   ],
+   "ans": 3,
+   "exp": "Corneal topography: Examination of corneal surface. (Book p173)"
+  },
+  {
+   "id": "OPH-C38-019",
+   "sec": "Corneal topography",
+   "page": 173,
+   "fmt": "recall",
+   "q": "The placido disc figure is labelled with which structures?",
+   "opts": [
+    "Viewing aperture with lens, keratometric mires and handle",
+    "Slit beam, reflection rings and handle",
+    "Viewing aperture with lens, reflection rings and handle",
+    "Viewing aperture with lens, reflection rings and filament"
+   ],
+   "ans": 2,
+   "exp": "Placido disc labels: viewing apperture with lens, reflection rings, handle. (Book p173)"
+  },
+  {
+   "id": "OPH-C38-020",
+   "sec": "Corneal topography",
+   "page": 173,
+   "fmt": "recall",
+   "q": "In the figure 'Reflection of placido disc: Normal', the reflection on the cornea appears as:",
+   "opts": [
+    "Horizontally oval rings",
+    "Regular concentric rings",
+    "Vertically oval rings",
+    "Pulsating rings"
+   ],
+   "ans": 1,
+   "exp": "The normal reflection of the placido disc shows regular concentric rings. (Book p173)"
+  },
+  {
+   "id": "OPH-C38-021",
+   "sec": "Corneal topography",
+   "page": 173,
+   "fmt": "fillup",
+   "q": "Orbscan uses the ___ imaging principle.",
+   "opts": [
+    "Placido reflection",
+    "Slit scan",
+    "Confocal",
+    "Fluorescein staining"
+   ],
+   "ans": 1,
+   "exp": "Method 2: Orbscan: Uses slit scan imaging principle. (Book p173)"
+  },
+  {
+   "id": "OPH-C38-022",
+   "sec": "Corneal topography",
+   "page": 173,
+   "fmt": "oddoneout",
+   "q": "Pentacam measures all of the following EXCEPT:",
+   "opts": [
+    "Corneal sensations",
+    "Corneal thickness (CT)",
+    "Corneal curvature",
+    "Anterior segment imaging"
+   ],
+   "ans": 0,
+   "exp": "Pentacam measures CT, corneal curvature, anterior segment imaging and topographic elevation maps of both surfaces. Corneal sensations are examined by the corneal aesthesiometer (p174). (Book p173)"
+  },
+  {
+   "id": "OPH-C38-023",
+   "sec": "Corneal topography",
+   "page": 173,
+   "fmt": "recall",
+   "q": "Pentacam produces topographic elevation maps of which corneal surfaces?",
+   "opts": [
+    "Anterior surface only",
+    "Posterior surface only",
+    "Both the anterior and the posterior surface",
+    "Anterior surface and limbal vessels"
+   ],
+   "ans": 2,
+   "exp": "Pentacam: d. topographic elevation maps of anterior surface; e. topographic elevation maps of posterior surface. (Book p173)"
+  },
+  {
+   "id": "OPH-C38-024",
+   "sec": "Vital staining",
+   "page": 173,
+   "fmt": "recall",
+   "q": "What is corneal vital staining used for?",
+   "opts": [
+    "To measure the depth of the anterior chamber",
+    "To map the elevation of the posterior corneal surface",
+    "To measure corneal sensations",
+    "To visualize and distinguish the ulcer from surrounding healthy tissue"
+   ],
+   "ans": 3,
+   "exp": "Corneal vital staining: used to visualize and distinguish ulcer from surrounding healthy tissue. (Book p173)"
+  },
+  {
+   "id": "OPH-C38-025",
+   "sec": "Vital staining - fluorescein",
+   "page": 173,
+   "fmt": "scenario",
+   "q": "A corneal ulcer's floor/base shows staining because the epithelium is denuded. Which dye stains this area?",
+   "opts": [
+    "Rose Bengal dye",
+    "Alcian blue dye",
+    "Lissamine green dye",
+    "Fluorescein dye"
+   ],
+   "ans": 3,
+   "exp": "Fluorescein dye: stains area of denuded epithelium (floor/base of ulcer). (Book p173)"
+  },
+  {
+   "id": "OPH-C38-026",
+   "sec": "Vital staining - fluorescein",
+   "page": 173,
+   "fmt": "fillup",
+   "q": "Fluorescein is visualized under ___ light, which gives ___ fluorescence.",
+   "opts": [
+    "Cobalt blue ; red",
+    "Cobalt blue ; green",
+    "Red-free ; green",
+    "White ; yellow"
+   ],
+   "ans": 1,
+   "exp": "Visualized under cobalt blue light -> Green fluorescence. (Book p173)"
+  },
+  {
+   "id": "OPH-C38-027",
+   "sec": "Vital staining - fluorescein",
+   "page": 173,
+   "fmt": "recall",
+   "q": "The ulcer diagram beside fluorescein dye shows the stain in which sites?",
+   "opts": [
+    "Floor/base and margins",
+    "Floor/base only",
+    "Margins only",
+    "Epithelium and endothelium"
+   ],
+   "ans": 0,
+   "exp": "Diagram: Stain in -> Floor/base, Margins. (Book p173)"
+  },
+  {
+   "id": "OPH-C38-028",
+   "sec": "Vital staining - fluorescein",
+   "page": 174,
+   "fmt": "fillup",
+   "q": "Besides staining ulcers, fluorescein is used in ___ applanation tonometry.",
+   "opts": [
+    "Schiotz",
+    "Perkins",
+    "Goldmann's",
+    "Non-contact"
+   ],
+   "ans": 2,
+   "exp": "Other uses (of fluorescein): Goldmann's applanation tonometry. (Book p174)"
+  },
+  {
+   "id": "OPH-C38-029",
+   "sec": "Vital staining - fluorescein",
+   "page": 174,
+   "fmt": "match",
+   "q": "Match the fluorescein test with its use — 1) Jones' dye disappearance test  2) Seidel's test  … A) Penetrating trauma  B) Lacrimation assessment  C) Dry eye by conjunctival staining",
+   "opts": [
+    "1-A, 2-B",
+    "1-C, 2-A",
+    "1-B, 2-A",
+    "1-B, 2-C"
+   ],
+   "ans": 2,
+   "exp": "Jones' dye disappearance test: lacrimation assessment. Seidel's test (in penetrating trauma). (Book p174)"
+  },
+  {
+   "id": "OPH-C38-030",
+   "sec": "Vital staining - rose bengal",
+   "page": 174,
+   "fmt": "scenario",
+   "q": "Which dye stains devitalised/necrotic tissue at the margins of an ulcer?",
+   "opts": [
+    "Fluorescein dye",
+    "Rose Bengal dye",
+    "Alcian blue dye",
+    "Trypan blue dye"
+   ],
+   "ans": 1,
+   "exp": "Rose Bengal dye: stains devitalised/necrotic tissue (margins of ulcer). (Book p174)"
+  },
+  {
+   "id": "OPH-C38-031",
+   "sec": "Vital staining - rose bengal",
+   "page": 174,
+   "fmt": "fillup",
+   "q": "The disadvantage of Rose Bengal dye is that it can be ___ to healthy tissue.",
+   "opts": [
+    "Toxic",
+    "Non-toxic",
+    "Fluorescent",
+    "Sterilising"
+   ],
+   "ans": 0,
+   "exp": "Disadvantage: can be toxic to healthy tissue. (Book p174)"
+  },
+  {
+   "id": "OPH-C38-032",
+   "sec": "Vital staining - lissamine green",
+   "page": 174,
+   "fmt": "recall",
+   "q": "Lissamine green stains devitalised/damaged tissue and, unlike Rose Bengal, is ___ to healthy ocular tissue.",
+   "opts": [
+    "Toxic",
+    "Fluorescent under cobalt blue light",
+    "Restricted to ulcer margins only",
+    "Non-toxic"
+   ],
+   "ans": 3,
+   "exp": "Lissamine green dye: stains devitalised/damaged tissue. Advantage: non-toxic to healthy ocular tissue. (Book p174)"
+  },
+  {
+   "id": "OPH-C38-033",
+   "sec": "Vital staining - lissamine green",
+   "page": 174,
+   "fmt": "management",
+   "q": "Which dye is most commonly used for the diagnosis of dry eye by conjunctival staining?",
+   "opts": [
+    "Lissamine green dye",
+    "Fluorescein dye",
+    "Rose Bengal dye",
+    "Alcian blue dye"
+   ],
+   "ans": 0,
+   "exp": "Lissamine green - other uses: m/c used for diagnosis of dry eye by conjunctival staining. (Book p174)"
+  },
+  {
+   "id": "OPH-C38-034",
+   "sec": "Vital staining - alcian blue",
+   "page": 174,
+   "fmt": "recall",
+   "q": "Alcian blue dye stains:",
+   "opts": [
+    "Denuded epithelium of the ulcer floor",
+    "Devitalised tissue at ulcer margins",
+    "Mucin deposits and filaments",
+    "Aqueous leakage in penetrating trauma"
+   ],
+   "ans": 2,
+   "exp": "Alcian blue dye: stains mucin deposits and filaments. (Book p174)"
+  },
+  {
+   "id": "OPH-C38-035",
+   "sec": "Vital staining - figures",
+   "page": 174,
+   "fmt": "recall",
+   "q": "The three eye photographs on p174 (left to right) are captioned:",
+   "opts": [
+    "Rose bengal stain, Lissamine green dye and Flourescein dye",
+    "Flourescein dye, Rose bengal stain and Lissamine green dye",
+    "Lissamine green dye, Flourescein dye and Rose bengal stain",
+    "Lissamine green dye, Rose bengal stain and Flourescein dye"
+   ],
+   "ans": 3,
+   "exp": "Captions: Lissamine green dye, Rose bengal stain, Flourescein dye (plus 'Flourescein dye application' beside the fluorescein section). (Book p174)"
+  },
+  {
+   "id": "OPH-C38-036",
+   "sec": "Other investigations",
+   "page": 174,
+   "fmt": "recall",
+   "q": "Which technique is a non-invasive method for in-vivo imaging of all layers of the living cornea?",
+   "opts": [
+    "Orbscan",
+    "Confocal microscopy",
+    "Pachymetry",
+    "Keratometry"
+   ],
+   "ans": 1,
+   "exp": "Confocal microscopy: non-invasive technique for in-vivo imaging of all layers of living cornea. (Book p174)"
+  },
+  {
+   "id": "OPH-C38-037",
+   "sec": "Other investigations",
+   "page": 174,
+   "fmt": "scenario",
+   "q": "A clinician wants to examine corneal sensations using the pen-like instrument beside the nose diagram. What is it called?",
+   "opts": [
+    "Keratometer",
+    "Pachymeter",
+    "Placido disc",
+    "Corneal aesthesiometer"
+   ],
+   "ans": 3,
+   "exp": "Corneal aesthesiometer: examines corneal sensations. (Book p174)"
+  },
+  {
+   "id": "OPH-C38-038",
+   "sec": "Other investigations",
+   "page": 174,
+   "fmt": "numeric",
+   "q": "The corneal aesthesiometer is a pen-like instrument with a filament of what length?",
+   "opts": [
+    "6 mm",
+    "6 cm",
+    "16 cm",
+    "60 cm"
+   ],
+   "ans": 1,
+   "exp": "Instrument: pen-like instrument with filament (6 cm long). (Book p174)"
+  },
+  {
+   "id": "OPH-C38-039",
+   "sec": "Other investigations",
+   "page": 174,
+   "fmt": "recall",
+   "q": "As written in the book, the length of filament eliciting corneal sensations is proportional to corneal sensations, which are ___ anaesthesia.",
+   "opts": [
+    "Inversely proportional to",
+    "Directly proportional to",
+    "Independent of",
+    "Equal to"
+   ],
+   "ans": 0,
+   "exp": "Length of filament eliciting corneal sensations is proportional to corneal sensations, which are proportional to 1/anaesthesia. (Book p174)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U38-1",
+   "ch": 38,
+   "n": 1,
+   "title": "Keratometry",
+   "sec": "Cornea · p172",
+   "guide": "Keratometry principle convex mirror image size 1/curvature mires; correct mire positioning; uses curvature astigmatism with/against the rule contact lens fitting keratoconus pulsating mires; good fit vs steep fit.",
+   "qs": [
+    "OPH-C38-001",
+    "OPH-C38-002",
+    "OPH-C38-003",
+    "OPH-C38-004",
+    "OPH-C38-005",
+    "OPH-C38-006",
+    "OPH-C38-007",
+    "OPH-C38-008",
+    "OPH-C38-009"
+   ]
+  },
+  {
+   "id": "OPH-U38-2",
+   "ch": 38,
+   "n": 2,
+   "title": "Pachymetry",
+   "sec": "Cornea · p172-173",
+   "guide": "Pachymetry measures corneal thickness normal 0.5-0.6 mm 0.54 mm 540 micron highest centre; LASIK eligibility c/i CT <450 micron; IOP measurement 1 mmHg = 10 micron; false high/low IOP.",
+   "qs": [
+    "OPH-C38-010",
+    "OPH-C38-011",
+    "OPH-C38-012",
+    "OPH-C38-013",
+    "OPH-C38-014",
+    "OPH-C38-015",
+    "OPH-C38-016",
+    "OPH-C38-017"
+   ]
+  },
+  {
+   "id": "OPH-U38-3",
+   "ch": 38,
+   "n": 3,
+   "title": "Corneal topography",
+   "sec": "Cornea · p173",
+   "guide": "Corneal topography examination of corneal surface; placido disc labels normal reflection; Orbscan slit scan; Pentacam measures CT curvature anterior segment imaging elevation maps of anterior and posterior surfaces.",
+   "qs": [
+    "OPH-C38-018",
+    "OPH-C38-019",
+    "OPH-C38-020",
+    "OPH-C38-021",
+    "OPH-C38-022",
+    "OPH-C38-023"
+   ]
+  },
+  {
+   "id": "OPH-U38-4",
+   "ch": 38,
+   "n": 4,
+   "title": "Corneal vital staining",
+   "sec": "Cornea · p173-174",
+   "guide": "Vital staining to distinguish ulcer from healthy tissue; fluorescein denuded epithelium floor/base cobalt blue green; uses Goldmann applanation Jones' dye Seidel's test; rose bengal; lissamine green dry eye; alcian blue mucin filaments.",
+   "qs": [
+    "OPH-C38-024",
+    "OPH-C38-025",
+    "OPH-C38-026",
+    "OPH-C38-027",
+    "OPH-C38-028",
+    "OPH-C38-029",
+    "OPH-C38-030",
+    "OPH-C38-031",
+    "OPH-C38-032",
+    "OPH-C38-033",
+    "OPH-C38-034",
+    "OPH-C38-035"
+   ]
+  },
+  {
+   "id": "OPH-U38-5",
+   "ch": 38,
+   "n": 5,
+   "title": "Other corneal investigations",
+   "sec": "Cornea · p174",
+   "guide": "Confocal microscopy non-invasive in-vivo imaging all layers; corneal aesthesiometer pen-like 6 cm filament; filament length corneal sensations 1/anaesthesia.",
+   "qs": [
+    "OPH-C38-036",
+    "OPH-C38-037",
+    "OPH-C38-038",
+    "OPH-C38-039"
+   ]
+  }
+ ]
+}

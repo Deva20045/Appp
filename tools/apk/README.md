@@ -1,5 +1,7 @@
 # PULSE MBBS · private Android app
 
+> Current working-tree release: **1.5 (versionCode 6)**, 50,656 questions. The APK was repacked with the original signer and verified; device installation has not been tested. Historical verification and release details below refer to earlier builds.
+
 `/home/user/PULSE-MBBS-offline.apk` is a privately signed, offline-only Android APK.
 Its bundled `assets/index.html` is copied from `/home/user/index.html` by the build
 script; the app includes all twelve subjects and 49,709 questions and contains no

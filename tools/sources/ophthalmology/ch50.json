@@ -1,0 +1,295 @@
+{
+ "chapter": 50,
+ "title": "Physiology of Vision",
+ "pageRange": "229-230",
+ "questions": [
+  {
+   "id": "OPH-C50-001",
+   "sec": "Visual pigment",
+   "page": 229,
+   "fmt": "recall",
+   "q": "The visual pigment in rods is:",
+   "opts": [
+    "Rhodopsin",
+    "Photopsin",
+    "Melanopsin",
+    "Iodopsin"
+   ],
+   "ans": 0,
+   "exp": "The page identifies rhodopsin as the visual pigment. (Book p229)"
+  },
+  {
+   "id": "OPH-C50-002",
+   "sec": "Visual pigment",
+   "page": 229,
+   "fmt": "match",
+   "q": "Match rhodopsin's components with their roles — 1) Opsin/scotopsin  2) 11-cis retinal … A) Light-sensitive chromophore  B) GPCR that enables signalling",
+   "opts": [
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B",
+    "1-B, 2-A"
+   ],
+   "ans": 3,
+   "exp": "Opsin/scotopsin is a GPCR enabling signalling; 11-cis retinal is the light-sensitive chromophore. (Book p229)"
+  },
+  {
+   "id": "OPH-C50-003",
+   "sec": "Visual pigment",
+   "page": 229,
+   "fmt": "fillup",
+   "q": "After absorbing light, 11-cis retinal isomerizes to the more stable ___ retinal.",
+   "opts": [
+    "9-cis",
+    "11-trans",
+    "13-cis",
+    "all-trans retinol"
+   ],
+   "ans": 1,
+   "exp": "Light absorption converts 11-cis retinal to the more stable 11-trans retinal isomer. (Book p229)"
+  },
+  {
+   "id": "OPH-C50-004",
+   "sec": "Visual cycle",
+   "page": 229,
+   "fmt": "recall",
+   "q": "The visual cycle shown occurs in rod photoreceptors; RBP transports retinol in blood and IRBP means:",
+   "opts": [
+    "Inter-receptor bipolar protein",
+    "Intra-retinal bicarbonate pump",
+    "Intraretinal binding protein",
+    "Iridocorneal binding protein"
+   ],
+   "ans": 2,
+   "exp": "The site is rod photoreceptors; RBP is retinol-binding protein and IRBP is intraretinal binding protein. (Book p229)"
+  },
+  {
+   "id": "OPH-C50-005",
+   "sec": "Visual cycle",
+   "page": 229,
+   "fmt": "match",
+   "q": "Which sequence best describes retinoid recycling in the visual cycle?",
+   "opts": [
+    "All-trans retinal forms rhodopsin directly; light converts it to vitamin D",
+    "11-cis retinal is irreversibly degraded and replaced by melanin",
+    "11-cis retinoid forms rhodopsin; light produces all-trans retinal, which is recycled via retinol/retinyl esters to 11-cis retinal",
+    "Opsin converts retinyl esters directly into cGMP"
+   ],
+   "ans": 2,
+   "exp": "Vitamin-A-derived retinoids are carried by RBP/IRBP; all-trans retinal is recycled through retinol and retinyl esters, with RPE-linked regeneration of 11-cis retinoid. (Book p229)"
+  },
+  {
+   "id": "OPH-C50-006",
+   "sec": "Visual cycle",
+   "page": 229,
+   "fmt": "scenario",
+   "q": "A mutation in the RPE-65 gene disrupts visual-pigment regeneration. The chromophore that cannot be regenerated is:",
+   "opts": [
+    "11-cis retinal",
+    "All-trans retinyl ester",
+    "5-prime GMP",
+    "Metarhodopsin II"
+   ],
+   "ans": 0,
+   "exp": "RPE-65-dependent regeneration produces 11-cis retinal, which recombines with opsin to form rhodopsin. (Book p229)"
+  },
+  {
+   "id": "OPH-C50-007",
+   "sec": "Visual cycle",
+   "page": 229,
+   "fmt": "recall",
+   "q": "The unstable light-activated intermediate that acts as an enzyme in phototransduction for milliseconds is:",
+   "opts": [
+    "Scotopsin",
+    "Metarhodopsin II",
+    "11-cis retinol",
+    "Transducin GDP"
+   ],
+   "ans": 1,
+   "exp": "Metarhodopsin II is an unstable intermediate, acts within milliseconds and functions as an enzyme for phototransduction. (Book p229)"
+  },
+  {
+   "id": "OPH-C50-008",
+   "sec": "Phototransduction",
+   "page": 230,
+   "fmt": "match",
+   "q": "Order the early phototransduction cascade.",
+   "opts": [
+    "PDE → rhodopsin → transducin hydrolysis",
+    "Transducin → cGMP synthesis → metarhodopsin II",
+    "Opsin → Na+ influx → PDE inhibition",
+    "Metarhodopsin II → transducin (GDP-GTP exchange) → PDE activation"
+   ],
+   "ans": 3,
+   "exp": "Metarhodopsin II activates transducin by GDP-to-GTP exchange; transducin activates phosphodiesterase. (Book p230)"
+  },
+  {
+   "id": "OPH-C50-009",
+   "sec": "Phototransduction",
+   "page": 230,
+   "fmt": "fillup",
+   "q": "PDE hydrolyses cGMP to 5-prime ___.",
+   "opts": [
+    "GMP",
+    "ATP",
+    "AMP",
+    "GDP"
+   ],
+   "ans": 0,
+   "exp": "Activated PDE hydrolyses cGMP to 5-prime GMP. (Book p230)"
+  },
+  {
+   "id": "OPH-C50-010",
+   "sec": "Phototransduction",
+   "page": 230,
+   "fmt": "match",
+   "q": "When cGMP concentration falls, which photoreceptor changes occur?",
+   "opts": [
+    "Na+ channels open, Na+ influx rises and glutamate release rises",
+    "Ca2+ channels open and action potentials begin in rods",
+    "Na+ channels close, Na+ influx stops and glutamate efflux stops",
+    "Chloride channels close while glutamate efflux increases"
+   ],
+   "ans": 2,
+   "exp": "Reduced cGMP closes Na+ channels, stopping Na+ influx and glutamate efflux. (Book p230)"
+  },
+  {
+   "id": "OPH-C50-011",
+   "sec": "Photoreceptor response",
+   "page": 230,
+   "fmt": "truefalse",
+   "q": "The light response in a photoreceptor is a graded hyperpolarising local potential, not an action potential.",
+   "opts": [
+    "False",
+    "It is an all-or-none rod action potential",
+    "It is a graded depolarising potential",
+    "True"
+   ],
+   "ans": 3,
+   "exp": "Photoreceptor hyperpolarisation is graded, is not an action potential and is transmitted by electronic conduction. (Book p230)"
+  },
+  {
+   "id": "OPH-C50-012",
+   "sec": "Retinal signal transmission",
+   "page": 230,
+   "fmt": "recall",
+   "q": "The phototransduction signal passes first to bipolar cells and then to ganglion cells, where:",
+   "opts": [
+    "Rhodopsin is regenerated",
+    "Action potentials are generated",
+    "cGMP is synthesised",
+    "The tear film is secreted"
+   ],
+   "ans": 1,
+   "exp": "The signal reaches bipolar cells, then ganglion cells; ganglion cells are the site of action potentials. (Book p230)"
+  },
+  {
+   "id": "OPH-C50-013",
+   "sec": "Lateral geniculate body",
+   "page": 230,
+   "fmt": "recall",
+   "q": "The visual pathway reaches the lateral geniculate body, which has ___ layers.",
+   "opts": [
+    "Two",
+    "Six",
+    "Four",
+    "Eight"
+   ],
+   "ans": 1,
+   "exp": "The LGB is shown with six layers. (Book p230)"
+  },
+  {
+   "id": "OPH-C50-014",
+   "sec": "Lateral geniculate pathways",
+   "page": 230,
+   "fmt": "match",
+   "q": "Match LGB layers and pathway — 1) Layers 1-2  2) Layers 3-6 … A) Parvocellular: fine details and colour  B) Magnocellular: motion and black-and-white",
+   "opts": [
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B",
+    "1-B, 2-A"
+   ],
+   "ans": 3,
+   "exp": "LGB layers 1-2 are magnocellular for motion/black-and-white; layers 3-6 are parvocellular for fine detail/colour. (Book p230)"
+  },
+  {
+   "id": "OPH-C50-015",
+   "sec": "Photoreceptor response",
+   "page": 230,
+   "fmt": "scenario",
+   "q": "A photoreceptor exposed to light becomes hyperpolarised; in darkness it is:",
+   "opts": [
+    "Also hyperpolarised",
+    "At resting potential with an action potential",
+    "Depolarised",
+    "Unable to release neurotransmitter under either condition"
+   ],
+   "ans": 2,
+   "exp": "The page contrasts hyperpolarisation under light with a depolarising state under dark. (Book p230)"
+  },
+  {
+   "id": "OPH-C50-016",
+   "sec": "Visual-cycle disorders",
+   "page": 230,
+   "fmt": "match",
+   "q": "RPE-65 mutation prevents regeneration of 11-cis retinal and is linked to:",
+   "opts": [
+    "Retinitis pigmentosa and Leber congenital amaurosis",
+    "Retinoblastoma and Coats disease",
+    "Cataract and keratoconus",
+    "Glaucoma and optic neuritis"
+   ],
+   "ans": 0,
+   "exp": "The diagram links RPE-65 gene mutation and lack of 11-cis retinal regeneration with retinitis pigmentosa and Leber congenital amaurosis. (Book p230)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U50-1",
+   "ch": 50,
+   "n": 1,
+   "title": "Rhodopsin and visual cycle",
+   "sec": "Miscellaneous · p229",
+   "guide": "Rhodopsin consists of opsin (a GPCR) and 11-cis retinal chromophore. Light isomerizes retinal; the rod visual cycle recycles vitamin-A-derived retinoids across photoreceptor and RPE, with RPE-65 required for regeneration.",
+   "qs": [
+    "OPH-C50-001",
+    "OPH-C50-002",
+    "OPH-C50-003",
+    "OPH-C50-004",
+    "OPH-C50-005",
+    "OPH-C50-006",
+    "OPH-C50-007"
+   ]
+  },
+  {
+   "id": "OPH-U50-2",
+   "ch": 50,
+   "n": 2,
+   "title": "Phototransduction cascade",
+   "sec": "Miscellaneous · p230",
+   "guide": "Metarhodopsin II activates transducin and PDE, reducing cGMP. Na+ channels close, glutamate release stops and the photoreceptor hyperpolarises; graded signals reach bipolar cells and then ganglion-cell action potentials.",
+   "qs": [
+    "OPH-C50-008",
+    "OPH-C50-009",
+    "OPH-C50-010",
+    "OPH-C50-011",
+    "OPH-C50-012"
+   ]
+  },
+  {
+   "id": "OPH-U50-3",
+   "ch": 50,
+   "n": 3,
+   "title": "Lateral geniculate pathways and light/dark response",
+   "sec": "Miscellaneous · p230",
+   "guide": "The ganglion-cell visual signal reaches the six-layer LGB. Layers 1-2 are magnocellular (motion, black-and-white); layers 3-6 are parvocellular (fine detail, colour). Light hyperpolarises photoreceptors; darkness depolarises them.",
+   "qs": [
+    "OPH-C50-013",
+    "OPH-C50-014",
+    "OPH-C50-015",
+    "OPH-C50-016"
+   ]
+  }
+ ]
+}

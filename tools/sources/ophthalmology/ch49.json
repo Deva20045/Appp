@@ -1,0 +1,227 @@
+{
+ "chapter": 49,
+ "title": "Lasers In Ophthalmology",
+ "pageRange": "228-228",
+ "questions": [
+  {
+   "id": "OPH-C49-001",
+   "sec": "Laser principles",
+   "page": 228,
+   "fmt": "fillup",
+   "q": "LASER stands for Light Amplification by Stimulated Emission of ___.",
+   "opts": [
+    "Radiation",
+    "Reflection",
+    "Refraction",
+    "Resonance"
+   ],
+   "ans": 0,
+   "exp": "The expansion given is Light Amplification by Stimulated Emission of Radiation. (Book p228)"
+  },
+  {
+   "id": "OPH-C49-002",
+   "sec": "Laser tissue effects",
+   "page": 228,
+   "fmt": "match",
+   "q": "Match the laser effect with the tissue result — 1) Photoablation  2) Photodisruption  3) Photocoagulation … A) Coagulate  B) Break  C) Burn/vaporize",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 2,
+   "exp": "The overview classifies photoablation as burning tissue, photodisruption as breaking tissue and photocoagulation as coagulating tissue. (Book p228)"
+  },
+  {
+   "id": "OPH-C49-003",
+   "sec": "Photoablation",
+   "page": 228,
+   "fmt": "match",
+   "q": "Photoablation acts by breaking chemical bonds and vaporizing tissue; it uses which wavelength range?",
+   "opts": [
+    "Visible, 400-580 nm",
+    "Ultraviolet, 150-300 nm",
+    "Infrared, 800-1100 nm",
+    "Radiofrequency, 1-10 cm"
+   ],
+   "ans": 1,
+   "exp": "Photoablation produces chemical effects, breaks bonds and vaporizes tissue; the listed wavelength is ultraviolet 150-300 nm. (Book p228)"
+  },
+  {
+   "id": "OPH-C49-004",
+   "sec": "Photoablation",
+   "page": 228,
+   "fmt": "scenario",
+   "q": "Which laser and procedures are paired correctly for corneal refractive surgery?",
+   "opts": [
+    "Diode, 810 nm; posterior capsulotomy and iridotomy",
+    "Nd:YAG, 1064 nm; LASIK and PRK",
+    "Ruby, 694 nm; FLACS and SMILE",
+    "Argon-fluoride excimer, 193 nm; LASIK and PRK"
+   ],
+   "ans": 3,
+   "exp": "The excimer argon-fluoride laser is listed at 193 nm; photoablation applications include LASIK and PRK. (Book p228)"
+  },
+  {
+   "id": "OPH-C49-005",
+   "sec": "Photocoagulation",
+   "page": 228,
+   "fmt": "recall",
+   "q": "Photocoagulation produces a thermal effect that causes:",
+   "opts": [
+    "Ionization by stripping electrons",
+    "Vaporization by breaking chemical bonds",
+    "Acoustic shock waves only",
+    "Protein denaturation"
+   ],
+   "ans": 3,
+   "exp": "Photocoagulation's mechanism is thermal denaturation of proteins; its listed wavelength is visible spectrum 400-580 nm. (Book p228)"
+  },
+  {
+   "id": "OPH-C49-006",
+   "sec": "Photocoagulation",
+   "page": 228,
+   "fmt": "match",
+   "q": "Which list correctly matches photocoagulation laser with wavelength?",
+   "opts": [
+    "Argon green 514 nm; frequency-doubled Nd:YAG 532 nm; diode 810 nm; ruby red 694 nm",
+    "Argon 193 nm; Nd:YAG 694 nm; diode 532 nm; ruby 810 nm",
+    "Argon 1064 nm; Nd:YAG 810 nm; diode 694 nm; ruby 532 nm",
+    "Argon 400 nm; Nd:YAG 580 nm; diode 193 nm; ruby 1053 nm"
+   ],
+   "ans": 0,
+   "exp": "The photocoagulation examples are argon green 514 nm, frequency-doubled Nd:YAG 532 nm, diode 810 nm (preferred for ROP) and ruby red 694 nm. (Book p228)"
+  },
+  {
+   "id": "OPH-C49-007",
+   "sec": "Photocoagulation uses",
+   "page": 228,
+   "fmt": "match",
+   "q": "Panretinal photocoagulation is listed for diabetic retinopathy and CRVO; laser trabeculoplasty is used for:",
+   "opts": [
+    "Angle-closure attack",
+    "POAG",
+    "Retinoblastoma",
+    "Corneal ulcer"
+   ],
+   "ans": 1,
+   "exp": "Photocoagulation uses include PRP for diabetic retinopathy/CRVO and trabeculoplasty for POAG. (Book p228)"
+  },
+  {
+   "id": "OPH-C49-008",
+   "sec": "Photocoagulation uses",
+   "page": 228,
+   "fmt": "match",
+   "q": "Focal retinal photocoagulation is listed for diabetic macular edema, CSR and:",
+   "opts": [
+    "Retinitis pigmentosa",
+    "Optic neuritis",
+    "ARMD",
+    "Keratoconus"
+   ],
+   "ans": 2,
+   "exp": "Focal retinal laser uses listed are diabetic macular edema, CSR and ARMD. (Book p228)"
+  },
+  {
+   "id": "OPH-C49-009",
+   "sec": "Photodisruption",
+   "page": 228,
+   "fmt": "match",
+   "q": "Which mechanisms occur in photodisruption?",
+   "opts": [
+    "Protein denaturation only",
+    "Ultraviolet bond breaking followed by vaporization",
+    "Ionization, plasma-mediated bond breakage and acoustic shock waves",
+    "Selective photoreceptor bleaching only"
+   ],
+   "ans": 2,
+   "exp": "Photodisruption combines electron stripping/ionization, plasma-like material that breaks bonds and acoustic shock waves producing mechanical effect. (Book p228)"
+  },
+  {
+   "id": "OPH-C49-010",
+   "sec": "Photodisruption",
+   "page": 228,
+   "fmt": "recall",
+   "q": "The invisible photodisruption beam is aimed using a visible ___ beam.",
+   "opts": [
+    "Helium-neon red",
+    "Argon green",
+    "Excimer ultraviolet",
+    "Ruby infrared"
+   ],
+   "ans": 0,
+   "exp": "Infrared photodisruption is invisible; a helium-neon red beam is used to view and aim. (Book p228)"
+  },
+  {
+   "id": "OPH-C49-011",
+   "sec": "Photodisruption",
+   "page": 228,
+   "fmt": "match",
+   "q": "Which photodisruption laser wavelengths are listed?",
+   "opts": [
+    "Excimer 193 nm and argon 514 nm",
+    "Nd:YAG 1064 nm and Nd:glass 1053 nm",
+    "Diode 810 nm and ruby 694 nm",
+    "Nd:YAG 532 nm and Nd:glass 193 nm"
+   ],
+   "ans": 1,
+   "exp": "The photodisruption table lists Nd:YAG 1064 nm and Nd:glass 1053 nm. (Book p228)"
+  },
+  {
+   "id": "OPH-C49-012",
+   "sec": "Photodisruption uses",
+   "page": 228,
+   "fmt": "match",
+   "q": "Nd:glass is listed for FLACS and:",
+   "opts": [
+    "Posterior capsulotomy for PCO",
+    "Peripheral iridotomy for angle closure",
+    "Laser trabeculoplasty for POAG",
+    "SMILE refractive-error correction"
+   ],
+   "ans": 3,
+   "exp": "Nd:glass uses include FLACS for cataract surgery and SMILE for refractive-error correction. (Book p228)"
+  },
+  {
+   "id": "OPH-C49-013",
+   "sec": "Photodisruption uses",
+   "page": 228,
+   "fmt": "management",
+   "q": "Nd:YAG photodisruption is used for posterior capsulotomy for PCO and peripheral iridotomy for:",
+   "opts": [
+    "POAG",
+    "CRVO",
+    "Diabetic macular edema",
+    "Angle-closure glaucoma"
+   ],
+   "ans": 3,
+   "exp": "Nd:YAG is listed for posterior capsulotomy in PCO and peripheral iridotomy in angle-closure glaucoma. (Book p228)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U49-1",
+   "ch": 49,
+   "n": 1,
+   "title": "Laser principles and tissue effects",
+   "sec": "Miscellaneous · p228",
+   "guide": "LASER means Light Amplification by Stimulated Emission of Radiation. Classify ocular laser effects as photoablation (burn/vaporize), photodisruption (break) or photocoagulation (coagulate), then connect mechanisms, wavelengths, devices and clinical uses.",
+   "qs": [
+    "OPH-C49-001",
+    "OPH-C49-002",
+    "OPH-C49-003",
+    "OPH-C49-004",
+    "OPH-C49-005",
+    "OPH-C49-006",
+    "OPH-C49-007",
+    "OPH-C49-008",
+    "OPH-C49-009",
+    "OPH-C49-010",
+    "OPH-C49-011",
+    "OPH-C49-012",
+    "OPH-C49-013"
+   ]
+  }
+ ]
+}

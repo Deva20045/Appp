@@ -1,0 +1,603 @@
+{
+  "chapter": 35,
+  "title": "Retinal Vascular Disorders : Part 1",
+  "pageRange": "160-163",
+  "questions": [
+    {
+      "id": "OPH-C35-001",
+      "sec": "Risk factors",
+      "page": 160,
+      "fmt": "oddoneout",
+      "q": "All of the following are risk factors for diabetic retinopathy per p160 EXCEPT:",
+      "opts": [
+        "High myopia of more than 6 dioptres",
+        "Duration of diabetes",
+        "Poor glycemic control with a high HbA1c",
+        "Pregnancy, hypertension, hyperlipidemia and diabetic nephropathy"
+      ],
+      "ans": 0,
+      "exp": "Risk factors: duration of diabetes, high HbA1c, pregnancy, hypertension and hyperlipidemia, and diabetic nephropathy. (Book p160)"
+    },
+    {
+      "id": "OPH-C35-002",
+      "sec": "Risk factors",
+      "page": 160,
+      "fmt": "match",
+      "q": "Match the type of diabetes with the time of first screening for retinopathy per p160 — 1) Type 1 diabetes 2) Type 2 diabetes … A) As soon as possible after diagnosis B) After 5 years",
+      "opts": [
+        "1-A, 2-B",
+        "1-B, 2-A",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 1,
+      "exp": "Time of screening: type 1 diabetes - after 5 years; type 2 diabetes - as soon as possible. (Book p160)"
+    },
+    {
+      "id": "OPH-C35-003",
+      "sec": "Risk factors",
+      "page": 160,
+      "fmt": "numeric",
+      "q": "Screening for retinopathy in type 1 diabetes mellitus should begin after:",
+      "opts": [
+        "10 years of disease",
+        "1 year of disease",
+        "5 years of disease",
+        "20 years of disease"
+      ],
+      "ans": 2,
+      "exp": "Time of screening: type 1 DM after 5 years; type 2 DM as soon as possible. (Book p160)"
+    },
+    {
+      "id": "OPH-C35-004",
+      "sec": "Risk factors",
+      "page": 160,
+      "fmt": "scenario",
+      "q": "A pregnant woman with long standing diabetes is reviewed in the retina clinic. Per p160, pregnancy is listed as:",
+      "opts": [
+        "An indication to stop all laser treatment",
+        "A protective factor against progression",
+        "Relevant only for type 2 diabetes",
+        "A risk factor that accelerates diabetic retinopathy"
+      ],
+      "ans": 3,
+      "exp": "Risk factors for diabetic retinopathy: duration of diabetes, high HbA1c, pregnancy, hypertension/hyperlipidemia and diabetic nephropathy. (Book p160)"
+    },
+    {
+      "id": "OPH-C35-005",
+      "sec": "Risk factors",
+      "page": 160,
+      "fmt": "truefalse",
+      "q": "True/false per p160: duration of diabetes is itself a risk factor for diabetic retinopathy.",
+      "opts": [
+        "True",
+        "False — only glycemic control matters",
+        "False — only blood pressure matters",
+        "False — retinopathy is unrelated to disease duration"
+      ],
+      "ans": 0,
+      "exp": "Risk factors: duration of diabetes is a risk (along with HbA1c, pregnancy, hypertension/hyperlipidemia and diabetic nephropathy). (Book p160)"
+    },
+    {
+      "id": "OPH-C35-006",
+      "sec": "Pathogenesis",
+      "page": 160,
+      "fmt": "match",
+      "q": "Match the pathogenetic change in diabetic retinopathy with its category per p160 — 1) Protein kinase C activation 2) Increased sorbitol 3) Loss of pericytes of capillaries 4) Secretion of VEGF … A) Biochemical change B) Anatomical vascular lesion",
+      "opts": [
+        "1-B, 2-A, 3-A, 4-B",
+        "1-A, 2-A, 3-B, 4-B",
+        "1-A, 2-B, 3-B, 4-A",
+        "1-B, 2-B, 3-A, 4-A"
+      ],
+      "ans": 1,
+      "exp": "Biochemical changes: protein kinase C activation, increased sorbitol, reactive oxygen intermediates and advanced glycation end products. Anatomical vascular lesions: loss of pericytes of capillaries (earliest change), leakage from capillaries, neovascularization of retina (hallmark) from secretion of VEGF. (Book p160)"
+    },
+    {
+      "id": "OPH-C35-007",
+      "sec": "Pathogenesis",
+      "page": 160,
+      "fmt": "recall",
+      "q": "The earliest anatomical change in diabetic retinopathy per p160 is:",
+      "opts": [
+        "Cotton wool spot formation",
+        "Neovascularization of the retina",
+        "Loss of pericytes of capillaries",
+        "Vitreous hemorrhage"
+      ],
+      "ans": 2,
+      "exp": "Anatomical vascular lesions: loss of pericytes of capillaries is the earliest change. (Book p160)"
+    },
+    {
+      "id": "OPH-C35-008",
+      "sec": "Pathogenesis",
+      "page": 160,
+      "fmt": "recall",
+      "q": "The hallmark of diabetic retinopathy per p160 is:",
+      "opts": [
+        "Rubeosis of the conjunctiva",
+        "Choroidal neovascularisation beneath the RPE",
+        "Exudative retinal detachment",
+        "Neovascularization of the retina, driven by secretion of VEGF"
+      ],
+      "ans": 3,
+      "exp": "Neovascularization of the retina is the hallmark of diabetic retinopathy, occurring with secretion of VEGF. (Book p160)"
+    },
+    {
+      "id": "OPH-C35-009",
+      "sec": "Pathogenesis",
+      "page": 160,
+      "fmt": "oddoneout",
+      "q": "All of the following are biochemical changes in diabetic retinopathy per p160 EXCEPT:",
+      "opts": [
+        "Loss of pericytes of capillaries",
+        "Protein kinase C activation",
+        "Accumulation of advanced glycation end products",
+        "Reactive oxygen intermediates"
+      ],
+      "ans": 0,
+      "exp": "Biochemical changes: protein kinase C activation, increased sorbitol, reactive oxygen intermediates and advanced glycation end products. Loss of pericytes is an anatomical vascular lesion. (Book p160)"
+    },
+    {
+      "id": "OPH-C35-010",
+      "sec": "NPDR lesions",
+      "page": 161,
+      "fmt": "match",
+      "q": "Match the lesion of diabetic retinopathy with its appearance per p161 — 1) Microaneurysms 2) Exudates 3) Cotton wool spots 4) Neovascularization … A) Large yellowish deposits with regular smooth edges B) Yellowish irregular deposits C) Tortuous tuft of vessel D) Tiny red dots",
+      "opts": [
+        "1-B, 2-D, 3-C, 4-A",
+        "1-D, 2-B, 3-A, 4-C",
+        "1-D, 2-A, 3-B, 4-C",
+        "1-C, 2-B, 3-A, 4-D"
+      ],
+      "ans": 1,
+      "exp": "Microaneurysms: O/E tiny red dots, FFA tiny hyperfluorescent dots. Exudates: O/E yellowish irregular deposits, FFA hypofluorescent. Cotton wool spots: O/E large yellowish deposits with regular smooth edges, FFA hypofluorescent. Neovascularization: O/E tortuous tuft of vessel, FFA hyperfluorescent. (Book p161)"
+    },
+    {
+      "id": "OPH-C35-011",
+      "sec": "NPDR lesions",
+      "page": 161,
+      "fmt": "recall",
+      "q": "Retinal hemorrhages in diabetic retinopathy per p161 are described as:",
+      "opts": [
+        "Always preretinal and boat shaped",
+        "Always subretinal and crescentic",
+        "Flame shaped in the superficial nerve fibre layer and dot and blot in the deeper layers",
+        "Confined to the choroid"
+      ],
+      "ans": 2,
+      "exp": "Hemorrhage: flame shaped in the superficial nerve fibre layer; dot and blot hemorrhages in the deeper (outer plexiform/inner nuclear) layers. (Book p161)"
+    },
+    {
+      "id": "OPH-C35-012",
+      "sec": "NPDR lesions",
+      "page": 161,
+      "fmt": "recall",
+      "q": "Hard exudates in diabetic retinopathy per p161 are:",
+      "opts": [
+        "Calcified drusen beneath the RPE",
+        "Collections of neuronal debris in the nerve fibre layer",
+        "Fibrin plugs within retinal arterioles",
+        "Lipid deposits in the outer plexiform layer"
+      ],
+      "ans": 3,
+      "exp": "Exudates: lipid deposits in the outer plexiform layer. (Book p161)"
+    },
+    {
+      "id": "OPH-C35-013",
+      "sec": "NPDR lesions",
+      "page": 161,
+      "fmt": "recall",
+      "q": "Cotton wool spots (soft exudates) per p161 are:",
+      "opts": [
+        "Collections of neuronal debris in the nerve fibre layer",
+        "Lipid deposits in the outer plexiform layer",
+        "Neovascular fronds at the disc",
+        "Microinfarcts of the choroid"
+      ],
+      "ans": 0,
+      "exp": "Cotton wool spots (soft exudates): collections of neuronal debris in the nerve fibre layer. (Book p161)"
+    },
+    {
+      "id": "OPH-C35-014",
+      "sec": "NPDR lesions",
+      "page": 161,
+      "fmt": "recall",
+      "q": "Venous tortuosity with beading and looping in diabetic retinopathy per p161 is due to:",
+      "opts": [
+        "Systemic hypertension alone",
+        "Retinal hypoxia",
+        "Vasculitic damage to the vein wall",
+        "Raised intraocular pressure"
+      ],
+      "ans": 1,
+      "exp": "Venous tortuosity: due to hypoxia, with beading and looping. (Book p161)"
+    },
+    {
+      "id": "OPH-C35-015",
+      "sec": "NPDR lesions",
+      "page": 161,
+      "fmt": "recall",
+      "q": "Intraretinal microvascular abnormalities (IRMA) per p161 are:",
+      "opts": [
+        "Dilated capillaries in the foveal avascular zone",
+        "New vessels growing through the internal limiting membrane",
+        "Shunt vessels bypassing the capillary bed and a precursor of proliferative disease",
+        "Collaterals at the optic disc after a vein occlusion"
+      ],
+      "ans": 2,
+      "exp": "IRMA: intraretinal microvascular abnormalities - shunt vessels bypassing the capillary bed, a precursor to PDR. (Book p161)"
+    },
+    {
+      "id": "OPH-C35-016",
+      "sec": "PDR",
+      "page": 161,
+      "fmt": "match",
+      "q": "Match the type of retinal neovascularization with its definition per p161 — 1) NVD 2) NVE … A) New vessels elsewhere in the retina B) New vessels at the disc or within one disc diameter of it",
+      "opts": [
+        "1-B, 2-B",
+        "1-A, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-A"
+      ],
+      "ans": 3,
+      "exp": "PDR: NVD = new vessels at the disc or within 1 disc diameter of it; NVE = new vessels elsewhere. (Book p161)"
+    },
+    {
+      "id": "OPH-C35-017",
+      "sec": "PDR",
+      "page": 161,
+      "fmt": "oddoneout",
+      "q": "All of the following are features of non-proliferative diabetic retinopathy per p161 EXCEPT:",
+      "opts": [
+        "Neovascularization at the disc",
+        "Microaneurysms and dot and blot hemorrhages",
+        "Cotton wool spots and hard exudates",
+        "Venous beading and intraretinal microvascular abnormalities"
+      ],
+      "ans": 0,
+      "exp": "NPDR lesions: microaneurysms, hemorrhages, exudates, cotton wool spots, venous tortuosity/beading/looping and IRMA. Neovascularization (NVD/NVE) defines proliferative diabetic retinopathy. (Book p161)"
+    },
+    {
+      "id": "OPH-C35-018",
+      "sec": "Treatment",
+      "page": 162,
+      "fmt": "match",
+      "q": "Match the stage of NPDR with the follow up interval per p162 — 1) Mild 2) Moderate 3) Severe 4) Very severe … A) 4 months B) 9-12 months C) 2 months D) 6 months",
+      "opts": [
+        "1-D, 2-B, 3-C, 4-A",
+        "1-B, 2-D, 3-A, 4-C",
+        "1-B, 2-A, 3-D, 4-C",
+        "1-C, 2-D, 3-A, 4-B"
+      ],
+      "ans": 1,
+      "exp": "NPDR follow up: mild 9-12 months, moderate 6 months, severe 4 months, very severe 2 months. (Book p162)"
+    },
+    {
+      "id": "OPH-C35-019",
+      "sec": "Treatment",
+      "page": 162,
+      "fmt": "fillup",
+      "q": "Fill up per p162: the first general measure in the treatment of diabetic retinopathy is ____ control:",
+      "opts": [
+        "Lipid",
+        "Blood pressure",
+        "Glycemic",
+        "Intraocular pressure"
+      ],
+      "ans": 2,
+      "exp": "Treatment of diabetic retinopathy: glycemic control, then stage-wise follow up, pan retinal photocoagulation or anti-VEGF drugs. (Book p162)"
+    },
+    {
+      "id": "OPH-C35-020",
+      "sec": "Treatment",
+      "page": 162,
+      "fmt": "numeric",
+      "q": "The 4-2-1 rule of NPDR per p162 refers to:",
+      "opts": [
+        "4 disc areas of new vessels, 2 disc areas of fibrosis, 1 disc area of detachment",
+        "Microaneurysms in 4 quadrants, exudates in 2 quadrants, cotton wool spots in 1 quadrant",
+        "Follow up at 4 months, laser in 2 sittings, review at 1 month",
+        "Hemorrhage in 4 quadrants, venous beading in 2 quadrants, IRMA in 1 quadrant"
+      ],
+      "ans": 3,
+      "exp": "4-2-1 rule of NPDR: 4 quadrants of hemorrhage, 2 quadrants of venous beading, 1 quadrant of IRMA. (Book p162)"
+    },
+    {
+      "id": "OPH-C35-021",
+      "sec": "Treatment",
+      "page": 162,
+      "fmt": "recall",
+      "q": "Applying the 4-2-1 rule per p162: any one feature means severe NPDR and any two mean:",
+      "opts": [
+        "Very severe NPDR",
+        "Early PDR",
+        "Mild NPDR",
+        "Clinically significant macular edema"
+      ],
+      "ans": 0,
+      "exp": "Any 1 of the 4-2-1 features = severe NPDR; any 2 = very severe NPDR. (Book p162)"
+    },
+    {
+      "id": "OPH-C35-022",
+      "sec": "Treatment",
+      "page": 162,
+      "fmt": "management",
+      "q": "Treatment of choice for proliferative diabetic retinopathy per p162 is:",
+      "opts": [
+        "Focal laser photocoagulation of leaking microaneurysms",
+        "Pan retinal photocoagulation with an argon green laser in multiple sittings",
+        "Pars plana vitrectomy in every case",
+        "Intravitreal triamcinolone alone"
+      ],
+      "ans": 1,
+      "exp": "PDR treatment: pan retinal photocoagulation is the TOC, using an argon green laser in multiple sittings; anti-VEGF drugs are the other option. (Book p162)"
+    },
+    {
+      "id": "OPH-C35-023",
+      "sec": "Treatment",
+      "page": 162,
+      "fmt": "recall",
+      "q": "Side effect of pan retinal photocoagulation per p162 is:",
+      "opts": [
+        "Cataract within one week",
+        "Raised intraocular pressure in every patient",
+        "Visual field defects",
+        "Corneal endothelial decompensation"
+      ],
+      "ans": 2,
+      "exp": "Pan retinal photocoagulation: argon green laser, multiple sittings; side effect - visual field defects. (Book p162)"
+    },
+    {
+      "id": "OPH-C35-024",
+      "sec": "Treatment",
+      "page": 162,
+      "fmt": "match",
+      "q": "Match the indication for treating proliferative diabetic retinopathy per p162 — 1) NVD 2) NVE … A) New vessels more than half a disc area elsewhere with vitreous hemorrhage B) New vessels more than one third of the disc area, or NVD with vitreous hemorrhage",
+      "opts": [
+        "1-B, 2-B",
+        "1-A, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-A"
+      ],
+      "ans": 3,
+      "exp": "Indication for treatment: NVD >1/3 disc area, NVD with vitreous hemorrhage, or NVE >1/2 disc area with vitreous hemorrhage. (Book p162)"
+    },
+    {
+      "id": "OPH-C35-025",
+      "sec": "Treatment",
+      "page": 162,
+      "fmt": "oddoneout",
+      "q": "All of the following anti-VEGF drugs are listed for diabetic retinopathy on p162 EXCEPT:",
+      "opts": [
+        "Verteporfin",
+        "Ranibizumab",
+        "Aflibercept",
+        "Brolucizumab"
+      ],
+      "ans": 0,
+      "exp": "Anti-VEGF drugs listed: ranibizumab, bevacizumab, aflibercept and brolucizumab. Verteporfin is a photosensitising drug used in photodynamic therapy. (Book p162)"
+    },
+    {
+      "id": "OPH-C35-026",
+      "sec": "Diabetic macular edema",
+      "page": 162,
+      "fmt": "recall",
+      "q": "Diabetic macular edema per p162 is due to leakage from capillaries and is:",
+      "opts": [
+        "The most common cause of neovascular glaucoma",
+        "The most common cause of loss of vision in non-proliferative diabetic retinopathy",
+        "A feature only of proliferative disease",
+        "Always self limiting within three months"
+      ],
+      "ans": 1,
+      "exp": "Diabetic macular edema: d/t leakage from capillaries; m/c cause of loss of vision in NPDR (diabetic retinopathy). (Book p162)"
+    },
+    {
+      "id": "OPH-C35-027",
+      "sec": "Diabetic macular edema",
+      "page": 162,
+      "fmt": "management",
+      "q": "Treatment of choice for diabetic macular edema per p162 is:",
+      "opts": [
+        "Intravitreal triamcinolone in every patient",
+        "Pan retinal photocoagulation",
+        "Focal laser photocoagulation",
+        "Pars plana vitrectomy"
+      ],
+      "ans": 2,
+      "exp": "Rx of diabetic macular edema: 1. focal laser photocoagulation is the TOC; 2. intravitreal triamcinolone; 3. anti-VEGF drugs. (Book p162)"
+    },
+    {
+      "id": "OPH-C35-028",
+      "sec": "Diabetic macular edema",
+      "page": 162,
+      "fmt": "scenario",
+      "q": "A pseudophakic patient with ischemic maculopathy and significant cardiovascular disease needs treatment for diabetic macular edema. Per p162 the preferred option is:",
+      "opts": [
+        "Observation alone",
+        "Focal laser photocoagulation",
+        "Anti-VEGF injection",
+        "Intravitreal triamcinolone"
+      ],
+      "ans": 3,
+      "exp": "Indications for intravitreal triamcinolone: ischemic maculopathy, pseudophakic patient and coexisting cardiovascular disease. (Book p162)"
+    },
+    {
+      "id": "OPH-C35-029",
+      "sec": "Diabetic macular edema",
+      "page": 162,
+      "fmt": "recall",
+      "q": "Anti-VEGF therapy in diabetic macular edema per p162 is indicated for:",
+      "opts": [
+        "Centre involving edema",
+        "Exudates more than two disc diameters from the fovea",
+        "Peripheral retinal ischemia without edema",
+        "Vitreous hemorrhage with a clear macula"
+      ],
+      "ans": 0,
+      "exp": "Anti-VEGF drugs: indication is centre involving edema (central foveal thickness measured within 300 micrometres of the fovea). (Book p162)"
+    },
+    {
+      "id": "OPH-C35-030",
+      "sec": "CSME",
+      "page": 162,
+      "fmt": "numeric",
+      "q": "Clinically significant macular edema (CSME) per p162 includes retinal thickening or exudates within:",
+      "opts": [
+        "1500 micrometres of the centre of the macula only",
+        "500 micrometres of the centre of the macula, or a lesion over one disc diameter in size within one disc diameter (1500 micrometres) of it",
+        "2 disc diameters of the fovea regardless of size",
+        "The foveal avascular zone only"
+      ],
+      "ans": 1,
+      "exp": "CSME: retinal thickening within 500 micrometres of the centre of the macula; exudates within 500 micrometres of the centre of the macula (with retinal thickening anywhere); or retinal thickening/exudates larger than 1 DD within 1 DD (1500 micrometres) of the centre of the macula. (Book p162)"
+    },
+    {
+      "id": "OPH-C35-031",
+      "sec": "Vitreous hemorrhage",
+      "page": 163,
+      "fmt": "match",
+      "q": "Match the cause of vitreous hemorrhage with the patient group per p163 — 1) Adults 2) Young adults 3) Young patients … A) Blunt trauma B) Eale's disease C) Diabetic retinopathy",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 2,
+      "exp": "Causes of vitreous hemorrhage: in adults - diabetic retinopathy; in young adults - blunt trauma; in the young - Eale's disease. (Book p163)"
+    },
+    {
+      "id": "OPH-C35-032",
+      "sec": "Vitreous hemorrhage",
+      "page": 163,
+      "fmt": "management",
+      "q": "Management of vitreous hemorrhage in diabetic retinopathy per p163:",
+      "opts": [
+        "Large hemorrhage is observed and only small hemorrhage is operated",
+        "All patients need immediate pars plana vitrectomy",
+        "All patients are treated with intravitreal antibiotics",
+        "Small hemorrhage is observed; large or recurrent hemorrhage needs endophotocoagulation or pars plana vitrectomy"
+      ],
+      "ans": 3,
+      "exp": "Vitreous hemorrhage Rx: small - observe; large/recurrent - endophotocoagulation or pars plana vitrectomy. (Book p163)"
+    },
+    {
+      "id": "OPH-C35-033",
+      "sec": "Complications",
+      "page": 163,
+      "fmt": "recall",
+      "q": "Rubeosis iridis, a complication of diabetic retinopathy per p163, is:",
+      "opts": [
+        "Neovascularisation of the iris driven by the oxygen demand of the posterior segment",
+        "A congenital iris coloboma",
+        "Pigment dispersion from the iris pigment epithelium",
+        "An inflammatory nodule on the iris"
+      ],
+      "ans": 0,
+      "exp": "Rubeosis iridis: neovascularisation of the iris, d/t the oxygen demand of the posterior segment. (Book p163)"
+    },
+    {
+      "id": "OPH-C35-034",
+      "sec": "Complications",
+      "page": 163,
+      "fmt": "oddoneout",
+      "q": "All of the following are listed complications of diabetic retinopathy on p162-163 EXCEPT:",
+      "opts": [
+        "Diabetic macular edema",
+        "Rubeosis of the conjunctiva",
+        "Vitreous hemorrhage",
+        "Retinal detachment and rubeosis iridis"
+      ],
+      "ans": 1,
+      "exp": "Complications of diabetic retinopathy: 1. diabetic macular edema; 2. vitreous hemorrhage; 3. retinal detachment; 4. rubeosis iridis (neovascularisation of the iris). (Book p163)"
+    }
+  ],
+  "units": [
+    {
+      "id": "OPH-U35-1",
+      "ch": 35,
+      "n": 1,
+      "title": "Risk factors and screening for diabetic retinopathy",
+      "sec": "Retina · p160",
+      "guide": "Diabetic retinopathy risk factors duration of diabetes (a risk) time of screening type 1 after 5 years type 2 as soon as possible HbA1c pregnancy hypertension hyperlipidemia diabetic nephropathy.",
+      "qs": [
+        "OPH-C35-001",
+        "OPH-C35-002",
+        "OPH-C35-003",
+        "OPH-C35-004",
+        "OPH-C35-005"
+      ]
+    },
+    {
+      "id": "OPH-U35-2",
+      "ch": 35,
+      "n": 2,
+      "title": "Pathogenesis of diabetic retinopathy",
+      "sec": "Retina · p160",
+      "guide": "Pathogenesis biochemical changes protein kinase C activation increased sorbitol reactive oxygen intermediates advanced glycation end products anatomical vascular lesions loss of pericytes of capillaries (earliest change) leakage from capillaries neovascularization of retina hallmark of diabetic retinopathy secretion of VEGF.",
+      "qs": [
+        "OPH-C35-006",
+        "OPH-C35-007",
+        "OPH-C35-008",
+        "OPH-C35-009"
+      ]
+    },
+    {
+      "id": "OPH-U35-3",
+      "ch": 35,
+      "n": 3,
+      "title": "Lesions of NPDR and neovascularization of PDR",
+      "sec": "Retina · p161",
+      "guide": "Non-proliferative diabetic retinopathy 1 microaneurysms o/e tiny red dots FFA tiny hyperfluorescent dots 2 hemorrhage flame shaped in superficial nerve fibre layer dot and blot in deeper layers FFA hyperfluorescent 3 exudates lipid deposits in outer plexiform layer o/e yellowish irregular deposits FFA hypofluorescent 4 cotton wool spots (soft exudates) collections of neuronal debris in nerve fibre layer o/e large yellowish deposits regular smooth edges FFA hypofluorescent 5 venous tortuosity d/t hypoxia beading looping 6 IRMA intraretinal microvascular abnormalities shunt vessels bypassing capillary bed precursor to PDR Proliferative diabetic retinopathy neovascularization o/e tortuous tuft of vessel FFA hyperfluorescent NVD at disc or within 1 disc diameter NVE elsewhere.",
+      "qs": [
+        "OPH-C35-010",
+        "OPH-C35-011",
+        "OPH-C35-012",
+        "OPH-C35-013",
+        "OPH-C35-014",
+        "OPH-C35-015",
+        "OPH-C35-016",
+        "OPH-C35-017"
+      ]
+    },
+    {
+      "id": "OPH-U35-4",
+      "ch": 35,
+      "n": 4,
+      "title": "Treatment: follow up, 4-2-1 rule and pan retinal photocoagulation",
+      "sec": "Retina · p162",
+      "guide": "Treatment glycemic control NPDR stage follow up mild 9-12 months moderate 6 months severe 4 months very severe 2 months 4-2-1 rule of NPDR 4 quadrants hemorrhage 2 quadrants venous beading 1 quadrant IRMA any 1 severe NPDR any 2 very severe NPDR PDR pan retinal photocoagulation TOC argon green laser multiple sittings s/e visual field defects anti-VEGF drugs ranibizumab bevacizumab aflibercept brolucizumab Indication for treatment NVD >1/3 disc area NVD with vitreous hemorrhage NVE >1/2 disc area with vitreous hemorrhage.",
+      "qs": [
+        "OPH-C35-018",
+        "OPH-C35-019",
+        "OPH-C35-020",
+        "OPH-C35-021",
+        "OPH-C35-022",
+        "OPH-C35-023",
+        "OPH-C35-024",
+        "OPH-C35-025"
+      ]
+    },
+    {
+      "id": "OPH-U35-5",
+      "ch": 35,
+      "n": 5,
+      "title": "Diabetic macular edema, CSME and other complications",
+      "sec": "Retina · p162-163",
+      "guide": "Complications of diabetic retinopathy 1 diabetic macular edema d/t leakage from capillaries m/c cause of loss of vision in NPDR Rx 1 focal laser photocoagulation TOC 2 intravitreal triamcinolone indications ischemic maculopathy pseudophakic patient coexisting cardiovascular disease 3 anti-VEGF drugs indication centre involving edema (within 300 micrometres of fovea, central thickness) Indication for Rx clinically significant macular edema (CSME) retinal thickening within 500 micrometres of centre of macula exudates within 500 micrometres of centre of macula (with retinal thickening anywhere) retinal thickening or exudates >1 DD size within 1 DD (1500 micrometres) of centre of macula 2 vitreous hemorrhage causes in adults diabetic retinopathy in young adults blunt trauma in young Eale's disease Rx small observe large/recurrent endophotocoagulation pars plana vitrectomy 3 retinal detachment 4 rubeosis iridis neovascularisation of iris d/t oxygen demand by posterior segment.",
+      "qs": [
+        "OPH-C35-026",
+        "OPH-C35-027",
+        "OPH-C35-028",
+        "OPH-C35-029",
+        "OPH-C35-030",
+        "OPH-C35-031",
+        "OPH-C35-032",
+        "OPH-C35-033",
+        "OPH-C35-034"
+      ]
+    }
+  ]
+}

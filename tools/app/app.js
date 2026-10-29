@@ -968,7 +968,7 @@ function questionHtml(q){
     return '<p class="qtext">'+esc(text).split('____').join('<span class="blank"></span>')+'</p>';
   if (fmt==='match'){
     const parts = text.split(/\s*(?:…|\.\.\.)\s*/);
-    if (parts.length>=2){
+    if (parts.length===2){
       const left = [], right = [];
       (parts[0].match(/(?:^|\s)(\d)\)\s*([\s\S]*?)(?=\s+\d\)\s*|$)/g)||[]).forEach(m=>{
         const mm = m.trim().match(/^(\d)\)\s*([\s\S]*)$/); if(mm) left.push([mm[1],mm[2].trim()]); });
@@ -976,10 +976,10 @@ function questionHtml(q){
         const mm = m.trim().match(/^([A-Z])\)\s*([\s\S]*)$/); if(mm) right.push([mm[1],mm[2].trim()]); });
       const stem = parts[0].replace(/(?:^|\s)\d\)\s*[\s\S]*$/,'').trim();
       if (left.length>=2 && right.length>=2){
-        const n = Math.max(left.length, right.length); let rows='';
-        for(let i=0;i<n;i++) rows += '<tr><td class="k">'+(left[i]?left[i][0]:'')+'</td><td>'+(left[i]?rich(left[i][1]):'')+'</td>'
-          + '<td class="k" style="padding-left:14px">'+(right[i]?right[i][0]:'')+'</td><td>'+(right[i]?rich(right[i][1]):'')+'</td></tr>';
-        return '<p class="qtext">'+rich(stem||'Match the following')+'</p><table class="pairs">'+rows+'</table>';
+        const list = (items, title) => '<section class="pairgroup"><div class="pairtitle">'+title+'</div>'
+          + items.map(item=>'<div class="pairitem"><span class="pairkey">'+esc(item[0])+'</span><span>'+rich(item[1])+'</span></div>').join('')+'</section>';
+        return '<p class="qtext">'+rich(stem||'Match the following')+'</p><div class="pairlists">'
+          + list(left, 'Items') + list(right, 'Options') + '</div>';
       }
     }
   }
@@ -1344,18 +1344,18 @@ function viewCards(){
     + '<div class="qbar"><i style="width:'+(100*(cardRun.i+1)/cardRun.items.length).toFixed(1)+'%"></i></div>'
     + '<div class="fcard'+(fl?' flipped':'')+'" id="fcard">'
       + '<div class="fmeta"><span class="chip">'+esc(s.name)+'</span><span class="chip fmt">'+fmtLabel(q[4])+'</span>'
-        + (u ? '<span class="chip">U'+String(u[0]).padStart(2,'0')+'.'+String(u[1]).padStart(2,'0')+'</span>' : '')
+        + (u ? '<span class="chip">'+esc(u[1])+'</span>' : '')
         + (S.flags[key] ? '<span class="chip">\u2605</span>' : '')+'</div>'
-      + '<div class="fq">'+rich(q[0])+'</div>'
+      + '<div class="fq">'+questionHtml(q)+'</div>'
       + (fl
           ? '<div class="ans"><b>Answer</b><p>'+rich(correctAnswerText(q)||'Answer recorded in the book')+'</p>'
-            + (q[3] ? '<div class="ansx">'+rich(q[3])+'</div>' : '')
+            + (q[3] ? '<div class="ansx"><span class="ansx-label">Explanation</span>'+rich(q[3])+'</div>' : '')
             + (note ? '<div class="usernote"><b>Your note</b>'+esc(note)+'</div>' : '')
           + '</div>'
           : '<div class="hintline">Tap the card to reveal the answer</div>')
     + '</div>'
     + (fl
-        ? '<div class="rl" style="text-align:center">How well did you know it? Feeds spaced revision</div>'
+        ? '<div class="card-rating-heading"><b>How well did you know this?</b><span>Your choice schedules the next review.</span></div>'
           + '<div class="rbtns">'
             + '<button class="rbtn again" data-card-rate="again">Again<small>'+srsNextLabel(key,'again')+'</small></button>'
             + '<button class="rbtn hard" data-card-rate="hard">Hard<small>'+srsNextLabel(key,'hard')+'</small></button>'

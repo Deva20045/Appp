@@ -1,0 +1,503 @@
+{
+ "chapter": 47,
+ "title": "Ocular Trauma",
+ "pageRange": "220-222",
+ "questions": [
+  {
+   "id": "OPH-C47-001",
+   "sec": "Ocular trauma classification",
+   "page": 220,
+   "fmt": "match",
+   "q": "Mechanical ocular trauma is divided into blunt trauma and:",
+   "opts": [
+    "Thermal trauma",
+    "Chemical trauma",
+    "Radiation trauma",
+    "Penetrating trauma"
+   ],
+   "ans": 3,
+   "exp": "The mechanical-trauma diagram divides injury into blunt (closed-globe injuries/contusions) and penetrating trauma. (Book p220)"
+  },
+  {
+   "id": "OPH-C47-002",
+   "sec": "Blunt trauma",
+   "page": 220,
+   "fmt": "recall",
+   "q": "Which is an example of blunt ocular trauma listed on the page?",
+   "opts": [
+    "Chemical splash",
+    "Tennis ball injury",
+    "Caterpillar hair",
+    "Laser exposure"
+   ],
+   "ans": 1,
+   "exp": "Blunt-trauma examples include injury by fist, tennis ball and champagne cork. (Book p220)"
+  },
+  {
+   "id": "OPH-C47-003",
+   "sec": "Blunt trauma signs",
+   "page": 220,
+   "fmt": "match",
+   "q": "Match the sign with its description — 1) Black eye  2) Subconjunctival hemorrhage … A) Periocular hematoma  B) Common in trivial trauma",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-B"
+   ],
+   "ans": 2,
+   "exp": "Black eye is periocular hematoma; subconjunctival hemorrhage is common in trivial trauma. (Book p220)"
+  },
+  {
+   "id": "OPH-C47-004",
+   "sec": "Hyphema",
+   "page": 220,
+   "fmt": "scenario",
+   "q": "The most common sign of blunt ocular trauma is blood in the anterior chamber, called:",
+   "opts": [
+    "Hyphema",
+    "Hyposphagma",
+    "Vitreous hemorrhage",
+    "Hypopyon"
+   ],
+   "ans": 0,
+   "exp": "Hyphema is a collection of blood in the anterior chamber and is listed as the most common sign of blunt ocular trauma. (Book p220)"
+  },
+  {
+   "id": "OPH-C47-005",
+   "sec": "Hyphema",
+   "page": 220,
+   "fmt": "recall",
+   "q": "The bleeding source in traumatic hyphema is the:",
+   "opts": [
+    "Central retinal artery",
+    "Circle of Zinn-Haller",
+    "Long posterior ciliary artery",
+    "Circulus arteriosus major"
+   ],
+   "ans": 3,
+   "exp": "The source of bleeding is given as the circulus arteriosus major. (Book p220)"
+  },
+  {
+   "id": "OPH-C47-006",
+   "sec": "Hyphema management",
+   "page": 220,
+   "fmt": "management",
+   "q": "Which is the listed reason for topical steroids in hyphema, with atropine as an optional adjunct?",
+   "opts": [
+    "To dissolve the clot immediately",
+    "To prevent lens subluxation",
+    "To prevent rebleeding and associated inflammation",
+    "To lower the risk of siderosis"
+   ],
+   "ans": 2,
+   "exp": "Topical steroids are used to prevent rebleeding and associated inflammation; atropine is optional. (Book p220)"
+  },
+  {
+   "id": "OPH-C47-007",
+   "sec": "Hyphema management",
+   "page": 220,
+   "fmt": "numeric",
+   "q": "If hyphema has not resorbed by ___ days, anterior-chamber paracentesis/washing is considered.",
+   "opts": [
+    "4",
+    "1",
+    "2",
+    "7"
+   ],
+   "ans": 0,
+   "exp": "Paracentesis/washing is listed if there is no resorption until 4 days. (Book p220)"
+  },
+  {
+   "id": "OPH-C47-008",
+   "sec": "Iris trauma",
+   "page": 220,
+   "fmt": "match",
+   "q": "Match the iris injury — 1) Iridodonesis  2) Iridodialysis … A) Detachment of iris root from ciliary body  B) Tremulous iris",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 1,
+   "exp": "Iridodonesis is tremulous iris; iridodialysis is detachment of the iris root from ciliary body and produces a D-shaped pupil. (Book p220)"
+  },
+  {
+   "id": "OPH-C47-009",
+   "sec": "Iris trauma",
+   "page": 220,
+   "fmt": "scenario",
+   "q": "A D-shaped pupil after blunt trauma points to:",
+   "opts": [
+    "Iridodonesis",
+    "Iridodialysis",
+    "Hyphema",
+    "Vossius ring"
+   ],
+   "ans": 1,
+   "exp": "Iridodialysis detaches the iris root from the ciliary body and is associated with a D-shaped pupil. (Book p220)"
+  },
+  {
+   "id": "OPH-C47-010",
+   "sec": "Lens trauma",
+   "page": 220,
+   "fmt": "match",
+   "q": "Which traumatic lens-sign set is correctly matched?",
+   "opts": [
+    "Rosette cataract: nuclear; Vossius ring: posterior lens imprint",
+    "Rosette cataract: cortical; Vossius ring: iris-root tear",
+    "Rosette cataract: anterior subcapsular; Vossius ring: vitreous pigment",
+    "Rosette cataract: posterior subcapsular; Vossius ring: miotic-pupil imprint on anterior lens"
+   ],
+   "ans": 3,
+   "exp": "Rosette-shaped cataract is posterior subcapsular; Vossius ring is the imprint of a miotic pupil on the anterior lens surface. (Book p220)"
+  },
+  {
+   "id": "OPH-C47-011",
+   "sec": "Lens trauma",
+   "page": 220,
+   "fmt": "recall",
+   "q": "The most common cause of ectopia lentis/subluxation listed here is:",
+   "opts": [
+    "Blunt trauma",
+    "Penetrating injury",
+    "Chemical injury",
+    "Caterpillar-hair exposure"
+   ],
+   "ans": 0,
+   "exp": "Ectopia lentis or subluxation of the lens is most commonly caused by blunt trauma. (Book p220)"
+  },
+  {
+   "id": "OPH-C47-012",
+   "sec": "Lens trauma",
+   "page": 220,
+   "fmt": "fillup",
+   "q": "Phacodonesis refers to a ___ lens.",
+   "opts": [
+    "Vascularised",
+    "Opacified",
+    "Tremulous",
+    "Dislocated posteriorly"
+   ],
+   "ans": 2,
+   "exp": "Phacodonesis is a tremulous lens. (Book p220)"
+  },
+  {
+   "id": "OPH-C47-013",
+   "sec": "Fundus trauma",
+   "page": 221,
+   "fmt": "match",
+   "q": "Match the posterior-segment sign — 1) Berlin edema  2) Commotio retinae … A) Cloudy grey appearance  B) Fluid collection after blunt trauma",
+   "opts": [
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B",
+    "1-B, 2-A"
+   ],
+   "ans": 3,
+   "exp": "Berlin edema is fluid collection due to blunt trauma; commotio retinae has a cloudy grey appearance. (Book p221)"
+  },
+  {
+   "id": "OPH-C47-014",
+   "sec": "Fundus trauma",
+   "page": 221,
+   "fmt": "recall",
+   "q": "Traumatic optic neuropathy is described on this page as:",
+   "opts": [
+    "Progressive in every case",
+    "Self-limiting",
+    "Always bilateral",
+    "Caused by iron deposition"
+   ],
+   "ans": 1,
+   "exp": "The page characterizes traumatic optic neuropathy as self-limiting. (Book p221)"
+  },
+  {
+   "id": "OPH-C47-015",
+   "sec": "Fundus trauma",
+   "page": 221,
+   "fmt": "fillup",
+   "q": "A choroidal rupture may have a ___-handle configuration.",
+   "opts": [
+    "Swan-neck",
+    "Keyhole",
+    "Bucket",
+    "Crescent"
+   ],
+   "ans": 2,
+   "exp": "The listed configuration of choroidal rupture is bucket-handle. (Book p221)"
+  },
+  {
+   "id": "OPH-C47-016",
+   "sec": "Globe rupture",
+   "page": 221,
+   "fmt": "scenario",
+   "q": "After falling on a knob-like object, globe rupture is suspected. The common site listed is the superonasal limbus near:",
+   "opts": [
+    "Schlemm canal",
+    "Fovea",
+    "Lacrimal punctum",
+    "Optic disc"
+   ],
+   "ans": 0,
+   "exp": "Globe rupture may follow a fall on a knob-like object; the listed site is superonasal limbus near Schlemm canal. (Book p221)"
+  },
+  {
+   "id": "OPH-C47-017",
+   "sec": "Penetrating trauma",
+   "page": 221,
+   "fmt": "recall",
+   "q": "Penetrating trauma may lead to sympathetic ophthalmia, a:",
+   "opts": [
+    "Panuveitis",
+    "Anterior scleritis",
+    "Isolated keratitis",
+    "Optic neuropathy"
+   ],
+   "ans": 0,
+   "exp": "Sympathetic ophthalmia (panuveitis) and intraocular foreign body are listed complications of penetrating trauma. (Book p221)"
+  },
+  {
+   "id": "OPH-C47-018",
+   "sec": "Intraocular foreign body",
+   "page": 221,
+   "fmt": "match",
+   "q": "For suspected metallic intraocular foreign body, match investigation and contraindicated imaging — IOC: ___; contraindicated: ___.",
+   "opts": [
+    "MRI; CT scan",
+    "B-scan; plain X-ray",
+    "CT scan; MRI",
+    "OCT; fluorescein angiography"
+   ],
+   "ans": 2,
+   "exp": "Iron and steel are common IOFBs; CT is the investigation of choice and MRI is contraindicated. (Book p221)"
+  },
+  {
+   "id": "OPH-C47-019",
+   "sec": "Siderosis bulbi",
+   "page": 221,
+   "fmt": "match",
+   "q": "Iron deposition in the eye produces which named condition and associated findings?",
+   "opts": [
+    "Chalcosis with sunflower cataract and hypotony",
+    "Sympathetic ophthalmia with heterochromia",
+    "Ophthalmia nodosa with corneal ulcer",
+    "Siderosis bulbi with lens-capsule rust ring, iris hyperpigmentation and secondary open-angle glaucoma"
+   ],
+   "ans": 3,
+   "exp": "Siderosis bulbi follows iron deposition and may cause a rust ring on anterior lens capsule, iris hyperpigmentation and secondary open-angle glaucoma. (Book p221)"
+  },
+  {
+   "id": "OPH-C47-020",
+   "sec": "Siderosis bulbi",
+   "page": 221,
+   "fmt": "recall",
+   "q": "Which reaction is used to stain iron deposits in siderosis bulbi?",
+   "opts": [
+    "Schirmer reaction",
+    "Prussian blue reaction",
+    "Seidel test",
+    "Jones dye test"
+   ],
+   "ans": 1,
+   "exp": "The diagnostic Prussian blue reaction stains iron deposits. (Book p221)"
+  },
+  {
+   "id": "OPH-C47-021",
+   "sec": "Penetrating trauma",
+   "page": 221,
+   "fmt": "scenario",
+   "q": "Uveitis after contact with caterpillar hair is called:",
+   "opts": [
+    "Sympathetic ophthalmia",
+    "Ophthalmia nodosa",
+    "Siderosis bulbi",
+    "Berlin edema"
+   ],
+   "ans": 1,
+   "exp": "Ophthalmia nodosa is associated with caterpillar-hair contact and uveitis. (Book p221)"
+  },
+  {
+   "id": "OPH-C47-022",
+   "sec": "Orbital trauma",
+   "page": 221,
+   "fmt": "recall",
+   "q": "The most common orbital fracture in trauma is a blow-out fracture of the orbital:",
+   "opts": [
+    "Floor",
+    "Roof",
+    "Medial wall",
+    "Lateral wall"
+   ],
+   "ans": 0,
+   "exp": "A blow-out fracture involves the orbital floor and is the most common orbital fracture in trauma. (Book p221)"
+  },
+  {
+   "id": "OPH-C47-023",
+   "sec": "Orbital trauma",
+   "page": 221,
+   "fmt": "match",
+   "q": "Blow-out fracture with inferior oblique/inferior rectus entrapment causes restrictive diplopia on:",
+   "opts": [
+    "Horizontal gaze only",
+    "Convergence only",
+    "Lateral gaze only",
+    "Upgaze and downgaze"
+   ],
+   "ans": 3,
+   "exp": "Clinical findings include infraorbital nerve anaesthesia and restrictive diplopia; entrapped inferior oblique/inferior rectus cause diplopia in upgaze and downgaze. (Book p221)"
+  },
+  {
+   "id": "OPH-C47-024",
+   "sec": "Orbital fractures",
+   "page": 222,
+   "fmt": "recall",
+   "q": "The X-ray sign associated with orbital fracture is the:",
+   "opts": [
+    "Sunburst sign",
+    "Crescent sign",
+    "Tear-drop sign",
+    "Thumbprint sign"
+   ],
+   "ans": 2,
+   "exp": "The orbital-trauma investigation note labels the X-ray tear-drop sign. (Book p222)"
+  },
+  {
+   "id": "OPH-C47-025",
+   "sec": "Orbital fractures",
+   "page": 222,
+   "fmt": "scenario",
+   "q": "Raccoon or panda eyes after trauma suggest fracture of the orbital:",
+   "opts": [
+    "Floor",
+    "Medial wall",
+    "Roof",
+    "Lateral wall"
+   ],
+   "ans": 2,
+   "exp": "Fracture of the roof of the orbit presents with raccoon/panda eyes. (Book p222)"
+  },
+  {
+   "id": "OPH-C47-026",
+   "sec": "Chemical injury",
+   "page": 222,
+   "fmt": "match",
+   "q": "Match the chemical with its tissue effect — 1) Alkali  2) Acid … A) Coagulation, limited penetration  B) Necrosis, deeper penetration",
+   "opts": [
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B",
+    "1-B, 2-A"
+   ],
+   "ans": 3,
+   "exp": "Alkali causes tissue necrosis and deeper penetration; acid causes coagulation and does not penetrate as deeply. (Book p222)"
+  },
+  {
+   "id": "OPH-C47-027",
+   "sec": "Chemical injury",
+   "page": 222,
+   "fmt": "recall",
+   "q": "Which two classifications are listed for grading ocular-surface burns?",
+   "opts": [
+    "FISTO and SAFE",
+    "Dua and Roper-Hall",
+    "Spaeth and Shaffer",
+    "Cotswold and WHO"
+   ],
+   "ans": 1,
+   "exp": "Dua and Roper-Hall classifications are listed for grading ocular surface burns. (Book p222)"
+  },
+  {
+   "id": "OPH-C47-028",
+   "sec": "Chemical injury",
+   "page": 222,
+   "fmt": "management",
+   "q": "The immediate first-aid management of chemical eye injury is:",
+   "opts": [
+    "Copious irrigation with BSS/Ringer lactate, with double eversion of the eyelids",
+    "Topical steroids before irrigation",
+    "Pressure patching without irrigation",
+    "Immediate paracentesis"
+   ],
+   "ans": 0,
+   "exp": "Management begins with copious irrigation using balanced salt solution or Ringer lactate and double eversion of eyelids. (Book p222)"
+  },
+  {
+   "id": "OPH-C47-029",
+   "sec": "Chemical injury",
+   "page": 222,
+   "fmt": "match",
+   "q": "Match the adjunct in chemical injury — 1) Atropine  2) Topical sodium citrate … A) Prevents proteolysis  B) Relieves ciliary spasm",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Listed treatment includes topical antibiotics, atropine for ciliary spasm, lubricants and topical sodium citrate to prevent proteolysis. (Book p222)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U47-1",
+   "ch": 47,
+   "n": 1,
+   "title": "Blunt ocular trauma",
+   "sec": "Miscellaneous · p220",
+   "guide": "Blunt trauma causes closed-globe injury and contusion. Recognize hyphema, iris/lens signs and their named features; manage hyphema to prevent rebleeding and intervene for persistent blood.",
+   "qs": [
+    "OPH-C47-001",
+    "OPH-C47-002",
+    "OPH-C47-003",
+    "OPH-C47-004",
+    "OPH-C47-005",
+    "OPH-C47-006",
+    "OPH-C47-007",
+    "OPH-C47-008",
+    "OPH-C47-009",
+    "OPH-C47-010",
+    "OPH-C47-011",
+    "OPH-C47-012"
+   ]
+  },
+  {
+   "id": "OPH-U47-2",
+   "ch": 47,
+   "n": 2,
+   "title": "Posterior-segment, penetrating and orbital trauma",
+   "sec": "Miscellaneous · p221-222",
+   "guide": "Blunt trauma may produce retinal, choroidal or globe injury. Penetrating trauma raises concern for sympathetic ophthalmia and IOFB; iron IOFB causes siderosis. Blow-out and roof fractures have distinctive findings.",
+   "qs": [
+    "OPH-C47-013",
+    "OPH-C47-014",
+    "OPH-C47-015",
+    "OPH-C47-016",
+    "OPH-C47-017",
+    "OPH-C47-018",
+    "OPH-C47-019",
+    "OPH-C47-020",
+    "OPH-C47-021",
+    "OPH-C47-022",
+    "OPH-C47-023",
+    "OPH-C47-024",
+    "OPH-C47-025"
+   ]
+  },
+  {
+   "id": "OPH-U47-3",
+   "ch": 47,
+   "n": 3,
+   "title": "Chemical ocular injuries",
+   "sec": "Miscellaneous · p222",
+   "guide": "Alkali burns penetrate deeply after liquefactive necrosis; acids cause coagulation and less penetration. Grade ocular-surface burns with Dua or Roper-Hall and begin immediate copious irrigation, followed by supportive and anti-proteolytic treatment.",
+   "qs": [
+    "OPH-C47-026",
+    "OPH-C47-027",
+    "OPH-C47-028",
+    "OPH-C47-029"
+   ]
+  }
+ ]
+}

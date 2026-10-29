@@ -13,7 +13,7 @@ const assert=require('assert');
     q:window.__pulse.SUBJECTS.reduce((a,s)=>a+s.d.q.length,0),
     u:window.__pulse.SUBJECTS.reduce((a,s)=>a+s.d.u.length,0),
     per:window.__pulse.SUBJECTS.map(s=>({id:s.id,c:s.d.c.length,u:s.d.u.length,q:s.d.q.length}))}));
-  assert.equal(stats.subs,12);assert.equal(stats.q,49709);assert.equal(stats.u,4800);
+  assert.equal(stats.subs,12);assert.equal(stats.q,50656);assert.equal(stats.u,4923);
   console.log('PASS bank stats',JSON.stringify(stats.per.filter(x=>['medv1','gyne','aneesh'].includes(x.id))));
 
   // home: Medicine family card, no loose volume cards
@@ -24,7 +24,7 @@ const assert=require('assert');
   assert.equal(await p.locator('[data-sub="medv2"]').count(),0,'vol2 not on home');
   assert(await p.isVisible('[data-sub="gyne"]'));
   assert(await p.isVisible('[data-sub="aneesh"]'));
-  const foot=await p.textContent('#footMeta');assert(foot.includes('49,709'),'foot: '+foot);
+  const foot=await p.textContent('#footMeta');assert(foot.includes('50,656'),'foot: '+foot);
   console.log('PASS home dashboard grouping');
 
   // Medicine -> volumes -> Volume 1 -> chapters -> unit quiz

@@ -1,0 +1,619 @@
+{
+  "chapter": 34,
+  "title": "Dystrophies of Fundus : Retinitis Pigmentosa and others",
+  "pageRange": "156-159",
+  "questions": [
+    {
+      "id": "OPH-C34-001",
+      "sec": "Rods and cones",
+      "page": 156,
+      "fmt": "match",
+      "q": "Match rods and cones with their physiology per p156 — 1) Rods 2) Cones … A) Day and colour (photopic) vision, maximal concentration at the fovea giving central vision B) Night (scotopic) vision, maximal concentration in the perifoveal area giving peripheral vision",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "Rods: night (scotopic) vision and peripheral vision d/t maximal concentration in the perifoveal area. Cones: day and colour (photopic) vision and central vision d/t maximal concentration at the fovea. (Book p156)"
+    },
+    {
+      "id": "OPH-C34-002",
+      "sec": "Rods and cones",
+      "page": 156,
+      "fmt": "recall",
+      "q": "The defect produced by rod dysfunction versus cone dysfunction per p156 is:",
+      "opts": [
+        "Hemeralopia with central scotoma versus nyctalopia with peripheral loss of vision",
+        "Nyctalopia with peripheral loss of vision versus hemeralopia with central scotoma",
+        "Total blindness in both situations",
+        "Colour blindness in both situations"
+      ],
+      "ans": 1,
+      "exp": "Rods: defect is night blindness/nyctalopia with peripheral loss of vision. Cones: defect is colour/day blindness/hemeralopia with central scotoma. (Book p156)"
+    },
+    {
+      "id": "OPH-C34-003",
+      "sec": "Nyctalopia",
+      "page": 156,
+      "fmt": "recall",
+      "q": "The mnemonic used on p156 for the causes of nyctalopia is:",
+      "opts": [
+        "PEPSI",
+        "RUN for PRIDE",
+        "OMG! (CRAP)",
+        "4-2-1 rule"
+      ],
+      "ans": 2,
+      "exp": "Causes of nyctalopia mnemonic: OMG! (CRAP) - Oguchi disease, myopia, gyrate atrophy, congenital stationary night blindness, cataract (cortical), retinal detachment, retinitis pigmentosa, fundus albipunctatus, vitamin A deficiency, phenothiazine toxicity, post refractive surgery. (Book p156)"
+    },
+    {
+      "id": "OPH-C34-004",
+      "sec": "Nyctalopia",
+      "page": 156,
+      "fmt": "oddoneout",
+      "q": "All of the following are listed causes of nyctalopia on p156 EXCEPT:",
+      "opts": [
+        "Gyrate atrophy",
+        "Vitamin A deficiency",
+        "Phenothiazine toxicity",
+        "Achromatopsia"
+      ],
+      "ans": 3,
+      "exp": "Causes of nyctalopia: Oguchi disease, myopia, gyrate atrophy, congenital stationary night blindness, cortical cataract, retinal detachment, retinitis pigmentosa, fundus albipunctatus, vitamin A deficiency, phenothiazine toxicity, post refractive surgery. Achromatopsia is a cone disorder causing hemeralopia. (Book p156)"
+    },
+    {
+      "id": "OPH-C34-005",
+      "sec": "Hemeralopia",
+      "page": 156,
+      "fmt": "oddoneout",
+      "q": "All of the following are listed causes of hemeralopia (day blindness) on p156 EXCEPT:",
+      "opts": [
+        "Gyrate atrophy",
+        "Cone dystrophy",
+        "Central cataract (nuclear or posterior subcapsular)",
+        "Achromatopsia, aniridia and albinism"
+      ],
+      "ans": 0,
+      "exp": "Causes of hemeralopia: cone dystrophy, central cataract (nuclear/posterior subcapsular), Cohen syndrome, achromatopsia, aniridia, albinism and trimethadione. Gyrate atrophy is a rod disorder causing nyctalopia. (Book p156)"
+    },
+    {
+      "id": "OPH-C34-006",
+      "sec": "Retinitis pigmentosa",
+      "page": 156,
+      "fmt": "recall",
+      "q": "Retinitis pigmentosa per p156 is:",
+      "opts": [
+        "An acquired macular degeneration of old age",
+        "The most common hereditary fundus dystrophy",
+        "A vascular occlusion of the retina",
+        "An inflammatory chorioretinopathy"
+      ],
+      "ans": 1,
+      "exp": "Retinitis pigmentosa: m/c hereditary fundus dystrophy. (Book p156)"
+    },
+    {
+      "id": "OPH-C34-007",
+      "sec": "Retinitis pigmentosa",
+      "page": 156,
+      "fmt": "match",
+      "q": "Match the mode of inheritance of retinitis pigmentosa with its prognosis per p156 — 1) Autosomal recessive 2) Autosomal dominant 3) X-linked recessive … A) Best prognosis B) Most common mode of inheritance C) Worst prognosis",
+      "opts": [
+        "1-C, 2-A, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 2,
+      "exp": "Inheritance: autosomal recessive is the m/c mode; autosomal dominant has the best prognosis; X-linked recessive has the worst prognosis. (Book p156)"
+    },
+    {
+      "id": "OPH-C34-008",
+      "sec": "Retinitis pigmentosa",
+      "page": 156,
+      "fmt": "truefalse",
+      "q": "True/false per p156: retinitis pigmentosa is a rod-cone dystrophy, the rods being affected first.",
+      "opts": [
+        "False — only the retinal pigment epithelium is affected",
+        "False — it is a cone-rod dystrophy with cones affected first",
+        "False — rods and cones are affected simultaneously in every case",
+        "True"
+      ],
+      "ans": 3,
+      "exp": "Pathophysiology: rod-cone dystrophy, with rods affected first. (Book p156)"
+    },
+    {
+      "id": "OPH-C34-009",
+      "sec": "Nyctalopia",
+      "page": 156,
+      "fmt": "fillup",
+      "q": "Fill up per p156: the type of cataract that produces nyctalopia is ____ cataract, while the cataract producing hemeralopia is a ____ cataract.",
+      "opts": [
+        "Cortical; central (nuclear or posterior subcapsular)",
+        "Nuclear; cortical",
+        "Posterior subcapsular; cortical",
+        "Congenital; traumatic"
+      ],
+      "ans": 0,
+      "exp": "Causes of nyctalopia include cataract (cortical); causes of hemeralopia include central cataract (nuclear or posterior subcapsular). (Book p156)"
+    },
+    {
+      "id": "OPH-C34-010",
+      "sec": "Clinical features",
+      "page": 157,
+      "fmt": "recall",
+      "q": "The sequence of visual field loss in retinitis pigmentosa per p157 is:",
+      "opts": [
+        "Central scotoma, then ring scotoma, then total blindness",
+        "Mid-peripheral superior scotoma, then ring or doughnut scotoma, then tubular vision",
+        "Bitemporal hemianopia, then ring scotoma, then tubular vision",
+        "Altitudinal defect, then arcuate scotoma, then tunnel vision"
+      ],
+      "ans": 1,
+      "exp": "Symptoms: nyctalopia and peripheral visual field loss - mid-peripheral superior scotoma progressing to a ring/doughnut scotoma and then tubular (tunnel) vision. (Book p157)"
+    },
+    {
+      "id": "OPH-C34-011",
+      "sec": "Clinical features",
+      "page": 157,
+      "fmt": "match",
+      "q": "Match the fundus sign of retinitis pigmentosa with its description per p157 — 1) Arteriolar attenuation 2) Bony spicule pigmentation 3) Waxy pale optic disc 4) Tapetal reflex … A) Perivascular pigment deposits B) Narrow retinal vessels C) Shining reflex at the macula D) Due to consecutive optic atrophy",
+      "opts": [
+        "1-D, 2-A, 3-B, 4-C",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-B, 2-A, 3-D, 4-C",
+        "1-B, 2-D, 3-A, 4-C"
+      ],
+      "ans": 2,
+      "exp": "Signs: 1. arteriolar attenuation; 2. bony spicule (perivascular) pigmentation; 3. waxy pale optic disc d/t consecutive optic atrophy; 4. tapetal reflex, a shining reflex at the macula. (Book p157)"
+    },
+    {
+      "id": "OPH-C34-012",
+      "sec": "Clinical features",
+      "page": 157,
+      "fmt": "scenario",
+      "q": "A mother of a boy with X-linked retinitis pigmentosa is examined and found to have a shining reflex at the macula with no symptoms. This is the:",
+      "opts": [
+        "Vitelliform lesion of Best's dystrophy",
+        "Waxy pallor of the disc from consecutive optic atrophy",
+        "Bull's eye maculopathy of Stargardt's disease",
+        "Tapetal reflex, seen in female carriers of X-linked recessive RP"
+      ],
+      "ans": 3,
+      "exp": "Tapetal reflex: shining reflex at the macula, seen in female carriers of X-linked recessive inheritance. (Book p157)"
+    },
+    {
+      "id": "OPH-C34-013",
+      "sec": "Management",
+      "page": 157,
+      "fmt": "management",
+      "q": "Investigation of choice for retinitis pigmentosa per p157 is:",
+      "opts": [
+        "Electroretinography",
+        "Fundus fluorescein angiography",
+        "Electro-oculography",
+        "B-scan ultrasonography"
+      ],
+      "ans": 0,
+      "exp": "Investigation: electroretinography (ERG) is the IOC. (Book p157)"
+    },
+    {
+      "id": "OPH-C34-014",
+      "sec": "Management",
+      "page": 157,
+      "fmt": "recall",
+      "q": "The Argus II retinal prosthesis used in retinitis pigmentosa per p157:",
+      "opts": [
+        "Restores peripheral vision in early disease and is widely available in India",
+        "Restores central vision in patients with complete loss of vision and is not available in India",
+        "Replaces the need for electroretinography in follow up",
+        "Is an orally administered neuroprotective drug"
+      ],
+      "ans": 1,
+      "exp": "Argus II retinal prosthesis: restores central vision; done in complete loss of vision; not available in India. (Book p157)"
+    },
+    {
+      "id": "OPH-C34-015",
+      "sec": "Management",
+      "page": 157,
+      "fmt": "recall",
+      "q": "Voretigene neparvovec gene therapy per p157 is used in:",
+      "opts": [
+        "Autosomal dominant rhodopsin mutation, using a plasmid vector",
+        "Biallelic RB-1 mutation, using a lentiviral vector",
+        "Biallelic RPE-65 gene mutation, using an adeno-associated virus vector",
+        "Any patient with nyctalopia due to vitamin A deficiency"
+      ],
+      "ans": 2,
+      "exp": "Voretigene neparvovec: used in biallelic RPE-65 gene mutation; adeno-associated virus vector based gene therapy. (Book p157)"
+    },
+    {
+      "id": "OPH-C34-016",
+      "sec": "Systemic associations",
+      "page": 157,
+      "fmt": "match",
+      "q": "Match the syndrome with its systemic associations per p157 — 1) Lawrence Moon Bardet-Biedl (most common) 2) Usher's syndrome 3) Refsum disease 4) Bassen-Kornzweig syndrome … A) RP with deafness B) RP with cerebellar ataxia and polyneuropathy C) RP with abetalipoproteinemia and acanthocytosis (spur cells) D) RP with intellectual disability, obesity and polydactyly",
+      "opts": [
+        "1-D, 2-B, 3-A, 4-C",
+        "1-A, 2-D, 3-C, 4-B",
+        "1-C, 2-A, 3-B, 4-D",
+        "1-D, 2-A, 3-B, 4-C"
+      ],
+      "ans": 3,
+      "exp": "Systemic associations: Lawrence Moon Bardet-Biedl (m/c) = RP + intellectual disability + obesity + polydactyly; Usher's = RP + deafness; Refsum disease = RP + cerebellar ataxia + polyneuropathy; Bassen-Kornzweig = RP + abetalipoproteinemia + acanthocytosis (spur cells). (Book p157)"
+    },
+    {
+      "id": "OPH-C34-017",
+      "sec": "Systemic associations",
+      "page": 157,
+      "fmt": "recall",
+      "q": "The most common systemic association of retinitis pigmentosa per p157 is:",
+      "opts": [
+        "Lawrence Moon Bardet-Biedl syndrome",
+        "Usher's syndrome",
+        "Refsum disease",
+        "Bassen-Kornzweig syndrome"
+      ],
+      "ans": 0,
+      "exp": "Systemic associations: Lawrence Moon Bardet-Biedl syndrome is the m/c (RP + intellectual disability + obesity + polydactyly). (Book p157)"
+    },
+    {
+      "id": "OPH-C34-018",
+      "sec": "Best and Stargardt",
+      "page": 158,
+      "fmt": "match",
+      "q": "Match the macular dystrophy with its inheritance per p158 — 1) Best's macular dystrophy 2) Stargardt's disease … A) Autosomal recessive, the most common juvenile macular dystrophy B) Autosomal dominant",
+      "opts": [
+        "1-A, 2-B",
+        "1-B, 2-A",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 1,
+      "exp": "Best's macular dystrophy is autosomal dominant; Stargardt's disease is autosomal recessive and is the m/c juvenile macular dystrophy. (Book p158)"
+    },
+    {
+      "id": "OPH-C34-019",
+      "sec": "Best and Stargardt",
+      "page": 158,
+      "fmt": "recall",
+      "q": "Fundus findings in Best's macular dystrophy per p158 include:",
+      "opts": [
+        "Bony spicule pigmentation with arteriolar attenuation",
+        "Bull's eye maculopathy with a silent choroid",
+        "Vitelliform (egg yolk) lesion with lipofuscin accumulation, pseudohypopyon and a vitelliruptive stage",
+        "Cherry red spot at the macula"
+      ],
+      "ans": 2,
+      "exp": "Best's dystrophy signs: lipofuscin accumulation; fundus shows a vitelliform (egg yolk) lesion, pseudohypopyon and a vitelliruptive stage. (Book p158)"
+    },
+    {
+      "id": "OPH-C34-020",
+      "sec": "Best and Stargardt",
+      "page": 158,
+      "fmt": "numeric",
+      "q": "Investigation of choice and electro-oculography findings in Best's macular dystrophy per p158:",
+      "opts": [
+        "OCT is the IOC; the Arden's ratio is above 1.85",
+        "ERG is the IOC and is grossly abnormal; the EOG is normal",
+        "FFA is the IOC showing a flower petal pattern; the EOG is normal",
+        "EOG is the IOC with an Arden's ratio below 1.5 (150%); the ERG is normal"
+      ],
+      "ans": 3,
+      "exp": "Investigation: EOG is the IOC and shows an Arden's ratio <1.5 or 150% (normal >1.85); the ERG is normal. (Book p158)"
+    },
+    {
+      "id": "OPH-C34-021",
+      "sec": "Best and Stargardt",
+      "page": 158,
+      "fmt": "recall",
+      "q": "Stargardt's disease per p158 presents with hemeralopia and central scotoma; the fundus shows:",
+      "opts": [
+        "Bull's eye maculopathy and the dark (silent) choroid sign",
+        "A vitelliform egg yolk lesion",
+        "Bony spicule pigmentation around the arcades",
+        "A cherry red spot with a pale fundus"
+      ],
+      "ans": 0,
+      "exp": "Stargardt's disease: autosomal recessive, m/c juvenile macular dystrophy; symptoms hemeralopia and central scotoma; signs - bull's eye maculopathy and dark choroid/silent choroid sign. (Book p158)"
+    },
+    {
+      "id": "OPH-C34-022",
+      "sec": "Best and Stargardt",
+      "page": 158,
+      "fmt": "scenario",
+      "q": "On fluorescein angiography in Stargardt's disease the choroid appears dark because:",
+      "opts": [
+        "The choroidal circulation is absent in this disease",
+        "Background fluorescence from dye in the choroidal vessels is blocked",
+        "The dye cannot be injected intravenously in these patients",
+        "The retinal pigment epithelium fluoresces instead of the choroid"
+      ],
+      "ans": 1,
+      "exp": "Dark choroid/silent choroid sign: on FFA the normal background fluorescence d/t dye in the choroidal vessels is not seen. (Book p158)"
+    },
+    {
+      "id": "OPH-C34-023",
+      "sec": "Best and Stargardt",
+      "page": 158,
+      "fmt": "fillup",
+      "q": "Fill up per p158: Stargardt's disease is the most common ____ macular dystrophy.",
+      "opts": [
+        "X-linked",
+        "Adult onset",
+        "Juvenile",
+        "Mitochondrial"
+      ],
+      "ans": 2,
+      "exp": "Stargardt's disease: autosomal recessive and the m/c juvenile macular dystrophy. (Book p158)"
+    },
+    {
+      "id": "OPH-C34-024",
+      "sec": "Chloroquine toxicity",
+      "page": 159,
+      "fmt": "recall",
+      "q": "Stage 1 (pre-maculopathy) of chloroquine toxicity per p159 is characterized by:",
+      "opts": [
+        "Nyctalopia with peripheral field loss",
+        "A bull's eye lesion with irreversible visual loss",
+        "Vortex keratopathy with photophobia",
+        "Normal vision with a central scotoma, and it is reversible"
+      ],
+      "ans": 3,
+      "exp": "1. Pre-maculopathy (reversible): normal vision with a central scotoma. (Book p159)"
+    },
+    {
+      "id": "OPH-C34-025",
+      "sec": "Chloroquine toxicity",
+      "page": 159,
+      "fmt": "numeric",
+      "q": "Risk thresholds for chloroquine maculopathy per p159 include all of the following EXCEPT:",
+      "opts": [
+        "Cumulative dose of more than 46 g",
+        "Daily dose of more than 3.5 mg/kg or 250 mg",
+        "Duration of treatment of more than 5 years",
+        "Associated renal or liver dysfunction"
+      ],
+      "ans": 0,
+      "exp": "Maculopathy is seen if: daily dose >3.5 mg/kg or 250 mg, cumulative dose >460 g, duration of treatment >5 years, or renal/liver dysfunction. (Book p159)"
+    },
+    {
+      "id": "OPH-C34-026",
+      "sec": "Chloroquine toxicity",
+      "page": 159,
+      "fmt": "recall",
+      "q": "Established chloroquine maculopathy per p159 shows:",
+      "opts": [
+        "A vitelliform lesion with a normal electro-oculogram",
+        "A bull's eye lesion with diminished visual acuity that is irreversible",
+        "Bony spicule pigmentation with nyctalopia",
+        "A cherry red spot with a silent choroid"
+      ],
+      "ans": 1,
+      "exp": "2. Maculopathy: bull's eye lesion; clinical features - diminished visual acuity, irreversible. 3. Vortex keratopathy. (Book p159)"
+    },
+    {
+      "id": "OPH-C34-027",
+      "sec": "Chloroquine toxicity",
+      "page": 159,
+      "fmt": "scenario",
+      "q": "A patient on long term chloroquine for rheumatoid arthritis is found to have a corneal whorl like epithelial deposit. This is:",
+      "opts": [
+        "A band shaped keratopathy from hypercalcaemia",
+        "Bull's eye maculopathy of stage 2 disease",
+        "Vortex keratopathy, the third manifestation of chloroquine toxicity",
+        "An iron line from a retained intraocular foreign body"
+      ],
+      "ans": 2,
+      "exp": "Chloroquine toxicity: 1. pre-maculopathy (reversible); 2. maculopathy (bull's eye lesion, irreversible); 3. vortex keratopathy. (Book p159)"
+    },
+    {
+      "id": "OPH-C34-028",
+      "sec": "Congenital night blindness",
+      "page": 159,
+      "fmt": "recall",
+      "q": "Congenital night blindness disorder is also known as:",
+      "opts": [
+        "Acquired vitamin A deficiency",
+        "Adult onset hemeralopia",
+        "Congenital stationary day blindness",
+        "Infantile onset nyctalopia"
+      ],
+      "ans": 3,
+      "exp": "Congenital night blindness disorder: aka infantile onset nyctalopia. (Book p159)"
+    },
+    {
+      "id": "OPH-C34-029",
+      "sec": "Congenital night blindness",
+      "page": 159,
+      "fmt": "match",
+      "q": "Match the congenital night blindness disorder with its ERG finding per p159 — 1) Congenital stationary night blindness 2) Oguchi disease 3) Fundus albipunctatus … A) Negative ERG with a normal fundus B) Absent rod responses C) Negative ERG with a normal fundus",
+      "opts": [
+        "1-A, 2-C, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 0,
+      "exp": "ERG in congenital night blindness: CSNB and Oguchi disease show a negative ERG with a normal fundus; fundus albipunctatus shows absent rod responses (enhanced S cone syndrome has an abnormal ERG). (Book p159)"
+    },
+    {
+      "id": "OPH-C34-030",
+      "sec": "Oguchi disease",
+      "page": 159,
+      "fmt": "recall",
+      "q": "In Oguchi disease the pathology per p159 is:",
+      "opts": [
+        "Degeneration of the rod outer segments",
+        "Damage in conduction with no damage to the rod cells",
+        "Absence of the retinal pigment epithelium",
+        "A mutation of the RPE-65 gene"
+      ],
+      "ans": 1,
+      "exp": "Oguchi disease: damage in conduction, with no damage to the rod cells. (Book p159)"
+    },
+    {
+      "id": "OPH-C34-031",
+      "sec": "Oguchi disease",
+      "page": 159,
+      "fmt": "match",
+      "q": "Match the Mizuo-Nakamura phenomenon of Oguchi disease per p159 — 1) In bright conditions 2) In dark conditions … A) Dark adapted retina B) Golden yellow fundus",
+      "opts": [
+        "1-A, 2-A",
+        "1-A, 2-B",
+        "1-B, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 2,
+      "exp": "Mizuo-Nakamura phenomenon: golden yellow fundus in bright conditions and a dark adapted retina in dark conditions. (Book p159)"
+    },
+    {
+      "id": "OPH-C34-032",
+      "sec": "Miscellaneous",
+      "page": 159,
+      "fmt": "recall",
+      "q": "X-linked retinoschisis per p159 is a split in the retina:",
+      "opts": [
+        "Between the internal limiting membrane and the vitreous cortex",
+        "Between the outer plexiform and outer nuclear layers, giving cystic spaces",
+        "Between the retinal pigment epithelium and Bruch's membrane",
+        "Between the nerve fibre layer and the rest of the retina, giving a bicycle wheel maculopathy"
+      ],
+      "ans": 3,
+      "exp": "X-linked retinoschisis: split in retina between the nerve fibre layer and the rest of the retina; O/E bicycle wheel maculopathy. (Book p159)"
+    },
+    {
+      "id": "OPH-C34-033",
+      "sec": "Miscellaneous",
+      "page": 159,
+      "fmt": "recall",
+      "q": "Stickler's syndrome per p159 is important because it is:",
+      "opts": [
+        "The most common inherited cause of retinal detachment in children",
+        "The most common cause of congenital cataract",
+        "The most common hereditary fundus dystrophy",
+        "The most common cause of rubeosis iridis"
+      ],
+      "ans": 0,
+      "exp": "Stickler's syndrome: m/c inherited cause of retinal detachment in children. (Book p159)"
+    },
+    {
+      "id": "OPH-C34-034",
+      "sec": "Miscellaneous",
+      "page": 159,
+      "fmt": "oddoneout",
+      "q": "All of the following are causes of congenital (infantile onset) night blindness listed on p159 EXCEPT:",
+      "opts": [
+        "Enhanced S cone syndrome",
+        "Gyrate atrophy",
+        "Oguchi disease",
+        "Congenital stationary night blindness"
+      ],
+      "ans": 1,
+      "exp": "Congenital night blindness disorders listed: congenital stationary night blindness, Oguchi disease, enhanced S cone syndrome and fundus albipunctatus. Gyrate atrophy is listed on p156 among the causes of nyctalopia. (Book p159)"
+    },
+    {
+      "id": "OPH-C34-035",
+      "sec": "Congenital night blindness",
+      "page": 159,
+      "fmt": "recall",
+      "q": "Which congenital night blindness disorder shows an abnormal ERG per p159?",
+      "opts": [
+        "Oguchi disease",
+        "Congenital stationary night blindness",
+        "Enhanced S cone syndrome",
+        "Fundus albipunctatus"
+      ],
+      "ans": 2,
+      "exp": "ERG in congenital night blindness: CSNB and Oguchi disease give a negative ERG with a normal fundus, enhanced S cone syndrome gives an abnormal ERG and fundus albipunctatus gives absent rod responses. (Book p159)"
+    }
+  ],
+  "units": [
+    {
+      "id": "OPH-U34-1",
+      "ch": 34,
+      "n": 1,
+      "title": "Physiology of rods and cones, nyctalopia, hemeralopia and RP basics",
+      "sec": "Retina · p156",
+      "guide": "Physiology of rods and cones Rods night (scotopic) vision peripheral vision d/t max concentration in perifoveal area defect night blindness/nyctalopia peripheral loss of vision Cones day colour (photopic) vision central vision d/t max concentration at fovea defect colour/day blindness/hemeralopia central scotoma Causes of nyctalopia mnemonic OMG! (CRAP) Oguchi disease myopia gyrate atrophy congenital stationary night blindness cataract (cortical) retinal detachment retinitis pigmentosa albipunctatus (fundus) vitamin A deficiency phenothiazine toxicity post refractive surgery Causes of hemeralopia cone dystrophy central cataract (nuclear/posterior subcapsular) Cohen syndrome achromatopsia aniridia albinism trimethadione Retinitis pigmentosa m/c hereditary fundus dystrophy inheritance AR m/c mode AD best prognosis XLR worst prognosis pathophysiology rod-cone dystrophy (rods affected first).",
+      "qs": [
+        "OPH-C34-001",
+        "OPH-C34-002",
+        "OPH-C34-003",
+        "OPH-C34-004",
+        "OPH-C34-005",
+        "OPH-C34-006",
+        "OPH-C34-007",
+        "OPH-C34-008",
+        "OPH-C34-009"
+      ]
+    },
+    {
+      "id": "OPH-U34-2",
+      "ch": 34,
+      "n": 2,
+      "title": "Clinical features, management and systemic associations of RP",
+      "sec": "Retina · p157",
+      "guide": "Clinical features Symptoms nyctalopia peripheral visual field loss mid-peripheral superior scotoma ring/doughnut scotoma tubular/tunnel vision Signs 1 arteriolar attenuation 2 bony spicule (perivascular) pigmentation 3 waxy pale optic disc d/t consecutive optic atrophy 4 tapetal reflex shining reflex at macula seen in female carriers of XLR inheritance Management investigation ERG IOC Treatment Argus II retinal prosthesis restores central vision done in complete loss of vision not available in India Voretigene neparvovec used in biallelic RPE-65 gene mutation adeno-associated virus vector based gene therapy Systemic associations Lawrence Moon Bardet-Biedl syndrome (m/c) RP + intellectual disability + obesity + polydactyly Usher's syndrome RP + deafness Refsum disease RP + cerebellar ataxia + polyneuropathy Bassen Kornzweig syndrome RP + abetalipoproteinemia + acanthocytosis (spur cells).",
+      "qs": [
+        "OPH-C34-010",
+        "OPH-C34-011",
+        "OPH-C34-012",
+        "OPH-C34-013",
+        "OPH-C34-014",
+        "OPH-C34-015",
+        "OPH-C34-016",
+        "OPH-C34-017"
+      ]
+    },
+    {
+      "id": "OPH-U34-3",
+      "ch": 34,
+      "n": 3,
+      "title": "Best's macular dystrophy and Stargardt's disease",
+      "sec": "Retina · p158",
+      "guide": "Best's macular dystrophy autosomal dominant symptoms hemeralopia central scotoma signs lipofuscin accumulation fundus vitelliform lesion (egg yolk appearance) pseudohypopyon vitelliruptive stage investigation EOG IOC Arden's ratio <1.5 or 150% (normal >1.85) ERG normal Stargardt's disease autosomal recessive m/c juvenile macular dystrophy symptoms hemeralopia central scotoma signs bull's eye maculopathy dark choroid/silent choroid sign (normal FFA background fluorescence d/t dye in choroidal vessels is absent).",
+      "qs": [
+        "OPH-C34-018",
+        "OPH-C34-019",
+        "OPH-C34-020",
+        "OPH-C34-021",
+        "OPH-C34-022",
+        "OPH-C34-023"
+      ]
+    },
+    {
+      "id": "OPH-U34-4",
+      "ch": 34,
+      "n": 4,
+      "title": "Chloroquine toxicity",
+      "sec": "Retina · p159",
+      "guide": "Chloroquine toxicity 1 pre-maculopathy (reversible) normal vision + central scotoma 2 maculopathy bull's eye lesion seen if daily dose >3.5 mg/kg or 250 mg cumulative dose >460 g duration of Rx >5 yrs renal/liver dysfunction clinical features diminished visual acuity irreversible 3 vortex keratopathy.",
+      "qs": [
+        "OPH-C34-024",
+        "OPH-C34-025",
+        "OPH-C34-026",
+        "OPH-C34-027"
+      ]
+    },
+    {
+      "id": "OPH-U34-5",
+      "ch": 34,
+      "n": 5,
+      "title": "Congenital night blindness, Oguchi disease, retinoschisis and Stickler's",
+      "sec": "Retina · p159",
+      "guide": "Congenital night blindness disorder aka infantile onset nyctalopia causes (with ERG and fundus) congenital stationary night blindness negative ERG normal fundus Oguchi disease negative ERG normal fundus enhanced S cone syndrome abnormal ERG fundus albipunctatus absent rod responses Oguchi disease damage in conduction (no damage to rod cells) Mizuo-Nakamura phenomenon golden yellow fundus in bright conditions dark adapted retina in dark conditions Miscellaneous X-linked retinoschisis split in retina between nerve fibre layer and rest of retina O/E bicycle wheel maculopathy Stickler's syndrome m/c inherited cause of retinal detachment in children.",
+      "qs": [
+        "OPH-C34-028",
+        "OPH-C34-029",
+        "OPH-C34-030",
+        "OPH-C34-031",
+        "OPH-C34-032",
+        "OPH-C34-033",
+        "OPH-C34-034",
+        "OPH-C34-035"
+      ]
+    }
+  ]
+}

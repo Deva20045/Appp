@@ -1,0 +1,1225 @@
+{
+ "chapter": 39,
+ "title": "Corneal Ulcer and Keratitis",
+ "pageRange": "175-179",
+ "questions": [
+  {
+   "id": "OPH-C39-001",
+   "sec": "Definition",
+   "page": 175,
+   "fmt": "fillup",
+   "q": "A corneal ulcer is a discontinuity in the corneal epithelium plus cellular infiltration and ___ of the underlying layers.",
+   "opts": [
+    "Vascularization",
+    "Edema",
+    "Scarring",
+    "Necrosis"
+   ],
+   "ans": 3,
+   "exp": "Definition: discontinuity in corneal epithelium + cellular infiltration & necrosis of underlying layers. (Book p175)"
+  },
+  {
+   "id": "OPH-C39-002",
+   "sec": "Bacterial ulcer - etiology",
+   "page": 175,
+   "fmt": "recall",
+   "q": "Which organism is the most common cause of bacterial corneal ulcer worldwide?",
+   "opts": [
+    "Pneumococcus",
+    "Staphylococcus aureus",
+    "Pseudomonas",
+    "Nocardia"
+   ],
+   "ans": 1,
+   "exp": "Etiology: Staphylococcus aureus: m/c worldwide. (Book p175)"
+  },
+  {
+   "id": "OPH-C39-003",
+   "sec": "Bacterial ulcer - etiology",
+   "page": 175,
+   "fmt": "recall",
+   "q": "Which organism is the most common cause of bacterial corneal ulcer in India?",
+   "opts": [
+    "Staphylococcus aureus",
+    "Pseudomonas",
+    "Pneumococcus",
+    "Atypical mycobacteria"
+   ],
+   "ans": 2,
+   "exp": "Pneumococcus: MC in India. (Book p175)"
+  },
+  {
+   "id": "OPH-C39-004",
+   "sec": "Bacterial ulcer - etiology",
+   "page": 175,
+   "fmt": "scenario",
+   "q": "A pneumococcal ulcer spreads from the centre to the periphery in a zigzag pattern and is accompanied by a hypopyon. What is this presentation called?",
+   "opts": [
+    "Ulcer serpens with hypopyon corneal ulcer",
+    "Wreath shaped ulcer with pin head lesions",
+    "Ring shaped ulcer with abscess",
+    "Ectatic cicatrix with pseudo-cornea"
+   ],
+   "ans": 0,
+   "exp": "Pneumococcus: ulcer serpens - centre -> periphery in zigzag pattern; hypopyon corneal ulcer. (Book p175)"
+  },
+  {
+   "id": "OPH-C39-005",
+   "sec": "Bacterial ulcer - etiology",
+   "page": 175,
+   "fmt": "scenario",
+   "q": "A contact lens user develops a corneal ulcer with green discharge. Which organism does the book link to this?",
+   "opts": [
+    "Pneumococcus",
+    "Pseudomonas",
+    "Nocardia",
+    "Haemophilus aegyptius"
+   ],
+   "ans": 1,
+   "exp": "Pseudomonas: m/c in contact lens users; green discharge. (Book p175)"
+  },
+  {
+   "id": "OPH-C39-006",
+   "sec": "Bacterial ulcer - etiology",
+   "page": 175,
+   "fmt": "scenario",
+   "q": "A corneal ulcer develops in a patient with a history of LASIK. Which group of organisms is m/c in this setting per the book?",
+   "opts": [
+    "Pseudomonas",
+    "Staphylococcus aureus",
+    "Corynebacterium diphtheria",
+    "Atypical mycobacteria"
+   ],
+   "ans": 3,
+   "exp": "Atypical mycobacteria: m/c in h/o LASIK. (Book p175)"
+  },
+  {
+   "id": "OPH-C39-007",
+   "sec": "Bacterial ulcer - etiology",
+   "page": 175,
+   "fmt": "fillup",
+   "q": "A wreath shaped or pin head ulcer is characteristic of ___.",
+   "opts": [
+    "Nocardia",
+    "Pneumococcus",
+    "Pseudomonas",
+    "Neisseria"
+   ],
+   "ans": 0,
+   "exp": "Nocardia: wreath shaped/Pin head ulcer (photograph captioned Wreath shaped ulcer). (Book p175)"
+  },
+  {
+   "id": "OPH-C39-008",
+   "sec": "Bacterial ulcer - etiology",
+   "page": 175,
+   "fmt": "fillup",
+   "q": "In the pneumococcal ulcer photograph, the hypopyon is labelled as a collection of ___ in the anterior chamber.",
+   "opts": [
+    "Blood",
+    "Lymph",
+    "Pus",
+    "Aqueous humour"
+   ],
+   "ans": 2,
+   "exp": "Figure labels: Corneal ulcer; Hypopyon: Collection of pus in anterior chamber. (Book p175)"
+  },
+  {
+   "id": "OPH-C39-009",
+   "sec": "Bacteria invading intact epithelium",
+   "page": 175,
+   "fmt": "fillup",
+   "q": "Neisseria species (N. meningitidis and ___) are among the bacteria that can invade an intact epithelium.",
+   "opts": [
+    "N. lactamica",
+    "N. gonorrhoea",
+    "N. sicca",
+    "N. aegyptius"
+   ],
+   "ans": 1,
+   "exp": "Bacteria invading intact epithelium: Neisseria - N. meningitidis, N. gonorrhoea. (Book p175)"
+  },
+  {
+   "id": "OPH-C39-010",
+   "sec": "Bacteria invading intact epithelium",
+   "page": 175,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT in the book's list of bacteria invading intact epithelium?",
+   "opts": [
+    "Pseudomonas",
+    "Corynebacterium diphtheria",
+    "Listeria",
+    "Shigella"
+   ],
+   "ans": 0,
+   "exp": "The list: Neisseria, Corynebacterium diphtheria, Listeria, Shigella and Haemophilus aegyptius. Pseudomonas is listed separately as m/c in contact lens users. (Book p175)"
+  },
+  {
+   "id": "OPH-C39-011",
+   "sec": "Bacteria invading intact epithelium",
+   "page": 175,
+   "fmt": "recall",
+   "q": "Along with Neisseria, Corynebacterium diphtheria, Listeria and Shigella, which organism completes the list of bacteria invading intact epithelium?",
+   "opts": [
+    "Staphylococcus aureus",
+    "Nocardia",
+    "Haemophilus aegyptius",
+    "Pneumococcus"
+   ],
+   "ans": 2,
+   "exp": "Last item of the list: Haemophilus aegyptius. (Book p175)"
+  },
+  {
+   "id": "OPH-C39-012",
+   "sec": "Pathogenesis",
+   "page": 175,
+   "fmt": "scenario",
+   "q": "An ulcer is saucer shaped with overhanging margins. Which pathogenic stage is this?",
+   "opts": [
+    "Stage 2 - progressive stage",
+    "Stage 3 - regressive stage",
+    "Stage 4 - scar/cicatrization",
+    "Stage 1 - initial stage"
+   ],
+   "ans": 3,
+   "exp": "Stage 1 - Initial stage: Saucer shaped ulcer with overhanging margins. (Book p175)"
+  },
+  {
+   "id": "OPH-C39-013",
+   "sec": "Pathogenesis",
+   "page": 175,
+   "fmt": "recall",
+   "q": "What characterises the progressive stage (stage 2) of a bacterial corneal ulcer?",
+   "opts": [
+    "Smooth floor and edges with vascularization",
+    "Saucer shaped ulcer with overhanging margins",
+    "Infiltration by PMNs with hypopyon",
+    "Permanent vision loss"
+   ],
+   "ans": 2,
+   "exp": "Stage 2 - Progressive stage: infiltration by PMNs; hypopyon; keratouveitis. (Book p175)"
+  },
+  {
+   "id": "OPH-C39-014",
+   "sec": "Pathogenesis",
+   "page": 175,
+   "fmt": "fillup",
+   "q": "In stage 2, the keratouveitis hypopyon is mobile, liquid like pus and is ___.",
+   "opts": [
+    "Thick and immobile",
+    "Asterile",
+    "Antigen-antibody complexes",
+    "Sterile"
+   ],
+   "ans": 3,
+   "exp": "Keratouveitis: mobile - liquid like pus; sterile. (The fungal hypopyon is thick and immobile, p177.) (Book p175)"
+  },
+  {
+   "id": "OPH-C39-015",
+   "sec": "Pathogenesis",
+   "page": 175,
+   "fmt": "recall",
+   "q": "Which stage diagrams are printed on p175, beside the pathogenesis text?",
+   "opts": [
+    "Stage 1, Stage 2 and Stage 3",
+    "Stage 1 and Stage 2 only",
+    "Stage 2, Stage 3 and Stage 4",
+    "Stage 1, Stage 3 and Stage 4"
+   ],
+   "ans": 0,
+   "exp": "The diagram captions on p175 are Stage 1, Stage 2, Stage 3; Stage 4 is drawn on p176. (Book p175)"
+  },
+  {
+   "id": "OPH-C39-016",
+   "sec": "Pathogenesis",
+   "page": 176,
+   "fmt": "scenario",
+   "q": "An ulcer shows a smooth floor and edges, vascularization and a decreasing inflammatory response. Which stage is this?",
+   "opts": [
+    "Stage 1 - initial stage",
+    "Stage 3 - regressive stage",
+    "Stage 2 - progressive stage",
+    "Stage 4 - scar/cicatrization"
+   ],
+   "ans": 1,
+   "exp": "Stage 3 - Regressive stage: smooth floor & edges of ulcer; vascularization +; decreased inflammatory response. (Book p176)"
+  },
+  {
+   "id": "OPH-C39-017",
+   "sec": "Pathogenesis",
+   "page": 176,
+   "fmt": "fillup",
+   "q": "Stage 4 (scar/cicatrization) of a corneal ulcer results in ___.",
+   "opts": [
+    "Permanent vision loss",
+    "Hypopyon",
+    "Temporary ciliary spasm",
+    "Vascularization with smooth edges"
+   ],
+   "ans": 0,
+   "exp": "Stage 4 - Scar/Cicatrization: Permanent vision loss. (Book p176)"
+  },
+  {
+   "id": "OPH-C39-018",
+   "sec": "Complications",
+   "page": 176,
+   "fmt": "recall",
+   "q": "Which pair describes an ectatic cicatrix?",
+   "opts": [
+    "Herniation of Descemet's membrane through the ulcer",
+    "Thinning of the cornea, with bulging due to raised IOP (temporary/permanent)",
+    "Bulging with incarceration of iris tissue",
+    "Corneal surface formed by iris plugging a perforation"
+   ],
+   "ans": 1,
+   "exp": "Ectatic cicatrix: thinning of cornea; bulging of cornea d/t raised IOP (temporary/permanent). (Book p176)"
+  },
+  {
+   "id": "OPH-C39-019",
+   "sec": "Complications",
+   "page": 176,
+   "fmt": "scenario",
+   "q": "The cornea bulges because of thinning together with incarceration of iris tissue. Which complication is this?",
+   "opts": [
+    "Ectatic cicatrix",
+    "Descemetocoele",
+    "Anterior staphyloma",
+    "Pseudo-cornea"
+   ],
+   "ans": 2,
+   "exp": "Anterior staphyloma: bulging of cornea d/t thinning + incarceration of iris tissue. (Book p176)"
+  },
+  {
+   "id": "OPH-C39-020",
+   "sec": "Complications",
+   "page": 176,
+   "fmt": "fillup",
+   "q": "Herniation of Descemet's membrane through a corneal ulcer is called a ___.",
+   "opts": [
+    "Anterior staphyloma",
+    "Ectatic cicatrix",
+    "Pseudo-cornea",
+    "Descemetocoele"
+   ],
+   "ans": 3,
+   "exp": "Descemetocoele: herniation of Descemet's membrane through corneal ulcer. (Book p176)"
+  },
+  {
+   "id": "OPH-C39-021",
+   "sec": "Complications",
+   "page": 176,
+   "fmt": "fillup",
+   "q": "After perforation of the cornea, the aqueous leak causes ___ IOP.",
+   "opts": [
+    "Increased",
+    "Unchanged",
+    "Fluctuating",
+    "Decreased"
+   ],
+   "ans": 3,
+   "exp": "Perforation of cornea: a. Aqueous leak -> decreased IOP. (Book p176)"
+  },
+  {
+   "id": "OPH-C39-022",
+   "sec": "Complications",
+   "page": 176,
+   "fmt": "scenario",
+   "q": "After perforation, the corneal surface is re-formed by plugging of the perforation by iris tissue. What is this called?",
+   "opts": [
+    "Anterior staphyloma",
+    "Descemetocoele",
+    "Pseudo-cornea",
+    "Ectatic cicatrix"
+   ],
+   "ans": 2,
+   "exp": "Perforation: b. iris prolapse; c. pseudo-cornea - corneal surface formed d/t plugging of perforation by iris tissue. (Book p176)"
+  },
+  {
+   "id": "OPH-C39-023",
+   "sec": "Complications",
+   "page": 176,
+   "fmt": "recall",
+   "q": "Which complication completes the list: ectatic cicatrix, anterior staphyloma, descemetocoele, perforation of cornea, and ___?",
+   "opts": [
+    "Endophthalmitis/Panophthalmitis",
+    "Neovascular glaucoma",
+    "Hyperoleon",
+    "Retinal detachment"
+   ],
+   "ans": 0,
+   "exp": "Complication 5: Endophthalmitis/Panophthalmitis. (Book p176)"
+  },
+  {
+   "id": "OPH-C39-024",
+   "sec": "Complications",
+   "page": 176,
+   "fmt": "oddoneout",
+   "q": "Which is NOT one of the captions under the four complication photographs on p176?",
+   "opts": [
+    "Lobulated appearance of anterior staphyloma",
+    "Ring abscess",
+    "Iris prolapse",
+    "Pseudo-cornea"
+   ],
+   "ans": 1,
+   "exp": "Captions: Lobulated Appearance of Anterior Staphyloma, Descemetocoele, Iris Prolapse, Pseudo-cornea. 'Ring abscess' is an Acanthamoeba figure (p177). (Book p176)"
+  },
+  {
+   "id": "OPH-C39-025",
+   "sec": "Bacterial ulcer - management",
+   "page": 176,
+   "fmt": "management",
+   "q": "When are antibiotics started in the book's management of bacterial corneal ulcer?",
+   "opts": [
+    "Before any scraping is taken, on clinical grounds alone",
+    "Only after the stage 3 regressive phase",
+    "Only when a hypopyon forms",
+    "After gram staining and culture of the ulcer base scraping"
+   ],
+   "ans": 3,
+   "exp": "MANAGEMENT - Antibiotics: after gram staining & culture of ulcer base, scraping. (Book p176)"
+  },
+  {
+   "id": "OPH-C39-026",
+   "sec": "Bacterial ulcer - management",
+   "page": 176,
+   "fmt": "match",
+   "q": "Match the fortified antibiotic with its strength — 1) Fortified Cephalozin  2) Fortified Tobramycin  … A) 1.3%  B) 5%  C) 0.15%  D) 0.02%",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-B, 2-C",
+    "1-D, 2-A"
+   ],
+   "ans": 1,
+   "exp": "Fortified antibiotics: Fortified Cephalozin 5% + Fortified Tobramycin 1.3%. (Book p176)"
+  },
+  {
+   "id": "OPH-C39-027",
+   "sec": "Bacterial ulcer - management",
+   "page": 176,
+   "fmt": "recall",
+   "q": "Atropine eye drops are given in bacterial corneal ulcer to:",
+   "opts": [
+    "Relieve ciliary spasms",
+    "Seal the perforation",
+    "Inhibit collagenase activity",
+    "Sterilise the hypopyon"
+   ],
+   "ans": 0,
+   "exp": "Atropine eye drops: Relieve ciliary spasms. (Book p176)"
+  },
+  {
+   "id": "OPH-C39-028",
+   "sec": "Bacterial ulcer - management",
+   "page": 176,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT listed for impending perforation of the ulcer?",
+   "opts": [
+    "Oral doxycycline",
+    "Soft bandage contact lens (BCL)",
+    "Amphotericin B eye drops",
+    "Cyanoacrylate glue"
+   ],
+   "ans": 2,
+   "exp": "Impending perforation: oral doxycycline, soft bandage contact lens (BCL), cyanoacrylate glue. (Amphotericin B is for fungal ulcer, p177.) (Book p176)"
+  },
+  {
+   "id": "OPH-C39-029",
+   "sec": "Bacterial ulcer - management",
+   "page": 176,
+   "fmt": "management",
+   "q": "Steroids are contraindicated in bacterial corneal ulcer because of:",
+   "opts": [
+    "Ciliary spasm",
+    "Vascularization",
+    "Epithelial thinning",
+    "Sterile keratouveitis"
+   ],
+   "ans": 2,
+   "exp": "Contraindications: Steroids d/t epithelial thinning. (Book p176)"
+  },
+  {
+   "id": "OPH-C39-030",
+   "sec": "Fungal ulcer",
+   "page": 177,
+   "fmt": "fillup",
+   "q": "The most common cause of fungal corneal ulcer is ___, a filamentous fungus with septate hyphae.",
+   "opts": [
+    "Aspergillus",
+    "Candida",
+    "Nocardia",
+    "Acanthamoeba"
+   ],
+   "ans": 0,
+   "exp": "Fungal corneal ulcer m/c cause: Aspergillus (Filamentous fungi with septate hyphae). (Book p177)"
+  },
+  {
+   "id": "OPH-C39-031",
+   "sec": "Fungal ulcer",
+   "page": 177,
+   "fmt": "scenario",
+   "q": "A patient develops a corneal ulcer after trauma with vegetative matter. Which infection does the book link to this history?",
+   "opts": [
+    "Pseudomonas corneal ulcer",
+    "Fungal corneal ulcer",
+    "Acanthamoeba keratitis",
+    "Herpes simplex keratitis"
+   ],
+   "ans": 1,
+   "exp": "Fungal corneal ulcer: H/O trauma with vegetative fungi. (Book p177)"
+  },
+  {
+   "id": "OPH-C39-032",
+   "sec": "Fungal ulcer",
+   "page": 177,
+   "fmt": "truefalse",
+   "q": "True or false — 'In fungal corneal ulcer the symptoms are out of proportion to the signs.' Choose the correct verdict:",
+   "opts": [
+    "True - symptoms are out of proportion to signs",
+    "False - signs and symptoms are always proportionate",
+    "True - the symptoms are out of proportion only in Acanthamoeba keratitis",
+    "False - the signs are out of proportion to the symptoms"
+   ],
+   "ans": 3,
+   "exp": "Fungal ulcer signs: out of proportion to symptoms. (In Acanthamoeba keratitis it is symptoms out of proportion to signs, p177.) (Book p177)"
+  },
+  {
+   "id": "OPH-C39-033",
+   "sec": "Fungal ulcer",
+   "page": 177,
+   "fmt": "match",
+   "q": "In the fungal corneal ulcer photograph, match the numbered arrows with the signs of the dry looking ulcer — 1) Arrow 1  2) Arrow 2  3) Arrow 3 (dashed arc)  … A) Satellite lesions  B) Wessely immune ring  C) Feathery ulcer margin",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "The dry looking ulcer signs are numbered 1. Feathery ulcer margin, 2. Satellite lesions, 3. Wessely Immune Ring, matching the arrow numbers in the Fungal Corneal Ulcer photograph. (Book p177)"
+  },
+  {
+   "id": "OPH-C39-034",
+   "sec": "Fungal ulcer",
+   "page": 177,
+   "fmt": "fillup",
+   "q": "The Wessely immune ring of fungal ulcer consists of ___.",
+   "opts": [
+    "Collection of pus in anterior chamber",
+    "Deposits of mucin and filaments",
+    "Inflammation of nerves throughout the cornea",
+    "Antigen-antibody complexes"
+   ],
+   "ans": 3,
+   "exp": "3. Wessely Immune Ring: Antigen-antibody complexes. (Book p177)"
+  },
+  {
+   "id": "OPH-C39-035",
+   "sec": "Fungal ulcer",
+   "page": 177,
+   "fmt": "recall",
+   "q": "Which description fits the hypopyon of a fungal corneal ulcer in the book?",
+   "opts": [
+    "Mobile, liquid like pus and sterile",
+    "Thick, immobile and sterile",
+    "Thick, immobile and written as 'Asterile'",
+    "Mobile, liquid like pus and written as 'Asterile'"
+   ],
+   "ans": 2,
+   "exp": "Fungal ulcer hypopyon: thick, immobile, 'Asterile'. (The bacterial keratouveitis hypopyon is mobile, liquid like pus, sterile - p175.) (Book p177)"
+  },
+  {
+   "id": "OPH-C39-036",
+   "sec": "Fungal ulcer - treatment",
+   "page": 177,
+   "fmt": "management",
+   "q": "Which drug is the DOC (drug of choice) for Aspergillus fusarium keratitis in the book?",
+   "opts": [
+    "Amphotericin B 0.15% eye drops",
+    "Natamycin 5% eye drops",
+    "PHMB 0.02%",
+    "Fortified Tobramycin 1.3%"
+   ],
+   "ans": 1,
+   "exp": "Natamycin 5% eye drops: DOC for Aspergillus fusarium. (Book p177)"
+  },
+  {
+   "id": "OPH-C39-037",
+   "sec": "Fungal ulcer - treatment",
+   "page": 177,
+   "fmt": "numeric",
+   "q": "What strength of amphotericin B eye drops is listed for fungal corneal ulcer?",
+   "opts": [
+    "1.5%",
+    "0.015%",
+    "0.15%",
+    "5%"
+   ],
+   "ans": 2,
+   "exp": "Amphotericin B 0.15% eye drops. (Book p177)"
+  },
+  {
+   "id": "OPH-C39-038",
+   "sec": "Fungal ulcer - treatment",
+   "page": 177,
+   "fmt": "management",
+   "q": "In fungal corneal ulcer, atropine is a supportive treatment. What is the book's statement on steroids?",
+   "opts": [
+    "Steroids are the drug of choice",
+    "Steroids are contraindicated",
+    "Steroids are supportive, like atropine",
+    "Steroids are given with natamycin only after 2 weeks"
+   ],
+   "ans": 1,
+   "exp": "Atropine: supportive Rx. Steroids: C/I. (Book p177)"
+  },
+  {
+   "id": "OPH-C39-039",
+   "sec": "Acanthamoeba keratitis",
+   "page": 177,
+   "fmt": "scenario",
+   "q": "A contact lens user with contaminated solution, who washes lenses in tap water and swims in pools, develops keratitis. Which infection does the book list?",
+   "opts": [
+    "Fungal corneal ulcer",
+    "Pseudomonas corneal ulcer",
+    "Immune stromal keratitis",
+    "Acanthamoeba keratitis"
+   ],
+   "ans": 3,
+   "exp": "Acanthamoeba risk factors: unhygienic practices in contact lens users - contaminated solution, washing in tap water, swimming pools. (Book p177)"
+  },
+  {
+   "id": "OPH-C39-040",
+   "sec": "Acanthamoeba keratitis",
+   "page": 177,
+   "fmt": "recall",
+   "q": "Which statement about clinical features of Acanthamoeba keratitis matches the book?",
+   "opts": [
+    "Symptoms are out of proportion to signs",
+    "Signs are out of proportion to symptoms",
+    "Signs and symptoms are proportionate",
+    "There are no symptoms until perforation"
+   ],
+   "ans": 0,
+   "exp": "Acanthamoeba clinical features: symptoms out of proportion to signs (opposite of fungal ulcer, whose signs are out of proportion to symptoms). (Book p177)"
+  },
+  {
+   "id": "OPH-C39-041",
+   "sec": "Acanthamoeba keratitis",
+   "page": 177,
+   "fmt": "recall",
+   "q": "Pseudodendritic keratitis is listed among the signs of which infection in the book's Acanthamoeba section?",
+   "opts": [
+    "Acanthamoeba keratitis",
+    "Fungal corneal ulcer",
+    "Nocardia keratitis",
+    "Pneumococcal ulcer"
+   ],
+   "ans": 0,
+   "exp": "Acanthamoeba signs: pseudodendritic keratitis, radial keratoneuritis, ring shaped ulcer with abscess. (Book p177)"
+  },
+  {
+   "id": "OPH-C39-042",
+   "sec": "Acanthamoeba keratitis",
+   "page": 177,
+   "fmt": "fillup",
+   "q": "Radial keratoneuritis is inflammation of ___ throughout the cornea.",
+   "opts": [
+    "Blood vessels",
+    "Endothelial cells",
+    "Nerves",
+    "Stromal lamellae"
+   ],
+   "ans": 2,
+   "exp": "Radial keratoneuritis: inflammation of nerves throughout cornea. (Book p177)"
+  },
+  {
+   "id": "OPH-C39-043",
+   "sec": "Acanthamoeba keratitis",
+   "page": 177,
+   "fmt": "recall",
+   "q": "A ring shaped ulcer with abscess (figure: Ring abscess) is described by the book as ___ of Acanthamoeba keratitis.",
+   "opts": [
+    "Only seen in chronic cases",
+    "Pathognomonic",
+    "Least common finding",
+    "The DOC target"
+   ],
+   "ans": 1,
+   "exp": "Ring shaped ulcer with abscess: Pathognomonic. (Book p177)"
+  },
+  {
+   "id": "OPH-C39-044",
+   "sec": "Acanthamoeba keratitis",
+   "page": 177,
+   "fmt": "recall",
+   "q": "In the gram staining picture for Acanthamoeba, the arrow label reads:",
+   "opts": [
+    "Central stromal haze",
+    "Coin shaped sub-epithelial lesions",
+    "Corneal ulcer",
+    "Double walled Acanthamoeba cyst"
+   ],
+   "ans": 3,
+   "exp": "Investigation 1. Gram staining - label: Double walled Acanthamoeba cyst. (Book p177)"
+  },
+  {
+   "id": "OPH-C39-045",
+   "sec": "Acanthamoeba keratitis",
+   "page": 177,
+   "fmt": "management",
+   "q": "Which culture medium does the book give for Acanthamoeba?",
+   "opts": [
+    "Blood agar with Staphylococcus",
+    "Nutrient agar with Aspergillus",
+    "Chocolate agar with Haemophilus",
+    "Non-nutrient agar enriched with E. coli"
+   ],
+   "ans": 3,
+   "exp": "Investigation 2. Culture media: Non-nutrient agar enriched with E. coli. (Book p177)"
+  },
+  {
+   "id": "OPH-C39-046",
+   "sec": "Acanthamoeba keratitis - treatment",
+   "page": 178,
+   "fmt": "management",
+   "q": "Among the drugs inhibiting membrane synthesis for Acanthamoeba keratitis, which is the DOC?",
+   "opts": [
+    "PHMB 0.02% (Polyhexamethylene biguanide)",
+    "Chlorhexidine 0.02%",
+    "Propamidine",
+    "Natamycin 5%"
+   ],
+   "ans": 0,
+   "exp": "Drugs inhibiting membrane synthesis: PHMB 0.02% (Polyhexamethylene biguanide): DOC. (Book p178)"
+  },
+  {
+   "id": "OPH-C39-047",
+   "sec": "Acanthamoeba keratitis - treatment",
+   "page": 178,
+   "fmt": "numeric",
+   "q": "Besides PHMB, which other membrane synthesis inhibitor is listed, and at what strength?",
+   "opts": [
+    "Chlorhexidine 0.2%",
+    "Propamidine 0.02%",
+    "Chlorhexidine 0.02%",
+    "Amphotericin B 0.02%"
+   ],
+   "ans": 2,
+   "exp": "Drugs inhibiting membrane synthesis: PHMB 0.02% (DOC) and Chlorhexidine 0.02%. (Book p178)"
+  },
+  {
+   "id": "OPH-C39-048",
+   "sec": "Acanthamoeba keratitis - treatment",
+   "page": 178,
+   "fmt": "fillup",
+   "q": "The most commonly used drug inhibiting DNA synthesis in Acanthamoeba keratitis is ___.",
+   "opts": [
+    "PHMB",
+    "Propamidine",
+    "Chlorhexidine",
+    "Acyclovir"
+   ],
+   "ans": 1,
+   "exp": "Drugs inhibiting DNA synthesis: Propamidine: m/c. (Book p178)"
+  },
+  {
+   "id": "OPH-C39-049",
+   "sec": "HSV keratitis",
+   "page": 178,
+   "fmt": "match",
+   "q": "Match the HSV infection with its presentation — 1) Primary (1°) infection  2) Recurrent infection  … A) Keratitis  B) Conjunctivitis  C) Disciform keratitis",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-B, 2-C",
+    "1-C, 2-A"
+   ],
+   "ans": 1,
+   "exp": "HSV: 1° infection: conjunctivitis; recurrent infection: keratitis. (Book p178)"
+  },
+  {
+   "id": "OPH-C39-050",
+   "sec": "HSV keratitis",
+   "page": 178,
+   "fmt": "recall",
+   "q": "HSV epithelial lesions of keratitis are due to:",
+   "opts": [
+    "Active viral replication",
+    "Type III hypersensitivity",
+    "Type IV hypersensitivity",
+    "5th cranial nerve palsy"
+   ],
+   "ans": 0,
+   "exp": "Clinical features a. Epithelial lesions: d/t active viral replication (seen with fluorescence staining). (Book p178)"
+  },
+  {
+   "id": "OPH-C39-051",
+   "sec": "HSV keratitis",
+   "page": 178,
+   "fmt": "recall",
+   "q": "In the fluorescence staining pictures of HSV epithelial lesions, the progression drawn by arrows is:",
+   "opts": [
+    "Geographic ulcer, then dendritic ulcer, then superficial punctate keratitis",
+    "Dendritic ulcer, then superficial punctate keratitis, then geographic ulcer",
+    "Superficial punctate keratitis, then geographic ulcer, then dendritic ulcer",
+    "Superficial punctate (dot like) keratitis, then dendritic ulcer (branching with terminal buds), then geographic ulcer"
+   ],
+   "ans": 3,
+   "exp": "Figure sequence with arrows: Superficial punctate (Dot like) keratitis -> Dendritic ulcer: Branching with terminal buds -> Geographic ulcer. (Book p178)"
+  },
+  {
+   "id": "OPH-C39-052",
+   "sec": "HSV keratitis",
+   "page": 178,
+   "fmt": "management",
+   "q": "What is the book's treatment for HSV epithelial keratitis?",
+   "opts": [
+    "3% acyclovir eye ointment 5 times/day for 10-14 days, plus topical steroids",
+    "Oral acyclovir 800 mg 5 times/day for 2 weeks, with steroids contraindicated",
+    "3% acyclovir eye ointment 5 times/day for 10-14 days, with steroids contraindicated",
+    "PHMB 0.02% with steroids contraindicated"
+   ],
+   "ans": 2,
+   "exp": "Rx: 3% acyclovir eye ointment: 5 times/day x 10-14 days. Steroids: C/I. (Book p178)"
+  },
+  {
+   "id": "OPH-C39-053",
+   "sec": "HSV keratitis",
+   "page": 178,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT listed as another differential diagnosis for dendritic ulcer?",
+   "opts": [
+    "Nocardia keratitis",
+    "Acanthamoeba keratitis",
+    "Tyrosinemia",
+    "Contact lens overuse"
+   ],
+   "ans": 0,
+   "exp": "Other d/d's for dendritic ulcer: Acanthamoeba keratitis, HZV keratitis, tyrosinemia, contact lens overuse. (Book p178)"
+  },
+  {
+   "id": "OPH-C39-054",
+   "sec": "HSV keratitis - stromal",
+   "page": 178,
+   "fmt": "fillup",
+   "q": "Immune stromal keratitis is due to type ___ hypersensitivity.",
+   "opts": [
+    "I",
+    "II",
+    "III",
+    "IV"
+   ],
+   "ans": 2,
+   "exp": "Immune stromal keratitis: d/t type III hypersensitivity. (Disciform keratitis is type IV, p179.) (Book p178)"
+  },
+  {
+   "id": "OPH-C39-055",
+   "sec": "HSV keratitis - stromal",
+   "page": 178,
+   "fmt": "management",
+   "q": "Immune stromal keratitis occurs following which lesion, and how does the book treat it?",
+   "opts": [
+    "Following disciform keratitis; 3% acyclovir ointment alone",
+    "Following necrotizing stromal keratitis; steroids contraindicated",
+    "Following epithelial keratitis; 3% acyclovir ointment with steroids contraindicated",
+    "Following epithelial keratitis; 3% acyclovir ointment + topical steroids"
+   ],
+   "ans": 3,
+   "exp": "Immune stromal keratitis occurs following epithelial keratitis. Rx: 3% Acyclovir ointment + Topical steroids. (Book p178)"
+  },
+  {
+   "id": "OPH-C39-056",
+   "sec": "HSV keratitis - stromal",
+   "page": 178,
+   "fmt": "scenario",
+   "q": "Which is the most severe form of HSV stromal keratitis in the book, and how is it treated?",
+   "opts": [
+    "Immune stromal keratitis; 3% acyclovir ointment + topical steroids",
+    "Necrotizing stromal keratitis; 3% acyclovir ointment + topical steroids",
+    "Necrotizing stromal keratitis; steroids contraindicated",
+    "Disciform keratitis; 3% acyclovir ointment alone"
+   ],
+   "ans": 1,
+   "exp": "Necrotizing stromal keratitis: most severe form of stromal keratitis. Rx: 3% Acyclovir ointment + Topical steroids. (Book p178)"
+  },
+  {
+   "id": "OPH-C39-057",
+   "sec": "HSV keratitis - stromal",
+   "page": 178,
+   "fmt": "recall",
+   "q": "In the photograph captioned 'Immune Stromal Keratitis', the arrow label reads:",
+   "opts": [
+    "Coin shaped sub-epithelial lesions",
+    "Central stromal haze",
+    "Double walled Acanthamoeba cyst",
+    "Hypopyon"
+   ],
+   "ans": 1,
+   "exp": "Figure caption: Immune Stromal Keratitis - label: Central stromal haze. (Book p178)"
+  },
+  {
+   "id": "OPH-C39-058",
+   "sec": "HSV keratitis - endothelial",
+   "page": 179,
+   "fmt": "scenario",
+   "q": "An HSV endothelial lesion shows disc shaped areas of deep stromal/endothelial edema. What is it called?",
+   "opts": [
+    "Immune stromal keratitis",
+    "Necrotizing stromal keratitis",
+    "Metaherpetic keratitis",
+    "Disciform keratitis"
+   ],
+   "ans": 3,
+   "exp": "c. Endothelial lesion: i. Disciform keratitis: disc shaped areas of deep stromal/endothelial edema. (Book p179)"
+  },
+  {
+   "id": "OPH-C39-059",
+   "sec": "HSV keratitis - endothelial",
+   "page": 179,
+   "fmt": "fillup",
+   "q": "Disciform keratitis is a type ___ hypersensitivity reaction.",
+   "opts": [
+    "IV",
+    "I",
+    "II",
+    "III"
+   ],
+   "ans": 0,
+   "exp": "Disciform keratitis: Type IV hypersensitivity reaction. (Immune stromal keratitis is type III, p178.) (Book p179)"
+  },
+  {
+   "id": "OPH-C39-060",
+   "sec": "HSV keratitis - hallmark",
+   "page": 179,
+   "fmt": "scenario",
+   "q": "A patient with HSV keratitis has corneal anaesthesia followed by a neurotrophic ulcer. What is this called and what is the cause?",
+   "opts": [
+    "Metaherpetic keratitis, due to 3rd cranial nerve palsy",
+    "Disciform keratitis, due to 5th cranial nerve palsy",
+    "Metaherpetic keratitis, due to 5th cranial nerve palsy",
+    "Sclerokeratitis, due to 3rd cranial nerve palsy"
+   ],
+   "ans": 2,
+   "exp": "Hallmark of HSV keratitis: Corneal anaesthesia -> Metaherpetic keratitis/Neurotrophic ulcer d/t 5th Cranial Nerve palsy. (Book p179)"
+  },
+  {
+   "id": "OPH-C39-061",
+   "sec": "HZO",
+   "page": 179,
+   "fmt": "fillup",
+   "q": "Herpes zoster ophthalmicus affects the dermatome supplied by the ophthalmic branch of the ___ cranial nerve.",
+   "opts": [
+    "3rd",
+    "5th",
+    "4th",
+    "7th"
+   ],
+   "ans": 1,
+   "exp": "HERPES ZOSTER OPHTHALMICUS/SHINGLES: affects dermatome supplied by ophthalmic branch of 5th cranial nerve. (Book p179)"
+  },
+  {
+   "id": "OPH-C39-062",
+   "sec": "HZO",
+   "page": 179,
+   "fmt": "scenario",
+   "q": "A patient with shingles has a rash involving the tip of the nose. What does Hutchinson's sign indicate?",
+   "opts": [
+    "A decreased chance of Herpes zoster ophthalmicus",
+    "Third cranial nerve palsy",
+    "Corneal anaesthesia",
+    "An increased chance of Herpes zoster ophthalmicus"
+   ],
+   "ans": 3,
+   "exp": "Hutchinson's sign: rash involving tip of the nose -> increased chance of Herpes Zoster Ophthalmicus. (Book p179)"
+  },
+  {
+   "id": "OPH-C39-063",
+   "sec": "HZO",
+   "page": 179,
+   "fmt": "truefalse",
+   "q": "True or false — 'The pseudodendritic ulcer of HZO has a branching pattern with terminal buds.' Choose the correct verdict:",
+   "opts": [
+    "True - terminal buds are the hallmark of the pseudodendritic ulcer",
+    "False - it has terminal buds only in chronic cases",
+    "False - the pseudodendritic ulcer branches with no terminal buds",
+    "True - terminal buds appear only in the geographic stage"
+   ],
+   "ans": 2,
+   "exp": "HZO clinical feature 1: Pseudodendritic ulcer - branching pattern with no terminal buds. (HSV dendritic ulcer: branching with terminal buds, p178.) (Book p179)"
+  },
+  {
+   "id": "OPH-C39-064",
+   "sec": "HZO",
+   "page": 179,
+   "fmt": "scenario",
+   "q": "A patient with herpes zoster has keratitis with coin shaped sub-epithelial lesions. Which HZO feature is this?",
+   "opts": [
+    "Nummular keratitis",
+    "Mucous plaque keratitis",
+    "Sclerokeratitis",
+    "Pseudodendritic ulcer"
+   ],
+   "ans": 0,
+   "exp": "HZO clinical feature 2: Nummular keratitis (figure label: coin shaped sub-epithelial lesions). (Book p179)"
+  },
+  {
+   "id": "OPH-C39-065",
+   "sec": "HZO",
+   "page": 179,
+   "fmt": "recall",
+   "q": "Which HZO feature is seen in chronic cases, and which feature follows it in the book's list?",
+   "opts": [
+    "Nummular keratitis; then mucous plaque keratitis",
+    "Stromal keratitis; then cranial nerve palsy",
+    "Mucous plaque keratitis; then stromal keratitis",
+    "Mucous plaque keratitis; then sclerokeratitis"
+   ],
+   "ans": 2,
+   "exp": "3. Mucous plaque keratitis: in chronic cases; 4. Stromal keratitis. (Book p179)"
+  },
+  {
+   "id": "OPH-C39-066",
+   "sec": "HZO",
+   "page": 179,
+   "fmt": "recall",
+   "q": "Which cranial nerve palsy is the most common in HZO per the book?",
+   "opts": [
+    "4th cranial nerve",
+    "3rd cranial nerve",
+    "6th cranial nerve",
+    "5th cranial nerve"
+   ],
+   "ans": 1,
+   "exp": "5. Cranial nerve palsy: 3rd cranial nerve - m/c. (Book p179)"
+  },
+  {
+   "id": "OPH-C39-067",
+   "sec": "HZO",
+   "page": 179,
+   "fmt": "recall",
+   "q": "Which HZO finding is the least common?",
+   "opts": [
+    "Sclerokeratitis",
+    "Nummular keratitis",
+    "Stromal keratitis",
+    "Mucous plaque keratitis"
+   ],
+   "ans": 0,
+   "exp": "6. Sclerokeratitis: Least common finding. (Book p179)"
+  },
+  {
+   "id": "OPH-C39-068",
+   "sec": "HZO",
+   "page": 179,
+   "fmt": "numeric",
+   "q": "Post-herpetic neuralgia is defined as persistence of pain after how long of resolution?",
+   "opts": [
+    "1 week",
+    "3 months",
+    "1 year",
+    "1 month"
+   ],
+   "ans": 3,
+   "exp": "7. Post-herpetic neuralgia: Persistence of pain after 1 month of resolution. (Book p179)"
+  },
+  {
+   "id": "OPH-C39-069",
+   "sec": "HZO",
+   "page": 179,
+   "fmt": "recall",
+   "q": "Post-herpetic neuralgia pain is worse at which time?",
+   "opts": [
+    "In the early morning",
+    "During the day",
+    "After meals",
+    "At night"
+   ],
+   "ans": 3,
+   "exp": "Post-herpetic neuralgia: worse at night. (Book p179)"
+  },
+  {
+   "id": "OPH-C39-070",
+   "sec": "HZO",
+   "page": 179,
+   "fmt": "management",
+   "q": "What is the book's oral treatment for herpes zoster ophthalmicus?",
+   "opts": [
+    "T. Acyclovir 400 mg x 3 times/day x 10 days",
+    "T. Acyclovir 800 mg x 5 times/day x 2 weeks",
+    "3% acyclovir eye ointment 5 times/day x 10-14 days",
+    "T. Acyclovir 800 mg x 2 times/day x 1 week"
+   ],
+   "ans": 1,
+   "exp": "Treatment: T. Acyclovir 800 mg x 5 times/day x 2 weeks. (Book p179)"
+  },
+  {
+   "id": "OPH-C39-071",
+   "sec": "HZO",
+   "page": 179,
+   "fmt": "recall",
+   "q": "The facial photograph of a crusted rash over the forehead and lids is captioned ___, and the second photograph's label reads 'coin shaped sub-epithelial lesions' under ___.",
+   "opts": [
+    "Ring abscess ; Immune stromal keratitis",
+    "Shingles ; Descemetocoele",
+    "Shingles ; Nummular keratitis",
+    "Pseudo-cornea ; Nummular keratitis"
+   ],
+   "ans": 2,
+   "exp": "Figure captions on p179: Shingles; Nummular keratitis (label: coin shaped sub-epithelial lesions). (Book p179)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U39-1",
+   "ch": 39,
+   "n": 1,
+   "title": "Bacterial corneal ulcer: definition and etiology",
+   "sec": "Cornea · p175",
+   "guide": "Corneal ulcer definition; Staph aureus m/c worldwide; pneumococcus India ulcer serpens hypopyon; Pseudomonas contact lens green discharge; atypical mycobacteria LASIK; Nocardia wreath; bacteria invading intact epithelium.",
+   "qs": [
+    "OPH-C39-001",
+    "OPH-C39-002",
+    "OPH-C39-003",
+    "OPH-C39-004",
+    "OPH-C39-005",
+    "OPH-C39-006",
+    "OPH-C39-007",
+    "OPH-C39-008",
+    "OPH-C39-009",
+    "OPH-C39-010",
+    "OPH-C39-011"
+   ]
+  },
+  {
+   "id": "OPH-U39-2",
+   "ch": 39,
+   "n": 2,
+   "title": "Bacterial corneal ulcer: pathogenesis stages",
+   "sec": "Cornea · p175-176",
+   "guide": "Stage 1 initial saucer shaped ulcer overhanging margins; Stage 2 progressive PMNs hypopyon keratouveitis sterile; Stage 3 regressive smooth floor vascularization; Stage 4 scar permanent vision loss.",
+   "qs": [
+    "OPH-C39-012",
+    "OPH-C39-013",
+    "OPH-C39-014",
+    "OPH-C39-015",
+    "OPH-C39-016",
+    "OPH-C39-017"
+   ]
+  },
+  {
+   "id": "OPH-U39-3",
+   "ch": 39,
+   "n": 3,
+   "title": "Complications of corneal ulcer",
+   "sec": "Cornea · p176",
+   "guide": "Complications ectatic cicatrix thinning bulging raised IOP; anterior staphyloma iris incarceration; descemetocoele; perforation aqueous leak iris prolapse pseudo-cornea; endophthalmitis panophthalmitis.",
+   "qs": [
+    "OPH-C39-018",
+    "OPH-C39-019",
+    "OPH-C39-020",
+    "OPH-C39-021",
+    "OPH-C39-022",
+    "OPH-C39-023",
+    "OPH-C39-024"
+   ]
+  },
+  {
+   "id": "OPH-U39-4",
+   "ch": 39,
+   "n": 4,
+   "title": "Bacterial corneal ulcer: management",
+   "sec": "Cornea · p176",
+   "guide": "Antibiotics after gram staining culture scraping; fortified cephalozin 5% tobramycin 1.3%; atropine ciliary spasm; impending perforation doxycycline BCL cyanoacrylate glue; steroids contraindicated epithelial thinning.",
+   "qs": [
+    "OPH-C39-025",
+    "OPH-C39-026",
+    "OPH-C39-027",
+    "OPH-C39-028",
+    "OPH-C39-029"
+   ]
+  },
+  {
+   "id": "OPH-U39-5",
+   "ch": 39,
+   "n": 5,
+   "title": "Fungal corneal ulcer",
+   "sec": "Cornea · p177",
+   "guide": "Fungal ulcer Aspergillus septate hyphae vegetative trauma; signs out of proportion to symptoms feathery margin satellite lesions Wessely ring; hypopyon thick immobile; natamycin 5% DOC amphotericin B 0.15% atropine steroids C/I.",
+   "qs": [
+    "OPH-C39-030",
+    "OPH-C39-031",
+    "OPH-C39-032",
+    "OPH-C39-033",
+    "OPH-C39-034",
+    "OPH-C39-035",
+    "OPH-C39-036",
+    "OPH-C39-037",
+    "OPH-C39-038"
+   ]
+  },
+  {
+   "id": "OPH-U39-6",
+   "ch": 39,
+   "n": 6,
+   "title": "Acanthamoeba keratitis",
+   "sec": "Cornea · p177-178",
+   "guide": "Acanthamoeba risk factors contact lens unhygienic tap water swimming pools; symptoms out of proportion to signs; pseudodendritic keratitis radial keratoneuritis ring abscess pathognomonic; gram staining double walled cyst; non-nutrient agar E. coli; PHMB DOC chlorhexidine propamidine.",
+   "qs": [
+    "OPH-C39-039",
+    "OPH-C39-040",
+    "OPH-C39-041",
+    "OPH-C39-042",
+    "OPH-C39-043",
+    "OPH-C39-044",
+    "OPH-C39-045",
+    "OPH-C39-046",
+    "OPH-C39-047",
+    "OPH-C39-048"
+   ]
+  },
+  {
+   "id": "OPH-U39-7",
+   "ch": 39,
+   "n": 7,
+   "title": "Viral keratitis: Herpes simplex virus",
+   "sec": "Cornea · p178-179",
+   "guide": "HSV primary conjunctivitis recurrent keratitis; epithelial lesions punctate dendritic geographic acyclovir 3% steroids C/I; d/d of dendritic ulcer; immune and necrotizing stromal keratitis; disciform keratitis type IV; corneal anaesthesia metaherpetic.",
+   "qs": [
+    "OPH-C39-049",
+    "OPH-C39-050",
+    "OPH-C39-051",
+    "OPH-C39-052",
+    "OPH-C39-053",
+    "OPH-C39-054",
+    "OPH-C39-055",
+    "OPH-C39-056",
+    "OPH-C39-057",
+    "OPH-C39-058",
+    "OPH-C39-059",
+    "OPH-C39-060"
+   ]
+  },
+  {
+   "id": "OPH-U39-8",
+   "ch": 39,
+   "n": 8,
+   "title": "Herpes zoster ophthalmicus (shingles)",
+   "sec": "Cornea · p179",
+   "guide": "HZO ophthalmic branch of 5th nerve; Hutchinson's sign tip of nose; pseudodendritic ulcer no terminal buds; nummular; mucous plaque; stromal; 3rd nerve palsy m/c; sclerokeratitis least common; post-herpetic neuralgia 1 month worse at night; acyclovir 800 mg.",
+   "qs": [
+    "OPH-C39-061",
+    "OPH-C39-062",
+    "OPH-C39-063",
+    "OPH-C39-064",
+    "OPH-C39-065",
+    "OPH-C39-066",
+    "OPH-C39-067",
+    "OPH-C39-068",
+    "OPH-C39-069",
+    "OPH-C39-070",
+    "OPH-C39-071"
+   ]
+  }
+ ]
+}

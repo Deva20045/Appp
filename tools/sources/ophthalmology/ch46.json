@@ -1,0 +1,667 @@
+{
+ "chapter": 46,
+ "title": "Lacrimal apparatus : Anatomy, Watering eye and Dry eye",
+ "pageRange": "215-219",
+ "questions": [
+  {
+   "id": "OPH-C46-001",
+   "sec": "Lacrimal gland anatomy",
+   "page": 215,
+   "fmt": "match",
+   "q": "Match the lacrimal gland part with its position — 1) Orbital part  2) Palpebral part … A) Inferior  B) Superior",
+   "opts": [
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 2,
+   "exp": "Tears have secretion and drainage pathways; levator palpebrae superioris divides the main gland, with orbital part superior and palpebral part inferior. (Book p215)"
+  },
+  {
+   "id": "OPH-C46-002",
+   "sec": "Lacrimal gland anatomy",
+   "page": 215,
+   "fmt": "recall",
+   "q": "The main lacrimal gland is primarily responsible for ___ tear secretion.",
+   "opts": [
+    "Reflex",
+    "Basal",
+    "Mucin",
+    "Lipid"
+   ],
+   "ans": 0,
+   "exp": "The main lacrimal gland produces reflex tears; accessory Krause and Wolfring glands provide basal secretion. (Book p215)"
+  },
+  {
+   "id": "OPH-C46-003",
+   "sec": "Accessory lacrimal glands",
+   "page": 215,
+   "fmt": "fillup",
+   "q": "Krause and Wolfring accessory glands are located in the conjunctival ___.",
+   "opts": [
+    "Limbus",
+    "Caruncle",
+    "Lacrimal sac",
+    "Fornix"
+   ],
+   "ans": 3,
+   "exp": "Accessory glands of Krause and Wolfring are located in the fornix between sclera and palpebral conjunctiva. (Book p215)"
+  },
+  {
+   "id": "OPH-C46-004",
+   "sec": "Lacrimal innervation",
+   "page": 215,
+   "fmt": "match",
+   "q": "Which pathway correctly carries parasympathetic secretomotor fibres to the lacrimal gland?",
+   "opts": [
+    "Edinger-Westphal nucleus → oculomotor nerve → ciliary ganglion → nasociliary nerve",
+    "Superior salivatory nucleus → greater superficial petrosal nerve → pterygopalatine ganglion → zygomatic nerve",
+    "Inferior salivatory nucleus → glossopharyngeal nerve → otic ganglion → auriculotemporal nerve",
+    "Facial nucleus → chorda tympani → submandibular ganglion → lingual nerve"
+   ],
+   "ans": 1,
+   "exp": "Parasympathetic route: superior salivatory nucleus in pons, greater superficial petrosal nerve (VII), pterygopalatine ganglion, then zygomatic nerve (V2) to stimulate lacrimal secretion. (Book p215)"
+  },
+  {
+   "id": "OPH-C46-005",
+   "sec": "Lacrimal innervation",
+   "page": 215,
+   "fmt": "truefalse",
+   "q": "Sympathetic innervation of the lacrimal gland has an inhibitory function.",
+   "opts": [
+    "False",
+    "True",
+    "It is the main secretomotor pathway",
+    "It has no function"
+   ],
+   "ans": 1,
+   "exp": "The page labels sympathetic innervation as inhibitory; parasympathetic innervation is secretomotor. (Book p215)"
+  },
+  {
+   "id": "OPH-C46-006",
+   "sec": "Lacrimal gland anatomy",
+   "page": 215,
+   "fmt": "recall",
+   "q": "The lacrimal apparatus anatomy figure labels the excretory ducts of the:",
+   "opts": [
+    "Meibomian glands",
+    "Canaliculi",
+    "Nasolacrimal duct",
+    "Main lacrimal gland"
+   ],
+   "ans": 3,
+   "exp": "The main gland's orbital and palpebral parts drain through main excretory ducts, as shown in the lacrimal apparatus diagram. (Book p215)"
+  },
+  {
+   "id": "OPH-C46-007",
+   "sec": "Lacrimal drainage",
+   "page": 216,
+   "fmt": "match",
+   "q": "Put the tear drainage structures in the correct order.",
+   "opts": [
+    "Puncta → canaliculi → lacrimal sac → nasolacrimal duct → inferior meatus",
+    "Canaliculi → puncta → nasolacrimal duct → sac → inferior meatus",
+    "Puncta → sac → canaliculi → inferior meatus → nasolacrimal duct",
+    "Puncta → canaliculi → inferior meatus → lacrimal sac → nasolacrimal duct"
+   ],
+   "ans": 0,
+   "exp": "The drainage sequence is upper/lower puncta, canaliculi, lacrimal sac, nasolacrimal duct and inferior meatus. (Book p216)"
+  },
+  {
+   "id": "OPH-C46-008",
+   "sec": "Lacrimal drainage",
+   "page": 216,
+   "fmt": "fillup",
+   "q": "The lacrimal sac is surrounded by orbicularis oculi; ___ assists drainage.",
+   "opts": [
+    "Accommodation",
+    "Convergence",
+    "Blinking",
+    "Mydriasis"
+   ],
+   "ans": 2,
+   "exp": "The lacrimal sac is surrounded by orbicularis oculi, and blinking assists tear drainage. (Book p216)"
+  },
+  {
+   "id": "OPH-C46-009",
+   "sec": "Lacrimal drainage",
+   "page": 216,
+   "fmt": "recall",
+   "q": "The nasolacrimal duct opens into which part of the nose?",
+   "opts": [
+    "Inferior meatus",
+    "Middle meatus",
+    "Superior meatus",
+    "Sphenoethmoidal recess"
+   ],
+   "ans": 0,
+   "exp": "The NLD opens into the inferior meatus; its opening is guarded by the valve of Hasner. (Book p216)"
+  },
+  {
+   "id": "OPH-C46-010",
+   "sec": "Lacrimal drainage",
+   "page": 216,
+   "fmt": "scenario",
+   "q": "A newborn has congenital dacryocystitis from the commonest site of obstruction. Which structure is implicated?",
+   "opts": [
+    "Valve of Rosenmüller",
+    "Plica semilunaris",
+    "Valve of Hasner",
+    "Punctum of the upper canaliculus"
+   ],
+   "ans": 2,
+   "exp": "Non-canalization of the NLD, most commonly at the valve of Hasner, is listed in congenital dacryocystitis. (Book p216)"
+  },
+  {
+   "id": "OPH-C46-011",
+   "sec": "Watering eye",
+   "page": 216,
+   "fmt": "match",
+   "q": "Match the type of watering eye with its mechanism — 1) Hyperlacrimation  2) Epiphora … A) Blockage of drainage  B) Increased tear secretion",
+   "opts": [
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B",
+    "1-B, 2-A"
+   ],
+   "ans": 3,
+   "exp": "Hyperlacrimation is increased secretion, for example with emotional stress or inflammation; epiphora is drainage blockage. (Book p216)"
+  },
+  {
+   "id": "OPH-C46-012",
+   "sec": "Watering eye tests",
+   "page": 216,
+   "fmt": "match",
+   "q": "Which set contains the instruments shown for testing a watering eye?",
+   "opts": [
+    "Schirmer strip, tonometer and gonioscopy lens",
+    "Nettleship punctum dilator, 26G bent needle cannula and Bowman's lacrimal probe",
+    "Dacryoscope, 18G straight cannula and lacrimal hook",
+    "Fluorescein strip, cryoprobe and keratometer"
+   ],
+   "ans": 1,
+   "exp": "The page labels a Nettleship punctum dilator, 26-gauge bent needle cannula and Bowman's lacrimal probe. (Book p216)"
+  },
+  {
+   "id": "OPH-C46-013",
+   "sec": "Syringing",
+   "page": 216,
+   "fmt": "scenario",
+   "q": "On syringing, fluid reaches the nose and throat. What does this show, and which test helps distinguish causes of watering despite patency?",
+   "opts": [
+    "A patent drainage system; Jones dye test",
+    "Complete NLD obstruction; Schirmer test",
+    "Canalicular block; TBUT",
+    "Lacrimal sac fistula; phenol red thread test"
+   ],
+   "ans": 0,
+   "exp": "Fluid reaching the nose and throat indicates patency; the Jones dye test helps assess hypersecretion, pump failure or partial obstruction when watering persists. (Book p216)"
+  },
+  {
+   "id": "OPH-C46-014",
+   "sec": "Probing",
+   "page": 216,
+   "fmt": "match",
+   "q": "During probing, a hard stop versus a soft stop indicates respectively:",
+   "opts": [
+    "Canalicular block; NLD blockage",
+    "Lacrimal pump failure; hypersecretion",
+    "Patent NLD; patent canaliculus",
+    "NLD blockage; lacrimal sac or canalicular block"
+   ],
+   "ans": 3,
+   "exp": "After regurgitation on syringing, probing is performed; hard stop indicates NLD blockage and soft stop lacrimal sac/canalicular block. (Book p216)"
+  },
+  {
+   "id": "OPH-C46-015",
+   "sec": "Jones dye tests",
+   "page": 217,
+   "fmt": "recall",
+   "q": "Jones dye test I begins with instillation of ___ fluorescein into the conjunctival sac.",
+   "opts": [
+    "0.5%",
+    "2%",
+    "1%",
+    "5%"
+   ],
+   "ans": 1,
+   "exp": "Jones I uses 2% fluorescein in the conjunctival sac, with cotton at the NLD opening. (Book p217)"
+  },
+  {
+   "id": "OPH-C46-016",
+   "sec": "Jones dye tests",
+   "page": 217,
+   "fmt": "scenario",
+   "q": "In Jones I, the cotton bud at the NLD opening stains with fluorescein. This is a positive test indicating:",
+   "opts": [
+    "Partial NLD obstruction",
+    "Lacrimal pump failure",
+    "Hypersecretion",
+    "Canalicular obstruction"
+   ],
+   "ans": 2,
+   "exp": "A stained cotton bud makes Jones I positive and indicates hypersecretion. (Book p217)"
+  },
+  {
+   "id": "OPH-C46-017",
+   "sec": "Jones dye tests",
+   "page": 217,
+   "fmt": "match",
+   "q": "A negative Jones I is followed by irrigation and Jones II. Which Jones II result indicates partial NLD obstruction?",
+   "opts": [
+    "No staining and no fluorescein in the conjunctival sac",
+    "Regurgitation through the opposite punctum",
+    "Stained cotton bud after irrigation",
+    "No wetting on Schirmer strip"
+   ],
+   "ans": 2,
+   "exp": "If Jones I is negative, residual fluorescein is washed out; staining on Jones II indicates partial NLD obstruction. (Book p217)"
+  },
+  {
+   "id": "OPH-C46-018",
+   "sec": "Jones dye tests",
+   "page": 217,
+   "fmt": "match",
+   "q": "A negative Jones II with no bud staining suggests which alternatives?",
+   "opts": [
+    "Lacrimal pump failure or partial canalicular obstruction",
+    "Hypersecretion or complete NLD patency",
+    "Orbital cellulitis or CST",
+    "Aqueous deficiency or mucin deficiency"
+   ],
+   "ans": 0,
+   "exp": "A negative Jones II with no stained bud suggests pump failure or partial canalicular obstruction; dacryocystography differentiates them. (Book p217)"
+  },
+  {
+   "id": "OPH-C46-019",
+   "sec": "Dacryocystitis",
+   "page": 217,
+   "fmt": "fillup",
+   "q": "Dacryocystitis is inflammation of the lacrimal ___.",
+   "opts": [
+    "Gland",
+    "Punctum",
+    "Conjunctiva",
+    "Sac"
+   ],
+   "ans": 3,
+   "exp": "Dacryocystitis is inflammation of the lacrimal sac. (Book p217)"
+  },
+  {
+   "id": "OPH-C46-020",
+   "sec": "Congenital dacryocystitis",
+   "page": 217,
+   "fmt": "match",
+   "q": "Congenital dacryocystitis typically presents with watering since birth due to non-canalization of the:",
+   "opts": [
+    "Upper canaliculus",
+    "Nasolacrimal duct",
+    "Lacrimal gland duct",
+    "Inferior punctum"
+   ],
+   "ans": 1,
+   "exp": "Congenital disease presents with watering since birth, caused by non-canalization of the NLD, commonly at Hasner's valve. (Book p217)"
+  },
+  {
+   "id": "OPH-C46-021",
+   "sec": "Congenital dacryocystitis",
+   "page": 217,
+   "fmt": "management",
+   "q": "Initial treatment listed for congenital dacryocystitis is lacrimal sac massage plus:",
+   "opts": [
+    "Systemic steroids",
+    "Topical tobramycin or erythromycin",
+    "Intralesional triamcinolone",
+    "Topical atropine"
+   ],
+   "ans": 1,
+   "exp": "Initial management includes lacrimal sac massage and topical antibiotics such as tobramycin or erythromycin. (Book p217)"
+  },
+  {
+   "id": "OPH-C46-022",
+   "sec": "Congenital dacryocystitis",
+   "page": 217,
+   "fmt": "match",
+   "q": "Match age with the listed congenital dacryocystitis intervention — 1) 9-12 months  2) >1 year  3) >4 years … A) Probing  B) DCR  C) Syringing",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 2,
+   "exp": "The page lists syringing at 9-12 months, probing after 1 year, and DCR after 4 years. (Book p217)"
+  },
+  {
+   "id": "OPH-C46-023",
+   "sec": "Acquired dacryocystitis",
+   "page": 217,
+   "fmt": "recall",
+   "q": "The acquired dacryocystitis organism listed is:",
+   "opts": [
+    "Staphylococcus epidermidis",
+    "Pseudomonas aeruginosa",
+    "Moraxella catarrhalis",
+    "Streptococcus hemolyticus"
+   ],
+   "ans": 3,
+   "exp": "Acquired dacryocystitis is attributed to Streptococcus hemolyticus; treatment is oral antibiotics and DCR if fistula is positive. (Book p217)"
+  },
+  {
+   "id": "OPH-C46-024",
+   "sec": "Acquired dacryocystitis",
+   "page": 217,
+   "fmt": "management",
+   "q": "For acquired dacryocystitis, the listed treatment is oral antibiotics, with DCR if:",
+   "opts": [
+    "Fistula is positive",
+    "Jones I is positive",
+    "Schirmer wetting is below 10 mm",
+    "A hard stop is present"
+   ],
+   "ans": 0,
+   "exp": "Acquired disease is treated with oral antibiotics; DCR is listed if fistula is positive. (Book p217)"
+  },
+  {
+   "id": "OPH-C46-025",
+   "sec": "Lacrimal gland tumours",
+   "page": 218,
+   "fmt": "match",
+   "q": "Which lacrimal gland tumour is benign and which is malignant?",
+   "opts": [
+    "Adenoid cystic carcinoma; pleomorphic adenoma",
+    "Both are benign",
+    "Pleomorphic adenoma; adenoid cystic carcinoma",
+    "Both are malignant"
+   ],
+   "ans": 2,
+   "exp": "Pleomorphic adenoma is benign; adenoid cystic carcinoma is malignant. (Book p218)"
+  },
+  {
+   "id": "OPH-C46-026",
+   "sec": "Lacrimal gland tumours",
+   "page": 218,
+   "fmt": "scenario",
+   "q": "A lacrimal gland tumour displaces the globe in which direction?",
+   "opts": [
+    "Downward and medially",
+    "Upward and laterally",
+    "Straight anteriorly only",
+    "Downward and laterally"
+   ],
+   "ans": 0,
+   "exp": "Both listed lacrimal gland tumour types displace the eye downward and medially because of the gland's location. (Book p218)"
+  },
+  {
+   "id": "OPH-C46-027",
+   "sec": "Tear film",
+   "page": 218,
+   "fmt": "match",
+   "q": "Order the tear film layers from the corneal surface outward.",
+   "opts": [
+    "Lipid → mucin → aqueous",
+    "Aqueous → lipid → mucin",
+    "Mucin → lipid → aqueous",
+    "Mucin → aqueous → lipid"
+   ],
+   "ans": 3,
+   "exp": "The innermost layer is mucin, middle is aqueous and outermost is lipid; the diagram also labels corneal epithelium with microvilli beneath the film. (Book p218)"
+  },
+  {
+   "id": "OPH-C46-028",
+   "sec": "Tear film",
+   "page": 218,
+   "fmt": "recall",
+   "q": "The outer lipid layer of the tear film is produced by the meibomian glands and primarily:",
+   "opts": [
+    "Provides corneal sensation",
+    "Prevents evaporation of the aqueous layer",
+    "Drains tears into the nose",
+    "Produces mucin from goblet cells"
+   ],
+   "ans": 1,
+   "exp": "Meibomian lipid is the outermost layer and prevents evaporation of aqueous tears. (Book p218)"
+  },
+  {
+   "id": "OPH-C46-029",
+   "sec": "Dry-eye disorders",
+   "page": 218,
+   "fmt": "match",
+   "q": "Which dry-eye deficiency and association are correctly paired?",
+   "opts": [
+    "Aqueous: vitamin A deficiency; lipid: Sjögren; mucin: contact lens wearer",
+    "Aqueous: meibomian disease; lipid: vitamin A deficiency; mucin: Sjögren",
+    "Aqueous: contact lens wearer; lipid: Sjögren; mucin: meibomian disease",
+    "Aqueous deficiency: Sjögren syndrome; lipid deficiency: meibomian gland disease; mucin deficiency: vitamin A deficiency"
+   ],
+   "ans": 3,
+   "exp": "Aqueous deficiency is KCS (e.g., Sjögren); lipid deficiency causes evaporative dry eye (e.g., MGD/contact lenses); mucin deficiency is associated with vitamin A deficiency. (Book p218)"
+  },
+  {
+   "id": "OPH-C46-030",
+   "sec": "Schirmer test",
+   "page": 218,
+   "fmt": "recall",
+   "q": "Schirmer testing uses which filter paper and measures what?",
+   "opts": [
+    "Whatman's No. 41 filter paper; tear production",
+    "Whatman's No. 1 filter paper; tear drainage",
+    "Litmus paper; corneal sensitivity",
+    "Phenol-red thread; tear evaporation"
+   ],
+   "ans": 0,
+   "exp": "Schirmer is a quantitative test of tear production using Whatman's filter paper No. 41. (Book p218)"
+  },
+  {
+   "id": "OPH-C46-031",
+   "sec": "Schirmer test",
+   "page": 218,
+   "fmt": "numeric",
+   "q": "In Schirmer testing, the strip is left for 5 minutes; wetting below ___ mm indicates dry eye.",
+   "opts": [
+    "5",
+    "10",
+    "15",
+    "25"
+   ],
+   "ans": 1,
+   "exp": "The strip is placed in the lower fornix for 5 minutes; >15 mm is normal and <10 mm indicates dry eye. (Book p218)"
+  },
+  {
+   "id": "OPH-C46-032",
+   "sec": "Schirmer test",
+   "page": 218,
+   "fmt": "numeric",
+   "q": "A Schirmer wetting length greater than ___ mm is considered normal in the book.",
+   "opts": [
+    "6",
+    "10",
+    "15",
+    "12"
+   ],
+   "ans": 2,
+   "exp": "Schirmer >15 mm is normal; <10 mm indicates dry eye. (Book p218)"
+  },
+  {
+   "id": "OPH-C46-033",
+   "sec": "TBUT",
+   "page": 219,
+   "fmt": "recall",
+   "q": "TBUT is measured after instilling 2% fluorescein and illuminating the eye with:",
+   "opts": [
+    "Red-free green light",
+    "Infrared light",
+    "Ultraviolet light",
+    "Blue light"
+   ],
+   "ans": 3,
+   "exp": "For TBUT, 2% fluorescein is instilled and the tear film is observed with blue light. (Book p219)"
+  },
+  {
+   "id": "OPH-C46-034",
+   "sec": "TBUT",
+   "page": 219,
+   "fmt": "fillup",
+   "q": "TBUT is the interval between a blink and the appearance of the first ___ on the cornea.",
+   "opts": [
+    "Fluorescein ring",
+    "Dry spot",
+    "Vascular loop",
+    "Conjunctival fold"
+   ],
+   "ans": 1,
+   "exp": "TBUT measures the interval between blinking and the first dry spot on the cornea. (Book p219)"
+  },
+  {
+   "id": "OPH-C46-035",
+   "sec": "TBUT",
+   "page": 219,
+   "fmt": "numeric",
+   "q": "A TBUT of less than ___ seconds suggests mucin deficiency.",
+   "opts": [
+    "3",
+    "5",
+    "10",
+    "15"
+   ],
+   "ans": 2,
+   "exp": "The page associates TBUT <10 seconds with mucin deficiency. (Book p219)"
+  },
+  {
+   "id": "OPH-C46-036",
+   "sec": "TBUT",
+   "page": 219,
+   "fmt": "scenario",
+   "q": "A dry spot repeatedly appearing at a particular corneal location during TBUT suggests:",
+   "opts": [
+    "Corneal disease",
+    "Aqueous deficiency alone",
+    "Lacrimal pump failure",
+    "NLD obstruction"
+   ],
+   "ans": 0,
+   "exp": "A dry spot at a particular location is associated with corneal disease. (Book p219)"
+  },
+  {
+   "id": "OPH-C46-037",
+   "sec": "Phenol red thread test",
+   "page": 219,
+   "fmt": "recall",
+   "q": "In the phenol red thread test, the thread changes from yellow to ___ after contact with tears.",
+   "opts": [
+    "Red",
+    "Blue",
+    "Green",
+    "Black"
+   ],
+   "ans": 0,
+   "exp": "The thread is impregnated with phenol red dye, yellow in colour, and becomes red with tears. (Book p219)"
+  },
+  {
+   "id": "OPH-C46-038",
+   "sec": "Phenol red thread test",
+   "page": 219,
+   "fmt": "numeric",
+   "q": "Phenol red thread wetting below ___ mm indicates dry eye; above 15 mm is normal.",
+   "opts": [
+    "3",
+    "10",
+    "12",
+    "6"
+   ],
+   "ans": 3,
+   "exp": "Phenol red thread test: <6 mm indicates dry eye and >15 mm is normal; the thread is placed in the lower fornix. (Book p219)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U46-1",
+   "ch": 46,
+   "n": 1,
+   "title": "Tear secretion and lacrimal gland anatomy",
+   "sec": "Adnexa · p215",
+   "guide": "The main gland is divided by levator into superior orbital and inferior palpebral parts and secretes reflex tears. Krause/Wolfring provide basal secretion. Parasympathetic secretomotor route: superior salivatory nucleus → greater superficial petrosal → pterygopalatine ganglion → zygomatic nerve; sympathetic is inhibitory.",
+   "qs": [
+    "OPH-C46-001",
+    "OPH-C46-002",
+    "OPH-C46-003",
+    "OPH-C46-004",
+    "OPH-C46-005",
+    "OPH-C46-006"
+   ]
+  },
+  {
+   "id": "OPH-U46-2",
+   "ch": 46,
+   "n": 2,
+   "title": "Lacrimal drainage and evaluation of watering eye",
+   "sec": "Adnexa · p216",
+   "guide": "Tears pass puncta → canaliculi → lacrimal sac → nasolacrimal duct → inferior meatus; orbicularis-assisted blinking pumps tears. Distinguish hyperlacrimation (over-secretion) from epiphora (drainage obstruction), and interpret syringing, probing and Jones tests.",
+   "qs": [
+    "OPH-C46-007",
+    "OPH-C46-008",
+    "OPH-C46-009",
+    "OPH-C46-010",
+    "OPH-C46-011",
+    "OPH-C46-012",
+    "OPH-C46-013",
+    "OPH-C46-014"
+   ]
+  },
+  {
+   "id": "OPH-U46-3",
+   "ch": 46,
+   "n": 3,
+   "title": "Jones dye tests and dacryocystitis",
+   "sec": "Adnexa · p217",
+   "guide": "Jones I: 2% fluorescein in conjunctival sac; stained cotton at NLD opening means positive/hypersecretion; if negative, irrigate and perform Jones II. Jones II positivity means partial NLD obstruction; negative test suggests pump failure or partial canalicular obstruction. Dacryocystitis is lacrimal sac inflammation; congenital and acquired forms differ in cause and management.",
+   "qs": [
+    "OPH-C46-015",
+    "OPH-C46-016",
+    "OPH-C46-017",
+    "OPH-C46-018",
+    "OPH-C46-019",
+    "OPH-C46-020",
+    "OPH-C46-021",
+    "OPH-C46-022",
+    "OPH-C46-023",
+    "OPH-C46-024"
+   ]
+  },
+  {
+   "id": "OPH-U46-4",
+   "ch": 46,
+   "n": 4,
+   "title": "Lacrimal gland tumours and tear film",
+   "sec": "Adnexa · p218",
+   "guide": "Pleomorphic adenoma is benign and adenoid cystic carcinoma malignant; lacrimal gland masses displace the globe down and medially. Tear film layers from cornea outward: mucin, aqueous, lipid; deficiency patterns have distinct associations.",
+   "qs": [
+    "OPH-C46-025",
+    "OPH-C46-026",
+    "OPH-C46-027",
+    "OPH-C46-028",
+    "OPH-C46-029",
+    "OPH-C46-030",
+    "OPH-C46-031",
+    "OPH-C46-032"
+   ]
+  },
+  {
+   "id": "OPH-U46-5",
+   "ch": 46,
+   "n": 5,
+   "title": "Tear-film tests: TBUT and phenol red thread",
+   "sec": "Adnexa · p219",
+   "guide": "TBUT uses 2% fluorescein and blue light; measure blink-to-first-dry-spot interval (<10 s suggests mucin deficiency). Phenol red thread changes yellow to red with tears; <6 mm suggests dry eye and >15 mm is normal.",
+   "qs": [
+    "OPH-C46-033",
+    "OPH-C46-034",
+    "OPH-C46-035",
+    "OPH-C46-036",
+    "OPH-C46-037",
+    "OPH-C46-038"
+   ]
+  }
+ ]
+}

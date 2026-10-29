@@ -1,0 +1,751 @@
+{
+  "chapter": 32,
+  "title": "Anatomy and Investigations of Retina",
+  "pageRange": "142-147",
+  "questions": [
+    {
+      "id": "OPH-C32-001",
+      "sec": "Gross anatomy",
+      "page": 142,
+      "fmt": "recall",
+      "q": "Colour of the normal retina per p142 is:",
+      "opts": [
+        "Transparent",
+        "Opaque white",
+        "Yellow",
+        "Bluish grey"
+      ],
+      "ans": 0,
+      "exp": "Colour of retina: transparent. (Book p142)"
+    },
+    {
+      "id": "OPH-C32-002",
+      "sec": "Gross anatomy",
+      "page": 142,
+      "fmt": "numeric",
+      "q": "Number of layers of the retina per p142 is:",
+      "opts": [
+        "7",
+        "10",
+        "9",
+        "12"
+      ],
+      "ans": 1,
+      "exp": "Number of layers: 10. (Book p142)"
+    },
+    {
+      "id": "OPH-C32-003",
+      "sec": "Gross anatomy",
+      "page": 142,
+      "fmt": "fillup",
+      "q": "The anterior termination of the retina is the ____:",
+      "opts": [
+        "Fovea centralis",
+        "Optic disc",
+        "Ora serrata",
+        "Equator"
+      ],
+      "ans": 2,
+      "exp": "Ora serrata: anterior termination of retina. (Book p142)"
+    },
+    {
+      "id": "OPH-C32-004",
+      "sec": "Gross anatomy",
+      "page": 142,
+      "fmt": "match",
+      "q": "Match the retinal landmark with its descriptor per p142 — 1) Fovea 2) Ora serrata 3) Foveal avascular zone … A) Anterior termination of retina B) Relatively avascular central zone C) Temporal to the optic disc, central part for central vision",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-A, 3-B"
+      ],
+      "ans": 3,
+      "exp": "Gross anatomy: fovea is the central part for central vision, located temporal to the optic disc; ora serrata is the anterior termination of retina; the relatively avascular central zone is d/t the foveal avascular zone. (Book p142)"
+    },
+    {
+      "id": "OPH-C32-005",
+      "sec": "Gross anatomy",
+      "page": 142,
+      "fmt": "oddoneout",
+      "q": "All of the following are labelled in the gross anatomy diagrams of the posterior pole on p142 EXCEPT:",
+      "opts": [
+        "Canal of Schlemm",
+        "Optic disc and optic cup",
+        "Neuroretinal rim",
+        "Inferior arches of blood vessels"
+      ],
+      "ans": 0,
+      "exp": "The p142 diagrams label the optic disc, optic cup, neuroretinal rim, temporal and nasal vessels and the inferior arches of blood vessels; the canal of Schlemm is an angle structure, not a fundus landmark. (Book p142)"
+    },
+    {
+      "id": "OPH-C32-006",
+      "sec": "Layers of retina",
+      "page": 143,
+      "fmt": "recall",
+      "q": "The ten layers of the retina as listed on p143 run from:",
+      "opts": [
+        "Retinal pigment epithelium innermost to internal limiting membrane outermost",
+        "Internal limiting membrane innermost to retinal pigment epithelium outermost",
+        "Nerve fibre layer innermost to external limiting membrane outermost",
+        "Photoreceptors innermost to ganglion cell layer outermost"
+      ],
+      "ans": 1,
+      "exp": "Ten layers are listed innermost to outermost: ILM, NFL, GCL, IPL, INL, OPL, ONL, ELM, photoreceptors, RPE. (Book p143)"
+    },
+    {
+      "id": "OPH-C32-007",
+      "sec": "Layers of retina",
+      "page": 143,
+      "fmt": "match",
+      "q": "Match the inner retinal layer with its feature per p143 — 1) Internal limiting membrane 2) Nerve fibre layer 3) Ganglion cell layer 4) Inner plexiform layer … A) Collection of axons of ganglion cells, forms the optic nerve B) True basement membrane formed by footplates of Muller cells C) Synapse between ganglion cell and bipolar cells D) Third order neurons, initial site of generation of action potential",
+      "opts": [
+        "1-D, 2-C, 3-B, 4-A",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-B, 2-A, 3-D, 4-C",
+        "1-B, 2-D, 3-A, 4-C"
+      ],
+      "ans": 2,
+      "exp": "ILM is a true basement membrane formed by footplates of Muller cells; NFL is the collection of axons of ganglion cells that forms the optic nerve; GCL contains ganglion cells (3rd order neurons) and is the initial site of generation of action potential; IPL is the synapse between ganglion cell and bipolar cells. (Book p143)"
+    },
+    {
+      "id": "OPH-C32-008",
+      "sec": "Layers of retina",
+      "page": 143,
+      "fmt": "match",
+      "q": "Match the middle retinal layer with its feature per p143 — 1) Inner nuclear layer 2) Outer plexiform layer 3) Outer nuclear layer … A) Rods and cones, the first order neurons B) Bipolar cells, the second order neurons C) Synapse between bipolar cells and photoreceptors; capillary endothelium here forms the inner blood retinal barrier",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 3,
+      "exp": "INL contains bipolar cells (2nd order neurons); OPL is the synapse between bipolar cells and photoreceptors and its capillary endothelial cells form the inner blood retinal barrier; ONL contains rods and cones (1st order neurons). (Book p143)"
+    },
+    {
+      "id": "OPH-C32-009",
+      "sec": "Layers of retina",
+      "page": 143,
+      "fmt": "truefalse",
+      "q": "True/false per p143: the external limiting membrane is not a true basement membrane, unlike the internal limiting membrane.",
+      "opts": [
+        "True",
+        "False — both are true basement membranes",
+        "False — the internal limiting membrane is not a true basement membrane",
+        "False — the external limiting membrane is formed by Muller cell footplates"
+      ],
+      "ans": 0,
+      "exp": "ILM is a true basement membrane (footplates of Muller cells); ELM is not a true basement membrane. (Book p143)"
+    },
+    {
+      "id": "OPH-C32-010",
+      "sec": "Layers of retina",
+      "page": 143,
+      "fmt": "scenario",
+      "q": "Light reaching the photoreceptors has already passed through eight retinal layers, and the photoreceptor response is a local graded potential that is:",
+      "opts": [
+        "Sent directly to the lateral geniculate body",
+        "Conducted back to the nerve fibre layer",
+        "Converted into an action potential within the outer nuclear layer",
+        "Passed to the retinal pigment epithelium for phagocytosis"
+      ],
+      "ans": 1,
+      "exp": "Photoreceptors receive light after it passes through 8 layers and generate a local graded potential which is conducted back to the nerve fibre layer. (Book p143)"
+    },
+    {
+      "id": "OPH-C32-011",
+      "sec": "Layers of retina",
+      "page": 143,
+      "fmt": "match",
+      "q": "Match the function of the retinal pigment epithelium per p143 — 1) Phagocytic function 2) Outer blood retinal barrier … A) Prevents collection of fluid in the subretinal space B) Shed outer segment discs are digested",
+      "opts": [
+        "1-A, 2-A",
+        "1-A, 2-B",
+        "1-B, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 2,
+      "exp": "RPE: phagocytic function (digests shed photoreceptor outer segment discs) and forms the outer blood retinal barrier, which prevents collection of fluid in the subretinal space. (Book p143)"
+    },
+    {
+      "id": "OPH-C32-012",
+      "sec": "Layers of retina",
+      "page": 143,
+      "fmt": "oddoneout",
+      "q": "All of the following are neuroglial (structural supporting) cells of the retina per p143 EXCEPT:",
+      "opts": [
+        "Microglia",
+        "Astrocytes",
+        "Muller cells",
+        "Oligodendrocytes"
+      ],
+      "ans": 3,
+      "exp": "Neuroglial cells (structural supporting cells) in retina: astrocytes, Muller cells and microglia. (Book p143)"
+    },
+    {
+      "id": "OPH-C32-013",
+      "sec": "Layers of retina",
+      "page": 143,
+      "fmt": "recall",
+      "q": "Per p143 the inner nine layers form the neurosensory retina, which is separated from the retinal pigment epithelium by:",
+      "opts": [
+        "The subretinal space",
+        "Bruch's membrane",
+        "The external limiting membrane",
+        "The choriocapillaris"
+      ],
+      "ans": 0,
+      "exp": "Inner 9 layers = neurosensory retina; subretinal space lies between the neurosensory retina and the RPE, which rests on the choroid. (Book p143)"
+    },
+    {
+      "id": "OPH-C32-014",
+      "sec": "Blood supply",
+      "page": 144,
+      "fmt": "match",
+      "q": "Match the retinal layers with their blood supply per p144 — 1) Inner 6 layers 2) Outer 4 layers … A) Short posterior ciliary artery B) Central retinal artery",
+      "opts": [
+        "1-A, 2-B",
+        "1-B, 2-A",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 1,
+      "exp": "Blood supply of retina (from the ophthalmic artery): inner 6 layers by the central retinal artery; outer 4 layers by the short posterior ciliary artery. (Book p144)"
+    },
+    {
+      "id": "OPH-C32-015",
+      "sec": "Blood supply",
+      "page": 144,
+      "fmt": "truefalse",
+      "q": "True/false per p144: both the central retinal artery and the short posterior ciliary arteries are branches of the ophthalmic artery.",
+      "opts": [
+        "False — only the short posterior ciliary arteries come from the ophthalmic artery",
+        "False — only the central retinal artery comes from the ophthalmic artery",
+        "True",
+        "False — both arise from the external carotid circulation"
+      ],
+      "ans": 2,
+      "exp": "Blood supply of retina is from the ophthalmic artery: central retinal artery (inner 6 layers) and short posterior ciliary artery (outer 4 layers). (Book p144)"
+    },
+    {
+      "id": "OPH-C32-016",
+      "sec": "Blood supply",
+      "page": 144,
+      "fmt": "recall",
+      "q": "The outer four retinal layers are supplied by a branch of the short posterior ciliary artery, namely the:",
+      "opts": [
+        "Vorticose vein",
+        "Central retinal vein",
+        "Long posterior ciliary artery",
+        "Choriocapillaris"
+      ],
+      "ans": 3,
+      "exp": "Outer 4 layers: short posterior ciliary artery, whose branch (the choriocapillaris) supplies them. (Book p144)"
+    },
+    {
+      "id": "OPH-C32-017",
+      "sec": "Ophthalmoscopy",
+      "page": 144,
+      "fmt": "numeric",
+      "q": "Magnification with direct and indirect ophthalmoscopy per p144 is:",
+      "opts": [
+        "15 times with direct, 3-5 times with indirect",
+        "3-5 times with direct, 15 times with indirect",
+        "15 times with both",
+        "2 times with direct, 20 times with indirect"
+      ],
+      "ans": 0,
+      "exp": "Magnification: direct ophthalmoscopy 15 times; indirect ophthalmoscopy 3-5 times. (Book p144)"
+    },
+    {
+      "id": "OPH-C32-018",
+      "sec": "Ophthalmoscopy",
+      "page": 144,
+      "fmt": "numeric",
+      "q": "External (condensing) lens used in ophthalmoscopy per p144:",
+      "opts": [
+        "A convex lens of +20 D for direct; none for indirect",
+        "Not used for direct; a convex lens of +20 D for indirect",
+        "A concave lens of -20 D for indirect only",
+        "A +90 D lens for both techniques"
+      ],
+      "ans": 1,
+      "exp": "External lens: not used for direct ophthalmoscopy (convex + lens is within the instrument); indirect ophthalmoscopy uses a convex lens of power +20 D. (Book p144)"
+    },
+    {
+      "id": "OPH-C32-019",
+      "sec": "Ophthalmoscopy",
+      "page": 144,
+      "fmt": "recall",
+      "q": "Image formed in direct versus indirect ophthalmoscopy per p144 is:",
+      "opts": [
+        "Virtual and inverted with both",
+        "Real and inverted with direct, virtual and erect with indirect",
+        "Virtual and erect with direct, real and inverted with indirect",
+        "Real and erect with both"
+      ],
+      "ans": 2,
+      "exp": "Image formed: direct ophthalmoscopy gives a virtual erect image; indirect ophthalmoscopy gives a real and inverted image. (Book p144)"
+    },
+    {
+      "id": "OPH-C32-020",
+      "sec": "Ophthalmoscopy",
+      "page": 144,
+      "fmt": "match",
+      "q": "Match direct and indirect ophthalmoscopy with their examination conditions per p144 — 1) Direct 2) Indirect … A) Close to the patient's eye with the patient standing B) An arm's length away with the patient supine",
+      "opts": [
+        "1-B, 2-B",
+        "1-B, 2-A",
+        "1-A, 2-A",
+        "1-A, 2-B"
+      ],
+      "ans": 3,
+      "exp": "Distance of examination: direct - close to the patient's eye, patient standing; indirect - an arm's length away, patient supine. (Book p144)"
+    },
+    {
+      "id": "OPH-C32-021",
+      "sec": "Ophthalmoscopy",
+      "page": 144,
+      "fmt": "numeric",
+      "q": "Area of fundus visualized with direct versus indirect ophthalmoscopy per p144:",
+      "opts": [
+        "5 disc diameters (10 degrees) centrally with direct; 8 disc diameters (45 degrees) including the ora serrata with indirect",
+        "8 disc diameters (45 degrees) with direct; 5 disc diameters (10 degrees) with indirect",
+        "2 disc diameters with direct; 4 disc diameters with indirect",
+        "The whole fundus with both techniques"
+      ],
+      "ans": 0,
+      "exp": "Area visualized: direct - central fundus (optic disc + macula), 5 disc diameters, 10 degrees field of view; indirect - central + peripheral fundus (optic disc + macula + ora serrata), 8 disc diameters, 45 degrees field of view. (Book p144)"
+    },
+    {
+      "id": "OPH-C32-022",
+      "sec": "Ophthalmoscopy",
+      "page": 144,
+      "fmt": "scenario",
+      "q": "A patient has a dense cataract obscuring the fundus view. Per p144, evaluation through hazy media is:",
+      "opts": [
+        "Possible with direct ophthalmoscopy but not with indirect",
+        "Possible with indirect ophthalmoscopy but not with direct",
+        "Impossible with either technique",
+        "Equally good with both techniques"
+      ],
+      "ans": 1,
+      "exp": "Evaluation with hazy media: not possible with direct ophthalmoscopy; possible with indirect ophthalmoscopy. (Book p144)"
+    },
+    {
+      "id": "OPH-C32-023",
+      "sec": "Ophthalmoscopy",
+      "page": 144,
+      "fmt": "recall",
+      "q": "Stereopsis (depth perception) during ophthalmoscopy per p144 is:",
+      "opts": [
+        "Present with both techniques",
+        "Present with direct and absent with indirect examination",
+        "Absent with direct (monocular) and present with indirect (binocular) examination",
+        "Absent with both techniques"
+      ],
+      "ans": 2,
+      "exp": "Stereopsis/depth perception: absent with direct ophthalmoscopy (monocular examination), present with indirect ophthalmoscopy (binocular examination). (Book p144)"
+    },
+    {
+      "id": "OPH-C32-024",
+      "sec": "Ophthalmoscopy",
+      "page": 144,
+      "fmt": "management",
+      "q": "Which ophthalmoscopy is preferred for the indications listed on p144 — localized pathology such as glaucoma versus disease that may sit anywhere in the fundus such as retinal detachment?",
+      "opts": [
+        "Indirect for both since it is monocular and quicker",
+        "Indirect for glaucoma; direct for retinal detachment",
+        "Direct for both since it gives the largest field",
+        "Direct for localized pathology (glaucoma); indirect for disease anywhere in the fundus (retinal detachment)"
+      ],
+      "ans": 3,
+      "exp": "Indication: direct ophthalmoscopy for pathology involving a specific part of retina (e.g. glaucoma); indirect ophthalmoscopy for pathology involving any part of retina (e.g. retinal detachment). (Book p144)"
+    },
+    {
+      "id": "OPH-C32-025",
+      "sec": "FFA",
+      "page": 145,
+      "fmt": "fillup",
+      "q": "In fundus fluorescein angiography the dye is injected into the ____:",
+      "opts": [
+        "Antecubital vein",
+        "Subconjunctival space",
+        "Anterior chamber",
+        "Retrobulbar space"
+      ],
+      "ans": 0,
+      "exp": "FFA procedure: fluorescein injected into the antecubital vein, with blue light illumination. (Book p145)"
+    },
+    {
+      "id": "OPH-C32-026",
+      "sec": "FFA",
+      "page": 145,
+      "fmt": "numeric",
+      "q": "Fluorescein molecules are excited by blue light at what wavelength per p145?",
+      "opts": [
+        "300-330 nm",
+        "500-530 nm",
+        "805 nm",
+        "1000-1100 nm"
+      ],
+      "ans": 1,
+      "exp": "Excitation of fluorescein molecules at 500-530 nm with blue light illumination, after which the blood vessels are visualized. (Book p145)"
+    },
+    {
+      "id": "OPH-C32-027",
+      "sec": "FFA",
+      "page": 145,
+      "fmt": "recall",
+      "q": "Uses of fundus fluorescein angiography listed on p145 are to diagnose:",
+      "opts": [
+        "Glaucomatous optic neuropathy alone",
+        "Diseases of the outer retina only",
+        "Vascular disorders and macular disorders",
+        "Extraocular muscle palsies"
+      ],
+      "ans": 2,
+      "exp": "Use of FFA: to diagnose vascular disorders and macular disorders. (Book p145)"
+    },
+    {
+      "id": "OPH-C32-028",
+      "sec": "ICG",
+      "page": 145,
+      "fmt": "numeric",
+      "q": "Indocyanine green per p145 is 98% protein bound and fluoresces at:",
+      "opts": [
+        "1200 nm, which is blocked by the lens",
+        "500-530 nm, giving better retention",
+        "400 nm, giving a brighter angiogram",
+        "805 nm, giving better penetration"
+      ],
+      "ans": 3,
+      "exp": "ICG (ICGA): 98% protein bound giving better retention; fluoresces at 805 nm giving better penetration. (Book p145)"
+    },
+    {
+      "id": "OPH-C32-029",
+      "sec": "ICG",
+      "page": 145,
+      "fmt": "management",
+      "q": "Indocyanine green angiography is used to visualize the choroidal circulation and is contraindicated in:",
+      "opts": [
+        "Iodine hypersensitivity",
+        "Diabetes mellitus",
+        "Penicillin allergy",
+        "Open angle glaucoma"
+      ],
+      "ans": 0,
+      "exp": "Use of ICGA: for visualizing choroidal circulation; C/I: iodine hypersensitivity. (Book p145)"
+    },
+    {
+      "id": "OPH-C32-030",
+      "sec": "ICG",
+      "page": 145,
+      "fmt": "recall",
+      "q": "Why is indocyanine green better retained in the circulation than fluorescein?",
+      "opts": [
+        "It is excreted unchanged by the kidney",
+        "It is 98% protein bound",
+        "It does not leak from the choriocapillaris at all",
+        "It is given by retrobulbar injection"
+      ],
+      "ans": 1,
+      "exp": "ICG: 98% protein bound, hence better retention; it fluoresces at 805 nm for better penetration and is used for visualizing choroidal circulation. (Book p145)"
+    },
+    {
+      "id": "OPH-C32-031",
+      "sec": "B-scan",
+      "page": 146,
+      "fmt": "fillup",
+      "q": "B-scan ultrasonography is also called ____ scan:",
+      "opts": [
+        "Doppler",
+        "Amplitude",
+        "Brightness",
+        "Interferometry"
+      ],
+      "ans": 2,
+      "exp": "B-scan ultrasonography: brightness scan. (Book p146)"
+    },
+    {
+      "id": "OPH-C32-032",
+      "sec": "B-scan",
+      "page": 146,
+      "fmt": "numeric",
+      "q": "Frequency of the ultrasonic waves used in B-scan per p146 is:",
+      "opts": [
+        "100-150 MHz",
+        "1-2 MHz",
+        "50-60 MHz",
+        "7.5-10 MHz"
+      ],
+      "ans": 3,
+      "exp": "Mechanism: uses 7.5-10 MHz ultrasonic waves which generate echoes. (Book p146)"
+    },
+    {
+      "id": "OPH-C32-033",
+      "sec": "B-scan",
+      "page": 146,
+      "fmt": "match",
+      "q": "Match the B-scan appearance with the tissue per p146 — 1) Hyperechoic 2) Hypoechoic/anechoic … A) Dark or black, e.g. vitreous B) Bright or white, e.g. retina and choroid",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "Hyperechoic areas are bright/white (e.g. retina, choroid); hypoechoic/anechoic areas are dark/black (e.g. vitreous). (Book p146)"
+    },
+    {
+      "id": "OPH-C32-034",
+      "sec": "B-scan",
+      "page": 146,
+      "fmt": "scenario",
+      "q": "B-scan is indicated in a patient with corneal opacity or cataract because:",
+      "opts": [
+        "It measures the axial length needed for biometry",
+        "Ocular media opacity makes ophthalmoscopy difficult",
+        "It is the only way to record the electroretinogram",
+        "It replaces angiography in macular disease"
+      ],
+      "ans": 1,
+      "exp": "Indication: patients with ocular media opacity (corneal opacity/cataract) where ophthalmoscopy is difficult. (Book p146)"
+    },
+    {
+      "id": "OPH-C32-035",
+      "sec": "OCT",
+      "page": 146,
+      "fmt": "fillup",
+      "q": "The principle of optical coherence tomography per p146 is:",
+      "opts": [
+        "Fluorescence of intravenously injected dye",
+        "High frequency sound echoes",
+        "Low coherence interferometry",
+        "Recording of standing potentials"
+      ],
+      "ans": 2,
+      "exp": "OCT principle: low coherence interferometry. (Book p146)"
+    },
+    {
+      "id": "OPH-C32-036",
+      "sec": "OCT",
+      "page": 146,
+      "fmt": "recall",
+      "q": "On OCT the fovea appears depressed because of:",
+      "opts": [
+        "Presence of the foveal avascular zone",
+        "Absence of the retinal pigment epithelium",
+        "Thickening of the nerve fibre layer",
+        "Absence of the ganglion cell layer at the fovea"
+      ],
+      "ans": 3,
+      "exp": "OCT landmarks: fovea is depressed d/t absence of the ganglion cell layer; RPE appears red. (Book p146)"
+    },
+    {
+      "id": "OPH-C32-037",
+      "sec": "ERG",
+      "page": 147,
+      "fmt": "recall",
+      "q": "Electroretinography per p147 is a:",
+      "opts": [
+        "Graphical record of action potentials arising from the whole retina",
+        "Record of the standing potential of the retinal pigment epithelium",
+        "Measurement of the light peak to dark trough ratio alone",
+        "Recording of the optic nerve compound action potential only"
+      ],
+      "ans": 0,
+      "exp": "ERG: graphical record of action potentials; source: pan (whole) retina. (Book p147)"
+    },
+    {
+      "id": "OPH-C32-038",
+      "sec": "ERG",
+      "page": 147,
+      "fmt": "match",
+      "q": "Match the ERG wave with its source per p147 — 1) a wave 2) b wave 3) c wave … A) Generated by Muller cells and conducted by bipolar cells B) Due to metabolism in the retinal pigment epithelium C) Generated by photoreceptors",
+      "opts": [
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 1,
+      "exp": "Waves in ERG: a wave generated by photoreceptors; b wave generated by Muller cells and conducted by bipolar cells; c wave due to metabolism in the RPE. (Book p147)"
+    },
+    {
+      "id": "OPH-C32-039",
+      "sec": "ERG",
+      "page": 147,
+      "fmt": "match",
+      "q": "Match the special ERG with its source or use per p147 — 1) Early receptor potential 2) Multifocal ERG 3) Pattern ERG … A) Generated by cones only B) Source is ganglion cells, represents optic nerve function and is used to diagnose glaucoma C) Assesses function of the macula",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 2,
+      "exp": "Special ERG: early receptor potential is generated by cones only; multifocal ERG assesses function of the macula; pattern ERG arises from ganglion cells, represents optic nerve function and is used to diagnose glaucoma. (Book p147)"
+    },
+    {
+      "id": "OPH-C32-040",
+      "sec": "EOG",
+      "page": 147,
+      "fmt": "recall",
+      "q": "Electro-oculography per p147 records:",
+      "opts": [
+        "The latency of the visual evoked potential",
+        "Action potentials generated by photoreceptors after a light flash",
+        "The fluorescence of indocyanine green in the choroid",
+        "The standing potential produced by the voltage difference across apical and basal segments of RPE cells"
+      ],
+      "ans": 3,
+      "exp": "EOG: record of standing potential, produced d/t voltage difference across the apical and basal segments of RPE cells; source: photoreceptors (outer retina) and RPE; use: to diagnose diseases of the outer retina. (Book p147)"
+    },
+    {
+      "id": "OPH-C32-041",
+      "sec": "EOG",
+      "page": 147,
+      "fmt": "numeric",
+      "q": "Arden's ratio and its normal value per p147:",
+      "opts": [
+        "Light peak divided by dark trough; more than 1.85 (185%) is normal",
+        "Dark trough divided by light peak; more than 1.85 (185%) is normal",
+        "Light peak divided by dark trough; less than 1.5 (150%) is normal",
+        "Dark trough divided by light peak; less than 0.5 (50%) is normal"
+      ],
+      "ans": 0,
+      "exp": "EOG is measured by Arden's ratio: light peak (highest value of EOG in well lit conditions) divided by dark trough (lowest value of EOG in dark); >1.85 or 185% is normal. (Book p147)"
+    },
+    {
+      "id": "OPH-C32-042",
+      "sec": "EOG",
+      "page": 147,
+      "fmt": "management",
+      "q": "Which investigation is used to diagnose diseases of the outer retina per p147?",
+      "opts": [
+        "Pattern electroretinography",
+        "Electro-oculography",
+        "Fundus fluorescein angiography",
+        "B-scan ultrasonography"
+      ],
+      "ans": 1,
+      "exp": "EOG source: photoreceptors (outer retina) and RPE; use: to diagnose diseases of the outer retina. (Book p147)"
+    }
+  ],
+  "units": [
+    {
+      "id": "OPH-U32-1",
+      "ch": 32,
+      "n": 1,
+      "title": "Gross anatomy of the retina",
+      "sec": "Retina · p142",
+      "guide": "Anatomy colour of retina transparent number of layers 10 gross anatomy optic disc for central vision central part fovea location temporal to optic disc ora serrata anterior termination of retina temporal and nasal vessels inferior arches of blood vessels optic disc relatively avascular central zone d/t foveal avascular zone relations of retina in contact with vitreous (inner/anterior) and choroid (posterior) optic disc optic cup neuroretinal rim.",
+      "qs": [
+        "OPH-C32-001",
+        "OPH-C32-002",
+        "OPH-C32-003",
+        "OPH-C32-004",
+        "OPH-C32-005"
+      ]
+    },
+    {
+      "id": "OPH-U32-2",
+      "ch": 32,
+      "n": 2,
+      "title": "The ten layers of the retina",
+      "sec": "Retina · p143",
+      "guide": "Layers of retina ten layers innermost to outermost 1 internal limiting membrane true basement membrane formed by footplates of Muller cells 2 nerve fibre layer collection of axons of ganglion cells forms optic nerve 3 ganglion cell layer ganglion cells 3rd order neurons initial site of generation of action potential 4 inner plexiform layer synapse ganglion cell and bipolar cells 5 inner nuclear layer bipolar cells 2nd order neurons 6 outer plexiform layer synapse bipolar cells and photoreceptors endothelial cells of capillaries form inner blood retinal barrier 7 outer nuclear layer rods and cones 1st order neurons 8 external limiting membrane not a true basement membrane 9 photoreceptors receive light after it passes through 8 layers generate local graded potential conducted back to nerve fibre layer 10 retinal pigment epithelium phagocytic function forms outer blood retinal barrier prevents collection of fluid in subretinal space Neuroglial cells astrocytes Muller cells microglia Inner 9 layers neurosensory retina subretinal space RPE choroid.",
+      "qs": [
+        "OPH-C32-006",
+        "OPH-C32-007",
+        "OPH-C32-008",
+        "OPH-C32-009",
+        "OPH-C32-010",
+        "OPH-C32-011",
+        "OPH-C32-012",
+        "OPH-C32-013"
+      ]
+    },
+    {
+      "id": "OPH-U32-3",
+      "ch": 32,
+      "n": 3,
+      "title": "Blood supply of the retina",
+      "sec": "Retina · p144",
+      "guide": "Blood supply of retina from ophthalmic artery inner 6 layers central retinal artery outer 4 layers short posterior ciliary artery (its branch the choriocapillaris).",
+      "qs": [
+        "OPH-C32-014",
+        "OPH-C32-015",
+        "OPH-C32-016"
+      ]
+    },
+    {
+      "id": "OPH-U32-4",
+      "ch": 32,
+      "n": 4,
+      "title": "Direct versus indirect ophthalmoscopy",
+      "sec": "Retina · p144",
+      "guide": "Ophthalmoscopy direct vs indirectExternal lens not used (convex + lens within instrument) vs convex lens power +20 D magnification 15 times vs 3-5 times image formed virtual erect vs real and inverted stereopsis/depth perception absent (monocular) vs present (binocular) distance of examination close to patient's eye vs an arm's length patient's position standing vs supine area visualized central fundus optic disc + macula 5 disc diameters 10 degrees field of view vs central + peripheral fundus optic disc + macula + ora serrata 8 disc diameters 45 degrees field of view evaluation with hazy media not possible vs possible indication pathology involving a specific part of retina (eg glaucoma) vs pathology involving any part of retina (eg retinal detachment).",
+      "qs": [
+        "OPH-C32-017",
+        "OPH-C32-018",
+        "OPH-C32-019",
+        "OPH-C32-020",
+        "OPH-C32-021",
+        "OPH-C32-022",
+        "OPH-C32-023",
+        "OPH-C32-024"
+      ]
+    },
+    {
+      "id": "OPH-U32-5",
+      "ch": 32,
+      "n": 5,
+      "title": "Fundus fluorescein angiography and indocyanine green angiography",
+      "sec": "Retina · p145",
+      "guide": "FFA procedure fluorescein injected into antecubital vein blue light illumination excitation of fluorescein molecules at 500-530 nm blood vessels visualized normal FFA use to diagnose vascular disorders and macular disorders leakage of dye blocked vessel (findings) ICGA 98% protein bound better retention fluoresces at 805 nm better penetration use for visualizing choroidal circulation C/I iodine hypersensitivity.",
+      "qs": [
+        "OPH-C32-025",
+        "OPH-C32-026",
+        "OPH-C32-027",
+        "OPH-C32-028",
+        "OPH-C32-029",
+        "OPH-C32-030"
+      ]
+    },
+    {
+      "id": "OPH-U32-6",
+      "ch": 32,
+      "n": 6,
+      "title": "B-scan ultrasonography and optical coherence tomography",
+      "sec": "Retina · p146",
+      "guide": "B-scan ultrasonography brightness scan mechanism uses 7.5-10 MHz ultrasonic waves generates echoes hyperechoic area bright/white eg retina choroid hypoechoic/anechoic areas dark/black eg vitreous indication patients with ocular media opacity (corneal opacity/cataract) difficult ophthalmoscopy normal B-scan retinal detachment vitreous hemorrhage OCT principle low coherence interferometry landmarks fovea depressed d/t absence of ganglion cell layer RPE red layers NFL GCL IPL OPL ONL IS/OS RPE choroid.",
+      "qs": [
+        "OPH-C32-031",
+        "OPH-C32-032",
+        "OPH-C32-033",
+        "OPH-C32-034",
+        "OPH-C32-035",
+        "OPH-C32-036"
+      ]
+    },
+    {
+      "id": "OPH-U32-7",
+      "ch": 32,
+      "n": 7,
+      "title": "Electroretinography and electro-oculography",
+      "sec": "Retina · p147",
+      "guide": "ERG graphical record of action potentials source pan (whole) retina special ERG 1 early receptor potential generated by cones only 2 multifocal ERG function of macula 3 pattern ERG source ganglion cells represents optic nerve function use to diagnose glaucoma waves a wave generated by photoreceptors b wave generated by Muller cells conducted by bipolar cells c wave due to metabolism in RPE EOG record of standing potential produced d/t voltage difference across apical and basal segments of RPE cells source 1 photoreceptors (outer retina) 2 RPE use to diagnose diseases of outer retina measured by Arden's ratio light peak (highest value of EOG in well lit conditions) / dark trough (lowest value of EOG in dark) >1.85 or 185% normal.",
+      "qs": [
+        "OPH-C32-037",
+        "OPH-C32-038",
+        "OPH-C32-039",
+        "OPH-C32-040",
+        "OPH-C32-041",
+        "OPH-C32-042"
+      ]
+    }
+  ]
+}

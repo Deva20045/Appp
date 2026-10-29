@@ -1,0 +1,1141 @@
+{
+ "chapter": 40,
+ "title": "Corneal Dystrophies, Keratoconus and Miscellaneous Disorders",
+ "pageRange": "180-184",
+ "questions": [
+  {
+   "id": "OPH-C40-001",
+   "sec": "Corneal dystrophies - features",
+   "page": 180,
+   "fmt": "fillup",
+   "q": "Corneal dystrophies are ___ corneal diseases.",
+   "opts": [
+    "Primary",
+    "Secondary",
+    "Inflammatory",
+    "Infective"
+   ],
+   "ans": 0,
+   "exp": "Features of corneal dystrophies: primary corneal disease. (Book p180)"
+  },
+  {
+   "id": "OPH-C40-002",
+   "sec": "Corneal dystrophies - features",
+   "page": 180,
+   "fmt": "numeric",
+   "q": "In which decades of life do corneal dystrophies present?",
+   "opts": [
+    "2nd and 3rd decades",
+    "4th and 5th decades",
+    "6th and 7th decades",
+    "1st and 2nd decades"
+   ],
+   "ans": 3,
+   "exp": "Corneal dystrophies: present in 1st and 2nd decades. (Book p180)"
+  },
+  {
+   "id": "OPH-C40-003",
+   "sec": "Corneal dystrophies - features",
+   "page": 180,
+   "fmt": "truefalse",
+   "q": "True or false — 'Corneal dystrophies are inflammatory, non-progressive and usually unilateral.' Choose the correct verdict:",
+   "opts": [
+    "True - they are inflammatory and unilateral",
+    "False - they are non-inflammatory, progressive and bilateral (B/L)",
+    "False - they are inflammatory, progressive and bilateral",
+    "False - they are non-inflammatory, non-progressive and unilateral"
+   ],
+   "ans": 1,
+   "exp": "Features: non-inflammatory, progressive, B/L. (Book p180)"
+  },
+  {
+   "id": "OPH-C40-004",
+   "sec": "Corneal dystrophies - features",
+   "page": 180,
+   "fmt": "recall",
+   "q": "Which inheritance pattern is given as the general feature of corneal dystrophies?",
+   "opts": [
+    "Autosomal recessive",
+    "X-linked recessive",
+    "Autosomal dominant",
+    "Mitochondrial"
+   ],
+   "ans": 2,
+   "exp": "Features: autosomal dominant inheritance (exceptions in the table include AR macular dystrophy and AR CHED). (Book p180)"
+  },
+  {
+   "id": "OPH-C40-005",
+   "sec": "Epithelial dystrophies",
+   "page": 180,
+   "fmt": "scenario",
+   "q": "Which epithelial dystrophy, also called map dot, is the most common corneal dystrophy?",
+   "opts": [
+    "Meesmann epithelial dystrophy",
+    "Lisch epithelial dystrophy",
+    "Cogan's epithelial basement membrane dystrophy",
+    "Reis Buckler's dystrophy"
+   ],
+   "ans": 2,
+   "exp": "1. Epithelial: Cogan's epithelial basement membrane dystrophy/map dot: m/c corneal dystrophy. (Book p180)"
+  },
+  {
+   "id": "OPH-C40-006",
+   "sec": "Epithelial dystrophies",
+   "page": 180,
+   "fmt": "scenario",
+   "q": "An epithelial dystrophy is non-progressive and is due to a keratin gene mutation. Which dystrophy is this?",
+   "opts": [
+    "Cogan's epithelial basement membrane dystrophy",
+    "Meesmann epithelial dystrophy",
+    "Lisch epithelial dystrophy",
+    "Schnyder central crystalline dystrophy"
+   ],
+   "ans": 1,
+   "exp": "Meesmann epithelial dystrophy: non-progressive, d/t keratin gene mutation. (Book p180)"
+  },
+  {
+   "id": "OPH-C40-007",
+   "sec": "Epithelial dystrophies",
+   "page": 180,
+   "fmt": "fillup",
+   "q": "The inheritance listed for Lisch epithelial dystrophy is ___.",
+   "opts": [
+    "AR only",
+    "AD only",
+    "AR/XLR",
+    "AD/XLD"
+   ],
+   "ans": 3,
+   "exp": "Lisch epithelial dystrophy: AD/XLD. (Book p180)"
+  },
+  {
+   "id": "OPH-C40-008",
+   "sec": "Bowman layer dystrophies",
+   "page": 180,
+   "fmt": "recall",
+   "q": "Reis Buckler's, Schnyder central crystalline and Thiel Behnke dystrophies are grouped in the table under which layer?",
+   "opts": [
+    "Bowman layer",
+    "Epithelium",
+    "Stroma",
+    "Endothelium"
+   ],
+   "ans": 0,
+   "exp": "Row group 2. Bowman layer lists Reis Buckler's, Schnyder central crystalline and Thiel Behnke dystrophies. (Book p180)"
+  },
+  {
+   "id": "OPH-C40-009",
+   "sec": "Bowman layer dystrophies",
+   "page": 180,
+   "fmt": "match",
+   "q": "Match the Bowman layer dystrophy with its feature — 1) Reis Buckler's  2) Schnyder central crystalline  3) Thiel Behnke  … A) Honeycomb pattern of opacities  B) Fish net  C) Corneal lipid metabolism disorder",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Reis Buckler's: fish net; Schnyder central crystalline: corneal lipid metabolism disorder; Thiel Behnke: honeycomb pattern of opacities. (Book p180)"
+  },
+  {
+   "id": "OPH-C40-010",
+   "sec": "Bowman layer dystrophies",
+   "page": 180,
+   "fmt": "recall",
+   "q": "As printed in the table, both Reis Buckler's dystrophy (with CDB1) and Thiel Behnke dystrophy carry which label?",
+   "opts": [
+    "GCD I",
+    "GCD II",
+    "GCD III",
+    "CDB2"
+   ],
+   "ans": 2,
+   "exp": "Reis Buckler's dystrophy/CDB1/GCD III and Thiel Behnke dystrophy / GCD III. (Book p180)"
+  },
+  {
+   "id": "OPH-C40-011",
+   "sec": "Stromal dystrophies",
+   "page": 180,
+   "fmt": "numeric",
+   "q": "In lattice corneal dystrophy I (Biber Haab Dimmer) and II (Finnish), neuropathy is seen at what age?",
+   "opts": [
+    "10-20 years",
+    "30-40 years",
+    "50-60 years",
+    "70-90 years"
+   ],
+   "ans": 3,
+   "exp": "3. Stromal: Lattice corneal dystrophy I/Biber Haab Dimmer and II/Finnish: neuropathy seen 70-90 years. (Book p180)"
+  },
+  {
+   "id": "OPH-C40-012",
+   "sec": "Stromal dystrophies",
+   "page": 180,
+   "fmt": "scenario",
+   "q": "A lattice dystrophy is AR and has a mulberry-like appearance. Which type is this?",
+   "opts": [
+    "Lattice corneal dystrophy I",
+    "Lattice corneal dystrophy IIIA",
+    "Lattice dystrophy II (Finnish)",
+    "Granular corneal dystrophy I"
+   ],
+   "ans": 1,
+   "exp": "Lattice corneal dystrophy IIIA: AR, mulberry-like appearance. (Book p180)"
+  },
+  {
+   "id": "OPH-C40-013",
+   "sec": "Stromal dystrophies",
+   "page": 180,
+   "fmt": "recall",
+   "q": "The lattice dystrophies show which deposit and stain in the table?",
+   "opts": [
+    "Hyaline deposit stained by Masson trichome",
+    "Hyaline plus amyloid deposit",
+    "Acid mucopolysaccharide deposit stained by Alcian blue",
+    "Amyloid deposit stained by Congo red"
+   ],
+   "ans": 3,
+   "exp": "Lattice dystrophies (merged cell): Amyloid deposit: stained by Congo red. (Book p180)"
+  },
+  {
+   "id": "OPH-C40-014",
+   "sec": "Stromal dystrophies",
+   "page": 180,
+   "fmt": "scenario",
+   "q": "Which stromal dystrophy (Japanese) shows a hyaline deposit stained by Masson trichome stain?",
+   "opts": [
+    "Granular corneal dystrophy I",
+    "Macular dystrophy",
+    "Gelatinous drop like dystrophy",
+    "Francois central cloudy dystrophy"
+   ],
+   "ans": 2,
+   "exp": "Gelatinous drop like dystrophy/Japanese: Hyaline deposit: stained by Masson Trichome stain. (Book p180)"
+  },
+  {
+   "id": "OPH-C40-015",
+   "sec": "Stromal dystrophies",
+   "page": 180,
+   "fmt": "recall",
+   "q": "Granular corneal dystrophy I (Groenaw granular dystrophy II) shows which deposit?",
+   "opts": [
+    "Amyloid only",
+    "Hyaline plus amyloid",
+    "Hyaline only",
+    "Keratin sulphate only"
+   ],
+   "ans": 1,
+   "exp": "Granular corneal dystrophy I/Groenaw granular corneal dystrophy II: Hyaline + Amyloid deposit. (Book p180)"
+  },
+  {
+   "id": "OPH-C40-016",
+   "sec": "Stromal dystrophies",
+   "page": 180,
+   "fmt": "fillup",
+   "q": "Macular dystrophy (Groenow II) is AR and the ___ common corneal dystrophy (L/C).",
+   "opts": [
+    "Least",
+    "Most",
+    "Second most",
+    "Third most"
+   ],
+   "ans": 0,
+   "exp": "Macular dystrophy/Groenow II: AR, L/C corneal dystrophy. (Book p180)"
+  },
+  {
+   "id": "OPH-C40-017",
+   "sec": "Stromal dystrophies",
+   "page": 180,
+   "fmt": "recall",
+   "q": "Francois central cloudy dystrophy is an inborn error of the metabolism of:",
+   "opts": [
+    "Lipid",
+    "Keratin gene product",
+    "Keratin sulphate",
+    "Amyloid"
+   ],
+   "ans": 2,
+   "exp": "Francois central cloudy dystrophy: inborn error of keratin sulphate metabolism. (Book p180)"
+  },
+  {
+   "id": "OPH-C40-018",
+   "sec": "Endothelial dystrophies",
+   "page": 180,
+   "fmt": "scenario",
+   "q": "Which endothelial dystrophy shows corneal guttata, described as wart-like excrescences?",
+   "opts": [
+    "Fuch's endothelial dystrophy",
+    "Posterior polymorphous corneal dystrophy",
+    "Congenital hereditary endothelial dystrophy I",
+    "Congenital hereditary endothelial dystrophy II"
+   ],
+   "ans": 0,
+   "exp": "4. Endothelial: Fuch's endothelial dystrophy: corneal guttata: wart-like excrescences. (Book p180)"
+  },
+  {
+   "id": "OPH-C40-019",
+   "sec": "Endothelial dystrophies",
+   "page": 180,
+   "fmt": "oddoneout",
+   "q": "Which endothelial dystrophy has a dash (no feature written) in the table's Feature column?",
+   "opts": [
+    "Fuch's endothelial dystrophy",
+    "Posterior polymorphous corneal dystrophy",
+    "Congenital hereditary endothelial dystrophy I",
+    "Congenital hereditary endothelial dystrophy II"
+   ],
+   "ans": 1,
+   "exp": "Posterior polymorphous corneal dystrophy: '-' in the Feature column. (Book p180)"
+  },
+  {
+   "id": "OPH-C40-020",
+   "sec": "Endothelial dystrophies",
+   "page": 180,
+   "fmt": "recall",
+   "q": "Congenital hereditary endothelial dystrophy I and II both have which inheritance and onset?",
+   "opts": [
+    "AD inheritance and perinatal onset",
+    "AR inheritance and onset in the 2nd decade",
+    "AD/XLD inheritance and onset in old age",
+    "AR inheritance and perinatal onset"
+   ],
+   "ans": 3,
+   "exp": "CHED I and II: both have AR inheritance and have perinatal onset. (Book p180)"
+  },
+  {
+   "id": "OPH-C40-021",
+   "sec": "Dystrophy figures",
+   "page": 181,
+   "fmt": "scenario",
+   "q": "A clinical photograph shows microcysts in the corneal epithelium. Which dystrophy is captioned?",
+   "opts": [
+    "Cogan's epithelial basement membrane dystrophy",
+    "Lisch epithelial dystrophy",
+    "Fuch's endothelial dystrophy",
+    "Meesmann epithelial dystrophy"
+   ],
+   "ans": 3,
+   "exp": "Figure: Meesmann epithelial dystrophy - microcysts in corneal epithelium. (Book p181)"
+  },
+  {
+   "id": "OPH-C40-022",
+   "sec": "Dystrophy figures",
+   "page": 181,
+   "fmt": "recall",
+   "q": "In macular dystrophy, the Alcian blue stain shows deposits of:",
+   "opts": [
+    "Amorphous deposit",
+    "Acid mucopolysaccharidosis deposits",
+    "Hyaline deposits",
+    "Apple green birefringent amyloid"
+   ],
+   "ans": 1,
+   "exp": "Macular dystrophy figure: Acid mucopolysaccharidosis deposits; Alcian blue stain. (Book p181)"
+  },
+  {
+   "id": "OPH-C40-023",
+   "sec": "Dystrophy figures",
+   "page": 181,
+   "fmt": "match",
+   "q": "Match the stain in lattice dystrophy type 1 with its finding — 1) PAS stain  2) Congo red stain  … A) Apple green birefringence  B) Amorphous deposit  C) Hyaline deposits",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-C, 2-A",
+    "1-B, 2-C"
+   ],
+   "ans": 0,
+   "exp": "Lattice corneal dystrophy type 1: PAS stain - amorphous deposit; Congo red stain - apple green birefringence. (Book p181)"
+  },
+  {
+   "id": "OPH-C40-024",
+   "sec": "Dystrophy figures",
+   "page": 181,
+   "fmt": "recall",
+   "q": "In granular dystrophy, the Masson trichome stain shows:",
+   "opts": [
+    "Amorphous deposit",
+    "Acid mucopolysaccharidosis deposits",
+    "Hyaline deposits",
+    "Apple green birefringence"
+   ],
+   "ans": 2,
+   "exp": "Granular dystrophy: Masson trichome stain - hyaline deposits. (Book p181)"
+  },
+  {
+   "id": "OPH-C40-025",
+   "sec": "Dystrophy figures",
+   "page": 181,
+   "fmt": "scenario",
+   "q": "A slit lamp photograph shows bread crumb like granules separated by well-demarcated clear space. Which dystrophy does the book show?",
+   "opts": [
+    "Lattice dystrophy type 1",
+    "Macular dystrophy",
+    "Granular dystrophy",
+    "Meesmann epithelial dystrophy"
+   ],
+   "ans": 2,
+   "exp": "Granular dystrophy figure: bread crumb like granules; label: separated by well-demarcated clear space. (Book p181)"
+  },
+  {
+   "id": "OPH-C40-026",
+   "sec": "Fuch's endothelial dystrophy",
+   "page": 181,
+   "fmt": "recall",
+   "q": "Fuch's endothelial dystrophy is written in the book as due to mutation of which gene?",
+   "opts": [
+    "The COAXa gene (as handwritten in the book)",
+    "The keratin gene",
+    "The CDB1 gene",
+    "The GCD III gene"
+   ],
+   "ans": 0,
+   "exp": "Fuch's endothelial dystrophy: mutation of COAXa gene (as handwritten). (Book p181)"
+  },
+  {
+   "id": "OPH-C40-027",
+   "sec": "Fuch's endothelial dystrophy",
+   "page": 181,
+   "fmt": "recall",
+   "q": "Which structures are damaged in Fuch's endothelial dystrophy, producing wart-like excrescences on the cornea?",
+   "opts": [
+    "Bowman layer and epithelium",
+    "Descemet membrane and endothelium",
+    "Stroma and Bowman layer",
+    "Epithelium and basement membrane"
+   ],
+   "ans": 1,
+   "exp": "Fuch's: Descemet membrane + Endothelium damaged; wart-like excrescences on cornea. (Book p181)"
+  },
+  {
+   "id": "OPH-C40-028",
+   "sec": "Fuch's endothelial dystrophy",
+   "page": 181,
+   "fmt": "recall",
+   "q": "Which finding in the histology figure of Fuch's dystrophy is labelled 'Diagnostic'?",
+   "opts": [
+    "Hyaline deposits",
+    "Microcysts in corneal epithelium",
+    "Bread crumb like granules",
+    "Corneal guttae"
+   ],
+   "ans": 3,
+   "exp": "Figure caption: Corneal guttae (Diagnostic). (Book p181)"
+  },
+  {
+   "id": "OPH-C40-029",
+   "sec": "Recurrent corneal erosions",
+   "page": 181,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT listed as a cause of recurrent corneal erosions?",
+   "opts": [
+    "Cogan dystrophy",
+    "Thiel Behnke dystrophy",
+    "Fuch's endothelial dystrophy",
+    "Reis Buckler dystrophy"
+   ],
+   "ans": 2,
+   "exp": "Recurrent corneal erosions - causes: Cogan dystrophy, Thiel Behnke dystrophy, Reis Buckler dystrophy, Lattice type I. (Book p181)"
+  },
+  {
+   "id": "OPH-C40-030",
+   "sec": "Recurrent corneal erosions",
+   "page": 181,
+   "fmt": "fillup",
+   "q": "Among the lattice dystrophies, recurrent corneal erosions are listed for lattice type ___.",
+   "opts": [
+    "I",
+    "II",
+    "IIIA",
+    "IV"
+   ],
+   "ans": 0,
+   "exp": "Recurrent corneal erosions - 4. Lattice type I. (Book p181)"
+  },
+  {
+   "id": "OPH-C40-031",
+   "sec": "Metabolic causes and treatment",
+   "page": 182,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT one of the listed metabolic causes of dystrophy?",
+   "opts": [
+    "Meesmann epithelial dystrophy",
+    "Macular dystrophy",
+    "Schnyder central crystalline dystrophy",
+    "Cogan dystrophy"
+   ],
+   "ans": 3,
+   "exp": "Metabolic causes of dystrophy: 1. Meesmann epithelial dystrophy, 2. Macular dystrophy, 3. Schnyder central crystalline dystrophy. (Book p182)"
+  },
+  {
+   "id": "OPH-C40-032",
+   "sec": "Metabolic causes and treatment",
+   "page": 182,
+   "fmt": "management",
+   "q": "What is the treatment of corneal dystrophy when visual loss is present?",
+   "opts": [
+    "Chelation with EDTA",
+    "Keratoplasty/corneal transplantation",
+    "Corneal collagen cross linking",
+    "Rigid contact lens"
+   ],
+   "ans": 1,
+   "exp": "Treatment of corneal dystrophies: if visual loss +: keratoplasty/corneal transplantation. (Book p182)"
+  },
+  {
+   "id": "OPH-C40-033",
+   "sec": "Keratoconus",
+   "page": 182,
+   "fmt": "fillup",
+   "q": "Keratoconus is a form of corneal ___ and is non-inflammatory, progressive and usually B/L.",
+   "opts": [
+    "Dystrophy",
+    "Ectasia",
+    "Degeneration",
+    "Opacity"
+   ],
+   "ans": 1,
+   "exp": "Keratoconus: form of corneal ectasia; non-inflammatory, progressive, usually B/L. (Book p182)"
+  },
+  {
+   "id": "OPH-C40-034",
+   "sec": "Keratoconus",
+   "page": 182,
+   "fmt": "recall",
+   "q": "The first cause listed for keratoconus etiology is:",
+   "opts": [
+    "Congenital weakness",
+    "Trauma",
+    "Vernal keratoconjunctivitis",
+    "Down syndrome"
+   ],
+   "ans": 0,
+   "exp": "Etiology: 1. Congenital weakness; 2. Associated with trauma, vernal keratoconjunctivitis, Down syndrome. (Book p182)"
+  },
+  {
+   "id": "OPH-C40-035",
+   "sec": "Keratoconus",
+   "page": 182,
+   "fmt": "oddoneout",
+   "q": "Keratoconus is associated with all of the following in the book EXCEPT:",
+   "opts": [
+    "Trauma",
+    "Vernal keratoconjunctivitis",
+    "Fuch's endothelial dystrophy",
+    "Down syndrome"
+   ],
+   "ans": 2,
+   "exp": "Associated with: trauma, vernal keratoconjunctivitis, Down syndrome. (Book p182)"
+  },
+  {
+   "id": "OPH-C40-036",
+   "sec": "Keratoconus",
+   "page": 182,
+   "fmt": "fillup",
+   "q": "The refractive error listed first in the clinical features of keratoconus is ___.",
+   "opts": [
+    "Hypermetropic astigmatism",
+    "Simple hypermetropia",
+    "Aphakia",
+    "Myopic astigmatism"
+   ],
+   "ans": 3,
+   "exp": "Clinical features: 1. Myopic astigmatism. (Book p182)"
+  },
+  {
+   "id": "OPH-C40-037",
+   "sec": "Keratoconus",
+   "page": 182,
+   "fmt": "scenario",
+   "q": "Examination of keratoconus reveals the hallmark sign. Where is the stromal thinning located?",
+   "opts": [
+    "Peripheral, superior to the centre",
+    "Limbal, nasal",
+    "Central only, with a clear zone at the periphery",
+    "Central/paracentral, inferior to the centre"
+   ],
+   "ans": 3,
+   "exp": "2. Hallmark: Stromal thinning (Central/paracentral) -> Inferior to the centre. (Book p182)"
+  },
+  {
+   "id": "OPH-C40-038",
+   "sec": "Keratoconus",
+   "page": 182,
+   "fmt": "match",
+   "q": "Match the keratoconus sign with its description — 1) Munson's sign  2) Rizzuti's sign  … A) Arrowhead pattern of light over the nasal limbus (light from the temporal side)  B) Bulging of lower eyelid on downgaze  C) Stromal stress lines",
+   "opts": [
+    "1-A, 2-B",
+    "1-C, 2-A",
+    "1-B, 2-A",
+    "1-B, 2-C"
+   ],
+   "ans": 2,
+   "exp": "Munson's sign: bulging of lower eyelid on downgaze. Rizzuti's sign: light from temporal side -> arrowhead pattern of light over nasal limbus. (Book p182)"
+  },
+  {
+   "id": "OPH-C40-039",
+   "sec": "Keratoconus",
+   "page": 182,
+   "fmt": "match",
+   "q": "Match the examination technique with the reflex in keratoconus — 1) Retinoscopy  2) Ophthalmoscopy  … A) Oil droplet reflex  B) Scissoring reflex  C) Fleischer ring",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-C, 2-A",
+    "1-B, 2-C"
+   ],
+   "ans": 1,
+   "exp": "5. On retinoscopy: scissoring reflex. 6. On ophthalmoscopy: oil droplet reflex. (Book p182)"
+  },
+  {
+   "id": "OPH-C40-040",
+   "sec": "Keratoconus",
+   "page": 182,
+   "fmt": "recall",
+   "q": "Vogt's striae in keratoconus are:",
+   "opts": [
+    "Stromal stress lines",
+    "Lipid deposition near the periphery",
+    "Clear zone between arcus and limbus",
+    "Deposits of calcium in Bowman's layer"
+   ],
+   "ans": 0,
+   "exp": "7. Vogt's striae: Stromal stress lines. (Book p182)"
+  },
+  {
+   "id": "OPH-C40-041",
+   "sec": "Keratoconus",
+   "page": 182,
+   "fmt": "recall",
+   "q": "The three keratoconus photographs at the bottom of p182 are captioned:",
+   "opts": [
+    "Munson's sign, Rizzuti's sign and Oil droplet reflex",
+    "Rizzuti's sign, Munson's sign and Oil droplet reflex",
+    "Munson's sign, Oil droplet reflex and Rizzuti's sign",
+    "Vogt's striae, Rizzuti's sign and Oil droplet reflex"
+   ],
+   "ans": 0,
+   "exp": "Captions: Munson's sign, Rizzuti's sign, Oil droplet reflex. (Book p182)"
+  },
+  {
+   "id": "OPH-C40-042",
+   "sec": "Keratoconus",
+   "page": 182,
+   "fmt": "management",
+   "q": "What is the investigation of choice (IOC) for diagnosing keratoconus?",
+   "opts": [
+    "Keratometry",
+    "Pachymetry",
+    "Confocal microscopy",
+    "Corneal topography"
+   ],
+   "ans": 3,
+   "exp": "Diagnosis: IOC: Corneal topography. (Book p182)"
+  },
+  {
+   "id": "OPH-C40-043",
+   "sec": "Keratoconus - treatment",
+   "page": 183,
+   "fmt": "recall",
+   "q": "What is the risk noted with a rigid contact lens for keratoconus?",
+   "opts": [
+    "It may lead to perforation",
+    "It causes calcium deposits in Bowman's layer",
+    "It may lead to opacity",
+    "It causes recurrent erosions"
+   ],
+   "ans": 2,
+   "exp": "Treatment: Rigid contact lens (may lead to opacity). (Book p183)"
+  },
+  {
+   "id": "OPH-C40-044",
+   "sec": "Keratoconus - treatment",
+   "page": 183,
+   "fmt": "oddoneout",
+   "q": "Which is NOT listed as treatment of keratoconus?",
+   "opts": [
+    "Rigid contact lens",
+    "Chelation with EDTA",
+    "Keratoplasty",
+    "C3R (corneal collagen cross linking)"
+   ],
+   "ans": 1,
+   "exp": "Keratoconus treatment: rigid contact lens, keratoplasty, C3R. Chelation with EDTA is for band shaped keratopathy. (Book p183)"
+  },
+  {
+   "id": "OPH-C40-045",
+   "sec": "Keratoconus - treatment",
+   "page": 183,
+   "fmt": "fillup",
+   "q": "C3R is corneal collagen cross linking using ___.",
+   "opts": [
+    "Riboflavin and cobalt blue light",
+    "Fluorescein and UVA radiation",
+    "Riboflavin and UVA radiation",
+    "EDTA and UVA radiation"
+   ],
+   "ans": 2,
+   "exp": "C3R (corneal collagen cross linking using riboflavin and UVA radiation). (Book p183)"
+  },
+  {
+   "id": "OPH-C40-046",
+   "sec": "Band shaped keratopathy",
+   "page": 183,
+   "fmt": "recall",
+   "q": "Band shaped keratopathy is due to deposits of ___ in Bowman's layer.",
+   "opts": [
+    "Lipid",
+    "Calcium",
+    "Amyloid",
+    "Hyaline"
+   ],
+   "ans": 1,
+   "exp": "Band shaped keratopathy: d/t deposits of calcium in Bowman's layer. (Book p183)"
+  },
+  {
+   "id": "OPH-C40-047",
+   "sec": "Band shaped keratopathy",
+   "page": 183,
+   "fmt": "management",
+   "q": "What is the treatment of band shaped keratopathy?",
+   "opts": [
+    "Chelation with EDTA",
+    "Corneal collagen cross linking",
+    "Penetrating keratoplasty",
+    "Rigid contact lens"
+   ],
+   "ans": 0,
+   "exp": "Band shaped keratopathy - Treatment: Chelation with EDTA. (Book p183)"
+  },
+  {
+   "id": "OPH-C40-048",
+   "sec": "Arcus senilis",
+   "page": 183,
+   "fmt": "recall",
+   "q": "Arcus senilis occurs in old age due to lipid deposition on which structure?",
+   "opts": [
+    "Bowman's layer near the centre",
+    "Epithelium near the limbus",
+    "Endothelium near the centre",
+    "Descemet's membrane near the periphery"
+   ],
+   "ans": 3,
+   "exp": "Arcus senilis: occurs in old age; d/t lipid deposition on Descemet's membrane near periphery. (Book p183)"
+  },
+  {
+   "id": "OPH-C40-049",
+   "sec": "Arcus senilis",
+   "page": 183,
+   "fmt": "recall",
+   "q": "The lucid interval of Vogt is the:",
+   "opts": [
+    "Band of calcium in Bowman's layer",
+    "Clear zone of cornea between the arcus and the limbus",
+    "Stromal stress lines in keratoconus",
+    "Clear space separating granular deposits"
+   ],
+   "ans": 1,
+   "exp": "Lucid interval of Vogt: clear zone of cornea b/w arcus and limbus (Arcus senilis figure). (Book p183)"
+  },
+  {
+   "id": "OPH-C40-050",
+   "sec": "Interstitial keratitis",
+   "page": 183,
+   "fmt": "fillup",
+   "q": "Interstitial keratitis is inflammation only of the corneal ___.",
+   "opts": [
+    "Epithelium",
+    "Endothelium",
+    "Stroma",
+    "Bowman's layer"
+   ],
+   "ans": 2,
+   "exp": "Interstitial keratitis: inflammation only of corneal stroma. (Book p183)"
+  },
+  {
+   "id": "OPH-C40-051",
+   "sec": "Interstitial keratitis",
+   "page": 183,
+   "fmt": "oddoneout",
+   "q": "Which is NOT a listed cause of interstitial keratitis?",
+   "opts": [
+    "Congenital syphilis",
+    "Tuberculosis",
+    "Herpes Simplex Virus (HSV)",
+    "Acanthamoeba infection"
+   ],
+   "ans": 3,
+   "exp": "Interstitial keratitis causes: congenital syphilis, Cogan syndrome, tuberculosis, HSV. (Book p183)"
+  },
+  {
+   "id": "OPH-C40-052",
+   "sec": "Interstitial keratitis",
+   "page": 183,
+   "fmt": "scenario",
+   "q": "A patient has interstitial keratitis together with deafness. Which syndrome does the book name?",
+   "opts": [
+    "Cogan syndrome",
+    "Congenital syphilis",
+    "Down syndrome",
+    "Munson syndrome"
+   ],
+   "ans": 0,
+   "exp": "Cogan syndrome (interstitial keratitis + deafness). (Book p183)"
+  },
+  {
+   "id": "OPH-C40-053",
+   "sec": "Keratoplasty",
+   "page": 183,
+   "fmt": "fillup",
+   "q": "Keratoplasty is also known as ___.",
+   "opts": [
+    "Corneal transplantation",
+    "Corneal cross linking",
+    "Corneal topography",
+    "Corneal chelation"
+   ],
+   "ans": 0,
+   "exp": "Keratoplasty: AKA corneal transplantation. (Book p183)"
+  },
+  {
+   "id": "OPH-C40-054",
+   "sec": "Keratoplasty",
+   "page": 183,
+   "fmt": "match",
+   "q": "Match the keratoplasty type with the thickness — 1) Penetrating keratoplasty  2) Lamellar keratoplasty  … A) Partial thickness  B) Full thickness  C) Endothelium only",
+   "opts": [
+    "1-A, 2-B",
+    "1-C, 2-A",
+    "1-B, 2-C",
+    "1-B, 2-A"
+   ],
+   "ans": 3,
+   "exp": "Types: 1. Penetrating keratoplasty (Full thickness); 2. Lamellar keratoplasty (Partial thickness). (Book p183)"
+  },
+  {
+   "id": "OPH-C40-055",
+   "sec": "Keratoplasty",
+   "page": 183,
+   "fmt": "match",
+   "q": "Expand the two lamellar keratoplasty types — 1) DSEK  2) DALK  … A) Deep anterior lamellar keratoplasty  B) Descemet's stripping endothelial keratoplasty  C) Deep stromal endothelial keratoplasty",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-C, 2-A",
+    "1-B, 2-C"
+   ],
+   "ans": 1,
+   "exp": "DSEK (Descemet's stripping endothelial keratoplasty); DALK (Deep anterior lamellar keratoplasty). (Book p183)"
+  },
+  {
+   "id": "OPH-C40-056",
+   "sec": "Keratoplasty",
+   "page": 184,
+   "fmt": "numeric",
+   "q": "Penetrating keratoplasty removes the epithelium to the endothelium, i.e. how many layers?",
+   "opts": [
+    "Posterior 2 layers",
+    "Anterior 3 layers",
+    "All 5 layers",
+    "Only 4 layers, sparing Bowman's"
+   ],
+   "ans": 2,
+   "exp": "Removal of - Penetrating keratoplasty: epithelium to endothelium (i.e. all 5 layers). (Book p184)"
+  },
+  {
+   "id": "OPH-C40-057",
+   "sec": "Keratoplasty",
+   "page": 184,
+   "fmt": "scenario",
+   "q": "Only the endothelium and Descemet's membrane are removed in a lamellar procedure. Which procedure is this?",
+   "opts": [
+    "DALK",
+    "DSEK",
+    "Penetrating keratoplasty",
+    "C3R"
+   ],
+   "ans": 1,
+   "exp": "DSEK: only endothelium & Descemet's membrane (i.e. posterior 2 layers). (Book p184)"
+  },
+  {
+   "id": "OPH-C40-058",
+   "sec": "Keratoplasty",
+   "page": 184,
+   "fmt": "numeric",
+   "q": "DALK removes corneal tissue from the epithelium up to the stroma, i.e. which layers?",
+   "opts": [
+    "Posterior 2 layers",
+    "All 5 layers",
+    "Anterior 3 layers",
+    "Anterior 2 layers"
+   ],
+   "ans": 2,
+   "exp": "DALK: corneal tissue from epithelium upto stroma (i.e. anterior 3 layers). (Book p184)"
+  },
+  {
+   "id": "OPH-C40-059",
+   "sec": "Keratoplasty",
+   "page": 184,
+   "fmt": "match",
+   "q": "Match the keratoplasty with the indication in the table — 1) Penetrating keratoplasty  2) DSEK  3) DALK  … A) Acute hydrops in severe keratoconus  B) Pseudophakic bullous keratopathy  C) No indication written (dash)",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 3,
+   "exp": "Indication: penetrating keratoplasty - pseudophakic bullous keratopathy; DSEK - dash; DALK - acute hydrops in severe keratoconus. (Book p184)"
+  },
+  {
+   "id": "OPH-C40-060",
+   "sec": "Keratoplasty",
+   "page": 184,
+   "fmt": "recall",
+   "q": "What does the unlabelled last row of the keratoplasty table contain?",
+   "opts": [
+    "Cross-section diagrams of the cornea for the three procedures",
+    "Graft survival rates for the three procedures",
+    "Complications of the three procedures",
+    "Storage media for the three procedures"
+   ],
+   "ans": 0,
+   "exp": "The table's last row shows curved corneal cross-section diagrams under Penetrating keratoplasty, DSEK and DALK. (Book p184)"
+  },
+  {
+   "id": "OPH-C40-061",
+   "sec": "Keratoplasty",
+   "page": 184,
+   "fmt": "fillup",
+   "q": "In the procedure, the host cornea is cut using a ___ of diameter 7.5 mm.",
+   "opts": [
+    "Trephine",
+    "Keratome",
+    "Placido disc",
+    "Confocal probe"
+   ],
+   "ans": 0,
+   "exp": "Procedure: Host cornea cut using a trephine (Diameter: 7.5 mm) -> implant the graft cornea. (Book p184)"
+  },
+  {
+   "id": "OPH-C40-062",
+   "sec": "Keratoplasty",
+   "page": 184,
+   "fmt": "numeric",
+   "q": "The graft cornea is how much larger in diameter than the host opening?",
+   "opts": [
+    "0.025 mm",
+    "0.25 mm",
+    "2.5 mm",
+    "0.5 mm"
+   ],
+   "ans": 1,
+   "exp": "Implant the graft cornea (Diameter: 0.25 mm larger than host opening). (Book p184)"
+  },
+  {
+   "id": "OPH-C40-063",
+   "sec": "Keratoplasty",
+   "page": 184,
+   "fmt": "recall",
+   "q": "The photographs on p184 beside the procedure are captioned:",
+   "opts": [
+    "Trephine and Pseudo-cornea",
+    "Placido disc and Post-keratoplasty",
+    "Keratometer and Post-keratoplasty",
+    "Trephine and Post-keratoplasty"
+   ],
+   "ans": 3,
+   "exp": "Figure captions: Trephine; Post-keratoplasty. (Book p184)"
+  },
+  {
+   "id": "OPH-C40-064",
+   "sec": "Keratoplasty",
+   "page": 184,
+   "fmt": "scenario",
+   "q": "After keratoplasty, which is the most common type of graft rejection and which line is diagnostic?",
+   "opts": [
+    "Epithelial rejection; Khodadoust line",
+    "Endothelial rejection; Vogt's striae",
+    "Endothelial rejection; Khodadoust line",
+    "Stromal rejection; lucid interval of Vogt"
+   ],
+   "ans": 2,
+   "exp": "Graft rejection: endothelial rejection (m/c) - forms Khodadoust line (diagnostic). (Book p184)"
+  },
+  {
+   "id": "OPH-C40-065",
+   "sec": "Keratoplasty - storage",
+   "page": 184,
+   "fmt": "management",
+   "q": "Short-term storage of donor cornea is for < 48 hrs under which conditions?",
+   "opts": [
+    "Cryopreservation at -70°C",
+    "37°C, moist chamber",
+    "4°C, moist chamber/McCarey Kaufman medium",
+    "Room temperature in McCarey Kaufman medium"
+   ],
+   "ans": 2,
+   "exp": "Short term: < 48 hrs; 4°C, moist chamber/McCarey Kaufman medium. (Book p184)"
+  },
+  {
+   "id": "OPH-C40-066",
+   "sec": "Keratoplasty - storage",
+   "page": 184,
+   "fmt": "numeric",
+   "q": "What is the duration of intermediate-term corneal storage?",
+   "opts": [
+    "Less than 2 weeks",
+    "Less than 48 hrs",
+    "Up to 35 days",
+    "Less than 6 months"
+   ],
+   "ans": 0,
+   "exp": "Intermediate term: < 2 weeks (no other feature written). (Book p184)"
+  },
+  {
+   "id": "OPH-C40-067",
+   "sec": "Keratoplasty - storage",
+   "page": 184,
+   "fmt": "scenario",
+   "q": "A donor cornea is cryopreserved at -70°C. Which storage category and duration does the book give?",
+   "opts": [
+    "Intermediate term, less than 2 weeks",
+    "Short term, less than 48 hrs",
+    "Long term, up to 2 weeks",
+    "Long term, up to 35 days"
+   ],
+   "ans": 3,
+   "exp": "Long term: up to 35 days; cryopreservation (-70°C). (Book p184)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U40-1",
+   "ch": 40,
+   "n": 1,
+   "title": "Corneal dystrophies: features, epithelial and Bowman layer",
+   "sec": "Cornea · p180",
+   "guide": "Corneal dystrophies primary 1st and 2nd decades non-inflammatory progressive B/L AD; epithelial Cogan m/c Meesmann keratin Lisch AD/XLD; Bowman layer Reis Buckler fish net Schnyder lipid Thiel Behnke honeycomb.",
+   "qs": [
+    "OPH-C40-001",
+    "OPH-C40-002",
+    "OPH-C40-003",
+    "OPH-C40-004",
+    "OPH-C40-005",
+    "OPH-C40-006",
+    "OPH-C40-007",
+    "OPH-C40-008",
+    "OPH-C40-009",
+    "OPH-C40-010"
+   ]
+  },
+  {
+   "id": "OPH-U40-2",
+   "ch": 40,
+   "n": 2,
+   "title": "Corneal dystrophies: stromal and endothelial",
+   "sec": "Cornea · p180",
+   "guide": "Stromal dystrophies lattice I II neuropathy 70-90 IIIA AR mulberry amyloid Congo red; gelatinous drop hyaline Masson; granular hyaline + amyloid; macular AR; Francois keratin sulphate; endothelial Fuch guttata PPCD CHED AR perinatal.",
+   "qs": [
+    "OPH-C40-011",
+    "OPH-C40-012",
+    "OPH-C40-013",
+    "OPH-C40-014",
+    "OPH-C40-015",
+    "OPH-C40-016",
+    "OPH-C40-017",
+    "OPH-C40-018",
+    "OPH-C40-019",
+    "OPH-C40-020"
+   ]
+  },
+  {
+   "id": "OPH-U40-3",
+   "ch": 40,
+   "n": 3,
+   "title": "Dystrophy figures, recurrent corneal erosions, metabolic causes and treatment",
+   "sec": "Cornea · p181-182",
+   "guide": "Meesmann microcysts; macular Alcian blue acid mucopolysaccharide; lattice PAS amorphous Congo red apple green; granular Masson hyaline bread crumb; Fuch COAXa gene Descemet endothelium guttae; recurrent erosions causes; metabolic causes; keratoplasty for visual loss.",
+   "qs": [
+    "OPH-C40-021",
+    "OPH-C40-022",
+    "OPH-C40-023",
+    "OPH-C40-024",
+    "OPH-C40-025",
+    "OPH-C40-026",
+    "OPH-C40-027",
+    "OPH-C40-028",
+    "OPH-C40-029",
+    "OPH-C40-030",
+    "OPH-C40-031",
+    "OPH-C40-032"
+   ]
+  },
+  {
+   "id": "OPH-U40-4",
+   "ch": 40,
+   "n": 4,
+   "title": "Keratoconus",
+   "sec": "Cornea · p182",
+   "guide": "Keratoconus corneal ectasia non-inflammatory progressive B/L; congenital weakness trauma VKC Down syndrome; myopic astigmatism inferior stromal thinning Munson Rizzuti scissoring oil droplet Vogt's striae; IOC corneal topography.",
+   "qs": [
+    "OPH-C40-033",
+    "OPH-C40-034",
+    "OPH-C40-035",
+    "OPH-C40-036",
+    "OPH-C40-037",
+    "OPH-C40-038",
+    "OPH-C40-039",
+    "OPH-C40-040",
+    "OPH-C40-041",
+    "OPH-C40-042"
+   ]
+  },
+  {
+   "id": "OPH-U40-5",
+   "ch": 40,
+   "n": 5,
+   "title": "Keratoconus treatment and miscellaneous corneal disorders",
+   "sec": "Cornea · p183",
+   "guide": "Keratoconus Rx rigid contact lens opacity keratoplasty C3R riboflavin UVA; band shaped keratopathy calcium Bowman EDTA; arcus senilis lipid Descemet lucid interval of Vogt; interstitial keratitis causes syphilis Cogan TB HSV.",
+   "qs": [
+    "OPH-C40-043",
+    "OPH-C40-044",
+    "OPH-C40-045",
+    "OPH-C40-046",
+    "OPH-C40-047",
+    "OPH-C40-048",
+    "OPH-C40-049",
+    "OPH-C40-050",
+    "OPH-C40-051",
+    "OPH-C40-052"
+   ]
+  },
+  {
+   "id": "OPH-U40-6",
+   "ch": 40,
+   "n": 6,
+   "title": "Keratoplasty: types, procedure, rejection and storage",
+   "sec": "Cornea · p183-184",
+   "guide": "Keratoplasty aka corneal transplantation; penetrating full thickness; lamellar DSEK DALK; layers removed 5, 2, 3; indications; trephine 7.5 mm graft 0.25 mm larger; endothelial rejection Khodadoust line; storage short intermediate long term.",
+   "qs": [
+    "OPH-C40-053",
+    "OPH-C40-054",
+    "OPH-C40-055",
+    "OPH-C40-056",
+    "OPH-C40-057",
+    "OPH-C40-058",
+    "OPH-C40-059",
+    "OPH-C40-060",
+    "OPH-C40-061",
+    "OPH-C40-062",
+    "OPH-C40-063",
+    "OPH-C40-064",
+    "OPH-C40-065",
+    "OPH-C40-066",
+    "OPH-C40-067"
+   ]
+  }
+ ]
+}

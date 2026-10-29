@@ -1,0 +1,937 @@
+{
+  "chapter": 33,
+  "title": "Retinoblastoma and Macular Disorders",
+  "pageRange": "148-155",
+  "questions": [
+    {
+      "id": "OPH-C33-001",
+      "sec": "Retinal pathologies",
+      "page": 148,
+      "fmt": "match",
+      "q": "Match the retinal pathology group with its descriptor per p148 — 1) Retinoblastoma 2) Macular diseases 3) Fundus dystrophies … A) Central loss of vision, disorders of cones B) Disorders of rods C) Intraocular tumor",
+      "opts": [
+        "1-C, 2-A, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 0,
+      "exp": "Retinal pathologies: 1. retinoblastoma (intraocular tumor); 2. macular diseases giving central loss of vision (disorders of cones); 3. fundus dystrophies (disorders of rods); 4. vascular disorders; 5. retinal detachment. (Book p148)"
+    },
+    {
+      "id": "OPH-C33-002",
+      "sec": "Retinoblastoma basics",
+      "page": 148,
+      "fmt": "recall",
+      "q": "Retinoblastoma per p148 is:",
+      "opts": [
+        "The most common intraocular metastasis",
+        "The most common primary intraocular malignancy",
+        "A benign vascular hamartoma of the retina",
+        "The most common intraocular tumor of the elderly"
+      ],
+      "ans": 1,
+      "exp": "Retinoblastoma (RB): m/c primary intraocular malignancy. (Book p148)"
+    },
+    {
+      "id": "OPH-C33-003",
+      "sec": "Retinoblastoma basics",
+      "page": 148,
+      "fmt": "numeric",
+      "q": "Incidence of retinoblastoma per p148 is:",
+      "opts": [
+        "1 in 170,000 live births",
+        "1 in 1,700 live births",
+        "1 in 17,000 live births",
+        "1 in 700 live births"
+      ],
+      "ans": 2,
+      "exp": "Incidence: 1:17,000. (Book p148)"
+    },
+    {
+      "id": "OPH-C33-004",
+      "sec": "Inheritance",
+      "page": 148,
+      "fmt": "match",
+      "q": "Match the type of retinoblastoma with its laterality per p148 — 1) Hereditary (40%) 2) Non-hereditary (60%) … A) Unilateral or bilateral B) Unilateral",
+      "opts": [
+        "1-B, 2-B",
+        "1-B, 2-A",
+        "1-A, 2-A",
+        "1-A, 2-B"
+      ],
+      "ans": 3,
+      "exp": "Inheritance: hereditary (40%) cases may be unilateral or bilateral; non-hereditary (60%) cases are unilateral. (Book p148)"
+    },
+    {
+      "id": "OPH-C33-005",
+      "sec": "Inheritance",
+      "page": 148,
+      "fmt": "recall",
+      "q": "Genetics of hereditary retinoblastoma per p148:",
+      "opts": [
+        "Autosomal dominant inheritance with the RB-1 tumor suppressor gene on chromosome 13q14",
+        "Autosomal recessive inheritance with the RB-1 gene on chromosome 11p13",
+        "X-linked recessive inheritance with the RB-1 gene on chromosome 13q14",
+        "Mitochondrial inheritance with a mutation of the RPE65 gene"
+      ],
+      "ans": 0,
+      "exp": "Hereditary RB: mode of inheritance AD; gene involved RB-1, a tumor suppressor gene located on chromosome 13q14. (Book p148)"
+    },
+    {
+      "id": "OPH-C33-006",
+      "sec": "Inheritance",
+      "page": 148,
+      "fmt": "truefalse",
+      "q": "True/false per p148: in Knudson's two hit hypothesis hereditary retinoblastoma is genotypically autosomal dominant but phenotypically autosomal recessive, the first mutation being present before birth.",
+      "opts": [
+        "False — it is genotypically recessive and phenotypically dominant",
+        "True",
+        "False — both mutations occur after birth",
+        "False — the first mutation occurs at puberty"
+      ],
+      "ans": 1,
+      "exp": "Knudson's two hit hypothesis: genotypically AD, phenotypically AR; first mutation before birth, second mutation leads to transformation and presentation. (Book p148)"
+    },
+    {
+      "id": "OPH-C33-007",
+      "sec": "Trilateral RB",
+      "page": 149,
+      "fmt": "recall",
+      "q": "Trilateral retinoblastoma per p149 is:",
+      "opts": [
+        "Bilateral retinoblastoma with an orbital recurrence",
+        "Retinoblastoma with an iris and a choroidal tumor in the same eye",
+        "Bilateral retinoblastoma with pinealoblastoma or primitive neuroectodermal tumor",
+        "Retinoblastoma involving both eyes and the optic chiasm"
+      ],
+      "ans": 2,
+      "exp": "Trilateral RB: B/L RB + pinealoblastoma/PNET (primitive neuroendocrine tumor) — the m/c malignancy associated with RB. (Book p149)"
+    },
+    {
+      "id": "OPH-C33-008",
+      "sec": "Trilateral RB",
+      "page": 149,
+      "fmt": "recall",
+      "q": "The most common second (associated) malignancy in retinoblastoma per p149 is:",
+      "opts": [
+        "Neuroblastoma",
+        "Pinealoblastoma",
+        "Ewing's sarcoma",
+        "Osteosarcoma"
+      ],
+      "ans": 3,
+      "exp": "m/c associated second malignancy: osteosarcoma (pinealoblastoma/PNET is the m/c malignancy of trilateral RB). (Book p149)"
+    },
+    {
+      "id": "OPH-C33-009",
+      "sec": "Clinical features",
+      "page": 149,
+      "fmt": "match",
+      "q": "Match the presenting feature of retinoblastoma with its rank per p149 — 1) Leucocoria 2) Squint 3) Glaucoma with buphthalmos … A) Second most common, usually esotropia B) Third most common, from seeding of tumor C) Most common, a white pupillary reflex",
+      "opts": [
+        "1-C, 2-A, 3-B",
+        "1-A, 2-C, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 0,
+      "exp": "Clinical features: 1. leucocoria (m/c) - white pupillary reflex; 2. squint (2nd m/c), usually esotropia; 3. glaucoma with buphthalmos (3rd m/c) d/t seeding from tumor, giving an enlarged eyeball. (Book p149)"
+    },
+    {
+      "id": "OPH-C33-010",
+      "sec": "Leucocoria",
+      "page": 149,
+      "fmt": "scenario",
+      "q": "A 2 year old child is brought with a white pupillary reflex in one eye. Per p149 the most common cause of unilateral leucocoria is:",
+      "opts": [
+        "Congenital cataract",
+        "Retinoblastoma",
+        "Coats disease",
+        "Persistent fetal vasculature"
+      ],
+      "ans": 1,
+      "exp": "Causes of leucocoria: unilateral - RB is the m/c cause (m/c presenting age <3 years); bilateral - cataract. (Book p149)"
+    },
+    {
+      "id": "OPH-C33-011",
+      "sec": "Leucocoria",
+      "page": 149,
+      "fmt": "oddoneout",
+      "q": "All of the following are listed on p149 as causes of a white pupillary reflex EXCEPT:",
+      "opts": [
+        "Retinoblastoma",
+        "Mature cortical cataract",
+        "Central serous retinopathy",
+        "Vitreous pathology such as endophthalmitis with yellowish white exudate"
+      ],
+      "ans": 2,
+      "exp": "Leucocoria is d/t loss of transparency of the structures behind the pupil: mature cortical cataract, retinoblastoma, or vitreous pathology (e.g. endophthalmitis with yellowish white exudate in vitreous). (Book p149)"
+    },
+    {
+      "id": "OPH-C33-012",
+      "sec": "Spread and growth",
+      "page": 149,
+      "fmt": "recall",
+      "q": "Routes of spread of retinoblastoma per p149:",
+      "opts": [
+        "Only by direct invasion of the choroid",
+        "Only hematogenous and lymphatic",
+        "Only along the optic nerve to the brain",
+        "Direct (most common, through sclera), along the optic nerve, hematogenous and lymphatic"
+      ],
+      "ans": 3,
+      "exp": "Routes of spread: direct (m/c) through sclera, optic nerve (m/c), hematogenous and lymphatic. (Book p149)"
+    },
+    {
+      "id": "OPH-C33-013",
+      "sec": "Spread and growth",
+      "page": 149,
+      "fmt": "match",
+      "q": "Match the growth pattern of retinoblastoma with its description per p149 — 1) Endophytic 2) Exophytic 3) Retrolaminar … A) Grows towards the choroid B) Worst prognosis, spreads via the optic nerve to the orbit and cortex giving intracranial metastases C) Grows into the vitreous",
+      "opts": [
+        "1-C, 2-A, 3-B",
+        "1-A, 2-C, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 0,
+      "exp": "Growth pattern: endophytic grows into the vitreous; exophytic grows towards the choroid; retrolaminar has the worst prognosis, spreading via the optic nerve to the orbit and cortex with intracranial metastases. (Book p149)"
+    },
+    {
+      "id": "OPH-C33-014",
+      "sec": "Investigations",
+      "page": 150,
+      "fmt": "management",
+      "q": "Investigation of choice for retinoblastoma per p150 is:",
+      "opts": [
+        "Plain X-ray of the orbit, which is better than CT",
+        "CT scan, which is better than X-ray and can also detect intracranial metastases",
+        "Ultrasound B-scan alone",
+        "Fundus fluorescein angiography"
+      ],
+      "ans": 1,
+      "exp": "Investigations: IOC is CT (> X-ray) and it can also detect intracranial metastases. (Book p150)"
+    },
+    {
+      "id": "OPH-C33-015",
+      "sec": "Investigations",
+      "page": 150,
+      "fmt": "recall",
+      "q": "MRI is requested in retinoblastoma per p150 to:",
+      "opts": [
+        "Measure the aqueous humor LDH level",
+        "Detect calcification within the tumor",
+        "Assess for extracranial metastases",
+        "Replace histopathology of the enucleated eye"
+      ],
+      "ans": 2,
+      "exp": "MRI: to assess for extracranial metastases. (Book p150)"
+    },
+    {
+      "id": "OPH-C33-016",
+      "sec": "Investigations",
+      "page": 150,
+      "fmt": "recall",
+      "q": "Which aqueous humor marker is raised in retinoblastoma per p150?",
+      "opts": [
+        "Neuron specific enolase",
+        "Alpha fetoprotein",
+        "Carcinoembryonic antigen",
+        "LDH"
+      ],
+      "ans": 3,
+      "exp": "LDH: raised levels in aqueous humor. (Book p150)"
+    },
+    {
+      "id": "OPH-C33-017",
+      "sec": "Investigations",
+      "page": 150,
+      "fmt": "recall",
+      "q": "Gold standard investigation for retinoblastoma per p150 is:",
+      "opts": [
+        "Excisional biopsy with HPE, the sample taken from the optic nerve",
+        "Fine needle aspiration cytology through the sclera",
+        "Aqueous humor LDH estimation",
+        "Incisional biopsy of the intraocular mass"
+      ],
+      "ans": 0,
+      "exp": "Biopsy (excisional type) is the gold standard investigation; the sample is taken from the optic nerve and HPE is done. (Book p150)"
+    },
+    {
+      "id": "OPH-C33-018",
+      "sec": "Histopathology",
+      "page": 150,
+      "fmt": "match",
+      "q": "Match the histopathological feature with its meaning per p150 — 1) Flexner-Wintersteiner rosettes 2) Homer-Wright rosettes 3) Fleurettes … A) Pseudorosettes, also seen in neuroblastoma and Ewing's sarcoma B) Pathognomonic of retinoblastoma C) Bouquet-like flecks of photoreceptor differentiation",
+      "opts": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 1,
+      "exp": "HPE features of biopsy: Flexner-Wintersteiner rosettes (pathognomonic), Homer-Wright rosettes (pseudorosette, also seen in neuroblastoma and Ewing's sarcoma) and fleurettes. (Book p150)"
+    },
+    {
+      "id": "OPH-C33-019",
+      "sec": "Histopathology",
+      "page": 150,
+      "fmt": "recall",
+      "q": "On histopathology a true Flexner-Wintersteiner rosette shows:",
+      "opts": [
+        "A central capillary with pseudostratified epithelium",
+        "Central entanglement of neural processes with irregularly arranged nuclei",
+        "A central empty space surrounded by cells with peripherally arranged nuclei",
+        "Sheets of undifferentiated small round blue cells"
+      ],
+      "ans": 2,
+      "exp": "Rosettes in RB: central empty space surrounded by cells with peripherally arranged nuclei; pseudorosettes show central entanglement of neural processes with irregularly arranged cells and nuclei. (Book p150)"
+    },
+    {
+      "id": "OPH-C33-020",
+      "sec": "Treatment",
+      "page": 150,
+      "fmt": "management",
+      "q": "Treatment of choice for advanced retinoblastoma per p150 is:",
+      "opts": [
+        "Enucleation of the tumor with scleral buckling",
+        "Cryotherapy alone",
+        "External beam radiotherapy of the globe",
+        "Enucleation, removal of the whole eyeball with the optic nerve"
+      ],
+      "ans": 3,
+      "exp": "Treatment: enucleation is the TOC (removal of the whole eyeball with the optic nerve). (Book p150)"
+    },
+    {
+      "id": "OPH-C33-021",
+      "sec": "Treatment",
+      "page": 150,
+      "fmt": "match",
+      "q": "Match the stage of retinoblastoma with its treatment per p150 — 1) G1 2) G2 3) G3 4) G4 … A) Carboplatin + vincristine B) Carboplatin + etoposide + vincristine C) Cryotherapy or laser photocoagulation D) Enucleation",
+      "opts": [
+        "1-C, 2-A, 3-B, 4-D",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-D, 2-A, 3-B, 4-C",
+        "1-C, 2-B, 3-A, 4-D"
+      ],
+      "ans": 0,
+      "exp": "Based on staging: G1 cryotherapy/laser photocoagulation; G2 carboplatin + vincristine; G3 carboplatin + etoposide + vincristine; G4 enucleation. (Book p150)"
+    },
+    {
+      "id": "OPH-C33-022",
+      "sec": "Treatment",
+      "page": 150,
+      "fmt": "fillup",
+      "q": "Fill up per p150: the chemotherapy regimen used in retinoblastoma, made of carboplatin, etoposide and vincristine, is abbreviated as:",
+      "opts": [
+        "CHOP",
+        "CEV",
+        "CVP",
+        "CAV"
+      ],
+      "ans": 1,
+      "exp": "Chemotherapy for retinoblastoma is CEV: carboplatin, etoposide and vincristine. (Book p150)"
+    },
+    {
+      "id": "OPH-C33-023",
+      "sec": "Treatment",
+      "page": 150,
+      "fmt": "oddoneout",
+      "q": "All of the following make an eye with retinoblastoma unsalvageable (grade 5 criteria) per p150 EXCEPT:",
+      "opts": [
+        "Vitreous hemorrhage",
+        "Tumor occupying more than 50% of the total eye volume",
+        "Rubeosis of the choroid",
+        "Rubeosis iridis (neovascularisation of the iris)"
+      ],
+      "ans": 2,
+      "exp": "Grade 5 (if any is positive): a. tumor occupying >50% of total eye volume; b. vitreous hemorrhage (+); c. rubeosis iridis (neovascularisation of iris) (+). (Book p150)"
+    },
+    {
+      "id": "OPH-C33-024",
+      "sec": "Macular disease",
+      "page": 151,
+      "fmt": "recall",
+      "q": "Macular disease presents early because of central loss of vision; if untreated it leads to:",
+      "opts": [
+        "Rubeosis iridis and neovascular glaucoma",
+        "Progressive loss of peripheral vision only",
+        "Complete recovery of central vision with time",
+        "Chronic damage with permanent loss of central vision"
+      ],
+      "ans": 3,
+      "exp": "Macular disease: early presentation is d/t central loss of vision; if untreated there is chronic damage and permanent loss of central vision. (Book p151)"
+    },
+    {
+      "id": "OPH-C33-025",
+      "sec": "Macula function tests",
+      "page": 151,
+      "fmt": "match",
+      "q": "Match the macular function test with the media for which it is used per p151 — 1) Amsler's grid 2) Maddox rod test 3) Potential acuity meter 4) OCT … A) Hazy media B) Clear media",
+      "opts": [
+        "1-B, 2-A, 3-A, 4-B",
+        "1-A, 2-B, 3-B, 4-A",
+        "1-B, 2-B, 3-A, 4-A",
+        "1-A, 2-A, 3-B, 4-B"
+      ],
+      "ans": 0,
+      "exp": "With clear media: visual acuity measurement, FFA, OCT, photostress test and Amsler's grid (m/c). With hazy media: Maddox rod test, multifocal ERG, laser interferometry, potential acuity meter (PAM) and entoptic phenomenon. (Book p151)"
+    },
+    {
+      "id": "OPH-C33-026",
+      "sec": "Photostress test",
+      "page": 151,
+      "fmt": "numeric",
+      "q": "In the photostress test light is shone on the retina for:",
+      "opts": [
+        "1 second, and the pupil size is measured",
+        "10 seconds, and recovery to within one line of pre-test vision is timed",
+        "60 seconds, and the visual field is plotted",
+        "5 minutes, and the intraocular pressure is rechecked"
+      ],
+      "ans": 1,
+      "exp": "Photostress test: on shining light on the retina for 10 s, the time of recovery to within one line of pre-test vision is noted. (Book p151)"
+    },
+    {
+      "id": "OPH-C33-027",
+      "sec": "Photostress test",
+      "page": 151,
+      "fmt": "scenario",
+      "q": "Recovery after the photostress test is delayed in macular disease but normal in optic nerve disease. A patient with optic neuropathy therefore shows:",
+      "opts": [
+        "No recovery at all",
+        "Prolonged recovery time",
+        "Normal recovery time",
+        "Recovery only after 10 minutes of dark adaptation"
+      ],
+      "ans": 2,
+      "exp": "Photostress test: time of recovery to within one line of pre-test vision is normal in optic nerve disease and delayed in macular disease. (Book p151)"
+    },
+    {
+      "id": "OPH-C33-028",
+      "sec": "Amsler grid",
+      "page": 151,
+      "fmt": "numeric",
+      "q": "The Amsler's grid per p151 is a square chart with:",
+      "opts": [
+        "400 squares of 1 x 1 mm",
+        "100 squares of 10 x 10 mm",
+        "20 squares of 5 x 5 mm",
+        "400 squares of 5 x 5 mm"
+      ],
+      "ans": 3,
+      "exp": "Amsler's grid: square chart with 400 squares of 5 x 5 mm. (Book p151)"
+    },
+    {
+      "id": "OPH-C33-029",
+      "sec": "Amsler grid",
+      "page": 151,
+      "fmt": "match",
+      "q": "Match the Amsler's grid appearance with the diagnosis per p151 — 1) Macular disease 2) Optic nerve disease … A) Parts of the lines are missing B) Wavy lines d/t change in contour of retina",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "Amsler's grid differentiates macular disease from optic nerve disease: in macular disease lines look wavy d/t change in contour of retina; in optic nerve disease parts of lines are missing. (Book p151)"
+    },
+    {
+      "id": "OPH-C33-030",
+      "sec": "CSR versus CME",
+      "page": 152,
+      "fmt": "match",
+      "q": "Match the macular fluid collection with its location per p152 — 1) Central serous retinopathy 2) Cystoid macular edema … A) Collection of fluid at macula in the outer plexiform layer B) Collection of fluid at macula in the subretinal space d/t defect in RPE",
+      "opts": [
+        "1-A, 2-B",
+        "1-B, 2-A",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 1,
+      "exp": "Pathology: CSR = collection of fluid at macula in the subretinal space d/t defect in RPE; CME = collection of fluid at macula in the outer plexiform layer. (Book p152)"
+    },
+    {
+      "id": "OPH-C33-031",
+      "sec": "Risk factors",
+      "page": 152,
+      "fmt": "oddoneout",
+      "q": "All of the following are risk factors for central serous retinopathy per p152 EXCEPT:",
+      "opts": [
+        "Steroid use and Cushing's syndrome",
+        "Type A personality with increased stress",
+        "Myopia of more than 6 dioptres",
+        "H. pylori infection in males aged 25-50 years"
+      ],
+      "ans": 2,
+      "exp": "Risk factors for CSR: males (25-50 years), type A personality (increased stress), steroids, Cushing's syndrome and H. pylori infection. (Book p152)"
+    },
+    {
+      "id": "OPH-C33-032",
+      "sec": "Risk factors",
+      "page": 152,
+      "fmt": "recall",
+      "q": "The causes of cystoid macular edema are recalled by the mnemonic RUN for PRIDE. What does the mnemonic stand for per p152?",
+      "opts": [
+        "Retinal artery occlusion, uveitis, nystagmus, prazosin, retinitis, ischemia, diabetic retinopathy, eclampsia",
+        "Retinal detachment, uveitis, niacin, prosthesis, radiation, iritis, drugs, epinephrine",
+        "Retinitis pigmentosa, uveitis, neovascularisation, photocoagulation, retinoschisis, iridectomy, drusen, emmetropia",
+        "Retinitis pigmentosa, uveitis, niacin/nicotine, prostaglandin analogues, retinal vein occlusion, Irvin Gass syndrome, diabetic retinopathy, epinephrine in aphakia"
+      ],
+      "ans": 3,
+      "exp": "Mnemonic RUN for PRIDE: retinitis pigmentosa, uveitis, niacin/nicotine, prostaglandin analogues, retinal (central) vein occlusion, Irvin Gass syndrome, diabetic retinopathy, epinephrine in aphakia. (Book p152)"
+    },
+    {
+      "id": "OPH-C33-033",
+      "sec": "Risk factors",
+      "page": 152,
+      "fmt": "recall",
+      "q": "Irvin Gass syndrome, a cause of cystoid macular edema, is:",
+      "opts": [
+        "A complication of cataract surgery",
+        "A complication of retinal detachment surgery",
+        "An adverse effect of topical steroids",
+        "A sequel of panretinal photocoagulation"
+      ],
+      "ans": 0,
+      "exp": "Irvin Gass syndrome: complication of cataract surgery (pseudophakic CME). (Book p152)"
+    },
+    {
+      "id": "OPH-C33-034",
+      "sec": "Clinical features and OCT",
+      "page": 152,
+      "fmt": "recall",
+      "q": "Clinical features shared by CSR and CME per p152 are:",
+      "opts": [
+        "Night blindness and peripheral field loss",
+        "Loss of central vision and metamorphopsia (distorted image)",
+        "Painful red eye with photophobia",
+        "Transient complete loss of vision"
+      ],
+      "ans": 1,
+      "exp": "Clinical features: 1. loss of central vision; 2. metamorphopsia (distorted image). (Book p152)"
+    },
+    {
+      "id": "OPH-C33-035",
+      "sec": "Clinical features and OCT",
+      "page": 152,
+      "fmt": "match",
+      "q": "Match the chronic OCT appearance with the disease per p152 — 1) CSR 2) CME … A) Cystic spaces in the outer plexiform layer B) Loss of foveal depression with shallow neurosensory retinal detachment",
+      "opts": [
+        "1-A, 2-A",
+        "1-A, 2-B",
+        "1-B, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 2,
+      "exp": "OCT in chronic cases: CSR shows loss of foveal depression with a shallow neurosensory retinal detachment; CME shows cystic spaces in the outer plexiform layer. (Book p152)"
+    },
+    {
+      "id": "OPH-C33-036",
+      "sec": "FFA and treatment",
+      "page": 153,
+      "fmt": "match",
+      "q": "Match the fluorescein angiographic appearance with the disease per p153 — 1) CSR 2) CME … A) Flower petal or petalloid appearance B) Ink blot appearance and smokestack or umbrella appearance",
+      "opts": [
+        "1-B, 2-B",
+        "1-A, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-A"
+      ],
+      "ans": 3,
+      "exp": "FFA (pattern of pooling/leakage): CSR shows an ink blot appearance and a smokestack or umbrella appearance; CME shows a flower petal (petalloid) appearance. (Book p153)"
+    },
+    {
+      "id": "OPH-C33-037",
+      "sec": "FFA and treatment",
+      "page": 153,
+      "fmt": "management",
+      "q": "Management of central serous retinopathy per p153:",
+      "opts": [
+        "Self resolving; steroids are contraindicated, and treatment is given if it persists beyond 4 months, recurs, or the other eye has a visual field defect",
+        "Immediate intravitreal steroids in every case",
+        "Systemic steroids followed by laser photocoagulation",
+        "Enucleation if the fluid persists beyond one month"
+      ],
+      "ans": 0,
+      "exp": "CSR: self resolving; steroid is C/I; treatment if CSR persists >4 months, is recurrent, or there is a visual field defect in the other eye - a. laser photocoagulation; b. photodynamic therapy with verteporfin. (Book p153)"
+    },
+    {
+      "id": "OPH-C33-038",
+      "sec": "FFA and treatment",
+      "page": 153,
+      "fmt": "numeric",
+      "q": "Photodynamic therapy for CSR uses verteporfin, which is activated by light of wavelength:",
+      "opts": [
+        "500-530 nm",
+        "689 nm",
+        "805 nm",
+        "355 nm"
+      ],
+      "ans": 1,
+      "exp": "Photodynamic therapy using verteporfin: on shining light of 689 nm the drug acts. (Book p153)"
+    },
+    {
+      "id": "OPH-C33-039",
+      "sec": "FFA and treatment",
+      "page": 153,
+      "fmt": "management",
+      "q": "Mainstay of treatment of cystoid macular edema per p153 is:",
+      "opts": [
+        "Photodynamic therapy with verteporfin",
+        "Laser photocoagulation of the macula",
+        "Steroids",
+        "Panretinal photocoagulation"
+      ],
+      "ans": 2,
+      "exp": "CME treatment: steroids (mainstay). (Book p153)"
+    },
+    {
+      "id": "OPH-C33-040",
+      "sec": "ARMD",
+      "page": 153,
+      "fmt": "oddoneout",
+      "q": "All of the following are risk factors for age related macular degeneration per p153 EXCEPT:",
+      "opts": [
+        "Blue iris and high fat diet",
+        "Age more than 50 years",
+        "Smoking",
+        "High myopia of more than 6 dioptres"
+      ],
+      "ans": 3,
+      "exp": "Risk factors for ARMD: age >50 years, smoking, blue iris and high fat diet. (Book p153)"
+    },
+    {
+      "id": "OPH-C33-041",
+      "sec": "ARMD",
+      "page": 153,
+      "fmt": "match",
+      "q": "Match the type of ARMD with its feature per p153 — 1) Dry (non-exudative) 2) Wet (exudative) … A) Choroidal neovascularisation and pigment epithelium detachment B) Drusen and RPE hyperpigmentation progressing to geographic atrophy of RPE",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "Types: dry (non-exudative) shows drusen and hyperpigmentation of RPE (early), intermediate changes and late geographic atrophy of RPE; wet (exudative) shows choroidal neovascularisation and pigment epithelium detachment. (Book p153)"
+    },
+    {
+      "id": "OPH-C33-042",
+      "sec": "Drusen and CNV",
+      "page": 154,
+      "fmt": "recall",
+      "q": "Drusen per p154 are:",
+      "opts": [
+        "Collections of fluid in the outer plexiform layer",
+        "Extracellular eosinophilic deposits between the RPE and Bruch's membrane",
+        "Neovascular membranes in the subretinal space",
+        "Lipofuscin deposits inside photoreceptor outer segments"
+      ],
+      "ans": 1,
+      "exp": "Drusen: extracellular eosinophilic deposits between the RPE (outermost layer of retina) and Bruch's membrane (innermost layer of choroid). (Book p154)"
+    },
+    {
+      "id": "OPH-C33-043",
+      "sec": "Drusen and CNV",
+      "page": 154,
+      "fmt": "scenario",
+      "q": "A patient with ARMD suddenly loses vision from subretinal hemorrhage. The pathogenesis per p154 is:",
+      "opts": [
+        "Occlusion of the central retinal vein from a hypercoagulable state",
+        "Rupture of a retinal macroaneurysm in the nerve fibre layer",
+        "Damage to RPE and Bruch's membrane lets vessels grow into the subretinal space",
+        "Traction from a vitreous detachment tearing a retinal vessel"
+      ],
+      "ans": 2,
+      "exp": "Choroidal neovascularisation: pathogenesis - damage to RPE and Bruch's membrane, vessels grow into the subretinal space leading to hemorrhage and a fibrovascular complex k/a choroidal neovascular membrane (CNVM). (Book p154)"
+    },
+    {
+      "id": "OPH-C33-044",
+      "sec": "Drusen and CNV",
+      "page": 154,
+      "fmt": "fillup",
+      "q": "Fill up per p154: the fibrovascular complex that grows in the subretinal space in wet ARMD is called a choroidal ____ membrane:",
+      "opts": [
+        "Limiting",
+        "Fibrotic",
+        "Bruch's",
+        "Neovascular"
+      ],
+      "ans": 3,
+      "exp": "Damage to RPE and Bruch's membrane lets vessels grow into the subretinal space, forming a fibrovascular complex k/a choroidal neovascular membrane (CNVM). (Book p154)"
+    },
+    {
+      "id": "OPH-C33-045",
+      "sec": "Drusen and CNV",
+      "page": 154,
+      "fmt": "match",
+      "q": "Match the type of choroidal neovascular membrane with its investigation of choice per p154 — 1) Classical CNVM 2) Occult CNVM … A) ICGA B) FFA",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "Classical CNVM: IOC is FFA; occult CNVM: IOC is ICGA. (Book p154)"
+    },
+    {
+      "id": "OPH-C33-046",
+      "sec": "Treatment of ARMD",
+      "page": 154,
+      "fmt": "management",
+      "q": "Treatment of dry ARMD per p154 is:",
+      "opts": [
+        "Intravitreal anti-VEGF injections every month",
+        "Antioxidants, the AREDS-2 fixed dose combination of vitamin C, vitamin E, zinc, copper, lutein and zeaxanthin",
+        "Photodynamic therapy with verteporfin",
+        "Laser photocoagulation of the drusen"
+      ],
+      "ans": 1,
+      "exp": "Dry ARMD: antioxidants (AREDS-2 study), a fixed dose combination of vitamin C, vitamin E, zinc, copper and lutein/zea-xanthin (carotenoids). (Book p154)"
+    },
+    {
+      "id": "OPH-C33-047",
+      "sec": "Treatment of ARMD",
+      "page": 154,
+      "fmt": "match",
+      "q": "Match the anti-VEGF drug with its description per p154 — 1) Ranibizumab 2) Aflibercept 3) Bevacizumab … A) Soluble decoy receptor for VEGF B) Inhibits the VEGF A isoform C) First listed anti-VEGF agent for wet ARMD",
+      "opts": [
+        "1-C, 2-A, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 2,
+      "exp": "Anti-VEGF drugs for wet ARMD: 1. bevacizumab; 2. ranibizumab (inhibits VEGF A isoform); 3. aflibercept (soluble decoy receptor for VEGF); 4. brolucizumab. (Book p154)"
+    },
+    {
+      "id": "OPH-C33-048",
+      "sec": "Treatment of ARMD",
+      "page": 154,
+      "fmt": "management",
+      "q": "Treatment of wet ARMD per p154 according to the site of the neovascular membrane:",
+      "opts": [
+        "Both are treated with antioxidants only",
+        "Subfoveal CNVM is treated with laser photocoagulation; extrafoveal CNVM with anti-VEGF drugs",
+        "Both are treated with photodynamic therapy only",
+        "Subfoveal CNVM is treated with anti-VEGF drugs (treatment of choice); extrafoveal CNVM with laser photocoagulation"
+      ],
+      "ans": 3,
+      "exp": "Wet ARMD: a. in subfoveal CNVM anti-VEGF drugs are the TOC (photodynamic therapy is an option); b. in extrafoveal CNVM laser photocoagulation. (Book p154)"
+    },
+    {
+      "id": "OPH-C33-049",
+      "sec": "Other macular disorders",
+      "page": 155,
+      "fmt": "recall",
+      "q": "An epiretinal membrane per p155 is also known as:",
+      "opts": [
+        "Cellophane maculopathy",
+        "Vitelliform dystrophy",
+        "Bull's eye maculopathy",
+        "Angioid streak"
+      ],
+      "ans": 0,
+      "exp": "Epiretinal membrane: AKA cellophane maculopathy. (Book p155)"
+    },
+    {
+      "id": "OPH-C33-050",
+      "sec": "Other macular disorders",
+      "page": 155,
+      "fmt": "recall",
+      "q": "Angioid streaks per p155 are:",
+      "opts": [
+        "Breaks in the internal limiting membrane",
+        "Fine cracks in Bruch's membrane",
+        "Fibrous bands over the macula",
+        "Dilated choroidal vessels seen beneath the RPE"
+      ],
+      "ans": 1,
+      "exp": "Angioid streaks: fine crack in Bruch's membrane. (Book p155)"
+    },
+    {
+      "id": "OPH-C33-051",
+      "sec": "Other macular disorders",
+      "page": 155,
+      "fmt": "match",
+      "q": "Match the letter of the PEPSI mnemonic for angioid streaks with its cause per p155 — 1) P 2) E 3) P 4) S 5) I … A) Ehlers Danlos syndrome B) Sickle cell disease C) Pseudoxanthoma elasticum D) Paget's disease E) Idiopathic",
+      "opts": [
+        "1-C, 2-D, 3-A, 4-E, 5-B",
+        "1-D, 2-C, 3-A, 4-B, 5-E",
+        "1-C, 2-A, 3-D, 4-B, 5-E",
+        "1-A, 2-C, 3-D, 4-B, 5-E"
+      ],
+      "ans": 2,
+      "exp": "Causes of angioid streaks (PEPSI): pseudoxanthoma elasticum, Ehlers Danlos syndrome, Paget's disease, sickle cell disease and idiopathic. (Book p155)"
+    },
+    {
+      "id": "OPH-C33-052",
+      "sec": "Other macular disorders",
+      "page": 155,
+      "fmt": "numeric",
+      "q": "Hypotony maculopathy per p155 occurs when the intraocular pressure is:",
+      "opts": [
+        "Between 10 and 15 mmHg",
+        "Less than 21 mmHg",
+        "More than 30 mmHg",
+        "Less than 5 mmHg"
+      ],
+      "ans": 3,
+      "exp": "Hypotony maculopathy: d/t IOP <5 mmHg; causes: excessive drainage after glaucoma surgery, retinal detachment, penetrating trauma and chronic uveitis. (Book p155)"
+    },
+    {
+      "id": "OPH-C33-053",
+      "sec": "Other macular disorders",
+      "page": 155,
+      "fmt": "oddoneout",
+      "q": "All of the following are causes of hypotony maculopathy listed on p155 EXCEPT:",
+      "opts": [
+        "Neovascular glaucoma",
+        "Excessive drainage after glaucoma surgery",
+        "Retinal detachment",
+        "Penetrating trauma and chronic uveitis"
+      ],
+      "ans": 0,
+      "exp": "Causes of hypotony maculopathy: excessive drainage after glaucoma surgery, retinal detachment, penetrating trauma and chronic uveitis. (Book p155)"
+    }
+  ],
+  "units": [
+    {
+      "id": "OPH-U33-1",
+      "ch": 33,
+      "n": 1,
+      "title": "Retinal pathologies, retinoblastoma basics and inheritance",
+      "sec": "Retina · p148",
+      "guide": "Retinal pathologies 1 retinoblastoma (intraocular tumor) 2 macular diseases central loss of vision (disorders of cones) 3 fundus dystrophies (disorders of rods) 4 vascular disorders 5 retinal detachment Retinoblastoma m/c primary intraocular malignancy incidence 1:17,000 Inheritance hereditary (40%) u/l or B/L (familial 7-10% with family history, non familial 30-33%) non-hereditary (60%) u/l sporadic m/c Hereditary RB mode of inheritance AD gene involved RB-1 tumor suppressor gene location chr 13q14 Knudson's two hit hypothesis genotypically AD phenotypically AR first mutation before birth second mutation transformation and presentation.",
+      "qs": [
+        "OPH-C33-001",
+        "OPH-C33-002",
+        "OPH-C33-003",
+        "OPH-C33-004",
+        "OPH-C33-005",
+        "OPH-C33-006"
+      ]
+    },
+    {
+      "id": "OPH-U33-2",
+      "ch": 33,
+      "n": 2,
+      "title": "Trilateral retinoblastoma, clinical features, spread and growth patterns",
+      "sec": "Retina · p149",
+      "guide": "Trilateral RB B/L RB + pinealoblastoma/PNET (primitive neuroendocrine tumor) m/c malignancy associated with RB m/c associated second malignancy osteosarcoma Clinical features 1 leucocoria (m/c) white pupillary reflex d/t loss of transparency of structures behind pupil causes of leucocoria U/L RB (m/c cause, m/c presenting age <3 years) B/L cataract other causes mature cortical cataract vitreous pathology eg endophthalmitis yellowish white exudate in vitreous 2 squint (2nd m/c) esotropia 3 glaucoma with buphthalmos (3rd m/c) d/t seeding from tumor enlarged eyeball Other features d/t tumor invasion eg iris invasion iritis Routes of spread direct (m/c) through sclera optic nerve (m/c) hematogenous lymphatic Growth pattern endophytic grows into vitreous exophytic grows towards choroid retrolaminar worst prognosis spread via optic nerve to orbit cortex intracranial metastases.",
+      "qs": [
+        "OPH-C33-007",
+        "OPH-C33-008",
+        "OPH-C33-009",
+        "OPH-C33-010",
+        "OPH-C33-011",
+        "OPH-C33-012",
+        "OPH-C33-013"
+      ]
+    },
+    {
+      "id": "OPH-U33-3",
+      "ch": 33,
+      "n": 3,
+      "title": "Investigations, histopathology and treatment of retinoblastoma",
+      "sec": "Retina · p150",
+      "guide": "Investigations 1 IOC CT > X-ray since RB is m/c [calcified] intraocular tumor can also detect intracranial metastases 2 MRI to assess for extracranial metastases 3 LDH raised levels in aqueous humor 4 biopsy (excisional type) gold standard investigation sample from optic nerve HPE done HPE features Flexner Wintersteiner rosettes (pathognomonic) central empty space surrounded by cells with peripherally arranged nuclei Homer Wright rosettes (pseudorosette) central entanglement of neural processes irregularly arranged cells also seen in neuroblastoma and Ewing's sarcoma fleurettes Treatment enucleation TOC (removal of whole eyeball with optic nerve) chemotherapy CEV carboplatin etoposide vincristine Staging G1 cryotherapy/laser photocoagulation G2 carboplatin + vincristine G3 carboplatin + etoposide + vincristine G4 enucleation Grade 5 if any (+) a tumor >50% of total eye volume b vitreous hemorrhage (+) c rubeosis iridis (neovascularisation of iris) (+).",
+      "qs": [
+        "OPH-C33-014",
+        "OPH-C33-015",
+        "OPH-C33-016",
+        "OPH-C33-017",
+        "OPH-C33-018",
+        "OPH-C33-019",
+        "OPH-C33-020",
+        "OPH-C33-021",
+        "OPH-C33-022",
+        "OPH-C33-023"
+      ]
+    },
+    {
+      "id": "OPH-U33-4",
+      "ch": 33,
+      "n": 4,
+      "title": "Macular disease: presentation and macular function tests",
+      "sec": "Retina · p151",
+      "guide": "Macular disease early presentation d/t central loss of vision if untreated chronic damage permanent loss of central vision Macula function tests with clear media visual acuity measurement FFA OCT photostress test Amsler's grid (m/c) with hazy media Maddox rod test multifocal ERG laser interferometry potential acuity meter (PAM) entoptic phenomenon Photostress test on shining light on retina for 10 s time of recovery to within one line of pre-test vision normal in optic nerve disease delayed in macular disease Amsler's grid square chart with 400 squares of 5x5 mm differentiates macular disease from optic nerve disease in macular disease wavy lines d/t change in contour of retina in optic nerve disease parts of lines missing.",
+      "qs": [
+        "OPH-C33-024",
+        "OPH-C33-025",
+        "OPH-C33-026",
+        "OPH-C33-027",
+        "OPH-C33-028",
+        "OPH-C33-029"
+      ]
+    },
+    {
+      "id": "OPH-U33-5",
+      "ch": 33,
+      "n": 5,
+      "title": "Central serous retinopathy versus cystoid macular edema",
+      "sec": "Retina · p152",
+      "guide": "CSR vs CME Pathology CSR collection of fluid at macula in subretinal space d/t defect in RPE CME collection of fluid at macula in outer plexiform layer Risk factors CSR males (25-50 years) type A personality (increased stress) steroids Cushing's syndrome H. pylori infection CME mnemonic RUN for PRIDE retinitis pigmentosa uveitis niacin/nicotine prostaglandin analogues central retinal vein occlusion Irvin Gass syndrome diabetic retinopathy epinephrine in aphakia Irvin Gass syndrome complication of cataract surgery Clinical features 1 loss of central vision 2 metamorphopsia (distorted image) OCT chronic CSR loss of foveal depression shallow neurosensory retinal detachment chronic CME cystic spaces in OPL.",
+      "qs": [
+        "OPH-C33-030",
+        "OPH-C33-031",
+        "OPH-C33-032",
+        "OPH-C33-033",
+        "OPH-C33-034",
+        "OPH-C33-035"
+      ]
+    },
+    {
+      "id": "OPH-U33-6",
+      "ch": 33,
+      "n": 6,
+      "title": "FFA patterns, treatment of CSR and CME, and ARMD basics",
+      "sec": "Retina · p153",
+      "guide": "FFA pattern of pooling/leakage CSR ink blot appearance smokestack or umbrella appearance CME flower petal/petalloid appearance Treatment CSR self resolving steroid C/I treat if persistent >4 months recurrent or visual field defect in other eye a laser photocoagulation b photodynamic therapy using verteporfin on shining light of 689 nm drug acts CME treatment steroids (mainstay) ARMD risk factors age >50 years smoking blue iris high fat diet Types dry (non-exudative) early drusen + hyperpigmentation of RPE intermediate late geographic atrophy of RPE wet (exudative) choroidal neovascularisation (CNV) pigment epithelium detachment (PED).",
+      "qs": [
+        "OPH-C33-036",
+        "OPH-C33-037",
+        "OPH-C33-038",
+        "OPH-C33-039",
+        "OPH-C33-040",
+        "OPH-C33-041"
+      ]
+    },
+    {
+      "id": "OPH-U33-7",
+      "ch": 33,
+      "n": 7,
+      "title": "Drusen, choroidal neovascularisation and treatment of ARMD",
+      "sec": "Retina · p154",
+      "guide": "Drusen extracellular eosinophilic deposits between RPE (outermost layer of retina) and Bruch's membrane (innermost layer of choroid) Pigment epithelium detachment (PED) Choroidal neovascularisation pathogenesis damage to RPE and Bruch's membrane vessels grow into subretinal space leading to hemorrhage forms fibrovascular complex k/a CNVM (choroidal neovascular membrane) in subretinal space Classical CNVM IOC FFA Occult CNVM IOC ICGA Treatment dry ARMD antioxidants (AREDS-2 study) fixed dose combination vitamin C vitamin E zinc copper lutein zea-xanthin (carotenoids) wet ARMD a in subfoveal CNVM anti-VEGF drugs TOC 1 bevacizumab 2 ranibizumab (inhibits VEGF A isoform) 3 aflibercept soluble decoy receptor for VEGF 4 brolucizumab photodynamic therapy b in extrafoveal CNVM laser photocoagulation.",
+      "qs": [
+        "OPH-C33-042",
+        "OPH-C33-043",
+        "OPH-C33-044",
+        "OPH-C33-045",
+        "OPH-C33-046",
+        "OPH-C33-047",
+        "OPH-C33-048"
+      ]
+    },
+    {
+      "id": "OPH-U33-8",
+      "ch": 33,
+      "n": 8,
+      "title": "Other macular disorders: ERM, angioid streaks, hypotony maculopathy",
+      "sec": "Retina · p155",
+      "guide": "Other macular disorders Epiretinal membrane AKA cellophane maculopathy Angioid streaks fine crack in Bruch's membrane causes PEPSI pseudoxanthoma elasticum Ehlers Danlos syndrome Paget's disease sickle cell disease idiopathic Hypotony maculopathy d/t IOP <5 mmHg causes excessive drainage after glaucoma surgery retinal detachment penetrating trauma chronic uveitis.",
+      "qs": [
+        "OPH-C33-049",
+        "OPH-C33-050",
+        "OPH-C33-051",
+        "OPH-C33-052",
+        "OPH-C33-053"
+      ]
+    }
+  ]
+}

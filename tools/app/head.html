@@ -538,6 +538,41 @@
   .editor-actions{display:flex;justify-content:flex-end;gap:10px;border-top:1px solid var(--line);padding:12px 18px}.editor-actions .accent{flex:1}
   #editError{color:var(--red);font:13px var(--sans)}
 
+
+  /* Reading-first question and flashcard surfaces */
+  .qcard{padding:22px 20px;border-radius:22px}
+  .qtext{font-size:calc(17px * var(--fs));line-height:1.6;letter-spacing:-.018em;overflow-wrap:anywhere}
+  .pairlists{display:grid;gap:12px;margin-top:18px;white-space:normal}
+  .pairgroup{background:var(--card2);border:1px solid var(--line);border-radius:16px;padding:13px 14px}
+  .pairtitle{font-size:10px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:var(--mut);margin-bottom:5px}
+  .pairitem{display:flex;align-items:flex-start;gap:10px;padding:9px 0;font-size:calc(13.5px * var(--fs));font-weight:500;line-height:1.5;color:var(--ink);overflow-wrap:anywhere}
+  .pairitem + .pairitem{border-top:1px solid var(--line)}
+  .pairkey{flex:0 0 25px;width:25px;height:25px;display:grid;place-items:center;border-radius:8px;background:var(--accA1);color:var(--accent);font-size:11px;font-weight:800}
+  .opt{padding:13px 14px;line-height:1.55}
+  .exp{padding:16px;overflow-wrap:anywhere}
+  .fwrap{gap:12px}
+  .fwrap > .question-tools{margin:0}
+  .fwrap > .qmeta{gap:12px;align-items:baseline}
+  .fwrap > .qmeta span:last-child{text-align:right}
+  .fwrap > .qbar{margin-top:0}
+  .fcard{padding:22px 20px;gap:18px;min-height:220px;border-radius:22px}
+  .fcard .fq{white-space:normal}
+  .fcard .fq .qtext{font-size:calc(17px * var(--fs));line-height:1.6}
+  .fcard .fmeta{gap:6px}
+  .fcard .hintline{padding:12px 0 0;font-size:10px;letter-spacing:.09em}
+  .fcard .ans{border-top:1px solid var(--line);padding-top:18px;margin:0}
+  .fcard .ans b,.ansx-label{font-size:10px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:var(--mut);display:block;margin-bottom:8px}
+  .fcard .ans p{font-size:calc(15px * var(--fs));line-height:1.55;overflow-wrap:anywhere}
+  .fcard .ansx{margin-top:16px;padding:15px 16px;line-height:1.65;font-size:calc(13px * var(--fs));white-space:pre-wrap;overflow-wrap:anywhere}
+  .card-rating-heading{padding:5px 2px 0}
+  .card-rating-heading b,.card-rating-heading span{display:block}
+  .card-rating-heading b{font-size:14px;font-weight:750;color:var(--ink)}
+  .card-rating-heading span{font-size:11px;color:var(--mut);margin-top:4px}
+  .fwrap .rbtn{min-height:54px}
+  .fwrap .btns{margin-top:6px}
+  @media (min-width:600px){.pairlists{grid-template-columns:1fr 1fr;align-items:start}}
+  @media (max-width:360px){.qcard,.fcard{padding:18px 16px}.pairgroup{padding:12px}.fwrap .rbtns{gap:5px}}
+
 </style>
 </head>
 <body>

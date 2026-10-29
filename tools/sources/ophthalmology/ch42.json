@@ -1,0 +1,867 @@
+{
+ "chapter": 42,
+ "title": "Intermediate, Posterior, Pan-uveitis and Miscellaneous Disorders",
+ "pageRange": "191-194",
+ "questions": [
+  {
+   "id": "OPH-C42-001",
+   "sec": "Intermediate uveitis",
+   "page": 191,
+   "fmt": "fillup",
+   "q": "Intermediate uveitis is also known as ___.",
+   "opts": [
+    "Retinochoroiditis",
+    "Iridocyclitis",
+    "Pars planitis",
+    "Vitelliform uveitis"
+   ],
+   "ans": 2,
+   "exp": "Intermediate Uveitis: Also known as pars planitis. (Book p191)"
+  },
+  {
+   "id": "OPH-C42-002",
+   "sec": "Intermediate uveitis",
+   "page": 191,
+   "fmt": "recall",
+   "q": "What is the most common cause of intermediate uveitis?",
+   "opts": [
+    "Lyme's disease",
+    "Idiopathic",
+    "Sarcoidosis",
+    "Tuberculosis"
+   ],
+   "ans": 1,
+   "exp": "Causes: 1. Idiopathic (m/c); 2. Associated with Lyme's disease, sarcoidosis, multiple sclerosis, tuberculosis. (Book p191)"
+  },
+  {
+   "id": "OPH-C42-003",
+   "sec": "Intermediate uveitis",
+   "page": 191,
+   "fmt": "oddoneout",
+   "q": "Intermediate uveitis is associated with all of the following EXCEPT:",
+   "opts": [
+    "Lyme's disease",
+    "Multiple sclerosis",
+    "Tuberculosis",
+    "Vogt-Koyanagi-Harada syndrome"
+   ],
+   "ans": 3,
+   "exp": "Associated with: Lyme's disease, sarcoidosis, multiple sclerosis, tuberculosis. (VKH syndrome is listed under pan-uveitis.) (Book p191)"
+  },
+  {
+   "id": "OPH-C42-004",
+   "sec": "Intermediate uveitis",
+   "page": 191,
+   "fmt": "scenario",
+   "q": "A patient reports bilateral floaters and blurring of vision. Which uveitis does the book describe with these symptoms?",
+   "opts": [
+    "Intermediate uveitis",
+    "Anterior uveitis",
+    "Sympathetic ophthalmitis",
+    "Vogt-Koyanagi-Harada syndrome"
+   ],
+   "ans": 0,
+   "exp": "Intermediate uveitis symptoms: B/L floaters; blurring of vision. (Book p191)"
+  },
+  {
+   "id": "OPH-C42-005",
+   "sec": "Intermediate uveitis",
+   "page": 191,
+   "fmt": "fillup",
+   "q": "In intermediate uveitis, the anterior segment shows ___ anterior uveitis.",
+   "opts": [
+    "Spillover",
+    "Granulomatous",
+    "Recurrent",
+    "Hypopyon"
+   ],
+   "ans": 0,
+   "exp": "Signs: Spillover anterior uveitis. (Book p191)"
+  },
+  {
+   "id": "OPH-C42-006",
+   "sec": "Intermediate uveitis",
+   "page": 191,
+   "fmt": "recall",
+   "q": "In intermediate uveitis, 'snowballs' are:",
+   "opts": [
+    "A fibrovascular plaque",
+    "Aggregations of cells in the vitreous",
+    "Pre-retinal nodules",
+    "Perilimbal vitiligo"
+   ],
+   "ans": 1,
+   "exp": "Snowballs: Aggregation of cells in vitreous. (Book p191)"
+  },
+  {
+   "id": "OPH-C42-007",
+   "sec": "Intermediate uveitis treatment",
+   "page": 191,
+   "fmt": "management",
+   "q": "In intermediate uveitis, what is the first step of steroid treatment, and what is the next step if it fails?",
+   "opts": [
+    "Systemic steroids; then posterior subtenon injection",
+    "Posterior subtenon injection; then azathioprine",
+    "Posterior subtenon steroid injection; then systemic steroids",
+    "Systemic steroids; then pars plana vitrectomy"
+   ],
+   "ans": 2,
+   "exp": "Treatment: Steroids: posterior subtenon injection; if fails -> steroids: systemic. (Book p191)"
+  },
+  {
+   "id": "OPH-C42-008",
+   "sec": "Intermediate uveitis treatment",
+   "page": 191,
+   "fmt": "management",
+   "q": "Intermediate uveitis has failed posterior subtenon and systemic steroids. Which immunomodulatory drug is next?",
+   "opts": [
+    "Adalimumab",
+    "Voclosporin",
+    "Sirolimus",
+    "Azathioprine"
+   ],
+   "ans": 3,
+   "exp": "If fails -> immunomodulatory drugs: azathioprine. (Book p191)"
+  },
+  {
+   "id": "OPH-C42-009",
+   "sec": "Intermediate uveitis treatment",
+   "page": 191,
+   "fmt": "management",
+   "q": "If azathioprine also fails in intermediate uveitis, the book advises:",
+   "opts": [
+    "Enucleation of the eye",
+    "Repeat posterior subtenon steroid injection",
+    "Arginine restriction in the diet",
+    "Pars plana vitrectomy plus photocoagulation of the snowbank"
+   ],
+   "ans": 3,
+   "exp": "If fails -> Pars plana vitrectomy + Photocoagulation of snowbank. (Book p191)"
+  },
+  {
+   "id": "OPH-C42-010",
+   "sec": "Intermediate uveitis complications",
+   "page": 191,
+   "fmt": "recall",
+   "q": "Snowbanking in intermediate uveitis is a:",
+   "opts": [
+    "Fibrovascular plaque",
+    "Aggregation of cells in the vitreous",
+    "Punched out scar",
+    "Perivascular sheathing"
+   ],
+   "ans": 0,
+   "exp": "Snowbanking: Fibrovascular plaque. (Book p191)"
+  },
+  {
+   "id": "OPH-C42-011",
+   "sec": "Intermediate uveitis complications",
+   "page": 191,
+   "fmt": "recall",
+   "q": "Which condition is the most common cause of vision loss in intermediate uveitis?",
+   "opts": [
+    "Exudative retinal detachment",
+    "Sunset glow fundus",
+    "Cystoid macular edema",
+    "Leukocoria"
+   ],
+   "ans": 2,
+   "exp": "Cystoid macular edema: m/c cause of vision loss. (Book p191)"
+  },
+  {
+   "id": "OPH-C42-012",
+   "sec": "Posterior uveitis",
+   "page": 191,
+   "fmt": "fillup",
+   "q": "Posterior uveitis (chorioretinitis) is inflammation of the choroid and ___.",
+   "opts": [
+    "Iris",
+    "Retina",
+    "Pars plicata",
+    "Vitreous"
+   ],
+   "ans": 1,
+   "exp": "Posterior Uveitis/Chorioretinitis: Inflammation of choroid & retina. (Book p191)"
+  },
+  {
+   "id": "OPH-C42-013",
+   "sec": "Posterior uveitis",
+   "page": 191,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT among the listed clinical features of posterior uveitis?",
+   "opts": [
+    "Floaters",
+    "Painless loss of vision",
+    "Severe pain with circumcorneal congestion",
+    "Scotoma"
+   ],
+   "ans": 2,
+   "exp": "Clinical features: 1. Floaters 2. Painless loss of vision 3. Scotoma 4. Metamorphopsia 5. Photopsia. (Book p191)"
+  },
+  {
+   "id": "OPH-C42-014",
+   "sec": "Posterior uveitis",
+   "page": 191,
+   "fmt": "recall",
+   "q": "Metamorphopsia is distortion of image. Which feature is listed fifth after it?",
+   "opts": [
+    "Scotoma",
+    "Floaters",
+    "Painless loss of vision",
+    "Photopsia"
+   ],
+   "ans": 3,
+   "exp": "4. Metamorphopsia: Distortion of image. 5. Photopsia. (Book p191)"
+  },
+  {
+   "id": "OPH-C42-015",
+   "sec": "Infectious causes",
+   "page": 192,
+   "fmt": "recall",
+   "q": "What is the most common infectious cause of posterior uveitis in the table?",
+   "opts": [
+    "Toxocariasis",
+    "Toxoplasmosis",
+    "CMV retinitis",
+    "Tuberculosis"
+   ],
+   "ans": 1,
+   "exp": "Infectious: 1. Most common: Toxoplasmosis. (Book p192)"
+  },
+  {
+   "id": "OPH-C42-016",
+   "sec": "Infectious causes",
+   "page": 192,
+   "fmt": "match",
+   "q": "Match the stage of toxoplasmosis with its fundus appearance — 1) Active  2) Chronic  … A) Punched out scar  B) Headlight in fog appearance  C) Candle wax dripping appearance",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-C, 2-A",
+    "1-B, 2-C"
+   ],
+   "ans": 0,
+   "exp": "Active: headlight in fog appearance (d/t associated active vitritis). Chronic: punched out scar. (Book p192)"
+  },
+  {
+   "id": "OPH-C42-017",
+   "sec": "Infectious causes",
+   "page": 192,
+   "fmt": "scenario",
+   "q": "Cats are the definitive hosts for the organism that causes focal chorioretinitis. Which infection?",
+   "opts": [
+    "Toxocariasis",
+    "Toxoplasmosis",
+    "CMV retinitis",
+    "Tuberculosis"
+   ],
+   "ans": 1,
+   "exp": "Cats are definitive hosts. Toxoplasmosis causes focal chorioretinitis. (Book p192)"
+  },
+  {
+   "id": "OPH-C42-018",
+   "sec": "Infectious causes",
+   "page": 192,
+   "fmt": "scenario",
+   "q": "A child has unilateral loss of vision with leukocoria (white pupillary reflex). Which infectious cause does the table list?",
+   "opts": [
+    "Toxoplasmosis",
+    "CMV retinitis",
+    "Toxocariasis",
+    "Tuberculosis"
+   ],
+   "ans": 2,
+   "exp": "2. Toxocariasis: Unilateral LOV; Leukocoria (white pupillary reflex). (Book p192)"
+  },
+  {
+   "id": "OPH-C42-019",
+   "sec": "Infectious causes",
+   "page": 192,
+   "fmt": "recall",
+   "q": "Which infection is the most common cause of loss of vision in ocular HIV?",
+   "opts": [
+    "CMV retinitis",
+    "Toxoplasmosis",
+    "Toxocariasis",
+    "Syphilis"
+   ],
+   "ans": 0,
+   "exp": "3. CMV retinitis: m/c cause of LOV in ocular HIV. (Book p192)"
+  },
+  {
+   "id": "OPH-C42-020",
+   "sec": "Infectious causes",
+   "page": 192,
+   "fmt": "oddoneout",
+   "q": "Which appearance is NOT described for CMV retinitis?",
+   "opts": [
+    "Pizza pie appearance",
+    "Scrambled egg & ketchup appearance",
+    "Brushfire extension",
+    "Candle wax dripping appearance"
+   ],
+   "ans": 3,
+   "exp": "CMV retinitis: a. Pizza pie appearance; b. Scrambled egg & ketchup appearance; c. Brushfire extension. (Candle wax dripping is sarcoidosis.) (Book p192)"
+  },
+  {
+   "id": "OPH-C42-021",
+   "sec": "Infectious causes",
+   "page": 192,
+   "fmt": "recall",
+   "q": "Besides toxoplasmosis, toxocariasis and CMV retinitis, which is listed as an infectious cause?",
+   "opts": [
+    "TB",
+    "Sarcoidosis",
+    "Behcet's disease",
+    "Birdshot chorioretinopathy"
+   ],
+   "ans": 0,
+   "exp": "Infectious: 1. Toxoplasmosis 2. Toxocariasis 3. CMV retinitis 4. TB. Sarcoidosis, Behcet's and birdshot are non-infectious. (Book p192)"
+  },
+  {
+   "id": "OPH-C42-022",
+   "sec": "Non-infectious causes",
+   "page": 192,
+   "fmt": "scenario",
+   "q": "A fundus shows a candle wax dripping appearance. What is the cause of this appearance in sarcoidosis?",
+   "opts": [
+    "Active associated vitritis",
+    "Perivascular inflammation and sheathing",
+    "Loss of iris crypts",
+    "Distortion of the image"
+   ],
+   "ans": 1,
+   "exp": "Sarcoidosis: candle wax dripping appearance (d/t perivascular inflammation & sheathing). (Book p192)"
+  },
+  {
+   "id": "OPH-C42-023",
+   "sec": "Non-infectious causes",
+   "page": 192,
+   "fmt": "fillup",
+   "q": "In sarcoidosis, Lander's sign refers to ___.",
+   "opts": [
+    "Perilimbal vitiligo",
+    "Bleeding on paracentesis",
+    "Sunset glow fundus",
+    "Pre-retinal nodules"
+   ],
+   "ans": 3,
+   "exp": "Lander's sign: Pre-retinal nodules. (Book p192)"
+  },
+  {
+   "id": "OPH-C42-024",
+   "sec": "Non-infectious causes",
+   "page": 192,
+   "fmt": "recall",
+   "q": "Which of the following is listed under NON-infectious causes of posterior uveitis?",
+   "opts": [
+    "Toxoplasmosis",
+    "CMV retinitis",
+    "Behcet's disease",
+    "Toxocariasis"
+   ],
+   "ans": 2,
+   "exp": "Non-infectious: 1. Sarcoidosis 2. Behcet's disease 3. Birdshot chorioretinopathy 4. Serpiginous choroiditis. (Book p192)"
+  },
+  {
+   "id": "OPH-C42-025",
+   "sec": "Non-infectious causes",
+   "page": 192,
+   "fmt": "match",
+   "q": "Match the condition with its HLA association — 1) Birdshot chorioretinopathy  2) Serpiginous choroiditis  … A) HLA B7  B) HLA A29  C) HLA B27",
+   "opts": [
+    "1-A, 2-B",
+    "1-C, 2-A",
+    "1-B, 2-A",
+    "1-B, 2-C"
+   ],
+   "ans": 2,
+   "exp": "Birdshot chorioretinopathy: HLA A29 association. Serpiginous choroiditis: HLA B7 association. (Book p192)"
+  },
+  {
+   "id": "OPH-C42-026",
+   "sec": "Focal vs multifocal",
+   "page": 192,
+   "fmt": "match",
+   "q": "Match the pattern with its causes — 1) Focal chorioretinitis  2) Multifocal chorioretinitis  … A) Toxoplasma, Toxocariasis, CMV  B) HSV, TB, syphilis  C) Toxoplasma, TB, syphilis",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-C, 2-B",
+    "1-A, 2-C"
+   ],
+   "ans": 0,
+   "exp": "Focal chorioretinitis: Toxoplasma, Toxocariasis, CMV. Multifocal chorioretinitis: HSV, TB, syphilis. (Book p192)"
+  },
+  {
+   "id": "OPH-C42-027",
+   "sec": "Posterior uveitis treatment",
+   "page": 193,
+   "fmt": "management",
+   "q": "Treatment of infectious posterior uveitis is:",
+   "opts": [
+    "Systemic steroids alone",
+    "Adalimumab alone",
+    "Posterior subtenon steroid alone",
+    "Treat the cause plus systemic steroids"
+   ],
+   "ans": 3,
+   "exp": "Treatment: 1. Infectious cases: Treat the cause + systemic steroids. (Book p193)"
+  },
+  {
+   "id": "OPH-C42-028",
+   "sec": "Posterior uveitis treatment",
+   "page": 193,
+   "fmt": "match",
+   "q": "For non-infectious posterior uveitis (alternative to systemic steroids), match the drug with its study — 1) Adalimumab  2) Sirolimus  3) Voclosporin  … A) Luminate trials  B) Visual studies I to II  C) Sakura program",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 1,
+   "exp": "Non-infectious cases: systemic steroids OR adalimumab (visual studies I to II); sirolimus (Sakura program); voclosporin (Luminate trials). (Book p193)"
+  },
+  {
+   "id": "OPH-C42-029",
+   "sec": "Vogt-Koyanagi-Harada syndrome",
+   "page": 193,
+   "fmt": "recall",
+   "q": "Vogt-Koyanagi-Harada (VKH) syndrome affects which four structures?",
+   "opts": [
+    "Eye, ears, skin and joints",
+    "Eye, ears, skin and meninges",
+    "Eye, ears, heart and meninges",
+    "Eye, skin, meninges and parotid gland"
+   ],
+   "ans": 1,
+   "exp": "VKH syndrome affects: Eye, Ears, Skin, Meninges. (Book p193)"
+  },
+  {
+   "id": "OPH-C42-030",
+   "sec": "Vogt-Koyanagi-Harada syndrome",
+   "page": 193,
+   "fmt": "fillup",
+   "q": "The ocular involvement in VKH is bilateral ___ panuveitis.",
+   "opts": [
+    "Non-granulomatous",
+    "Hemorrhagic",
+    "Suppurative",
+    "Granulomatous"
+   ],
+   "ans": 3,
+   "exp": "Eye: B/L granulomatous panuveitis. (Book p193)"
+  },
+  {
+   "id": "OPH-C42-031",
+   "sec": "Vogt-Koyanagi-Harada syndrome",
+   "page": 193,
+   "fmt": "recall",
+   "q": "'Sunset glow fundus' in VKH results from:",
+   "opts": [
+    "RPE atrophy",
+    "Perivascular sheathing",
+    "Loss of iris crypts",
+    "Vitreous snowballs"
+   ],
+   "ans": 0,
+   "exp": "Sunset glow fundus: RPE atrophy. (Book p193)"
+  },
+  {
+   "id": "OPH-C42-032",
+   "sec": "Vogt-Koyanagi-Harada syndrome",
+   "page": 193,
+   "fmt": "scenario",
+   "q": "A VKH patient shows perilimbal vitiligo. What is this sign called?",
+   "opts": [
+    "Lander's sign",
+    "Amsler's sign",
+    "Suiguira sign",
+    "Arlt's sign"
+   ],
+   "ans": 2,
+   "exp": "Suiguira sign: Perilimbal vitiligo. (Book p193)"
+  },
+  {
+   "id": "OPH-C42-033",
+   "sec": "Vogt-Koyanagi-Harada syndrome",
+   "page": 193,
+   "fmt": "scenario",
+   "q": "Which type of retinal detachment is listed in the eye findings of VKH?",
+   "opts": [
+    "Rhegmatogenous RD",
+    "Tractional RD",
+    "Exudative RD",
+    "Total RD from a giant tear"
+   ],
+   "ans": 2,
+   "exp": "VKH eye: Exudative RD. (Book p193)"
+  },
+  {
+   "id": "OPH-C42-034",
+   "sec": "Vogt-Koyanagi-Harada syndrome",
+   "page": 193,
+   "fmt": "match",
+   "q": "Match the VKH structure with its finding — 1) Ears  2) Skin  3) Meninges  … A) Vitiligo  B) Meningoencephalitis  C) Tinnitus",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 1,
+   "exp": "Ears: tinnitus; skin: vitiligo; meninges: meningoencephalitis. (Book p193)"
+  },
+  {
+   "id": "OPH-C42-035",
+   "sec": "Sympathetic ophthalmitis",
+   "page": 193,
+   "fmt": "scenario",
+   "q": "A patient develops granulomatous panuveitis after accidental penetrating trauma affecting the ciliary body. Which condition?",
+   "opts": [
+    "Sympathetic ophthalmitis",
+    "Vogt-Koyanagi-Harada syndrome",
+    "Birdshot chorioretinopathy",
+    "Intermediate uveitis"
+   ],
+   "ans": 0,
+   "exp": "Sympathetic ophthalmitis: clinical feature granulomatous panuveitis; cause: accidental penetrating trauma affecting ciliary body. (Book p193)"
+  },
+  {
+   "id": "OPH-C42-036",
+   "sec": "Sympathetic ophthalmitis",
+   "page": 193,
+   "fmt": "numeric",
+   "q": "After trauma to one eye (exciting eye), sympathetic ophthalmitis appears in the other (sympathizing) eye after more than:",
+   "opts": [
+    "2 days",
+    "14 weeks",
+    "2 months",
+    "2 weeks"
+   ],
+   "ans": 3,
+   "exp": "Pathogenesis: trauma to one eye (exciting eye) -> >2 weeks -> sympathetic ophthalmitis in other eye (sympathizing eye). (Book p193)"
+  },
+  {
+   "id": "OPH-C42-037",
+   "sec": "Sympathetic ophthalmitis",
+   "page": 193,
+   "fmt": "management",
+   "q": "To prevent sympathetic ophthalmitis, the traumatic eye should undergo enucleation within:",
+   "opts": [
+    "2 days",
+    "6 weeks",
+    "14 days",
+    "3 months"
+   ],
+   "ans": 2,
+   "exp": "Prevention: Enucleation of traumatic eye in 14 days. (Book p193)"
+  },
+  {
+   "id": "OPH-C42-038",
+   "sec": "Sympathetic ophthalmitis",
+   "page": 193,
+   "fmt": "management",
+   "q": "Once sympathetic ophthalmitis has developed, the treatment given in the book is:",
+   "opts": [
+    "Arginine restriction",
+    "Pars plana vitrectomy",
+    "Evisceration",
+    "Steroids"
+   ],
+   "ans": 3,
+   "exp": "Treatment: Steroids. (Book p193)"
+  },
+  {
+   "id": "OPH-C42-039",
+   "sec": "Miscellaneous procedures",
+   "page": 194,
+   "fmt": "match",
+   "q": "Match the procedure with its terminology — 1) Enucleation  2) Evisceration  3) Exenteration  … A) Removal of eye and orbital contents  B) Removal of whole eyeball + optic nerve  C) Removal of all layers of eyeball except sclera",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 1,
+   "exp": "Enucleation: removal of whole eyeball + optic nerve. Evisceration: removal of all layers of eyeball except sclera. Exenteration: removal of eye and orbital contents. (Book p194)"
+  },
+  {
+   "id": "OPH-C42-040",
+   "sec": "Miscellaneous procedures",
+   "page": 194,
+   "fmt": "scenario",
+   "q": "Which indications does the table list for enucleation?",
+   "opts": [
+    "Retinoblastoma and trauma",
+    "Endophthalmitis and trauma",
+    "Orbital mucormycosis and retinoblastoma",
+    "Panophthalmitis and endophthalmitis"
+   ],
+   "ans": 0,
+   "exp": "Indications - enucleation: retinoblastoma; trauma. (Book p194)"
+  },
+  {
+   "id": "OPH-C42-041",
+   "sec": "Miscellaneous procedures",
+   "page": 194,
+   "fmt": "scenario",
+   "q": "Evisceration is indicated in:",
+   "opts": [
+    "Retinoblastoma",
+    "Endophthalmitis",
+    "Panophthalmitis",
+    "Orbital mucormycosis"
+   ],
+   "ans": 1,
+   "exp": "Indications - evisceration: endophthalmitis. (Book p194)"
+  },
+  {
+   "id": "OPH-C42-042",
+   "sec": "Miscellaneous procedures",
+   "page": 194,
+   "fmt": "management",
+   "q": "Exenteration is indicated in orbital mucormycosis and in:",
+   "opts": [
+    "Tumors metastasised to the orbit",
+    "Trauma to the globe",
+    "Endophthalmitis",
+    "Retinoblastoma confined to the globe"
+   ],
+   "ans": 0,
+   "exp": "Indications - exenteration: orbital mucormycosis; tumors metastasised to orbit. (Book p194)"
+  },
+  {
+   "id": "OPH-C42-043",
+   "sec": "Miscellaneous procedures",
+   "page": 194,
+   "fmt": "truefalse",
+   "q": "True or false — 'The table lists retinoblastoma as a contraindication for enucleation.' Choose the correct verdict:",
+   "opts": [
+    "True - enucleation and evisceration are both contraindicated in retinoblastoma",
+    "False - retinoblastoma is a contraindication for exenteration",
+    "False - enucleation is contraindicated in panophthalmitis; retinoblastoma is the contraindication for evisceration",
+    "True - enucleation is contraindicated in retinoblastoma and panophthalmitis"
+   ],
+   "ans": 2,
+   "exp": "C/I - enucleation: panophthalmitis; evisceration: retinoblastoma; exenteration: dash (-). (Book p194)"
+  },
+  {
+   "id": "OPH-C42-044",
+   "sec": "Miscellaneous procedures",
+   "page": 194,
+   "fmt": "recall",
+   "q": "The Appearance row of the table shows photographs of:",
+   "opts": [
+    "Only enucleation and exenteration",
+    "Gyrate atrophy fundus and evisceration",
+    "Enucleation, evisceration and exenteration together with orbital mucormycosis",
+    "Enucleation, evisceration and exenteration"
+   ],
+   "ans": 3,
+   "exp": "Appearance row: photographs under Enucleation, Evisceration and Exenteration. (Book p194)"
+  },
+  {
+   "id": "OPH-C42-045",
+   "sec": "Gyrate atrophy",
+   "page": 194,
+   "fmt": "fillup",
+   "q": "Gyrate atrophy is a type of ___ atrophy.",
+   "opts": [
+    "Optic nerve",
+    "Iris",
+    "Choroid",
+    "Retinal pigment epithelium"
+   ],
+   "ans": 2,
+   "exp": "Gyrate atrophy: Type of choroid atrophy. (Book p194)"
+  },
+  {
+   "id": "OPH-C42-046",
+   "sec": "Gyrate atrophy",
+   "page": 194,
+   "fmt": "recall",
+   "q": "What is the inheritance pattern of gyrate atrophy?",
+   "opts": [
+    "Autosomal dominant",
+    "X-linked recessive",
+    "Mitochondrial",
+    "Autosomal recessive"
+   ],
+   "ans": 3,
+   "exp": "Gyrate atrophy: Autosomal recessive. (Book p194)"
+  },
+  {
+   "id": "OPH-C42-047",
+   "sec": "Gyrate atrophy",
+   "page": 194,
+   "fmt": "scenario",
+   "q": "Gyrate atrophy results from mutation in which gene, and what happens to ornithine?",
+   "opts": [
+    "Ornithine aminotransferase gene; ornithine levels rise",
+    "Ornithine aminotransferase gene; ornithine levels fall",
+    "Arginase gene; ornithine levels rise",
+    "Arginine synthetase gene; ornithine levels fall"
+   ],
+   "ans": 0,
+   "exp": "Mutation in ornithine aminotransferase gene: increased levels of ornithine. (Book p194)"
+  },
+  {
+   "id": "OPH-C42-048",
+   "sec": "Gyrate atrophy",
+   "page": 194,
+   "fmt": "management",
+   "q": "Treatment of gyrate atrophy is restriction of which dietary component, since ornithine is synthesised from it?",
+   "opts": [
+    "Ornithine",
+    "Arginine",
+    "Lysine",
+    "Glutamate"
+   ],
+   "ans": 1,
+   "exp": "Treatment: Arginine restriction in diet (ornithine is synthesised from arginine). (Book p194)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U42-1",
+   "ch": 42,
+   "n": 1,
+   "title": "Intermediate uveitis: causes and features",
+   "sec": "Uvea · p191",
+   "guide": "Intermediate uveitis (pars planitis); idiopathic m/c; Lyme's, sarcoidosis, MS, TB; B/L floaters, blurring; spillover anterior uveitis; snowballs.",
+   "qs": [
+    "OPH-C42-001",
+    "OPH-C42-002",
+    "OPH-C42-003",
+    "OPH-C42-004",
+    "OPH-C42-005",
+    "OPH-C42-006"
+   ]
+  },
+  {
+   "id": "OPH-U42-2",
+   "ch": 42,
+   "n": 2,
+   "title": "Intermediate uveitis: treatment and complications",
+   "sec": "Uvea · p191",
+   "guide": "Stepwise treatment: posterior subtenon steroid, systemic steroid, azathioprine, pars plana vitrectomy + photocoagulation of snowbank; snowbanking; CME.",
+   "qs": [
+    "OPH-C42-007",
+    "OPH-C42-008",
+    "OPH-C42-009",
+    "OPH-C42-010",
+    "OPH-C42-011"
+   ]
+  },
+  {
+   "id": "OPH-U42-3",
+   "ch": 42,
+   "n": 3,
+   "title": "Posterior uveitis: clinical features",
+   "sec": "Uvea · p191",
+   "guide": "Posterior uveitis/chorioretinitis inflammation of choroid & retina; floaters, painless loss of vision, scotoma, metamorphopsia distortion of image, photopsia.",
+   "qs": [
+    "OPH-C42-012",
+    "OPH-C42-013",
+    "OPH-C42-014"
+   ]
+  },
+  {
+   "id": "OPH-U42-4",
+   "ch": 42,
+   "n": 4,
+   "title": "Posterior uveitis: infectious causes",
+   "sec": "Uvea · p192",
+   "guide": "Toxoplasmosis m/c headlight in fog punched out scar cats focal chorioretinitis; toxocariasis unilateral LOV leukocoria; CMV retinitis m/c in HIV pizza pie scrambled egg ketchup brushfire; TB.",
+   "qs": [
+    "OPH-C42-015",
+    "OPH-C42-016",
+    "OPH-C42-017",
+    "OPH-C42-018",
+    "OPH-C42-019",
+    "OPH-C42-020",
+    "OPH-C42-021"
+   ]
+  },
+  {
+   "id": "OPH-U42-5",
+   "ch": 42,
+   "n": 5,
+   "title": "Posterior uveitis: non-infectious causes and pattern",
+   "sec": "Uvea · p192",
+   "guide": "Sarcoidosis candle wax dripping Lander's sign; Behcet's; birdshot HLA A29; serpiginous HLA B7; focal vs multifocal chorioretinitis.",
+   "qs": [
+    "OPH-C42-022",
+    "OPH-C42-023",
+    "OPH-C42-024",
+    "OPH-C42-025",
+    "OPH-C42-026"
+   ]
+  },
+  {
+   "id": "OPH-U42-6",
+   "ch": 42,
+   "n": 6,
+   "title": "Posterior uveitis treatment and Vogt-Koyanagi-Harada syndrome",
+   "sec": "Uvea · p193",
+   "guide": "Infectious: treat the cause + systemic steroids; non-infectious: systemic steroids or adalimumab (Visual), sirolimus (Sakura), voclosporin (Luminate); VKH eye ears skin meninges.",
+   "qs": [
+    "OPH-C42-027",
+    "OPH-C42-028",
+    "OPH-C42-029",
+    "OPH-C42-030",
+    "OPH-C42-031",
+    "OPH-C42-032",
+    "OPH-C42-033",
+    "OPH-C42-034"
+   ]
+  },
+  {
+   "id": "OPH-U42-7",
+   "ch": 42,
+   "n": 7,
+   "title": "Sympathetic ophthalmitis",
+   "sec": "Uvea · p193",
+   "guide": "Granulomatous panuveitis; accidental penetrating trauma to ciliary body; exciting eye, >2 weeks, sympathizing eye; enucleation within 14 days; steroids.",
+   "qs": [
+    "OPH-C42-035",
+    "OPH-C42-036",
+    "OPH-C42-037",
+    "OPH-C42-038"
+   ]
+  },
+  {
+   "id": "OPH-U42-8",
+   "ch": 42,
+   "n": 8,
+   "title": "Miscellaneous: enucleation, evisceration, exenteration",
+   "sec": "Uvea · p194",
+   "guide": "Terminology, indications and contraindications of enucleation, evisceration and exenteration.",
+   "qs": [
+    "OPH-C42-039",
+    "OPH-C42-040",
+    "OPH-C42-041",
+    "OPH-C42-042",
+    "OPH-C42-043",
+    "OPH-C42-044"
+   ]
+  },
+  {
+   "id": "OPH-U42-9",
+   "ch": 42,
+   "n": 9,
+   "title": "Gyrate atrophy",
+   "sec": "Uvea · p194",
+   "guide": "Gyrate atrophy: choroid atrophy, autosomal recessive, ornithine aminotransferase gene, raised ornithine, arginine restriction.",
+   "qs": [
+    "OPH-C42-045",
+    "OPH-C42-046",
+    "OPH-C42-047",
+    "OPH-C42-048"
+   ]
+  }
+ ]
+}

@@ -1,5 +1,7 @@
 # PULSE MBBS — Project Handoff (from the Oct 2026 chat)
 
+> The latest working-tree update at the end of this file supersedes older release and APK status notes below.
+
 Everything needed to continue work on the PULSE MBBS offline app. Read this first.
 
 ## 1. What exists today
@@ -226,3 +228,9 @@ Re-check upstream before content work: `pushed_at` per repo; questions diff by `
   or paste their contents. Restore: `base64 -d pulse-upload.p12.b64.txt > tools/apk/keys/pulse-upload.p12 && chmod 600 ...` + password.txt beside it.
 - Publishing the app (index.html + APK) to the MBBS site still requires a fresh fine-grained token
   with Contents Read & Write on Deva20045/MBBS — see §4. Do not reuse tokens seen in chat.
+
+## Latest working-tree update (Oct 29, 2026)
+
+- Imported OPHTHAL chapters 31–50 from `Deva20045/OPHTHAL` chapter JSON artifacts: 123 units and 947 questions. All 50 chapters now have content; the bank has 4,923 units and 50,656 questions. Existing Ophthalmology units and question indexes were preserved so saved progress, edits and review keys continue to refer to the same content. The source artifacts are in `tools/sources/ophthalmology/`; `tools/import_ophthalmology.py` is safe to rerun for already-populated chapters.
+- Quiz and flashcard reading surfaces now share structured matching lists and improved typography, spacing and answer/explanation hierarchy. `tools/test-ophthalmology-ui.js` covers the import and these flows.
+- The Android APK was repacked and signed as version **1.5 / versionCode 6** with the original key. The new APK embeds the current `index.html` and passes independent v1/v2/v3 signature and embedded-payload checks; its certificate matches version 1.4. The dex, resources and icon are unchanged. SHA-256: APK `c46c8dc43448aafb379fd280aa8ed9e8cc95e53cc4239bb8065b64cbb344205f`; HTML `3f9a9a7cb1c90f5bad852174b1faead9c85fa96e7fff90d1ac3a35de8ceca37c`. No physical Android device or emulator was available for installation testing. Signing material was used only from temporary files and was not added to the repository.

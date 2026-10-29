@@ -1,0 +1,767 @@
+{
+  "chapter": 31,
+  "title": "Refraction : How to prescribe glasses and Aphakia",
+  "pageRange": "135-141",
+  "questions": [
+    {
+      "id": "OPH-C31-001",
+      "sec": "Types of refraction",
+      "page": 135,
+      "fmt": "recall",
+      "q": "Types of refraction and their order per p135:",
+      "opts": [
+        "Objective refraction is performed first; subjective refraction second",
+        "Subjective refraction is performed first; objective refraction second",
+        "Both are performed simultaneously in a single sitting",
+        "Either may be performed first since both give identical values"
+      ],
+      "ans": 0,
+      "exp": "Objective refraction: performed first, independent of patient responses. Subjective refraction: performed second, patient's response is taken into account. (Book p135)"
+    },
+    {
+      "id": "OPH-C31-002",
+      "sec": "Types of refraction",
+      "page": 135,
+      "fmt": "match",
+      "q": "Match refraction type with its descriptor per p135 — 1) Objective refraction 2) Subjective refraction … A) Independent of patient responses B) Patient's response taken into account",
+      "opts": [
+        "1-B, 2-A",
+        "1-A, 2-B",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 1,
+      "exp": "Objective refraction is independent of patient responses; subjective refraction takes the patient's response into account. (Book p135)"
+    },
+    {
+      "id": "OPH-C31-003",
+      "sec": "Objective refraction",
+      "page": 135,
+      "fmt": "fillup",
+      "q": "Objective refraction is performed by retinoscopy, also called ____ or the ____ test:",
+      "opts": [
+        "Keratometry; ophthalmometry",
+        "Perimetry; tangent screen",
+        "Skiascopy; shadow",
+        "Gonioscopy; mirror"
+      ],
+      "ans": 2,
+      "exp": "Objective refraction is performed in retinoscopy / skiascopy / shadow test. (Book p135)"
+    },
+    {
+      "id": "OPH-C31-004",
+      "sec": "Objective refraction",
+      "page": 135,
+      "fmt": "recall",
+      "q": "Methods of retinoscopy listed on p135 are:",
+      "opts": [
+        "Ultrasound biometry and automated refractometers",
+        "Manual retinoscopy and Placido disc topography",
+        "Automated refractometers and Scheimpflug imaging",
+        "Manual retinoscopy and automated refractometers"
+      ],
+      "ans": 3,
+      "exp": "Retinoscopy methods: manual retinoscopy and automated refractometers. (Book p135)"
+    },
+    {
+      "id": "OPH-C31-005",
+      "sec": "Instruments",
+      "page": 135,
+      "fmt": "oddoneout",
+      "q": "All of the following are instruments employed for retinoscopy EXCEPT:",
+      "opts": [
+        "Goldmann three-mirror contact lens",
+        "Priestley-Smith reflecting mirror retinoscope (obsolete)",
+        "Self-illuminated retinoscope (contains a mirror)",
+        "Battery operated self-illuminating streak retinoscope"
+      ],
+      "ans": 0,
+      "exp": "Instruments employed: reflecting mirror (Priestley-Smith retinoscope, obsolete), self-illuminated retinoscope (contains a mirror) and battery operated self-illuminating streak retinoscope. A Goldmann three-mirror lens is a gonioscopy/fundus contact lens. (Book p135)"
+    },
+    {
+      "id": "OPH-C31-006",
+      "sec": "Procedure",
+      "page": 135,
+      "fmt": "scenario",
+      "q": "During streak retinoscopy the examiner sees red streaks of light in the pupil. This red reflex is seen from:",
+      "opts": [
+        "Iris pigment epithelium behind the lens",
+        "Choroid, and is visible to the examiner",
+        "Corneal endothelium in front of the pupil",
+        "The lens nucleus after it turns sclerotic"
+      ],
+      "ans": 1,
+      "exp": "Procedure of retinoscopy (self illuminated streak retinoscope): light passes cornea and lens to retina/choroid; red reflex = red streaks of light, visible to the examiner. (Book p135)"
+    },
+    {
+      "id": "OPH-C31-007",
+      "sec": "Findings",
+      "page": 136,
+      "fmt": "numeric",
+      "q": "Standard distance of examination for retinoscopy per p136 is:",
+      "opts": [
+        "2 metres",
+        "0.5 metre",
+        "1 metre",
+        "25 cm"
+      ],
+      "ans": 2,
+      "exp": "Distance of examination: 1 metre. (Book p136)"
+    },
+    {
+      "id": "OPH-C31-008",
+      "sec": "Findings",
+      "page": 136,
+      "fmt": "match",
+      "q": "Match the retinoscopy finding with the refractive state per p136 — 1) Against movement 2) With movement 3) No movement … A) More than 1 D of myopia B) Less than 1 D myopia, emmetropia or hypermetropia C) Exactly 1 D myopia",
+      "opts": [
+        "1-A, 2-C, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 3,
+      "exp": "Against movement = >1 D myopia; with movement = <1 D myopia/emmetropia/hypermetropia; no movement = 1 D myopia (at 1 metre). (Book p136)"
+    },
+    {
+      "id": "OPH-C31-009",
+      "sec": "Findings",
+      "page": 136,
+      "fmt": "recall",
+      "q": "With/against movement of the red reflex during retinoscopy is described relative to:",
+      "opts": [
+        "Movement of the retinoscope",
+        "Movement of the patient's eye",
+        "Movement of the examiner's head",
+        "Movement of the fixation target"
+      ],
+      "ans": 0,
+      "exp": "The movement of the red reflex is compared to the movement of the retinoscope. (Book p136)"
+    },
+    {
+      "id": "OPH-C31-010",
+      "sec": "Retinoscopy value",
+      "page": 136,
+      "fmt": "fillup",
+      "q": "The retinoscopy value is determined by ____:",
+      "opts": [
+        "Fogging",
+        "Neutralization",
+        "Duochrome testing",
+        "Prism dissociation"
+      ],
+      "ans": 1,
+      "exp": "Retinoscopy value (RV) is determined by neutralization: place a lens in front of the eye during retinoscopy; the power of the lens at which movement ceases (neutralization) is noted. (Book p136)"
+    },
+    {
+      "id": "OPH-C31-011",
+      "sec": "Retinoscopy value",
+      "page": 136,
+      "fmt": "recall",
+      "q": "The power of the lens at which the movement of the red reflex ceases is called:",
+      "opts": [
+        "Tonic allowance",
+        "Corrected retinoscopy value (CRV)",
+        "Retinoscopy value (RV)",
+        "Working distance correction"
+      ],
+      "ans": 2,
+      "exp": "Influence: power of lens at neutralisation = RV (retinoscopy value). (Book p136)"
+    },
+    {
+      "id": "OPH-C31-012",
+      "sec": "CRV",
+      "page": 136,
+      "fmt": "numeric",
+      "q": "Corrected retinoscopy value (CRV) is calculated as (C1 = correction for distance of examination, C2 = tonic allowance):",
+      "opts": [
+        "CRV = RV + C1 - C2",
+        "CRV = RV + C1 + C2",
+        "CRV = RV - C1 + C2",
+        "CRV = RV - C1 - C2"
+      ],
+      "ans": 3,
+      "exp": "Formula: CRV = RV - C1 - C2. (Book p136)"
+    },
+    {
+      "id": "OPH-C31-013",
+      "sec": "CRV",
+      "page": 136,
+      "fmt": "match",
+      "q": "Match the cycloplegic with its correction for tonic allowance (C2) per p136 — 1) Atropine 2) Cyclopentolate 3) Homatropine … A) 0.50 B) 0.75 C) 1.0",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-A, 3-B"
+      ],
+      "ans": 0,
+      "exp": "Correction for tonic allowance: atropine 1.0, cyclopentolate 0.75, homatropine 0.50. (Book p136)"
+    },
+    {
+      "id": "OPH-C31-014",
+      "sec": "CRV",
+      "page": 136,
+      "fmt": "truefalse",
+      "q": "True/false per p136: the correction for distance of examination is C1 = 1/d, and CRV can be calculated in different axes.",
+      "opts": [
+        "False — C1 = d, not 1/d",
+        "True",
+        "False — CRV can only be calculated in the vertical axis",
+        "False — C1 = 2/d for a 1 metre distance"
+      ],
+      "ans": 1,
+      "exp": "CRV takes into account: 1. variation in distance of examination (d): C1 = 1/d; 2. addition of cycloplegics/mydriatics (tonic allowance). CRV can be calculated in different axes. (Book p136)"
+    },
+    {
+      "id": "OPH-C31-015",
+      "sec": "Cycloplegics",
+      "page": 137,
+      "fmt": "recall",
+      "q": "Cycloplegia in adults per p137 — drug of choice and the agent most commonly used are:",
+      "opts": [
+        "Tropicamide is the drug of choice; cyclopentolate is most commonly used",
+        "Atropine 1% is the drug of choice; homatropine is most commonly used",
+        "Cyclopentolate 0.5%-1% is the drug of choice; tropicamide is most commonly used",
+        "Phenylephrine is the drug of choice; atropine is most commonly used"
+      ],
+      "ans": 2,
+      "exp": "In adults: DOC = 0.5%-1% cyclopentolate eye drops; m/c used = tropicamide (quick and short acting), given to avoid interference from accommodation. (Book p137)"
+    },
+    {
+      "id": "OPH-C31-016",
+      "sec": "Prescribing spectacles",
+      "page": 137,
+      "fmt": "fillup",
+      "q": "Steps in the method of prescribing spectacles per p137: step 1 choose any axis as 's', step 2 make the other axis 'x', step 3 ____.",
+      "opts": [
+        "Measure intraocular pressure",
+        "Repeat retinoscopy in both eyes",
+        "Perform gonioscopy",
+        "Calculate for prescription"
+      ],
+      "ans": 3,
+      "exp": "Method: step 1 choose any axis as 's'; step 2 make the other axis as 'x'; step 3 calculate for prescription. (Book p137)"
+    },
+    {
+      "id": "OPH-C31-017",
+      "sec": "Prescribing spectacles",
+      "page": 137,
+      "fmt": "numeric",
+      "q": "Format for prescription of spectacles (spherical CRV / cylindrical CRV @ axis of spherical), where s and x are CRVs in their respective axes:",
+      "opts": [
+        "s / (x - s) at axis of s, or x / (s - x) at axis of x",
+        "x / (x - s) at axis of s, or s / (s - x) at axis of x",
+        "(s - x) / s at axis of s, or (x - s) / x at axis of x",
+        "s / (s - x) at axis of s, or x / (x - s) at axis of x"
+      ],
+      "ans": 0,
+      "exp": "Format: spherical CRV / cylindrical CRV @ axis of spherical = s / (x - s) at axis of s, or x / (s - x) at axis of x, where x and s are CRVs in their respective axes. (Book p137)"
+    },
+    {
+      "id": "OPH-C31-018",
+      "sec": "Subjective refraction",
+      "page": 137,
+      "fmt": "recall",
+      "q": "Subjective refraction per p137 assesses:",
+      "opts": [
+        "The power of the lens at which the red reflex stops moving",
+        "Whether the patient is comfortable with the power calculated on objective refraction",
+        "Intraocular pressure after cycloplegia",
+        "The axial length of the eye"
+      ],
+      "ans": 1,
+      "exp": "Subjective refraction assesses if the patient is comfortable with the power calculated on objective refraction. (Book p137)"
+    },
+    {
+      "id": "OPH-C31-019",
+      "sec": "Subjective refraction",
+      "page": 137,
+      "fmt": "match",
+      "q": "Match the step of subjective refraction with its components per p137 — 1) Adjustment of refraction 2) Refinement of refraction 3) Binocular balancing … A) Cylinder: Jackson cross cylinder, astigmatic fan; sphere: duochrome, pinhole B) Trial and error method, fogging technique C) Duochrome test with fogging, prism dissociation method",
+      "opts": [
+        "1-C, 2-A, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 2,
+      "exp": "Adjustment of refraction: trial and error method, fogging technique. Refinement of refraction: cylinder (Jackson cross cylinder, astigmatic fan), sphere (duochrome test, pinhole testing). Binocular balancing: duochrome with fogging, prism dissociation. (Book p137)"
+    },
+    {
+      "id": "OPH-C31-020",
+      "sec": "Adjustment of refraction",
+      "page": 138,
+      "fmt": "scenario",
+      "q": "A young patient's refraction keeps changing between readings because of accommodation. Fogging helps because it does what?",
+      "opts": [
+        "It neutralizes the tonic allowance of cyclopentolate",
+        "A high concave lens stimulates accommodation to unmask latent hypermetropia",
+        "It dilates the pupil so that more of the fundus glow is seen",
+        "A high convex lens relaxes the ciliary muscle so the true refractive error can be assessed"
+      ],
+      "ans": 3,
+      "exp": "Fogging procedure: placing a very high convex lens (+ power) relaxes ciliary muscles (relaxes accommodation), so the true refractive error can be assessed. (Book p138)"
+    },
+    {
+      "id": "OPH-C31-021",
+      "sec": "Refinement of refraction",
+      "page": 138,
+      "fmt": "recall",
+      "q": "Refinement of refraction is performed to:",
+      "opts": [
+        "Detect minute errors in the prescription",
+        "Measure the axial length of the eye",
+        "Replace the need for objective refraction",
+        "Assess the intraocular pressure before cycloplegia"
+      ],
+      "ans": 0,
+      "exp": "Refinement of refraction = detection of minute errors in prescription. (Book p138)"
+    },
+    {
+      "id": "OPH-C31-022",
+      "sec": "Refinement of spheres",
+      "page": 138,
+      "fmt": "match",
+      "q": "Match the duochrome test appearance with the inference per p138 — 1) Letters equally clear on both backgrounds 2) Letters on red clearer 3) Letters on green clearer … A) Residual hypermetropia, overcorrection B) Residual myopia, undercorrection C) Correct spherical power prescribed",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B"
+      ],
+      "ans": 1,
+      "exp": "Duochrome test: letters equally clear against both backgrounds = correct spherical power prescribed; letters on red background clearer = residual myopia (undercorrection); letters on green clearer = residual hypermetropia (overcorrection). (Book p138)"
+    },
+    {
+      "id": "OPH-C31-023",
+      "sec": "Pinhole test",
+      "page": 138,
+      "fmt": "numeric",
+      "q": "Diameter of the pinhole used in the pinhole test per p138 is:",
+      "opts": [
+        "5 mm",
+        "0.1 mm",
+        "1 mm",
+        "10 mm"
+      ],
+      "ans": 2,
+      "exp": "Pinhole: 1 mm diameter. (Book p138)"
+    },
+    {
+      "id": "OPH-C31-024",
+      "sec": "Pinhole test",
+      "page": 138,
+      "fmt": "scenario",
+      "q": "A patient already wearing the prescribed spectacles sees better when a pinhole is placed in front of the eye with the spectacles. This indicates:",
+      "opts": [
+        "That amblyopia is present in that eye",
+        "Ocular pathology such as macular scarring",
+        "That the spectacles are exactly correct",
+        "Residual refractive error of up to 4 D"
+      ],
+      "ans": 3,
+      "exp": "Use 1 (refinement/confirmation of spherical power): pinhole kept in front of the eye with spectacles; if vision improves further it indicates residual refractory error up to 4 D. (Book p138)"
+    },
+    {
+      "id": "OPH-C31-025",
+      "sec": "Pinhole test",
+      "page": 138,
+      "fmt": "oddoneout",
+      "q": "All of the following are uses of the pinhole per p138 EXCEPT:",
+      "opts": [
+        "Measurement of the angle of the anterior chamber",
+        "Determining presence or absence of refractive error in a patient with low vision",
+        "Two-point discrimination (macular function) test",
+        "Use as a low vision aid (multiple holed pinhole)"
+      ],
+      "ans": 0,
+      "exp": "Uses of pinhole: refinement/confirmation of spherical power, to determine presence/absence of refractory error when the patient complains of low vision, two-point discrimination (macular function) test, and low vision aid (multiple holed pinhole). Gonioscopy measures the angle. (Book p138)"
+    },
+    {
+      "id": "OPH-C31-026",
+      "sec": "Pinhole test",
+      "page": 138,
+      "fmt": "truefalse",
+      "q": "True/false per p138: in the two-point discrimination test a disc with two pinholes 1 mm apart is used and a patient with a normal macula sees two separated light points.",
+      "opts": [
+        "False — the two pinholes are 10 mm apart",
+        "True",
+        "False — a normal macula sees only a single light point",
+        "False — it is performed through a stenopaic slit, not a pinhole disc"
+      ],
+      "ans": 1,
+      "exp": "Perform two-point discrimination test / macular function test: disc with 2 pinholes 1 mm apart; single light source shown to patient; normal macula: patient sees 2 separated light points. (Book p138)"
+    },
+    {
+      "id": "OPH-C31-027",
+      "sec": "Jackson cross cylinder",
+      "page": 139,
+      "fmt": "numeric",
+      "q": "Power of the Jackson cross cylinder used for refinement of cylinders per p139 is:",
+      "opts": [
+        "-0.25 D Sph / +0.25 D Cyl only",
+        "-1 D Sph / +1 D Cyl or -1 D Sph / +2 D Cyl",
+        "-0.5 D Sph / +0.5 D Cyl or -0.5 D Sph / +1 D Cyl",
+        "Plano cylinder of +2 D on both axes"
+      ],
+      "ans": 2,
+      "exp": "Jackson's cross cylinder test: power -0.5 D Sph/+0.5 D Cyl or -0.5 D Sph/+1 D Cyl; creates the effect of a cross cylinder with minus cylinder on 90 degree axis and plus cylinder on 180 degree axis. (Book p139)"
+    },
+    {
+      "id": "OPH-C31-028",
+      "sec": "Astigmatic fan test",
+      "page": 139,
+      "fmt": "scenario",
+      "q": "A patient views the astigmatic fan while wearing the spectacles just prescribed and says all lines look equally dark. Interpretation per p139:",
+      "opts": [
+        "The spherical power is overcorrected",
+        "Refinement of the cylindrical prescription is needed",
+        "The patient has irregular astigmatism from a corneal scar",
+        "Appropriate prescription has been provided"
+      ],
+      "ans": 3,
+      "exp": "Astigmatic fan test: view fan with spectacles; if all lines appear equally dark/clear the appropriate prescription has been provided; if any line looks darker/clearer, refinement in the cylindrical prescription is needed. (Book p139)"
+    },
+    {
+      "id": "OPH-C31-029",
+      "sec": "Stenopaic slit",
+      "page": 139,
+      "fmt": "fillup",
+      "q": "To diagnose astigmatism the stenopaic slit is kept in front of the eye and rotated slowly through ____:",
+      "opts": [
+        "360 degrees",
+        "90 degrees",
+        "180 degrees",
+        "45 degrees"
+      ],
+      "ans": 0,
+      "exp": "Diagnosis of astigmatism: stenopaic slit kept in front of the eye, rotated slowly for 360 degrees; if the patient sees a clear image at a particular point it indicates presence of astigmatism. (Book p139)"
+    },
+    {
+      "id": "OPH-C31-030",
+      "sec": "Stenopaic slit",
+      "page": 139,
+      "fmt": "management",
+      "q": "Confirming the power of astigmatism with a stenopaic slit, per p139, is done by:",
+      "opts": [
+        "Placing the slit horizontally and adding minus spheres",
+        "Cutting the hole in the axis of the cylinder while the patient wears the prescribed spectacles",
+        "Rotating the slit after instilling a mydriatic",
+        "Repeating retinoscopy through the slit without spectacles"
+      ],
+      "ans": 1,
+      "exp": "Confirmation of power of astigmatism: procedure - cut hole in axis of cylinder while the patient wears the spectacles prescribed. (Book p139)"
+    },
+    {
+      "id": "OPH-C31-031",
+      "sec": "Fincham test",
+      "page": 139,
+      "fmt": "scenario",
+      "q": "A patient complains of halos around lights. On Fincham's test the halos remain intact when the stenopaic slit is rotated in front of the eye. Diagnosis per p139:",
+      "opts": [
+        "Keratoconus",
+        "Cataract",
+        "Angle closure glaucoma",
+        "Central serous retinopathy"
+      ],
+      "ans": 2,
+      "exp": "Fincham's test differentiates cataract from glaucoma (both present with halos around light): halos remain intact = indicative of ACG; halos appear broken = cataract. (Book p139)"
+    },
+    {
+      "id": "OPH-C31-032",
+      "sec": "Fincham test",
+      "page": 139,
+      "fmt": "truefalse",
+      "q": "True/false per p139: in Fincham's test halos that appear broken on rotating the stenopaic slit indicate cataract.",
+      "opts": [
+        "False — the test cannot be performed in a patient with halos",
+        "False — broken halos indicate angle closure glaucoma",
+        "False — intact halos indicate cataract",
+        "True"
+      ],
+      "ans": 3,
+      "exp": "Halos appear broken = Dx cataract; halos remain intact = angle closure glaucoma. (Book p139)"
+    },
+    {
+      "id": "OPH-C31-033",
+      "sec": "Stenopaic slit",
+      "page": 139,
+      "fmt": "recall",
+      "q": "When vision is compromised by corneal opacity, the stenopaic slit is used to:",
+      "opts": [
+        "Determine the meridian least affected by the opacity for optical iridectomy",
+        "Measure the corneal thickness before keratoplasty",
+        "Assess the intraocular pressure through the opacity",
+        "Detect a relative afferent pupillary defect"
+      ],
+      "ans": 0,
+      "exp": "Determine meridian for optical iridectomy when vision is compromised d/t corneal opacity: slit rotated to determine the meridian least affected by corneal opacity; iridectomy performed along that meridian. (Book p139)"
+    },
+    {
+      "id": "OPH-C31-034",
+      "sec": "Amaurosis",
+      "page": 140,
+      "fmt": "recall",
+      "q": "Amaurosis per p140 means:",
+      "opts": [
+        "Partial loss of vision due to amblyopia",
+        "Complete loss of vision with no signs on ocular examination",
+        "Loss of the lower half of the visual field",
+        "Transient blurred vision after a migraine"
+      ],
+      "ans": 1,
+      "exp": "Amaurosis: complete loss of vision (no signs on ocular examination); note: amblyopia = partial loss of vision. (Book p140)"
+    },
+    {
+      "id": "OPH-C31-035",
+      "sec": "Amaurosis",
+      "page": 140,
+      "fmt": "scenario",
+      "q": "A patient with acute nephritis develops bilateral complete loss of vision but his pupillary reflexes are normal. Per p140 this is because:",
+      "opts": [
+        "The retina is edematous while the iris sphincter is unaffected",
+        "The optic nerve is infarcted but the ciliary ganglion is intact",
+        "Uremic amaurosis affects only the higher visual centres, sparing the pupillary pathway",
+        "The occipital cortex is spared and only the eye is involved"
+      ],
+      "ans": 2,
+      "exp": "Bilateral amaurosis: cause - acute nephritis leading to uremic amaurosis: B/L complete loss of vision with pupillary reflexes intact, as only higher visual centres are affected. (Book p140)"
+    },
+    {
+      "id": "OPH-C31-036",
+      "sec": "Amaurosis fugax",
+      "page": 140,
+      "fmt": "match",
+      "q": "Match the feature with the type of amaurosis per p140 — 1) Amaurosis fugax 2) Uremic amaurosis … A) Transient complete loss of vision, most often from thromboembolic episodes B) Bilateral complete loss of vision with intact pupillary reflexes",
+      "opts": [
+        "1-B, 2-B",
+        "1-B, 2-A",
+        "1-A, 2-A",
+        "1-A, 2-B"
+      ],
+      "ans": 3,
+      "exp": "Amaurosis fugax = transient complete loss of vision (causes: thromboembolic episodes/strokes = m/c cause, CRAO, papilloedema); uremic amaurosis = B/L complete loss of vision with intact pupils. (Book p140)"
+    },
+    {
+      "id": "OPH-C31-037",
+      "sec": "Aphakia",
+      "page": 140,
+      "fmt": "oddoneout",
+      "q": "All of the following are causes of aphakia listed on p140 EXCEPT:",
+      "opts": [
+        "Steroid induced lens resorption",
+        "Surgical removal of the lens",
+        "Traumatic loss of the lens",
+        "Congenital absence of the lens"
+      ],
+      "ans": 0,
+      "exp": "Aphakia = absence of lens; causes: surgical, traumatic and congenital. (Book p140)"
+    },
+    {
+      "id": "OPH-C31-038",
+      "sec": "Aphakia",
+      "page": 140,
+      "fmt": "scenario",
+      "q": "An aphakic eye shows a deep anterior chamber and a trembling iris. The mechanism per p140 is:",
+      "opts": [
+        "Fibrosis of the ciliary body pulls the iris backwards",
+        "Iris moves posteriorly with loss of lens support, giving iridodonesis",
+        "Angle closure from a forward rotated ciliary body",
+        "Posterior synechiae tethering the iris to the vitreous face"
+      ],
+      "ans": 1,
+      "exp": "Symptoms of aphakia: loss of vision for far and near (no accommodation), hypermetropic refractive error, AC deeper (iris moves posteriorly d/t absence of lens), iridodonesis (trembling iris) d/t lack of posterior support, 2 Purkinje images visible. (Book p140)"
+    },
+    {
+      "id": "OPH-C31-039",
+      "sec": "Purkinje images",
+      "page": 141,
+      "fmt": "match",
+      "q": "Match the Purkinje image with its source per p141 — 1) I 2) II 3) III 4) IV … A) Anterior surface of cornea B) Posterior surface of cornea (convex, erect image) C) Anterior surface of lens D) Posterior surface of lens (concave, inverted image)",
+      "opts": [
+        "1-D, 2-C, 3-B, 4-A",
+        "1-B, 2-A, 3-D, 4-C",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-A, 2-C, 3-B, 4-D"
+      ],
+      "ans": 2,
+      "exp": "A beam of light cast on the eye reflects to form Purkinje images; normal = 4: I anterior cornea, II posterior cornea (convex surface, erect image), III anterior lens, IV posterior lens (concave surface, inverted image). (Book p141)"
+    },
+    {
+      "id": "OPH-C31-040",
+      "sec": "Treatment",
+      "page": 141,
+      "fmt": "management",
+      "q": "Treatment of choice for aphakia per p141 is:",
+      "opts": [
+        "Keratophakia with a donor lenticule",
+        "Soft contact lens",
+        "High plus spectacles of +10 to +13 D",
+        "Intraocular lens implantation"
+      ],
+      "ans": 3,
+      "exp": "Treatment: 1. IOL implantation = treatment of choice; 2. soft contact lens; 3. spectacles (spherical convex + power, maximum possible +10 D to +13 D, heavy large lens). (Book p141)"
+    },
+    {
+      "id": "OPH-C31-041",
+      "sec": "Treatment",
+      "page": 141,
+      "fmt": "numeric",
+      "q": "Maximum spherical convex power that can be given as aphakic spectacles per p141 is:",
+      "opts": [
+        "+10 D to +13 D",
+        "+4 D to +6 D",
+        "+20 D to +25 D",
+        "-10 D to -13 D"
+      ],
+      "ans": 0,
+      "exp": "Spectacles: spherical convex (+) power; maximum possible +10 D to +13 D (heavy, large lens). (Book p141)"
+    },
+    {
+      "id": "OPH-C31-042",
+      "sec": "Side effects of spectacles",
+      "page": 141,
+      "fmt": "match",
+      "q": "Match the side effect of high plus aphakic spectacles with its description per p141 — 1) Spherical aberration 2) Prismatic aberration 3) Magnification … A) Jack in the box phenomenon / roving ring scotoma from prism like lens edges B) Pin cushion defect from stretching of the visual field C) Up to 20% for +10 D, so objects appear nearer",
+      "opts": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A"
+      ],
+      "ans": 1,
+      "exp": "Side effects of high power spectacles: magnification up to 20% for +10 D (objects appear nearer), cosmetic frog eyes, spherical aberration with pin cushion defect, prismatic aberration with jack in the box phenomenon/roving ring scotoma (edges behave as a prism: only central vision is clear, peripheral vision compromised). (Book p141)"
+    },
+    {
+      "id": "OPH-C31-043",
+      "sec": "Side effects of spectacles",
+      "page": 141,
+      "fmt": "recall",
+      "q": "Prismatic aberration with high plus spectacles produces only clear central vision because:",
+      "opts": [
+        "The cornea becomes astigmatic against the rule",
+        "The lens centre has a higher refractive index than the periphery",
+        "The thick lens edges behave as a prism with multiple refractions near the edges",
+        "The pin cushion effect stretches the peripheral retina"
+      ],
+      "ans": 2,
+      "exp": "Prismatic aberration (jack in the box phenomenon/roving ring scotoma): mechanism - increased thickness of lens, edges behave as a prism, multiple refractions occur near the edges, so only central vision is clear and peripheral vision is compromised. (Book p141)"
+    }
+  ],
+  "units": [
+    {
+      "id": "OPH-U31-1",
+      "ch": 31,
+      "n": 1,
+      "title": "Types of refraction, retinoscopy instruments and procedure",
+      "sec": "Optics · p135",
+      "guide": "Types objective refraction performed first independent of patient responses subjective refraction performed second patient response taken into account Objective refraction performed in retinoscopy/skiascopy/shadow test Retinoscopy methods manual retinoscopy automated refractometers Instruments employed reflecting mirror (Priestley-Smith retinoscope obsolete) self illuminated retinoscope (contains a mirror) battery operated self illuminating STREAK retinoscope Procedure of retinoscopy using streak retinoscope light passes cornea and lens to retina/choroid red reflex = red streaks of light visible to examiner.",
+      "qs": [
+        "OPH-C31-001",
+        "OPH-C31-002",
+        "OPH-C31-003",
+        "OPH-C31-004",
+        "OPH-C31-005",
+        "OPH-C31-006"
+      ]
+    },
+    {
+      "id": "OPH-U31-2",
+      "ch": 31,
+      "n": 2,
+      "title": "Retinoscopy findings, retinoscopy value and CRV",
+      "sec": "Optics · p136",
+      "guide": "Distance of examination 1 metre Findings (compared to movement of retinoscope) against movement >1D myopia no movement 1D myopia with movement <1D myopia/emmetropia/hypermetropia Refractive power scale Retinoscopy value (RV) determined by neutralization procedure movement of red reflex seen on retinoscopy place lens in front of eye power of lens at which movement ceases (neutralization) = RV Corrected retinoscopy value (CRV) takes into account 1 variation in distance of examination (d) C1 = 1/d 2 addition of cycloplegics/mydriatics correction for tonic allowance C2 atropine 1.0 cyclopentolate 0.75 homatropine 0.50 Formula CRV = RV - C1 - C2 CRV can be calculated in different axes.",
+      "qs": [
+        "OPH-C31-007",
+        "OPH-C31-008",
+        "OPH-C31-009",
+        "OPH-C31-010",
+        "OPH-C31-011",
+        "OPH-C31-012",
+        "OPH-C31-013",
+        "OPH-C31-014"
+      ]
+    },
+    {
+      "id": "OPH-U31-3",
+      "ch": 31,
+      "n": 3,
+      "title": "Cycloplegics, prescribing spectacles and subjective refraction",
+      "sec": "Optics · p137",
+      "guide": "Cycloplegics to avoid interference from accommodation in adults DOC 0.5%-1% cyclopentolate eye drops m/c used tropicamide (quick and short acting) Prescribing spectacles method step 1 choose any axis as s step 2 make other axis as x step 3 calculate for prescription Format spherical CRV/cylindrical CRV @ axis of spherical s/(x-s) at axis of s or x/(s-x) at axis of x where x and s are CRVs in their respective axes Subjective refraction assesses if patient is comfortable with power calculated on objective refraction Adjustment of refraction trial and error method fogging technique Refinement of refraction cylinder Jackson cross cylinder astigmatic fan sphere duochrome test pinhole testing Binocular balancing duochrome with fogging prism dissociation method.",
+      "qs": [
+        "OPH-C31-015",
+        "OPH-C31-016",
+        "OPH-C31-017",
+        "OPH-C31-018",
+        "OPH-C31-019"
+      ]
+    },
+    {
+      "id": "OPH-U31-4",
+      "ch": 31,
+      "n": 4,
+      "title": "Fogging, refinement of spheres: duochrome and pinhole",
+      "sec": "Optics · p138",
+      "guide": "Fogging procedure placing very high convex lens (+ power) relaxes ciliary muscles (relaxes accommodation) true refractive error can be assessed Refinement of refraction detection of minute errors in prescription Refinement of spheres 1 duochrome test letters equally clear both backgrounds = correct spherical power prescribed letters on red clearer = residual myopia (undercorrection) letters on green clearer = residual hypermetropia (overcorrection) 2 pinhole test pinhole 1 mm diameter uses a refinement/confirmation of spherical power after spectacles (vision improves further = residual refractory error up to 4D) b determine presence/absence of refractory error in low vision (improves = refractory error, does not improve = other ocular pathology) c two point discrimination/macular function test disc with 2 pinholes 1mm apart normal macula sees 2 separated light points d low vision aid multiple holed pinhole.",
+      "qs": [
+        "OPH-C31-020",
+        "OPH-C31-021",
+        "OPH-C31-022",
+        "OPH-C31-023",
+        "OPH-C31-024",
+        "OPH-C31-025",
+        "OPH-C31-026"
+      ]
+    },
+    {
+      "id": "OPH-U31-5",
+      "ch": 31,
+      "n": 5,
+      "title": "Refinement of cylinders: cross cylinder, fan, stenopaic slit, Fincham",
+      "sec": "Optics · p139",
+      "guide": "Refinement for cylinders 1 Jackson's Cross Cylinder Test power -0.5 D Sph/+0.5 D Cyl or -0.5 D Sph/+1 D Cyl creates effect of cross cylinder minus cylinder on 90 axis plus cylinder on 180 axis a astigmatic fan test view fan with spectacles all lines equally dark/clear = appropriate prescription any line darker/clearer = refinement needed Stenopaic Slit (SS) 1 diagnosis of astigmatism SS kept in front of eye rotated slowly for 360 degrees clear image at a particular point = astigmatism a confirmation of power of astigmatism cut hole in axis of cylinder while patient wears prescribed spectacles 3 Fincham's test differentiate cataract vs glaucoma (both halos around light) halos remain intact = ACG halos appear broken = cataract 4 determine meridian for optical iridectomy vision compromised d/t corneal opacity slit rotated to meridian least affected iridectomy performed along meridian.",
+      "qs": [
+        "OPH-C31-027",
+        "OPH-C31-028",
+        "OPH-C31-029",
+        "OPH-C31-030",
+        "OPH-C31-031",
+        "OPH-C31-032",
+        "OPH-C31-033"
+      ]
+    },
+    {
+      "id": "OPH-U31-6",
+      "ch": 31,
+      "n": 6,
+      "title": "Amaurosis and features of aphakia",
+      "sec": "Optics · p140",
+      "guide": "Note empirical meridian for iridectomy Amaurosis complete loss of vision no signs on ocular examination (amblyopia = partial LOV) Types bilateral amaurosis cause acute nephritis uremic amaurosis B/L complete LOV pupillary reflexes intact as only higher visual centres affected Amaurosis fugax transient complete LOV causes thromboembolic episodes (strokes) m/c cause CRAO papilloedema Aphakia absence of lens causes surgical traumatic congenital Symptoms LOV for far and near (no accommodation) refractory error hypermetropia (low power of eye) AC deeper iris moves posteriorly d/t absence of lens iridodonesis (trembling iris) d/t lack of posterior support Purkinje images 2 visible.",
+      "qs": [
+        "OPH-C31-034",
+        "OPH-C31-035",
+        "OPH-C31-036",
+        "OPH-C31-037",
+        "OPH-C31-038"
+      ]
+    },
+    {
+      "id": "OPH-U31-7",
+      "ch": 31,
+      "n": 7,
+      "title": "Purkinje images, treatment of aphakia, side effects of high plus",
+      "sec": "Optics · p141",
+      "guide": "Purkinje images beam of light cast on eye reflects forming purkinje images normal 4 I anterior surface of cornea II posterior surface of cornea convex surface erect image III anterior surface of lens IV posterior surface of lens concave surface inverted image Treatment a IOL implantation treatment of choice b soft contact lens c spectacles spherical convex (+) power maximum possible +10 D to +13 D heavy large lens Side effects of high power spectacles 3 magnification upto 20% for +10 D (aberrant perception of distance objects appear nearer) 4 cosmetic side effect eyes look large (frog eyes) 5 spherical aberration pin cushion defect (aberration stretching of visual field) 6 prismatic aberration jack in the box phenomenon/roving ring scotoma mechanism increased thickness of lens edges behave as a prism multiple refractions near edges only central clear vision peripheral vision compromised.",
+      "qs": [
+        "OPH-C31-039",
+        "OPH-C31-040",
+        "OPH-C31-041",
+        "OPH-C31-042",
+        "OPH-C31-043"
+      ]
+    }
+  ]
+}

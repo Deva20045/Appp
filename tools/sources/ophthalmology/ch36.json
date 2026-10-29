@@ -1,0 +1,1093 @@
+{
+ "chapter": 36,
+ "title": "Retinal Vascular Disorders : Part 2",
+ "pageRange": "164-168",
+ "questions": [
+  {
+   "id": "OPH-C36-001",
+   "sec": "Hypertensive retinopathy",
+   "page": 164,
+   "fmt": "recall",
+   "q": "In hypertensive retinopathy, the book lists the phases in which order?",
+   "opts": [
+    "Vasoconstriction phase, then sclerotic phase (atherosclerosis), then exudative phase",
+    "Sclerotic phase (atherosclerosis), then vasoconstriction phase, then exudative phase",
+    "Vasoconstriction phase, then exudative phase, then sclerotic phase (atherosclerosis)",
+    "Exudative phase, then sclerotic phase (atherosclerosis), then vasoconstriction phase"
+   ],
+   "ans": 0,
+   "exp": "Hypertensive retinopathy runs Vasoconstriction phase -> Sclerotic phase (Atherosclerosis) -> Exudative phase. (Book p164)"
+  },
+  {
+   "id": "OPH-C36-002",
+   "sec": "Keith-Wagner classification",
+   "page": 164,
+   "fmt": "fillup",
+   "q": "Keith-Wagner grade 1 shows arteriolar attenuation, with an A:V (diameter) ratio of ___ (normal ___).",
+   "opts": [
+    "2:3 ; normal 1:3",
+    "1:3 ; normal 2:3",
+    "1:2 ; normal 3:4",
+    "1:4 ; normal 1:2"
+   ],
+   "ans": 1,
+   "exp": "Grade 1: arteriolar attenuation; A:V (diameter) ratio = 1:3, whereas normal is 2:3. (Book p164)"
+  },
+  {
+   "id": "OPH-C36-003",
+   "sec": "Keith-Wagner classification",
+   "page": 164,
+   "fmt": "match",
+   "q": "Match each sign of the Keith-Wagner table with its meaning — 1) Salus sign  2) Bonnet sign  3) Gunn sign  … A) Tapering of blood vessel  B) Deflection of blood vessel  C) Banking of blood vessel",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 2,
+   "exp": "Salus sign = deflection of blood vessel (grade 2); Bonnet sign = banking of blood vessel and Gunn sign = tapering of blood vessel (both grade 3). (Book p164)"
+  },
+  {
+   "id": "OPH-C36-004",
+   "sec": "Keith-Wagner classification",
+   "page": 164,
+   "fmt": "scenario",
+   "q": "A fundus examination in a hypertensive patient shows flame shaped hemorrhages together with cotton wool spots. Which Keith-Wagner grade does the book assign to this finding?",
+   "opts": [
+    "Grade 2",
+    "Grade 4",
+    "Grade 1",
+    "Grade 3"
+   ],
+   "ans": 3,
+   "exp": "Grade 3 in the Keith-Wagner table: Bonnet sign, Gunn sign and flame shaped hemorrhages with cotton wool spots. (Book p164)"
+  },
+  {
+   "id": "OPH-C36-005",
+   "sec": "Keith-Wagner classification",
+   "page": 164,
+   "fmt": "recall",
+   "q": "The bracket drawn beside grades 2 and 3 of the Keith-Wagner table states that the Salus, Bonnet and Gunn signs are seen:",
+   "opts": [
+    "At the optic disc margin in arterioles",
+    "Around the macula in capillaries",
+    "Only in the peripheral retina in arteries",
+    "At AV crossings in veins"
+   ],
+   "ans": 3,
+   "exp": "The bracket beside grades 2 and 3 reads 'At AV crossings in veins'. (Book p164)"
+  },
+  {
+   "id": "OPH-C36-006",
+   "sec": "Keith-Wagner classification",
+   "page": 164,
+   "fmt": "oddoneout",
+   "q": "Per the Keith-Wagner table, all of the following belong to grade 4 EXCEPT:",
+   "opts": [
+    "Copper wiring of arterioles",
+    "Silver wiring of arterioles",
+    "Salus sign",
+    "Papilledema"
+   ],
+   "ans": 2,
+   "exp": "Grade 4: copper wiring of arterioles, silver wiring of arterioles and papilledema. Salus sign belongs to grade 2. (Book p164)"
+  },
+  {
+   "id": "OPH-C36-007",
+   "sec": "Figures",
+   "page": 164,
+   "fmt": "match",
+   "q": "In the 'Grade 4 HTN retinopathy' photograph, match arrow 1, 2 and 3 with the book's labels — A) Swelling of optic disc  B) Exudates: macular star appearance  C) Cotton wool spots",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 1,
+   "exp": "Labels: 1 Cotton wool spots, 2 Swelling of optic disc, 3 Exudates: macular star appearance: malignant HTN. (Book p164)"
+  },
+  {
+   "id": "OPH-C36-008",
+   "sec": "Figures",
+   "page": 164,
+   "fmt": "truefalse",
+   "q": "True or false — 'In the grade 4 photograph, the exudates forming a macular star appearance indicate benign hypertension.' Choose the correct verdict:",
+   "opts": [
+    "False - the book links the macular star exudates to malignant HTN",
+    "True - macular star exudates mark benign hypertension",
+    "False - the macular star is a sign of cotton wool spots alone",
+    "True - the macular star is the sign of papilledema alone"
+   ],
+   "ans": 0,
+   "exp": "Label 3 in the grade 4 figure: Exudates: macular star appearance: malignant HTN. (Book p164)"
+  },
+  {
+   "id": "OPH-C36-009",
+   "sec": "Figures",
+   "page": 164,
+   "fmt": "recall",
+   "q": "The 'Grade 3 Hypertensive retinopathy' photograph is annotated with which set of labels?",
+   "opts": [
+    "Cotton wool spots, AV change and hemorrhages (flame shaped)",
+    "Cotton wool spots, swelling of optic disc and exudates",
+    "AV change, copper wiring and hemorrhages (flame shaped)",
+    "Cotton wool spots, Salus sign and macular star"
+   ],
+   "ans": 0,
+   "exp": "The grade 3 figure is labelled: cotton wool spots, AV change and hemorrhages (Flame shaped). (Book p164)"
+  },
+  {
+   "id": "OPH-C36-010",
+   "sec": "CRAO - causes",
+   "page": 165,
+   "fmt": "recall",
+   "q": "Which is the most common cause of central retinal artery occlusion according to the book?",
+   "opts": [
+    "Giant cell arteritis",
+    "Hypertension",
+    "Cholesterol emboli from a Hollenhorst plaque",
+    "Atherosclerosis"
+   ],
+   "ans": 3,
+   "exp": "CRAO causes: Atherosclerosis (m/c), emboli (Hollenhorst plaque) and giant cell arteritis. Hypertension is the m/c cause of CRVO (p166). (Book p165)"
+  },
+  {
+   "id": "OPH-C36-011",
+   "sec": "CRAO - causes",
+   "page": 165,
+   "fmt": "fillup",
+   "q": "A Hollenhorst plaque consists of cholesterol emboli originating from the bifurcation of the ___.",
+   "opts": [
+    "Internal carotid artery siphon",
+    "Aortic arch",
+    "Common carotid artery (CCA)",
+    "Ophthalmic artery"
+   ],
+   "ans": 2,
+   "exp": "Emboli: Hollenhorst plaque - cholesterol emboli originating from bifurcation of CCA. (Book p165)"
+  },
+  {
+   "id": "OPH-C36-012",
+   "sec": "CRAO - causes",
+   "page": 165,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed as causes of CRAO in the book EXCEPT:",
+   "opts": [
+    "Atherosclerosis",
+    "Hypertension",
+    "Emboli",
+    "Giant cell arteritis"
+   ],
+   "ans": 1,
+   "exp": "The listed causes of CRAO are atherosclerosis (m/c), emboli (Hollenhorst plaque) and giant cell arteritis. Hypertension is the m/c cause of CRVO. (Book p165)"
+  },
+  {
+   "id": "OPH-C36-013",
+   "sec": "CRAO - clinical features",
+   "page": 165,
+   "fmt": "scenario",
+   "q": "A patient reports sudden, painless loss of vision in one eye from CRAO. Which type of optic atrophy does the book say follows?",
+   "opts": [
+    "Primary optic atrophy",
+    "Secondary optic atrophy",
+    "Glaucomatous optic atrophy",
+    "Consecutive optic atrophy"
+   ],
+   "ans": 3,
+   "exp": "Clinical features of CRAO: sudden, painless loss of vision; optic atrophy (Consecutive). (Book p165)"
+  },
+  {
+   "id": "OPH-C36-014",
+   "sec": "CRAO - clinical features",
+   "page": 165,
+   "fmt": "fillup",
+   "q": "In CRAO, RAPD is also called the ___ pupil.",
+   "opts": [
+    "Argyll Robertson",
+    "Marcus Gunn",
+    "Adie's tonic",
+    "Hutchinson"
+   ],
+   "ans": 1,
+   "exp": "Clinical features: RAPD or Marcus Gunn pupil. (Book p165)"
+  },
+  {
+   "id": "OPH-C36-015",
+   "sec": "CRAO - clinical features",
+   "page": 165,
+   "fmt": "match",
+   "q": "Match the fundus appearance in CRAO with its cause — 1) Pale fundus  2) Cattle tracking fundus  3) Cherry red spot at macula  … A) Segmentation of blood column  B) Retinal edema  C) Collection of fluid in ganglion cell layers except at foveola",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 2,
+   "exp": "Pale fundus d/t retinal edema; cattle tracking fundus d/t segmentation of blood column; cherry red spot at macula d/t collection of fluid in the GCL of retina except at foveola. (Book p165)"
+  },
+  {
+   "id": "OPH-C36-016",
+   "sec": "CRAO - figures",
+   "page": 165,
+   "fmt": "fillup",
+   "q": "The fundus photograph placed beside the CRAO clinical features carries the caption '___', with an arrow pointing at the macular spot.",
+   "opts": [
+    "Cherry red spot",
+    "Cattle tracking",
+    "Tomato ketchup/splash appearance",
+    "Macular star"
+   ],
+   "ans": 0,
+   "exp": "Figure caption: Cherry red spot. ('Tomato ketchup/splash appearance' is the CRVO figure on p166.) (Book p165)"
+  },
+  {
+   "id": "OPH-C36-017",
+   "sec": "CRAO - figures",
+   "page": 165,
+   "fmt": "scenario",
+   "q": "A CRAO fundus photograph shows the macula spared, and the fluorescein angiogram shows dye filling one arterial channel. Which vessel do the book's captions name?",
+   "opts": [
+    "Cilioretinal artery",
+    "Central retinal vein",
+    "Long posterior ciliary artery",
+    "Superior temporal branch of the central retinal artery"
+   ],
+   "ans": 0,
+   "exp": "Captions: 'CRAO with macular cilioretinal artery sparing' and 'Dye filling cilioretinal artery in FFA'. (Book p165)"
+  },
+  {
+   "id": "OPH-C36-018",
+   "sec": "Cherry red spot - mnemonic",
+   "page": 165,
+   "fmt": "recall",
+   "q": "'Cherry trees never grow tall in sand, mud & grime' is the book's mnemonic for the causes of:",
+   "opts": [
+    "Cattle tracking fundus",
+    "Cherry red spot at macula",
+    "Consecutive optic atrophy",
+    "Tomato ketchup appearance of the fundus"
+   ],
+   "ans": 1,
+   "exp": "Note: Cherry red spots at macula - mnemonic: Cherry trees never grow tall in sand, mud & grime. (Book p165)"
+  },
+  {
+   "id": "OPH-C36-019",
+   "sec": "Cherry red spot - list",
+   "page": 165,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT among the conditions the book lists for cherry red spot at macula?",
+   "opts": [
+    "Blunt trauma",
+    "Niemann Picks disease",
+    "CRAO",
+    "Eales' disease"
+   ],
+   "ans": 3,
+   "exp": "The list begins CRAO, Trauma-blunt, Niemann Picks disease ... Eales' disease is a separate condition (p168). (Book p165)"
+  },
+  {
+   "id": "OPH-C36-020",
+   "sec": "Cherry red spot - list",
+   "page": 165,
+   "fmt": "recall",
+   "q": "In the book's cherry red spot list, which gangliosidosis is written on its own line, NOT bracketed with Tay Sachs and Sandhoffs disease?",
+   "opts": [
+    "Gangliosidosis Type 2",
+    "Gangliosidosis Type 3",
+    "Gangliosidosis Type 1",
+    "Gaucher's disease Type 1"
+   ],
+   "ans": 2,
+   "exp": "The list gives Gangliosidosis Type 1 separately; Tay Sachs and Sandhoffs disease are bracketed together as Gangliosidosis Type 2. (Book p165)"
+  },
+  {
+   "id": "OPH-C36-021",
+   "sec": "Cherry red spot - list",
+   "page": 165,
+   "fmt": "fillup",
+   "q": "Tay Sachs disease and Sandhoffs disease are bracketed in the cherry red spot list as Gangliosidosis Type ___.",
+   "opts": [
+    "1",
+    "3",
+    "2",
+    "4"
+   ],
+   "ans": 2,
+   "exp": "Tay Sachs disease and Sandhoffs disease are bracketed together as Gangliosidosis Type 2. (Book p165)"
+  },
+  {
+   "id": "OPH-C36-022",
+   "sec": "Cherry red spot - list",
+   "page": 165,
+   "fmt": "truefalse",
+   "q": "True or false — 'Any type of Gaucher's disease is listed for cherry red spot at macula.' Choose the correct verdict:",
+   "opts": [
+    "True - the list names Gaucher's disease without specifying a type",
+    "False - the book lists Gaucher's disease: Type 1",
+    "False - Gaucher's disease is bracketed with Tay Sachs disease as Type 2 gangliosidosis",
+    "False - the book lists Gaucher's disease: Type 2 (after metachromatic leukodystrophy)"
+   ],
+   "ans": 3,
+   "exp": "The list ends with metachromatic leukodystrophy and Gaucher's disease: Type 2. (Book p165)"
+  },
+  {
+   "id": "OPH-C36-023",
+   "sec": "CRAO - treatment",
+   "page": 166,
+   "fmt": "management",
+   "q": "How quickly must treatment be started for CRAO, which the book calls an ocular emergency?",
+   "opts": [
+    "Within 4 hrs",
+    "Within 24 hrs",
+    "Within 48 hrs",
+    "Within 1 week"
+   ],
+   "ans": 0,
+   "exp": "TREATMENT: Ocular emergency: Rx within 4 hrs. (Book p166)"
+  },
+  {
+   "id": "OPH-C36-024",
+   "sec": "CRAO - treatment",
+   "page": 166,
+   "fmt": "numeric",
+   "q": "After how long does the book say CRAO becomes complete occlusion?",
+   "opts": [
+    "4 hrs",
+    "24-48 hrs",
+    "1-2 hrs",
+    "72-96 hrs"
+   ],
+   "ans": 1,
+   "exp": "24-48 hrs: Complete occlusion. (Book p166)"
+  },
+  {
+   "id": "OPH-C36-025",
+   "sec": "CRAO - treatment",
+   "page": 166,
+   "fmt": "recall",
+   "q": "What is the purpose of ocular massage in CRAO?",
+   "opts": [
+    "To lower IOP by aspirating aqueous",
+    "To dislodge emboli",
+    "To cause vasodilatation through hypercarbia",
+    "To treat the underlying cause"
+   ],
+   "ans": 1,
+   "exp": "Ocular massage: Dislodge emboli. (Book p166)"
+  },
+  {
+   "id": "OPH-C36-026",
+   "sec": "CRAO - treatment",
+   "page": 166,
+   "fmt": "fillup",
+   "q": "For vasodilatation in CRAO, the book lists sublingual ___.",
+   "opts": [
+    "Isosorbide nitrate",
+    "Mannitol",
+    "Triamcinolone",
+    "Dexamethasone"
+   ],
+   "ans": 0,
+   "exp": "Vasodilatation - sublingual isosorbide nitrate. (Book p166)"
+  },
+  {
+   "id": "OPH-C36-027",
+   "sec": "CRAO - treatment",
+   "page": 166,
+   "fmt": "numeric",
+   "q": "Carbogen, used for vasodilatation in CRAO, is a mixture of:",
+   "opts": [
+    "5% O2 + 95% CO2",
+    "50% O2 + 50% CO2",
+    "95% O2 + 5% CO2",
+    "100% O2"
+   ],
+   "ans": 2,
+   "exp": "Carbogen: 95% O2 + 5% CO2 -> hypercarbia -> raised PCO2 -> lowered pH -> vasodilatation. (Book p166)"
+  },
+  {
+   "id": "OPH-C36-028",
+   "sec": "CRAO - treatment",
+   "page": 166,
+   "fmt": "truefalse",
+   "q": "True or false — 'Carbogen causes vasodilatation through respiratory alkalosis with a raised pH.' Choose the correct verdict:",
+   "opts": [
+    "True - hypercarbia lowers PCO2 and raises pH",
+    "False - carbogen acts by lowering PCO2 and lowering pH",
+    "True - respiratory alkalosis with raised pH causes the vasodilatation",
+    "False - hypercarbia raises PCO2 and lowers pH (respiratory acidosis), which causes vasodilatation"
+   ],
+   "ans": 3,
+   "exp": "The book's chain: Hypercarbia -> raised PCO2 -> lowered pH -> vasodilatation, labelled respiratory acidosis. (Book p166)"
+  },
+  {
+   "id": "OPH-C36-029",
+   "sec": "CRAO - treatment",
+   "page": 166,
+   "fmt": "management",
+   "q": "To lower IOP in CRAO, the book lists IV mannitol and:",
+   "opts": [
+    "Ocular massage to dislodge emboli",
+    "Sublingual isosorbide nitrate",
+    "Carbogen inhalation",
+    "Paracentesis - aspiration of aqueous"
+   ],
+   "ans": 3,
+   "exp": "Decrease IOP: IV mannitol and paracentesis (aspiration of aqueous). (Book p166)"
+  },
+  {
+   "id": "OPH-C36-030",
+   "sec": "CRAO - treatment",
+   "page": 166,
+   "fmt": "management",
+   "q": "After massage, vasodilators and IOP lowering, what is the last item in the book's CRAO treatment list?",
+   "opts": [
+    "Panretinal photocoagulation",
+    "Rx of cause",
+    "Pars plana vitrectomy",
+    "Intravitreal triamcinolone"
+   ],
+   "ans": 1,
+   "exp": "The CRAO treatment list ends with 'Rx of cause'. (Book p166)"
+  },
+  {
+   "id": "OPH-C36-031",
+   "sec": "CRVO",
+   "page": 166,
+   "fmt": "recall",
+   "q": "What is the most common cause of central retinal vein occlusion per the book?",
+   "opts": [
+    "Atherosclerosis",
+    "Diabetic retinopathy",
+    "Hypertension",
+    "Giant cell arteritis"
+   ],
+   "ans": 2,
+   "exp": "Central retinal vein occlusion (CRVO): m/c cause: Hypertension. (Book p166)"
+  },
+  {
+   "id": "OPH-C36-032",
+   "sec": "CRVO - non-ischemic stage",
+   "page": 166,
+   "fmt": "fillup",
+   "q": "In the non-ischemic stage of CRVO, stasis of blood causes hypoxia and raised vascular permeability, leading to ___ and loss of vision.",
+   "opts": [
+    "Macular edema",
+    "Rubeosis iridis",
+    "Neovascular glaucoma",
+    "Capillary endothelium damage"
+   ],
+   "ans": 0,
+   "exp": "Non-ischemic stage: d/t stasis of blood -> hypoxia and raised vascular permeability -> macular edema -> loss of vision. (Book p166)"
+  },
+  {
+   "id": "OPH-C36-033",
+   "sec": "CRVO - non-ischemic stage",
+   "page": 166,
+   "fmt": "oddoneout",
+   "q": "Which is NOT listed as treatment for the non-ischemic stage of CRVO with macular edema?",
+   "opts": [
+    "Intravitreal triamcinolone",
+    "Dexamethasone intravitreal implant",
+    "Panretinal photocoagulation",
+    "Anti VEGF drugs"
+   ],
+   "ans": 2,
+   "exp": "Non-ischemic Rx: intravitreal triamcinolone, 0.7 mg dexamethasone intravitreal implants and anti VEGF drugs. Panretinal photocoagulation is listed for the ischemic stage's neovascular glaucoma. (Book p166)"
+  },
+  {
+   "id": "OPH-C36-034",
+   "sec": "CRVO - non-ischemic stage",
+   "page": 166,
+   "fmt": "numeric",
+   "q": "The dexamethasone intravitreal implant of the Geneva study is given in a dose of:",
+   "opts": [
+    "0.07 mg",
+    "7 mg",
+    "1.5 mg",
+    "0.7 mg"
+   ],
+   "ans": 3,
+   "exp": "Rx: 0.7 mg dexamethasone intravitreal implants (Geneva study). (Book p166)"
+  },
+  {
+   "id": "OPH-C36-035",
+   "sec": "CRVO - ischemic stage",
+   "page": 166,
+   "fmt": "fillup",
+   "q": "The ischemic stage of CRVO arises from severe hypoxia causing damage to the ___.",
+   "opts": [
+    "Capillary endothelium",
+    "Ganglion cell layer",
+    "Trabecular meshwork",
+    "Foveola"
+   ],
+   "ans": 0,
+   "exp": "Ischemic stage: Severe hypoxia -> Capillary endothelium damage. (Book p166)"
+  },
+  {
+   "id": "OPH-C36-036",
+   "sec": "CRVO - ischemic stage",
+   "page": 166,
+   "fmt": "scenario",
+   "q": "A fundus shows severe flame shaped hemorrhages that give a 'tomato ketchup/splash appearance'. Which stage of CRVO is this in the book?",
+   "opts": [
+    "Non-ischemic stage",
+    "Ischemic stage",
+    "Grade 3 hypertensive retinopathy stage",
+    "Cattle tracking stage"
+   ],
+   "ans": 1,
+   "exp": "Ischemic stage clinical features: severe flame shaped hemorrhages; figure caption Tomato ketchup/splash appearance. (Book p166)"
+  },
+  {
+   "id": "OPH-C36-037",
+   "sec": "CRVO - ischemic stage",
+   "page": 166,
+   "fmt": "fillup",
+   "q": "Rubeosis iridis (neovascularisation of iris) in ischemic CRVO is due to the oxygen demand by the ___.",
+   "opts": [
+    "Anterior chamber",
+    "Posterior segment",
+    "Trabecular meshwork",
+    "Cornea"
+   ],
+   "ans": 1,
+   "exp": "Rubeosis iridis (Neovascularisation of iris) d/t oxygen demand by posterior segment. (Book p166)"
+  },
+  {
+   "id": "OPH-C36-038",
+   "sec": "CRVO - ischemic stage",
+   "page": 166,
+   "fmt": "scenario",
+   "q": "In ischemic CRVO, blood leaks into the anterior chamber and blocks the trabecular meshwork. Which glaucoma results, and by what other name is it known?",
+   "opts": [
+    "Neovascular glaucoma, also called 90 day glaucoma",
+    "Angle-closure glaucoma, also called 100 day glaucoma",
+    "Neovascular glaucoma, also called 100 day glaucoma",
+    "Neovascular glaucoma, also called cattle tracking glaucoma"
+   ],
+   "ans": 2,
+   "exp": "Blood leak into AC -> blocks trabecular meshwork -> neovascular glaucoma: AKA 100 day glaucoma. (Book p166)"
+  },
+  {
+   "id": "OPH-C36-039",
+   "sec": "CRVO - ischemic stage",
+   "page": 166,
+   "fmt": "numeric",
+   "q": "The '100 day glaucoma' name refers to glaucoma progression of ___ in CRVO.",
+   "opts": [
+    "1 month",
+    "6 months",
+    "100 weeks",
+    "3 months"
+   ],
+   "ans": 3,
+   "exp": "100 day glaucoma: Glaucoma progression of 3 months in CRVO. (Book p166)"
+  },
+  {
+   "id": "OPH-C36-040",
+   "sec": "CRVO - ischemic stage",
+   "page": 166,
+   "fmt": "management",
+   "q": "Which treatment does the book give for the neovascular changes of ischemic CRVO?",
+   "opts": [
+    "Panretinal photocoagulation",
+    "Intravitreal triamcinolone",
+    "Paracentesis",
+    "Pars plana vitrectomy"
+   ],
+   "ans": 0,
+   "exp": "Rx: Panretinal photocoagulation. (Book p166)"
+  },
+  {
+   "id": "OPH-C36-041",
+   "sec": "CRVO - ischemic stage",
+   "page": 166,
+   "fmt": "recall",
+   "q": "What is the most common cause of neovascular glaucoma, per the book's note?",
+   "opts": [
+    "Diabetic retinopathy",
+    "CRVO",
+    "Retinopathy of prematurity",
+    "CRAO"
+   ],
+   "ans": 0,
+   "exp": "Note: m/c cause of neovascular glaucoma: Diabetic retinopathy. (Book p166)"
+  },
+  {
+   "id": "OPH-C36-042",
+   "sec": "BRVO",
+   "page": 167,
+   "fmt": "fillup",
+   "q": "In branched retinal vein occlusion, the ___ part of the central retinal vein is occluded.",
+   "opts": [
+    "Inferior",
+    "Nasal",
+    "Temporal",
+    "Superior"
+   ],
+   "ans": 3,
+   "exp": "BRVO: Superior part of central retinal vein occluded. (Book p167)"
+  },
+  {
+   "id": "OPH-C36-043",
+   "sec": "BRVO",
+   "page": 167,
+   "fmt": "match",
+   "q": "Match the BRVO feature with its m/c location — 1) m/c site  2) m/c quadrant  … A) Superotemporal  B) AV crossings  C) Optic disc margin  D) Inferonasal",
+   "opts": [
+    "1-A, 2-B",
+    "1-C, 2-A",
+    "1-B, 2-A",
+    "1-B, 2-D"
+   ],
+   "ans": 2,
+   "exp": "BRVO: m/c site: AV crossings; m/c quadrant: superotemporal. (Book p167)"
+  },
+  {
+   "id": "OPH-C36-044",
+   "sec": "BRVO",
+   "page": 167,
+   "fmt": "recall",
+   "q": "The fundus photograph placed beside the BRVO description is captioned:",
+   "opts": [
+    "CRVO",
+    "BRVO",
+    "CRAO",
+    "Coats' disease"
+   ],
+   "ans": 1,
+   "exp": "Figure caption: BRVO. (Book p167)"
+  },
+  {
+   "id": "OPH-C36-045",
+   "sec": "ROP",
+   "page": 167,
+   "fmt": "numeric",
+   "q": "Per the book, retinopathy of prematurity occurs in infants with an age at birth of:",
+   "opts": [
+    "28 weeks or less",
+    "36 weeks or less",
+    "32 weeks or less",
+    "40 weeks or less"
+   ],
+   "ans": 2,
+   "exp": "ROP occurs in: age at birth <= 32 weeks. (Book p167)"
+  },
+  {
+   "id": "OPH-C36-046",
+   "sec": "ROP",
+   "page": 167,
+   "fmt": "numeric",
+   "q": "Per the book, retinopathy of prematurity occurs in infants with a birth weight of:",
+   "opts": [
+    "1200 grams or less",
+    "1750 grams or less",
+    "2500 grams or less",
+    "1500 grams or less"
+   ],
+   "ans": 1,
+   "exp": "ROP occurs in: birth weight <= 1750 grams. (Book p167)"
+  },
+  {
+   "id": "OPH-C36-047",
+   "sec": "ROP - screening",
+   "page": 167,
+   "fmt": "scenario",
+   "q": "A baby born at 30 weeks weighing 1500 g is at risk of ROP. When does the book's screening table say to screen?",
+   "opts": [
+    "2-3 weeks after birth",
+    "At birth",
+    "8 weeks after birth",
+    "4 weeks after birth"
+   ],
+   "ans": 3,
+   "exp": "Age at birth >= 28 wks and birth weight >= 1200 g: screen 4 weeks after birth. (Book p167)"
+  },
+  {
+   "id": "OPH-C36-048",
+   "sec": "ROP - screening",
+   "page": 167,
+   "fmt": "scenario",
+   "q": "A baby born at 26 weeks weighing 1000 g needs ROP screening. According to the table, screening should be done:",
+   "opts": [
+    "2-3 weeks after birth",
+    "4 weeks after birth",
+    "1 week after birth",
+    "6 weeks after birth"
+   ],
+   "ans": 0,
+   "exp": "Age at birth < 28 wks and birth weight < 1200 g: screen 2-3 weeks after birth. (Book p167)"
+  },
+  {
+   "id": "OPH-C36-049",
+   "sec": "ROP - stages",
+   "page": 167,
+   "fmt": "match",
+   "q": "Match the ROP stage with its feature — 1) Stage 1  2) Stage 2  … A) Ridge formation at demarcating line  B) Demarcating line between vascularized retina & peripheral avascular retina  C) Partial RD  D) Total RD",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-C",
+    "1-C, 2-A"
+   ],
+   "ans": 0,
+   "exp": "Stage 1: demarcating line between vascularized retina & peripheral avascular retina. Stage 2: ridge formation at demarcating line. (Book p167)"
+  },
+  {
+   "id": "OPH-C36-050",
+   "sec": "ROP - stages",
+   "page": 167,
+   "fmt": "recall",
+   "q": "Which ROP stage shows extra retinal neovascularization on the ridge moving into the vitreous?",
+   "opts": [
+    "Stage 2",
+    "Stage 4",
+    "Stage 1",
+    "Stage 3"
+   ],
+   "ans": 3,
+   "exp": "Stage 3: Extra retinal neovascularization on the ridge moving into vitreous. (Book p167)"
+  },
+  {
+   "id": "OPH-C36-051",
+   "sec": "ROP - stages",
+   "page": 167,
+   "fmt": "match",
+   "q": "Match the ROP stages with their retinal detachment status — 1) Stage 4  2) Stage 5  … A) Total RD  B) Partial RD  C) Ridge formation  D) Demarcating line",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-C, 2-A",
+    "1-B, 2-D"
+   ],
+   "ans": 1,
+   "exp": "Stage 4: partial retinal detachment (RD). Stage 5: total RD. (Book p167)"
+  },
+  {
+   "id": "OPH-C36-052",
+   "sec": "ROP - stages",
+   "page": 167,
+   "fmt": "recall",
+   "q": "The two ROP fundus photographs at the foot of the page are captioned:",
+   "opts": [
+    "Stage 1 ROP and Stage 2 ROP",
+    "Stage 3 ROP and Stage 4 ROP",
+    "Stage 2 ROP and Stage 3 ROP",
+    "Stage 4 ROP and Stage 5 ROP"
+   ],
+   "ans": 2,
+   "exp": "Figure captions: Stage 2 ROP and Stage 3 ROP. (Book p167)"
+  },
+  {
+   "id": "OPH-C36-053",
+   "sec": "ROP - treatment",
+   "page": 168,
+   "fmt": "management",
+   "q": "Laser photocoagulation in ROP is indicated in which category, per the ETROP study?",
+   "opts": [
+    "Stage 1 ROP",
+    "Threshold stage 5 ROP",
+    "Pre-threshold ROP type 1",
+    "Pre-threshold ROP type 2"
+   ],
+   "ans": 2,
+   "exp": "Laser photocoagulation - Indication: Pre-threshold ROP type 1 (ETROP study). (Book p168)"
+  },
+  {
+   "id": "OPH-C36-054",
+   "sec": "ROP - treatment",
+   "page": 168,
+   "fmt": "fillup",
+   "q": "One indication for laser in ROP is Zone 1 + ___ + plus disease.",
+   "opts": [
+    "Stage 3 only",
+    "Stage 2/3 only",
+    "Stage 1 only",
+    "Any stage"
+   ],
+   "ans": 3,
+   "exp": "Zone 1 + any stage + plus disease (or). Stage 2/3 with plus disease is the Zone 2 criterion. (Book p168)"
+  },
+  {
+   "id": "OPH-C36-055",
+   "sec": "ROP - treatment",
+   "page": 168,
+   "fmt": "oddoneout",
+   "q": "Which combination is NOT among the book's laser indications for pre-threshold ROP type 1?",
+   "opts": [
+    "Zone 1 + stage 3",
+    "Zone 2 + stage 1 without plus disease",
+    "Zone 2 + stage 2/3 + plus disease",
+    "Zone 1 + stage 2 + plus disease"
+   ],
+   "ans": 1,
+   "exp": "Listed indications: Zone 1 + any stage + plus disease; Zone 1 + stage 3; Zone 2 + stage 2/3 + plus disease. (Book p168)"
+  },
+  {
+   "id": "OPH-C36-056",
+   "sec": "ROP - treatment",
+   "page": 168,
+   "fmt": "numeric",
+   "q": "Plus disease in ROP means venous tortuosity and dilatation in at least how many quadrants?",
+   "opts": [
+    "2 quadrants",
+    "1 quadrant",
+    "3 quadrants",
+    "4 quadrants"
+   ],
+   "ans": 0,
+   "exp": "Plus disease: Venous tortuosity & dilatation in >= 2 quadrants. (Book p168)"
+  },
+  {
+   "id": "OPH-C36-057",
+   "sec": "ROP - treatment",
+   "page": 168,
+   "fmt": "management",
+   "q": "An ROP eye has retinal detachment. What additional procedure does the book list?",
+   "opts": [
+    "Laser photocoagulation alone",
+    "Panretinal photocoagulation",
+    "Paracentesis",
+    "Pars plana vitrectomy"
+   ],
+   "ans": 3,
+   "exp": "Pars plana vitrectomy: If RD +. (Book p168)"
+  },
+  {
+   "id": "OPH-C36-058",
+   "sec": "ROP - figure",
+   "page": 168,
+   "fmt": "recall",
+   "q": "Which set of labels appears on the 'Zones of retina' diagram?",
+   "opts": [
+    "Zones I, II and III, fovea, optic nerve, vortex veins, clock hours, nasal and temporal",
+    "Zones I, II and III, macula, optic nerve, ora serrata, clock hours, nasal and temporal",
+    "Zones I and II, macula, optic nerve, ora serrata, clock hours, superior and inferior",
+    "Zones I, II and III, macula, cilioretinal artery, ora serrata, superior and inferior"
+   ],
+   "ans": 1,
+   "exp": "The zones of retina figure labels Nasal, Temporal, Clock hours, Zone I, Zone II, Zone III, Macula, Optic Nerve and Ora serrata. (Book p168)"
+  },
+  {
+   "id": "OPH-C36-059",
+   "sec": "Eales' disease",
+   "page": 168,
+   "fmt": "recall",
+   "q": "Under 'Miscellaneous', which disease does the triangle of Occlusion, Periphlebitis and Neovascularisation of retina leading to recurrent vitreous hemorrhage represent?",
+   "opts": [
+    "Eales' disease",
+    "Coats' disease",
+    "Retinopathy of prematurity",
+    "Branched retinal vein occlusion"
+   ],
+   "ans": 0,
+   "exp": "Miscellaneous - EALES' DISEASE: Occlusion, Periphlebitis, Neovascularisation of retina -> Recurrent vitreous hemorrhage. (Book p168)"
+  },
+  {
+   "id": "OPH-C36-060",
+   "sec": "Eales' disease",
+   "page": 168,
+   "fmt": "management",
+   "q": "Which treatment does the book give for Eales' disease?",
+   "opts": [
+    "Pars plana vitrectomy",
+    "Intravitreal triamcinolone",
+    "Panretinal photocoagulation",
+    "Paracentesis"
+   ],
+   "ans": 2,
+   "exp": "Eales' disease Rx: Panretinal photocoagulation. (Book p168)"
+  },
+  {
+   "id": "OPH-C36-061",
+   "sec": "Coats' disease",
+   "page": 168,
+   "fmt": "fillup",
+   "q": "Coats' disease is idiopathic retinal ___.",
+   "opts": [
+    "Neovascularisation",
+    "Telengiectasia",
+    "Periphlebitis",
+    "Detachment"
+   ],
+   "ans": 1,
+   "exp": "COATS' DISEASE: Idiopathic retinal telengiectasia. (Book p168)"
+  },
+  {
+   "id": "OPH-C36-062",
+   "sec": "Coats' disease",
+   "page": 168,
+   "fmt": "recall",
+   "q": "Which pair correctly describes Coats' disease?",
+   "opts": [
+    "Female predominance and unilateral",
+    "Male predominance and bilateral",
+    "Male predominance and unilateral",
+    "Female predominance and bilateral"
+   ],
+   "ans": 2,
+   "exp": "Coats' disease: M > F; unilateral. (Book p168)"
+  },
+  {
+   "id": "OPH-C36-063",
+   "sec": "Coats' disease",
+   "page": 168,
+   "fmt": "oddoneout",
+   "q": "All of the following are clinical features of Coats' disease in the book EXCEPT:",
+   "opts": [
+    "Papilledema",
+    "Painless loss of vision",
+    "Strabismus",
+    "Leukocoria"
+   ],
+   "ans": 0,
+   "exp": "Coats' clinical features: painless loss of vision, strabismus, leukocoria, exudative retinal detachment. Papilledema is a grade 4 hypertensive retinopathy sign. (Book p168)"
+  },
+  {
+   "id": "OPH-C36-064",
+   "sec": "Coats' disease",
+   "page": 168,
+   "fmt": "scenario",
+   "q": "A child with Coats' disease is found to have a retinal detachment. What type of detachment does the book list among its clinical features?",
+   "opts": [
+    "Partial detachment with a ridge at a demarcating line",
+    "Total detachment as stage 5",
+    "Detachment of the vitreous with recurrent hemorrhage",
+    "Exudative retinal detachment"
+   ],
+   "ans": 3,
+   "exp": "Coats' clinical features: exudative retinal detachment. (Book p168)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U36-1",
+   "ch": 36,
+   "n": 1,
+   "title": "Hypertensive retinopathy: phases and Keith-Wagner grades",
+   "sec": "Retina · p164",
+   "guide": "Hypertensive retinopathy phases vasoconstriction sclerotic exudative Keith-Wagner grades 1-4 A:V ratio Salus Bonnet Gunn signs flame hemorrhages cotton wool spots copper silver wiring papilledema macular star.",
+   "qs": [
+    "OPH-C36-001",
+    "OPH-C36-002",
+    "OPH-C36-003",
+    "OPH-C36-004",
+    "OPH-C36-005",
+    "OPH-C36-006",
+    "OPH-C36-007",
+    "OPH-C36-008",
+    "OPH-C36-009"
+   ]
+  },
+  {
+   "id": "OPH-U36-2",
+   "ch": 36,
+   "n": 2,
+   "title": "CRAO: causes and clinical features",
+   "sec": "Retina · p165",
+   "guide": "CRAO causes atherosclerosis m/c Hollenhorst plaque cholesterol emboli CCA giant cell arteritis; sudden painless loss consecutive optic atrophy RAPD Marcus Gunn pupil pale fundus cattle tracking cherry red spot cilioretinal sparing; cherry red spot mnemonic and list.",
+   "qs": [
+    "OPH-C36-010",
+    "OPH-C36-011",
+    "OPH-C36-012",
+    "OPH-C36-013",
+    "OPH-C36-014",
+    "OPH-C36-015",
+    "OPH-C36-016",
+    "OPH-C36-017",
+    "OPH-C36-018",
+    "OPH-C36-019",
+    "OPH-C36-020",
+    "OPH-C36-021",
+    "OPH-C36-022"
+   ]
+  },
+  {
+   "id": "OPH-U36-3",
+   "ch": 36,
+   "n": 3,
+   "title": "CRAO treatment",
+   "sec": "Retina · p166",
+   "guide": "CRAO ocular emergency Rx within 4 hrs; 24-48 hrs complete occlusion; ocular massage; sublingual isosorbide nitrate; carbogen 95% O2 + 5% CO2 respiratory acidosis; IV mannitol; paracentesis; Rx of cause.",
+   "qs": [
+    "OPH-C36-023",
+    "OPH-C36-024",
+    "OPH-C36-025",
+    "OPH-C36-026",
+    "OPH-C36-027",
+    "OPH-C36-028",
+    "OPH-C36-029",
+    "OPH-C36-030"
+   ]
+  },
+  {
+   "id": "OPH-U36-4",
+   "ch": 36,
+   "n": 4,
+   "title": "Central retinal vein occlusion (CRVO)",
+   "sec": "Retina · p166",
+   "guide": "CRVO m/c cause hypertension; non-ischemic stage stasis hypoxia macular edema Rx triamcinolone 0.7 mg dexamethasone implant Geneva anti VEGF; ischemic stage flame hemorrhages tomato ketchup rubeosis iridis neovascular glaucoma 100 day glaucoma PRP; m/c cause of NVG diabetic retinopathy.",
+   "qs": [
+    "OPH-C36-031",
+    "OPH-C36-032",
+    "OPH-C36-033",
+    "OPH-C36-034",
+    "OPH-C36-035",
+    "OPH-C36-036",
+    "OPH-C36-037",
+    "OPH-C36-038",
+    "OPH-C36-039",
+    "OPH-C36-040",
+    "OPH-C36-041"
+   ]
+  },
+  {
+   "id": "OPH-U36-5",
+   "ch": 36,
+   "n": 5,
+   "title": "BRVO and retinopathy of prematurity (screening and stages)",
+   "sec": "Retina · p167",
+   "guide": "BRVO superior part of central retinal vein AV crossings superotemporal; ROP age at birth <=32 weeks weight <=1750 g; screening table 28 weeks 1200 g; stages 1-5 demarcating line ridge extraretinal neovascularization partial and total RD.",
+   "qs": [
+    "OPH-C36-042",
+    "OPH-C36-043",
+    "OPH-C36-044",
+    "OPH-C36-045",
+    "OPH-C36-046",
+    "OPH-C36-047",
+    "OPH-C36-048",
+    "OPH-C36-049",
+    "OPH-C36-050",
+    "OPH-C36-051",
+    "OPH-C36-052"
+   ]
+  },
+  {
+   "id": "OPH-U36-6",
+   "ch": 36,
+   "n": 6,
+   "title": "ROP treatment, Eales' disease and Coats' disease",
+   "sec": "Retina · p168",
+   "guide": "ROP laser photocoagulation pre-threshold type 1 ETROP zone 1 zone 2 plus disease >=2 quadrants pars plana vitrectomy if RD; zones of retina figure; Miscellaneous: Eales' disease triangle PRP; Coats' disease telengiectasia M>F unilateral painless loss strabismus leukocoria exudative RD.",
+   "qs": [
+    "OPH-C36-053",
+    "OPH-C36-054",
+    "OPH-C36-055",
+    "OPH-C36-056",
+    "OPH-C36-057",
+    "OPH-C36-058",
+    "OPH-C36-059",
+    "OPH-C36-060",
+    "OPH-C36-061",
+    "OPH-C36-062",
+    "OPH-C36-063",
+    "OPH-C36-064"
+   ]
+  }
+ ]
+}

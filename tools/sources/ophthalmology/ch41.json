@@ -1,0 +1,1315 @@
+{
+ "chapter": 41,
+ "title": "Anterior Uveitis",
+ "pageRange": "185-190",
+ "questions": [
+  {
+   "id": "OPH-C41-001",
+   "sec": "Anatomical classification",
+   "page": 185,
+   "fmt": "match",
+   "q": "Match the type of uveitis with its alternative name — 1) Anterior uveitis  2) Intermediate uveitis  3) Posterior uveitis  … A) Chorioretinitis/Retinochoroiditis  B) Pars planitis/Posterior cyclitis  C) Iridocyclitis",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 2,
+   "exp": "AKA row: anterior uveitis - iridocyclitis; intermediate uveitis - pars planitis/posterior cyclitis; posterior uveitis - chorioretinitis/retinochoroiditis. (Book p185)"
+  },
+  {
+   "id": "OPH-C41-002",
+   "sec": "Anatomical classification",
+   "page": 185,
+   "fmt": "oddoneout",
+   "q": "Which type of uveitis has a dash (no alternative name) in the AKA row of the table?",
+   "opts": [
+    "Anterior uveitis",
+    "Intermediate uveitis",
+    "Posterior uveitis",
+    "Pan uveitis"
+   ],
+   "ans": 3,
+   "exp": "AKA row: pan uveitis shows '-'. (Book p185)"
+  },
+  {
+   "id": "OPH-C41-003",
+   "sec": "Anatomical classification",
+   "page": 185,
+   "fmt": "fillup",
+   "q": "In anterior uveitis, involvement of the iris is called iritis, and involvement of the pars plicata is called ___.",
+   "opts": [
+    "Hyalitis",
+    "Cyclitis",
+    "Vitritis",
+    "Choroiditis"
+   ],
+   "ans": 1,
+   "exp": "Involvement of AU: Iris: Iritis; Pars plicata: Cyclitis. (Book p185)"
+  },
+  {
+   "id": "OPH-C41-004",
+   "sec": "Anatomical classification",
+   "page": 185,
+   "fmt": "scenario",
+   "q": "In intermediate uveitis, inflammation of the vitreous is termed:",
+   "opts": [
+    "Vitritis/Hyalitis",
+    "Iritis",
+    "Cyclitis",
+    "Basal retinochoroiditis"
+   ],
+   "ans": 0,
+   "exp": "Intermediate uveitis: peripheral retina - basal retinochoroiditis; vitreous - vitritis/hyalitis. (Book p185)"
+  },
+  {
+   "id": "OPH-C41-005",
+   "sec": "Anatomical classification",
+   "page": 185,
+   "fmt": "match",
+   "q": "Match the type of uveitis with the tissue involved — 1) Posterior uveitis  2) Pan uveitis  … A) All layers of uvea  B) Iris and pars plicata  C) Choroid & retina",
+   "opts": [
+    "1-C, 2-A",
+    "1-A, 2-C",
+    "1-B, 2-A",
+    "1-C, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Involvement of: posterior uveitis - choroid & retina; pan uveitis - all layers of uvea. (Book p185)"
+  },
+  {
+   "id": "OPH-C41-006",
+   "sec": "Clinical classification",
+   "page": 185,
+   "fmt": "numeric",
+   "q": "In the clinical classification, acute uveitis has a duration of:",
+   "opts": [
+    "More than 3 months",
+    "Exactly 6 months",
+    "Less than 3 months",
+    "Less than 1 month"
+   ],
+   "ans": 2,
+   "exp": "Acute: duration < 3 months. (Book p185)"
+  },
+  {
+   "id": "OPH-C41-007",
+   "sec": "Clinical classification",
+   "page": 185,
+   "fmt": "scenario",
+   "q": "A uveitis lasts more than 3 months and relapses within less than 3 months. Which clinical class is this?",
+   "opts": [
+    "Acute",
+    "Chronic",
+    "Recurrent",
+    "Intermediate"
+   ],
+   "ans": 1,
+   "exp": "Chronic: duration > 3 months + relapse in < 3 months. (Book p185)"
+  },
+  {
+   "id": "OPH-C41-008",
+   "sec": "Clinical classification",
+   "page": 185,
+   "fmt": "numeric",
+   "q": "Recurrent uveitis is defined by at least how long between two episodes?",
+   "opts": [
+    "Less than 3 months",
+    "1 month or more",
+    "12 months or more",
+    "3 months or more"
+   ],
+   "ans": 3,
+   "exp": "Recurrent: >= 3 months b/w 2 episodes. (Book p185)"
+  },
+  {
+   "id": "OPH-C41-009",
+   "sec": "Etiological classification",
+   "page": 185,
+   "fmt": "recall",
+   "q": "The etiological classification of uveitis divides it into:",
+   "opts": [
+    "Acute and chronic",
+    "Anterior and posterior",
+    "Granulomatous and non-granulomatous",
+    "Recurrent and non-recurrent"
+   ],
+   "ans": 2,
+   "exp": "Etiological classification: granulomatous; non-granulomatous. (Book p185)"
+  },
+  {
+   "id": "OPH-C41-010",
+   "sec": "Symptoms",
+   "page": 185,
+   "fmt": "fillup",
+   "q": "In anterior uveitis, pain is referred along the branches of the ___ nerve.",
+   "opts": [
+    "5th",
+    "2nd",
+    "3rd",
+    "7th"
+   ],
+   "ans": 0,
+   "exp": "SYMPTOMS: Pain: referred along branches of 5th nerve. (Book p185)"
+  },
+  {
+   "id": "OPH-C41-011",
+   "sec": "Symptoms",
+   "page": 185,
+   "fmt": "recall",
+   "q": "Redness is a symptom of anterior uveitis. The blurring of vision is due to which two causes?",
+   "opts": [
+    "Cyclitic membrane and secondary glaucoma",
+    "Vitritis and cystoid macular edema",
+    "Iris atrophy and festooned pupil",
+    "Corneal haze and aqueous turbidity"
+   ],
+   "ans": 3,
+   "exp": "Symptoms: redness; blurring of vision d/t corneal haze and aqueous turbidity. (Book p185)"
+  },
+  {
+   "id": "OPH-C41-012",
+   "sec": "Symptoms",
+   "page": 185,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT among the listed symptoms of anterior uveitis?",
+   "opts": [
+    "Severe photophobia",
+    "Sudden painless loss of vision with a clear cornea",
+    "Lacrimation",
+    "Pain referred along branches of the 5th nerve"
+   ],
+   "ans": 1,
+   "exp": "Symptoms: pain, redness, blurring of vision, severe photophobia, lacrimation. (Book p185)"
+  },
+  {
+   "id": "OPH-C41-013",
+   "sec": "Signs - conjunctiva and cornea",
+   "page": 186,
+   "fmt": "fillup",
+   "q": "The conjunctival sign of anterior uveitis is ___.",
+   "opts": [
+    "Follicular reaction",
+    "Chemosis with papillae",
+    "Circumcorneal congestion",
+    "Subconjunctival hemorrhage"
+   ],
+   "ans": 2,
+   "exp": "SIGNS 1. Conjunctiva: Circumcorneal congestion. (Book p186)"
+  },
+  {
+   "id": "OPH-C41-014",
+   "sec": "Signs - conjunctiva and cornea",
+   "page": 186,
+   "fmt": "recall",
+   "q": "Corneal haze in anterior uveitis is due to:",
+   "opts": [
+    "Raised intraocular pressure (IOP) or toxins",
+    "Calcium deposits in Bowman's layer",
+    "Iris pigment on the endothelium",
+    "Vitreous opacities"
+   ],
+   "ans": 0,
+   "exp": "2. Cornea: Corneal haze d/t raised intraocular pressure (IOP)/toxins. (Book p186)"
+  },
+  {
+   "id": "OPH-C41-015",
+   "sec": "Keratic precipitates",
+   "page": 186,
+   "fmt": "fillup",
+   "q": "Keratic precipitates are cellular deposits on the corneal ___, most commonly in ___ triangle.",
+   "opts": [
+    "Epithelium ; Arlt's",
+    "Endothelium ; Arlt's",
+    "Endothelium ; Hutchinson's",
+    "Bowman's layer ; Arlt's"
+   ],
+   "ans": 1,
+   "exp": "KPs: cellular deposits on corneal endothelium; location: Arlt's triangle (m/c). (Book p186)"
+  },
+  {
+   "id": "OPH-C41-016",
+   "sec": "Keratic precipitates",
+   "page": 186,
+   "fmt": "match",
+   "q": "Match the KP type with the uveitis and content — 1) Mutton fat KPs  2) Fine granules KPs  … A) Non-granulomatous uveitis, contain lymphocytes  B) Granulomatous uveitis, contain macrophages  C) Chronic non-granulomatous uveitis",
+   "opts": [
+    "1-A, 2-B",
+    "1-C, 2-A",
+    "1-B, 2-C",
+    "1-B, 2-A"
+   ],
+   "ans": 3,
+   "exp": "Mutton fat: granulomatous uveitis, contain macrophages. Fine granules: non-granulomatous uveitis, contain lymphocytes. (Book p186)"
+  },
+  {
+   "id": "OPH-C41-017",
+   "sec": "Keratic precipitates",
+   "page": 186,
+   "fmt": "scenario",
+   "q": "KPs are pigmented in a patient with long-standing uveitis. Which uveitis does the book list for pigmented KPs?",
+   "opts": [
+    "Acute granulomatous uveitis",
+    "Herpetic uveitis only",
+    "Chronic granulomatous uveitis",
+    "Chronic non-granulomatous uveitis"
+   ],
+   "ans": 3,
+   "exp": "Pigmented KPs: seen in chronic non-granulomatous uveitis. (Book p186)"
+  },
+  {
+   "id": "OPH-C41-018",
+   "sec": "Keratic precipitates",
+   "page": 186,
+   "fmt": "oddoneout",
+   "q": "Stellate (star-shaped, diffusely distributed) KPs are seen in all of the following EXCEPT:",
+   "opts": [
+    "Herpetic uveitis",
+    "Toxoplasmosis",
+    "Ankylosing spondylitis",
+    "Fuchs heterochromic iridocyclitis (FHI)"
+   ],
+   "ans": 2,
+   "exp": "Stellate KPs: herpetic uveitis, toxoplasmosis, Fuchs heterochromic iridocyclitis (FHI); star-shaped; diffuse distribution. (Book p186)"
+  },
+  {
+   "id": "OPH-C41-019",
+   "sec": "Signs - anterior chamber",
+   "page": 186,
+   "fmt": "fillup",
+   "q": "Aqueous cells are markers of ___.",
+   "opts": [
+    "Protein leakage",
+    "Disease activity",
+    "Iris atrophy",
+    "Complicated cataract"
+   ],
+   "ans": 1,
+   "exp": "Anterior chamber: 1. Aqueous cells: markers of disease activity. (Book p186)"
+  },
+  {
+   "id": "OPH-C41-020",
+   "sec": "Signs - anterior chamber",
+   "page": 186,
+   "fmt": "recall",
+   "q": "Aqueous flare is turbidity of aqueous due to leakage of ___, and is visible due to the ___.",
+   "opts": [
+    "Proteins ; Tyndall effect/Brownian movement",
+    "Cells ; Tyndall effect/Brownian movement",
+    "Proteins ; Koeppe effect",
+    "Lipids ; Tyndall effect/Brownian movement"
+   ],
+   "ans": 0,
+   "exp": "2. Aqueous flare: turbidity of aqueous d/t leakage of proteins; visible d/t Tyndall effect/Brownian movement. (Book p186)"
+  },
+  {
+   "id": "OPH-C41-021",
+   "sec": "Signs - anterior chamber",
+   "page": 186,
+   "fmt": "recall",
+   "q": "In the slit lamp figure captioned 'Aqueous cells', the two arrows label:",
+   "opts": [
+    "Aqueous and cornea",
+    "Aqueous and iris",
+    "Cornea and Arlt's triangle",
+    "Hypopyon and hyphema"
+   ],
+   "ans": 0,
+   "exp": "Figure caption: Aqueous cells; labels: Aqueous, Cornea. (Book p186)"
+  },
+  {
+   "id": "OPH-C41-022",
+   "sec": "Signs - anterior chamber",
+   "page": 186,
+   "fmt": "scenario",
+   "q": "A patient has anterior uveitis with a hypopyon. Which disease does the book link to this combination?",
+   "opts": [
+    "Toxoplasmosis",
+    "Behcet's disease",
+    "Herpetic uveitis",
+    "Syphilis"
+   ],
+   "ans": 1,
+   "exp": "3. Hypopyon: hypopyon + anterior uveitis: Behcet's disease. (Book p186)"
+  },
+  {
+   "id": "OPH-C41-023",
+   "sec": "Signs - anterior chamber",
+   "page": 186,
+   "fmt": "oddoneout",
+   "q": "Hyphema with anterior uveitis is seen in all of the following EXCEPT:",
+   "opts": [
+    "Herpetic uveitis",
+    "Toxoplasmosis",
+    "Syphilis",
+    "Behcet's disease"
+   ],
+   "ans": 3,
+   "exp": "4. Hyphema + AU: herpetic uveitis, toxoplasmosis, syphilis. (Behcet's disease is the cause linked to hypopyon.) (Book p186)"
+  },
+  {
+   "id": "OPH-C41-024",
+   "sec": "Signs - iris",
+   "page": 186,
+   "fmt": "fillup",
+   "q": "Pseudo-rubiosis of the iris is due to ___.",
+   "opts": [
+    "Iris neovascularisation from posterior segment hypoxia",
+    "Loss of iris crypts",
+    "Dilated iris vessels",
+    "Exudation in the posterior chamber"
+   ],
+   "ans": 2,
+   "exp": "Iris: 1. Pseudo-rubiosis: d/t dilated iris vessels. (Book p186)"
+  },
+  {
+   "id": "OPH-C41-025",
+   "sec": "Signs - iris",
+   "page": 186,
+   "fmt": "recall",
+   "q": "Muddy iris is seen in acute cases and is also known as:",
+   "opts": [
+    "Iris roseolas",
+    "Iris pearls",
+    "Festooned iris",
+    "Water logged iris"
+   ],
+   "ans": 3,
+   "exp": "2. Muddy iris: seen in acute cases; AKA water logged iris. (Book p186)"
+  },
+  {
+   "id": "OPH-C41-026",
+   "sec": "Signs - iris",
+   "page": 186,
+   "fmt": "match",
+   "q": "Match the type of iris atrophy (seen in chronic cases) with its uveitis — 1) Sectoral  2) Diffuse  … A) FHI  B) Herpetic uveitis  C) Behcet's disease",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-C",
+    "1-C, 2-A"
+   ],
+   "ans": 0,
+   "exp": "3. Iris atrophy: seen in chronic cases. Types: sectoral - herpetic uveitis; diffuse - FHI. (Book p186)"
+  },
+  {
+   "id": "OPH-C41-027",
+   "sec": "Iris nodules",
+   "page": 187,
+   "fmt": "match",
+   "q": "Match the iris nodule with its location — 1) Koeppe nodules  2) Busacca nodules  … A) Iris stroma  B) Pupillary margin  C) Angle of anterior chamber",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-C",
+    "1-B, 2-A",
+    "1-C, 2-A"
+   ],
+   "ans": 2,
+   "exp": "Location: Koeppe nodules - pupillary margin; Busacca nodules - iris stroma. (Book p187)"
+  },
+  {
+   "id": "OPH-C41-028",
+   "sec": "Iris nodules",
+   "page": 187,
+   "fmt": "scenario",
+   "q": "Iris nodules are seen in granulomatous as well as non granulomatous uveitis. Which nodules are these, when Busacca nodules are seen only in granulomatous uveitis?",
+   "opts": [
+    "Busacca nodules",
+    "Koeppe nodules",
+    "Iris pearls",
+    "Iris roseolas"
+   ],
+   "ans": 1,
+   "exp": "Found in: Koeppe nodules - granulomatous and non granulomatous uveitis; Busacca nodules - granulomatous uveitis. (Book p187)"
+  },
+  {
+   "id": "OPH-C41-029",
+   "sec": "Iris nodules",
+   "page": 187,
+   "fmt": "recall",
+   "q": "The two iris photographs with red arrows are captioned:",
+   "opts": [
+    "Busacca nodules and Koeppe nodules",
+    "Koeppe nodules and Busacca nodules",
+    "Koeppe nodules and Sectoral iris atrophy",
+    "Iris roseolas and Busacca nodules"
+   ],
+   "ans": 1,
+   "exp": "Captions: Koeppe nodules; Busacca nodules. (Book p187)"
+  },
+  {
+   "id": "OPH-C41-030",
+   "sec": "Pupil",
+   "page": 187,
+   "fmt": "fillup",
+   "q": "Miosis is seen in ___ cases of anterior uveitis.",
+   "opts": [
+    "Acute",
+    "Chronic",
+    "Recurrent",
+    "Only granulomatous"
+   ],
+   "ans": 0,
+   "exp": "Pupil: 1. Miosis: Acute cases. (Book p187)"
+  },
+  {
+   "id": "OPH-C41-031",
+   "sec": "Pupil",
+   "page": 187,
+   "fmt": "scenario",
+   "q": "A chronic anterior uveitis shows a festooned pupil. What is the mechanism given in the book?",
+   "opts": [
+    "360° posterior synechiae stop aqueous flow to the anterior chamber",
+    "Exudates organise across the anterior surface of the pupil",
+    "Exudation forms incomplete posterior synechiae; the pupil dilates irregularly",
+    "Loss of iris crypts causes irregular dilation"
+   ],
+   "ans": 2,
+   "exp": "2. Festooned pupil: chronic cases. Exudation -> incomplete posterior synechiae (adhesion b/w pupillary margin and lens) -> dilates the pupil -> irregular dilation. (Book p187)"
+  },
+  {
+   "id": "OPH-C41-032",
+   "sec": "Pupil",
+   "page": 187,
+   "fmt": "scenario",
+   "q": "Recurrent anterior uveitis leaves a fixed pupil due to annular (ring/complete) posterior synechiae with 360° adhesion. What follows?",
+   "opts": [
+    "Decreased IOP from no aqueous secretion",
+    "Irregular dilation of the pupil",
+    "Bleeding on paracentesis",
+    "No aqueous flow from posterior to anterior chamber, causing secondary angle closure glaucoma"
+   ],
+   "ans": 3,
+   "exp": "3. Fixed pupil: recurrent cases; annular/ring/complete posterior synechiae (360° adhesion) -> no aqueous flow from posterior chamber to anterior chamber -> secondary angle closure glaucoma. (Book p187)"
+  },
+  {
+   "id": "OPH-C41-033",
+   "sec": "Pupil",
+   "page": 187,
+   "fmt": "fillup",
+   "q": "Total posterior synechiae is adhesion between the ___ surface of the iris and the lens.",
+   "opts": [
+    "Anterior",
+    "Peripheral",
+    "Equatorial",
+    "Posterior"
+   ],
+   "ans": 3,
+   "exp": "4. Total Posterior Synechiae (TPS): exudation in posterior chamber -> adhesion b/w posterior surface of iris and lens. (Book p187)"
+  },
+  {
+   "id": "OPH-C41-034",
+   "sec": "Pupil",
+   "page": 187,
+   "fmt": "scenario",
+   "q": "TPS together with exudates leaking behind the lens covers the ciliary processes, equator and posterior surface of the lens. What is this, and what happens to IOP?",
+   "opts": [
+    "Cyclitic membrane; IOP increases as aqueous cannot drain",
+    "Cyclitic membrane; IOP decreases as no aqueous is secreted",
+    "Occlusio pupillae; IOP decreases",
+    "Occlusio pupillae; IOP increases"
+   ],
+   "ans": 1,
+   "exp": "5. Cyclitic membrane: TPS + exudates leak behind lens; covers ciliary processes, equator & posterior surface of lens -> no aqueous secretion -> decreased IOP. (Book p187)"
+  },
+  {
+   "id": "OPH-C41-035",
+   "sec": "Pupil",
+   "page": 187,
+   "fmt": "recall",
+   "q": "Exudates organised across the anterior surface of the pupil constitute:",
+   "opts": [
+    "Occlusio pupillae",
+    "Cyclitic membrane",
+    "Total posterior synechiae",
+    "Festooned pupil"
+   ],
+   "ans": 0,
+   "exp": "6. Occlusio pupillae: exudates organised across anterior surface of pupil. (Book p187)"
+  },
+  {
+   "id": "OPH-C41-036",
+   "sec": "IOP",
+   "page": 188,
+   "fmt": "scenario",
+   "q": "In acute anterior uveitis, IOP is raised. What are the reasons given?",
+   "opts": [
+    "Cyclitic membrane and shut down of the ciliary body",
+    "Annular posterior synechiae with no aqueous flow",
+    "Trabecular meshwork blockage by cells and proteins, plus associated trabeculitis",
+    "Total posterior synechiae behind the lens"
+   ],
+   "ans": 2,
+   "exp": "IOP - Acute AU: raised IOP d/t trabecular meshwork blockage by cells and proteins + associated trabeculitis. (Book p188)"
+  },
+  {
+   "id": "OPH-C41-037",
+   "sec": "IOP",
+   "page": 188,
+   "fmt": "truefalse",
+   "q": "True or false — 'Chronic anterior uveitis causes raised IOP because of trabeculitis.' Choose the correct verdict:",
+   "opts": [
+    "True - chronic AU raises IOP by trabecular blockage",
+    "False - chronic AU gives decreased IOP due to trabecular meshwork blockage",
+    "False - chronic AU gives decreased IOP due to cyclitic membrane and shut down of ciliary body",
+    "True - chronic AU raises IOP due to cyclitic membrane"
+   ],
+   "ans": 2,
+   "exp": "IOP - Chronic AU: decreased IOP d/t cyclitic membrane + shut down of ciliary body. (Acute AU: raised IOP.) (Book p188)"
+  },
+  {
+   "id": "OPH-C41-038",
+   "sec": "Complications",
+   "page": 188,
+   "fmt": "fillup",
+   "q": "The most common cataract complication of uveitis, complicated cataract, has a bread crumb appearance plus ___.",
+   "opts": [
+    "Christmas tree lustre",
+    "Sunflower appearance",
+    "Oil droplet reflex",
+    "Polychromatic lustre"
+   ],
+   "ans": 3,
+   "exp": "1. Complicated Cataract: m/c; bread crumb appearance + polychromatic lustre. (Book p188)"
+  },
+  {
+   "id": "OPH-C41-039",
+   "sec": "Complications",
+   "page": 188,
+   "fmt": "oddoneout",
+   "q": "Per the mnemonic UMAR for causes of complicated cataract, which of the following is NOT a listed cause?",
+   "opts": [
+    "Vernal keratoconjunctivitis",
+    "Uveitis",
+    "Myopia",
+    "Retinitis pigmentosa"
+   ],
+   "ans": 0,
+   "exp": "Mnemonic UMAR: Uveitis, Myopia, Angle closure glaucoma, Retinitis pigmentosa. (Book p188)"
+  },
+  {
+   "id": "OPH-C41-040",
+   "sec": "Complications",
+   "page": 188,
+   "fmt": "fillup",
+   "q": "In the mnemonic UMAR, the letter A stands for:",
+   "opts": [
+    "Aphakia",
+    "Angle closure glaucoma",
+    "Anterior uveitis",
+    "Amyloid deposits"
+   ],
+   "ans": 1,
+   "exp": "UMAR: Uveitis, Myopia, Angle closure glaucoma, Retinitis pigmentosa. (Book p188)"
+  },
+  {
+   "id": "OPH-C41-041",
+   "sec": "Complications",
+   "page": 188,
+   "fmt": "scenario",
+   "q": "Which complication of anterior uveitis is most common in recurrent cases?",
+   "opts": [
+    "Complicated cataract",
+    "Band shaped keratopathy",
+    "Secondary angle closure glaucoma",
+    "Cystoid macular edema"
+   ],
+   "ans": 2,
+   "exp": "2. Secondary angle closure glaucoma: m/c in recurrent cases. (Book p188)"
+  },
+  {
+   "id": "OPH-C41-042",
+   "sec": "Complications",
+   "page": 188,
+   "fmt": "recall",
+   "q": "Band shaped keratopathy in anterior uveitis is caused by calcium deposits in which layer?",
+   "opts": [
+    "Descemet's membrane",
+    "Bowman's layer",
+    "Corneal epithelium",
+    "Corneal stroma"
+   ],
+   "ans": 1,
+   "exp": "3. Band shaped keratopathy: calcium deposits in Bowman's layer of cornea. (Book p188)"
+  },
+  {
+   "id": "OPH-C41-043",
+   "sec": "Complications",
+   "page": 188,
+   "fmt": "recall",
+   "q": "Which complication is the most common cause of visual loss due to posterior involvement in anterior uveitis?",
+   "opts": [
+    "Secondary angle closure glaucoma",
+    "Complicated cataract",
+    "Band shaped keratopathy",
+    "Cystoid macular edema"
+   ],
+   "ans": 3,
+   "exp": "4. Cystoid macular edema: m/c cause of visual loss d/t posterior involvement in anterior uveitis (AU). (Book p188)"
+  },
+  {
+   "id": "OPH-C41-044",
+   "sec": "Treatment",
+   "page": 188,
+   "fmt": "recall",
+   "q": "Under the treatment of anterior uveitis, which drug is listed as the antimetabolite (topical steroids listed are prednisolone and difluprednate)?",
+   "opts": [
+    "Azathioprine",
+    "Prednisolone",
+    "Difluprednate",
+    "Atropine"
+   ],
+   "ans": 0,
+   "exp": "Topical steroids: prednisolone, difluprednate. Antimetabolites: azathioprine. Cycloplegics: atropine. (Book p188)"
+  },
+  {
+   "id": "OPH-C41-045",
+   "sec": "Treatment",
+   "page": 188,
+   "fmt": "management",
+   "q": "When is azathioprine given in anterior uveitis?",
+   "opts": [
+    "When there is a cyclitic membrane with decreased IOP",
+    "When there is inflammation with recurrent episodes requiring long term steroids",
+    "For pain relief by relaxing the ciliary muscle",
+    "When posterior synechiae must be broken"
+   ],
+   "ans": 1,
+   "exp": "Antimetabolites: Azathioprine - given if inflammation + recurrent episodes requiring long term steroids. (Book p188)"
+  },
+  {
+   "id": "OPH-C41-046",
+   "sec": "Treatment",
+   "page": 188,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT listed as an action of atropine in anterior uveitis?",
+   "opts": [
+    "Sterilising the aqueous humour",
+    "Relaxing the ciliary muscle for pain relief",
+    "Breaking posterior synechiae",
+    "Preventing formation of posterior synechiae"
+   ],
+   "ans": 0,
+   "exp": "Cycloplegics: atropine - relax ciliary muscle -> pain relief; break posterior synechiae; prevent formation of posterior synechiae. (Book p188)"
+  },
+  {
+   "id": "OPH-C41-047",
+   "sec": "Treatment",
+   "page": 188,
+   "fmt": "match",
+   "q": "Match the route of steroid administration with its side effect — 1) Topical  2) Systemic  … A) Cataract  B) Glaucoma  C) Band shaped keratopathy",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-C",
+    "1-B, 2-A",
+    "1-C, 2-A"
+   ],
+   "ans": 2,
+   "exp": "Side effects of steroids: topical administration - glaucoma; systemic administration - cataract. (Book p188)"
+  },
+  {
+   "id": "OPH-C41-048",
+   "sec": "Granulomatous causes",
+   "page": 189,
+   "fmt": "recall",
+   "q": "Which of the following is listed as a granulomatous cause of anterior uveitis?",
+   "opts": [
+    "Behcet's disease",
+    "Ankylosing spondylitis",
+    "Psoriatic arthritis",
+    "Tuberculosis"
+   ],
+   "ans": 3,
+   "exp": "GRANULOMATOUS: a. Tuberculosis, b. Leprosy, c. Sarcoidosis, d. Syphilis, e. Herpes. Behcet's, ankylosing spondylitis and psoriatic arthritis are under non granulomatous. (Book p189)"
+  },
+  {
+   "id": "OPH-C41-049",
+   "sec": "Granulomatous causes",
+   "page": 189,
+   "fmt": "scenario",
+   "q": "In leprosy, which type is the most common cause of anterior uveitis, and which feature is pathognomonic?",
+   "opts": [
+    "Lepromatous leprosy; iris roseolas",
+    "Lepromatous leprosy; iris pearls",
+    "Tuberculoid leprosy; iris pearls",
+    "Lepromatous leprosy; Koeppe nodules"
+   ],
+   "ans": 1,
+   "exp": "b. Leprosy: m/c: lepromatous leprosy; iris pearls: pathognomonic feature. (Book p189)"
+  },
+  {
+   "id": "OPH-C41-050",
+   "sec": "Granulomatous causes",
+   "page": 189,
+   "fmt": "recall",
+   "q": "What is the most common ocular manifestation of sarcoidosis?",
+   "opts": [
+    "Granulomatous anterior uveitis",
+    "Cystoid macular edema",
+    "Band shaped keratopathy",
+    "Non granulomatous posterior uveitis"
+   ],
+   "ans": 0,
+   "exp": "c. Sarcoidosis: m/c ocular manifestation of sarcoidosis: granulomatous anterior uveitis. (Book p189)"
+  },
+  {
+   "id": "OPH-C41-051",
+   "sec": "Granulomatous causes",
+   "page": 189,
+   "fmt": "scenario",
+   "q": "A patient with sarcoidosis has erythema nodosum, bilateral lymphadenopathy and anterior uveitis. What is this syndrome?",
+   "opts": [
+    "Heerfordt syndrome",
+    "Reiter's syndrome",
+    "Cogan syndrome",
+    "Lofgren syndrome"
+   ],
+   "ans": 3,
+   "exp": "Lofgren syndrome: Erythema nodosum + B/L lymphadenopathy + Anterior uveitis. (Book p189)"
+  },
+  {
+   "id": "OPH-C41-052",
+   "sec": "Granulomatous causes",
+   "page": 189,
+   "fmt": "fillup",
+   "q": "Heerfordt syndrome is also called ___.",
+   "opts": [
+    "Uveoparotid arthritis",
+    "Uveal erythema fever",
+    "Uveoparotid fever",
+    "Iridocyclitis fever"
+   ],
+   "ans": 2,
+   "exp": "Heerfordt syndrome/uveoparotid fever. (Book p189)"
+  },
+  {
+   "id": "OPH-C41-053",
+   "sec": "Granulomatous causes",
+   "page": 189,
+   "fmt": "scenario",
+   "q": "In syphilis, the m/c form of uveitis is in late congenital syphilis. What presentation is listed?",
+   "opts": [
+    "Iris roseolas",
+    "Iris pearls",
+    "Busacca nodules",
+    "Water logged iris"
+   ],
+   "ans": 0,
+   "exp": "d. Syphilis: m/c in late congenital syphilis; presentation: iris roseolas. (Book p189)"
+  },
+  {
+   "id": "OPH-C41-054",
+   "sec": "Granulomatous causes",
+   "page": 189,
+   "fmt": "scenario",
+   "q": "Anterior uveitis with raised IOP, hyphema, stellate KPs and sectoral iris atrophy points to which cause?",
+   "opts": [
+    "Toxoplasmosis",
+    "Fuchs heterochromic iridocyclitis",
+    "Leprosy",
+    "Herpes"
+   ],
+   "ans": 3,
+   "exp": "e. Herpes: AU + Raised IOP + Hyphema + Stellate KPs + Sectoral iris atrophy. (Book p189)"
+  },
+  {
+   "id": "OPH-C41-055",
+   "sec": "Non granulomatous causes",
+   "page": 189,
+   "fmt": "recall",
+   "q": "Which category is the most common cause of acute non granulomatous anterior uveitis?",
+   "opts": [
+    "HLA B27 associated disease",
+    "Behcet's disease",
+    "Idiopathic",
+    "Inflammatory bowel disease"
+   ],
+   "ans": 2,
+   "exp": "2. NON GRANULOMATOUS - Acute: 1. Idiopathic: m/c. (Book p189)"
+  },
+  {
+   "id": "OPH-C41-056",
+   "sec": "Non granulomatous causes",
+   "page": 189,
+   "fmt": "scenario",
+   "q": "A patient has lower back pain with stiffness and recurrent unilateral anterior uveitis. Which HLA B27 associated disease is this?",
+   "opts": [
+    "Reiter's disease",
+    "Ankylosing spondylitis",
+    "Psoriatic arthritis",
+    "Behcet's disease"
+   ],
+   "ans": 1,
+   "exp": "2. HLA B27 associated disease: Ankylosing spondylitis: lower back pain + stiffness + recurrent U/L AU. (Book p189)"
+  },
+  {
+   "id": "OPH-C41-057",
+   "sec": "Non granulomatous causes",
+   "page": 189,
+   "fmt": "recall",
+   "q": "The triad of Reiter's disease consists of:",
+   "opts": [
+    "Conjunctivitis, urethritis and keratoderma blenorrhagicum",
+    "Conjunctivitis, urethritis and arthritis",
+    "Uveitis, arthritis and circinate balanitis",
+    "Urethritis, arthritis and aphthous mouth ulcers"
+   ],
+   "ans": 1,
+   "exp": "Reiter's disease: Triad - Conjunctivitis, Urethritis, Arthritis. (Book p189)"
+  },
+  {
+   "id": "OPH-C41-058",
+   "sec": "Non granulomatous causes",
+   "page": 189,
+   "fmt": "match",
+   "q": "Match the Reiter's disease extra-ocular feature — 1) Keratoderma blenorrhagicum  2) Circinate balanitis  … A) Skin lesions  B) Genital lesion  C) Sausage digits",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-C, 2-B",
+    "1-A, 2-C"
+   ],
+   "ans": 0,
+   "exp": "Reiter's: + U/L AU + keratoderma blenorrhagicum + circinate balanitis + history of travel. (Book p189)"
+  },
+  {
+   "id": "OPH-C41-059",
+   "sec": "Non granulomatous causes",
+   "page": 189,
+   "fmt": "scenario",
+   "q": "A patient has bilateral anterior uveitis with sausage digits. Which disease is this?",
+   "opts": [
+    "Ankylosing spondylitis",
+    "Reiter's disease",
+    "Psoriatic arthritis",
+    "Juvenile idiopathic arthritis"
+   ],
+   "ans": 2,
+   "exp": "Psoriatic arthritis: Sausage digits + B/L AU. (Book p189)"
+  },
+  {
+   "id": "OPH-C41-060",
+   "sec": "Non granulomatous causes",
+   "page": 189,
+   "fmt": "fillup",
+   "q": "Behcet's disease is associated with HLA ___ and B51.",
+   "opts": [
+    "B27",
+    "B7",
+    "DR4",
+    "B5"
+   ],
+   "ans": 3,
+   "exp": "3. Behcet's disease: A/w HLA B5, B51. (Book p189)"
+  },
+  {
+   "id": "OPH-C41-061",
+   "sec": "Non granulomatous causes",
+   "page": 189,
+   "fmt": "scenario",
+   "q": "B/L recurrent anterior uveitis with a cold mobile hypopyon: which oral finding completes the book's description?",
+   "opts": [
+    "Sausage digits",
+    "Aphthous mouth ulcers",
+    "Erythema nodosum",
+    "Lower back stiffness"
+   ],
+   "ans": 1,
+   "exp": "Behcet's disease: B/L recurrent AU + Cold mobile hypopyon + Aphthous mouth ulcers. (Book p189)"
+  },
+  {
+   "id": "OPH-C41-062",
+   "sec": "Non granulomatous causes",
+   "page": 189,
+   "fmt": "numeric",
+   "q": "In inflammatory bowel disease, the book gives which figures for uveitis?",
+   "opts": [
+    "Ulcerative colitis 2.4% and Crohn's disease 12%",
+    "Ulcerative colitis 12% and Crohn's disease 12%",
+    "Ulcerative colitis 12% and Crohn's disease 2.4%",
+    "Ulcerative colitis 1.2% and Crohn's disease 24%"
+   ],
+   "ans": 2,
+   "exp": "4. Inflammatory bowel disease: Ulcerative colitis (12%) > Crohn's disease (2.4%). (Book p189)"
+  },
+  {
+   "id": "OPH-C41-063",
+   "sec": "Drug induced uveitis",
+   "page": 189,
+   "fmt": "recall",
+   "q": "The list of acute non granulomatous causes of anterior uveitis ends on this page with item 5, which is:",
+   "opts": [
+    "Inflammatory bowel disease",
+    "Behcet's disease",
+    "Idiopathic uveitis",
+    "Drug induced uveitis"
+   ],
+   "ans": 3,
+   "exp": "5. Drug induced uveitis: (list continues on the next page). (Book p189)"
+  },
+  {
+   "id": "OPH-C41-064",
+   "sec": "Drug induced uveitis",
+   "page": 190,
+   "fmt": "match",
+   "q": "Drug induced uveitis mnemonic 'CML Please Relapse Slowly' — match the letter with the drug: 1) C  2) M  3) L  … A) Latanoprost  B) Cidofovir  C) Metipranolol  D) Pilocarpine",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-D, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Mnemonic: CML Please Relapse Slowly - Cidofovir, metipranolol, Latanoprost, Pilocarpine, Rifabutin, Sulfonamides. (Book p190)"
+  },
+  {
+   "id": "OPH-C41-065",
+   "sec": "Drug induced uveitis",
+   "page": 190,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT a drug in the mnemonic for drug induced uveitis?",
+   "opts": [
+    "Pilocarpine",
+    "Rifabutin",
+    "Sulfonamides",
+    "Prednisolone"
+   ],
+   "ans": 3,
+   "exp": "The mnemonic drugs: cidofovir, metipranolol, latanoprost, pilocarpine, rifabutin, sulfonamides. Prednisolone is a topical steroid used for treatment (p188). (Book p190)"
+  },
+  {
+   "id": "OPH-C41-066",
+   "sec": "JIA",
+   "page": 190,
+   "fmt": "recall",
+   "q": "Which condition is the most common cause of anterior uveitis in the paediatric age group?",
+   "opts": [
+    "Fuch's heterochromic iridocyclitis",
+    "Juvenile idiopathic arthritis (JIA)",
+    "Behcet's disease",
+    "Sarcoidosis"
+   ],
+   "ans": 1,
+   "exp": "Chronic: Juvenile Idiopathic Arthritis (JIA): m/c cause of AU in paediatric age group. (Book p190)"
+  },
+  {
+   "id": "OPH-C41-067",
+   "sec": "JIA",
+   "page": 190,
+   "fmt": "match",
+   "q": "Match the JIA type with the number of joints — 1) Pauciarticular  2) Polyarticular  … A) More than 4 joints  B) 4 or fewer joints  C) Systemic disease only",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-C",
+    "1-C, 2-A"
+   ],
+   "ans": 0,
+   "exp": "Pauciarticular: <= 4 joints involved; polyarticular: > 4 joints involved. (Book p190)"
+  },
+  {
+   "id": "OPH-C41-068",
+   "sec": "JIA",
+   "page": 190,
+   "fmt": "recall",
+   "q": "Besides pauciarticular and polyarticular, which third type of JIA is listed?",
+   "opts": [
+    "Reiter's disease",
+    "Heerfordt syndrome",
+    "Stills disease",
+    "Lofgren syndrome"
+   ],
+   "ans": 2,
+   "exp": "JIA types: pauciarticular, polyarticular, Stills disease. (Book p190)"
+  },
+  {
+   "id": "OPH-C41-069",
+   "sec": "JIA",
+   "page": 190,
+   "fmt": "scenario",
+   "q": "A girl has pauciarticular JIA that is the m/c type in females and most commonly associated with AU. Which subtype is this?",
+   "opts": [
+    "Pauciarticular type 2",
+    "Polyarticular JIA",
+    "Pauciarticular type 1",
+    "Stills disease"
+   ],
+   "ans": 2,
+   "exp": "Pauciarticular type 1: m/c in females; m/c a/w AU. (Book p190)"
+  },
+  {
+   "id": "OPH-C41-070",
+   "sec": "JIA",
+   "page": 190,
+   "fmt": "recall",
+   "q": "Pauciarticular type 1 JIA is characterised by which serology?",
+   "opts": [
+    "RF positive and ANA positive",
+    "RF negative and ANA negative",
+    "RF positive and ANA negative",
+    "RF negative (seronegative) and ANA positive"
+   ],
+   "ans": 3,
+   "exp": "Type 1: RF -ve (Seronegative); ANA +ve. (Book p190)"
+  },
+  {
+   "id": "OPH-C41-071",
+   "sec": "JIA",
+   "page": 190,
+   "fmt": "fillup",
+   "q": "Pauciarticular type 2 JIA is m/c in ___.",
+   "opts": [
+    "Males",
+    "Females",
+    "Infants only",
+    "Adults over 40 years"
+   ],
+   "ans": 0,
+   "exp": "Type 2: m/c in males. (Book p190)"
+  },
+  {
+   "id": "OPH-C41-072",
+   "sec": "Fuchs heterochromic iridocyclitis",
+   "page": 190,
+   "fmt": "oddoneout",
+   "q": "In Fuch's heterochromic iridocyclitis (mnemonic NO FUCHS), which feature is absent?",
+   "opts": [
+    "Floaters",
+    "Posterior synechiae",
+    "Cataract",
+    "Stellate keratic precipitates"
+   ],
+   "ans": 1,
+   "exp": "NO FUCHS: No posterior synechiae, Floaters, Unilateral, Cataract, Heterochromia iridis, Stellate KPs. (Book p190)"
+  },
+  {
+   "id": "OPH-C41-073",
+   "sec": "Fuchs heterochromic iridocyclitis",
+   "page": 190,
+   "fmt": "recall",
+   "q": "In the mnemonic NO FUCHS, the letters F, U and C stand for:",
+   "opts": [
+    "Floaters, Uveitis, Cyclitis",
+    "Fixed pupil, Unilateral, Cataract",
+    "Floaters, Unilateral, Cataract",
+    "Floaters, Unilateral, Cyclitic membrane"
+   ],
+   "ans": 2,
+   "exp": "NO FUCHS: Floaters; Unilateral; Cataract. (Book p190)"
+  },
+  {
+   "id": "OPH-C41-074",
+   "sec": "Fuchs heterochromic iridocyclitis",
+   "page": 190,
+   "fmt": "scenario",
+   "q": "In FHC, the affected eye shows heterochromia iridis. What is the change and its cause?",
+   "opts": [
+    "Hypochromia due to loss of iris crypts",
+    "Hyperchromia due to iris pigment deposition",
+    "Hypochromia due to dilated iris vessels",
+    "Hyperchromia due to loss of iris crypts"
+   ],
+   "ans": 0,
+   "exp": "Heterochromia iridis: Hypochromia in the affected eye d/t loss of iris crypts. (Book p190)"
+  },
+  {
+   "id": "OPH-C41-075",
+   "sec": "Fuchs heterochromic iridocyclitis",
+   "page": 190,
+   "fmt": "recall",
+   "q": "Which type of keratic precipitates does the NO FUCHS mnemonic end with?",
+   "opts": [
+    "Mutton fat keratic precipitates",
+    "Stellate keratic precipitates",
+    "Pigmented keratic precipitates",
+    "Fine granular keratic precipitates"
+   ],
+   "ans": 1,
+   "exp": "NO FUCHS: ... Stellate keratic precipitates (S). (Book p190)"
+  },
+  {
+   "id": "OPH-C41-076",
+   "sec": "Fuchs heterochromic iridocyclitis",
+   "page": 190,
+   "fmt": "scenario",
+   "q": "Which sign is defined as bleeding on paracentesis in Fuch's heterochromic iridocyclitis?",
+   "opts": [
+    "Arlt's sign",
+    "Tyndall sign",
+    "Shafer's sign",
+    "Amsler's sign"
+   ],
+   "ans": 3,
+   "exp": "Amsler's Sign: Bleeding on paracentesis. (Book p190)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U41-1",
+   "ch": 41,
+   "n": 1,
+   "title": "Classification of uveitis",
+   "sec": "Uvea · p185",
+   "guide": "Anatomical classification AU iridocyclitis intermediate pars planitis posterior chorioretinitis pan uveitis; clinical classification acute <3 months chronic >3 months recurrent >=3 months; etiological granulomatous non-granulomatous.",
+   "qs": [
+    "OPH-C41-001",
+    "OPH-C41-002",
+    "OPH-C41-003",
+    "OPH-C41-004",
+    "OPH-C41-005",
+    "OPH-C41-006",
+    "OPH-C41-007",
+    "OPH-C41-008",
+    "OPH-C41-009"
+   ]
+  },
+  {
+   "id": "OPH-U41-2",
+   "ch": 41,
+   "n": 2,
+   "title": "Anterior uveitis: symptoms",
+   "sec": "Uvea · p185",
+   "guide": "AU symptoms pain 5th nerve, redness, blurring corneal haze aqueous turbidity, severe photophobia, lacrimation.",
+   "qs": [
+    "OPH-C41-010",
+    "OPH-C41-011",
+    "OPH-C41-012"
+   ]
+  },
+  {
+   "id": "OPH-U41-3",
+   "ch": 41,
+   "n": 3,
+   "title": "Anterior uveitis: signs (conjunctiva, cornea, keratic precipitates)",
+   "sec": "Uvea · p186",
+   "guide": "Circumcorneal congestion; corneal haze raised IOP toxins; KPs endothelium Arlt's triangle; mutton fat granulomatous macrophages; fine granules lymphocytes; pigmented chronic; stellate herpetic toxoplasmosis FHI.",
+   "qs": [
+    "OPH-C41-013",
+    "OPH-C41-014",
+    "OPH-C41-015",
+    "OPH-C41-016",
+    "OPH-C41-017",
+    "OPH-C41-018"
+   ]
+  },
+  {
+   "id": "OPH-U41-4",
+   "ch": 41,
+   "n": 4,
+   "title": "Anterior uveitis: anterior chamber and iris signs",
+   "sec": "Uvea · p186",
+   "guide": "Aqueous cells markers of disease activity; flare protein leakage Tyndall Brownian; hypopyon Behcet's; hyphema herpetic toxoplasmosis syphilis; pseudo-rubiosis; muddy iris; iris atrophy sectoral herpetic diffuse FHI.",
+   "qs": [
+    "OPH-C41-019",
+    "OPH-C41-020",
+    "OPH-C41-021",
+    "OPH-C41-022",
+    "OPH-C41-023",
+    "OPH-C41-024",
+    "OPH-C41-025",
+    "OPH-C41-026"
+   ]
+  },
+  {
+   "id": "OPH-U41-5",
+   "ch": 41,
+   "n": 5,
+   "title": "Anterior uveitis: iris nodules and pupil",
+   "sec": "Uvea · p187",
+   "guide": "Koeppe pupillary margin Busacca iris stroma; miosis acute; festooned pupil chronic incomplete posterior synechiae; fixed pupil recurrent 360 synechiae secondary angle closure; TPS; cyclitic membrane decreased IOP; occlusio pupillae.",
+   "qs": [
+    "OPH-C41-027",
+    "OPH-C41-028",
+    "OPH-C41-029",
+    "OPH-C41-030",
+    "OPH-C41-031",
+    "OPH-C41-032",
+    "OPH-C41-033",
+    "OPH-C41-034",
+    "OPH-C41-035"
+   ]
+  },
+  {
+   "id": "OPH-U41-6",
+   "ch": 41,
+   "n": 6,
+   "title": "Anterior uveitis: IOP, complications and treatment",
+   "sec": "Uvea · p188",
+   "guide": "Acute AU raised IOP trabecular blockage trabeculitis; chronic AU decreased IOP cyclitic membrane; complicated cataract bread crumb polychromatic lustre UMAR; secondary angle closure; band keratopathy; CME; prednisolone difluprednate azathioprine atropine; steroid side effects.",
+   "qs": [
+    "OPH-C41-036",
+    "OPH-C41-037",
+    "OPH-C41-038",
+    "OPH-C41-039",
+    "OPH-C41-040",
+    "OPH-C41-041",
+    "OPH-C41-042",
+    "OPH-C41-043",
+    "OPH-C41-044",
+    "OPH-C41-045",
+    "OPH-C41-046",
+    "OPH-C41-047"
+   ]
+  },
+  {
+   "id": "OPH-U41-7",
+   "ch": 41,
+   "n": 7,
+   "title": "Causes of anterior uveitis: granulomatous",
+   "sec": "Uvea · p189",
+   "guide": "Granulomatous causes tuberculosis leprosy lepromatous iris pearls sarcoidosis Lofgren Heerfordt syphilis late congenital iris roseolas herpes.",
+   "qs": [
+    "OPH-C41-048",
+    "OPH-C41-049",
+    "OPH-C41-050",
+    "OPH-C41-051",
+    "OPH-C41-052",
+    "OPH-C41-053",
+    "OPH-C41-054"
+   ]
+  },
+  {
+   "id": "OPH-U41-8",
+   "ch": 41,
+   "n": 8,
+   "title": "Causes of anterior uveitis: non granulomatous (acute) and drug-induced",
+   "sec": "Uvea · p189-190",
+   "guide": "Non granulomatous acute idiopathic m/c; HLA B27 ankylosing spondylitis Reiter's triad keratoderma circinate balanitis psoriatic sausage digits; Behcet's HLA B5 B51 cold mobile hypopyon aphthous; IBD UC 12% Crohn's 2.4%; drug induced CML Please Relapse Slowly.",
+   "qs": [
+    "OPH-C41-055",
+    "OPH-C41-056",
+    "OPH-C41-057",
+    "OPH-C41-058",
+    "OPH-C41-059",
+    "OPH-C41-060",
+    "OPH-C41-061",
+    "OPH-C41-062",
+    "OPH-C41-063",
+    "OPH-C41-064",
+    "OPH-C41-065"
+   ]
+  },
+  {
+   "id": "OPH-U41-9",
+   "ch": 41,
+   "n": 9,
+   "title": "Chronic anterior uveitis: JIA and Fuchs heterochromic iridocyclitis",
+   "sec": "Uvea · p190",
+   "guide": "JIA m/c AU in paediatric pauciarticular <=4 joints polyarticular >4 Stills type 1 females RF -ve ANA +ve type 2 males; FHC mnemonic NO FUCHS heterochromia stellate KPs Amsler's sign.",
+   "qs": [
+    "OPH-C41-066",
+    "OPH-C41-067",
+    "OPH-C41-068",
+    "OPH-C41-069",
+    "OPH-C41-070",
+    "OPH-C41-071",
+    "OPH-C41-072",
+    "OPH-C41-073",
+    "OPH-C41-074",
+    "OPH-C41-075",
+    "OPH-C41-076"
+   ]
+  }
+ ]
+}
