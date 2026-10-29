@@ -1,0 +1,65 @@
+{
+  "medv2": {
+    "original_questions_found": 3429,
+    "context_restored": 0,
+    "case_stems": 0,
+    "matching_lists": 0,
+    "ambiguous_skipped": 0
+  },
+  "medv3": {
+    "original_questions_found": 5373,
+    "context_restored": 0,
+    "case_stems": 0,
+    "matching_lists": 0,
+    "ambiguous_skipped": 0
+  },
+  "peds": {
+    "original_questions_found": 6445,
+    "context_restored": 656,
+    "case_stems": 356,
+    "matching_lists": 300,
+    "ambiguous_skipped": 0
+  },
+  "obg": {
+    "original_questions_found": 2710,
+    "context_restored": 0,
+    "case_stems": 0,
+    "matching_lists": 0,
+    "ambiguous_skipped": 0
+  },
+  "pharm": {
+    "original_questions_found": 5371,
+    "context_restored": 0,
+    "case_stems": 0,
+    "matching_lists": 0,
+    "ambiguous_skipped": 0
+  },
+  "surg": {
+    "original_questions_found": 9661,
+    "context_restored": 0,
+    "case_stems": 0,
+    "matching_lists": 0,
+    "ambiguous_skipped": 0
+  },
+  "derma": {
+    "original_questions_found": 0,
+    "context_restored": 0,
+    "case_stems": 0,
+    "matching_lists": 0,
+    "ambiguous_skipped": 0
+  },
+  "ortho": {
+    "original_questions_found": 3061,
+    "context_restored": 0,
+    "case_stems": 0,
+    "matching_lists": 0,
+    "ambiguous_skipped": 0
+  },
+  "oph": {
+    "original_questions_found": 1918,
+    "context_restored": 0,
+    "case_stems": 0,
+    "matching_lists": 0,
+    "ambiguous_skipped": 0
+  }
+}
