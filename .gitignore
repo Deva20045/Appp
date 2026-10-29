@@ -1,0 +1,14 @@
+# Signing material must never be committed — see tools/apk/keys/README.md
+tools/apk/keys/*.p12
+tools/apk/keys/password.txt
+tools/apk/keys/*.b64.txt
+
+# Staged at APK build time from index.html; never a second source of truth
+tools/apk/app/src/main/assets/
+
+# Transient build output of tools/app/assemble.py (identical to index.html)
+pulse-mbbs.html
+
+# Python bytecode
+__pycache__/
+*.pyc

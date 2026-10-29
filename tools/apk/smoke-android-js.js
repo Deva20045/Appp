@@ -1,6 +1,7 @@
-const {chromium} = require('/tmp/node_modules/playwright');
+const {PW_PATH,HTML,launchOptions} = require('../test-env');
+const {chromium} = require(PW_PATH);
 (async()=>{
-  let b=await chromium.launch();
+  let b=await chromium.launch(launchOptions());
   let ctx=await b.newContext({viewport:{width:390,height:844}, isMobile:true,hasTouch:true,offline:true});
   let p=await ctx.newPage();let errors=[], bridgeCalls=[];
   p.on('pageerror',e=>errors.push(e.message));
@@ -13,7 +14,7 @@ const {chromium} = require('/tmp/node_modules/playwright');
     };
   });
   // build.sh stages ../../index.html into assets/ at build time; test the same source file.
-  await p.goto('file:///home/user/index.html');
+  await p.goto(HTML);
   await p.waitForTimeout(500);
   console.log('initial bank',await p.evaluate(()=>({subs:window.__pulse.SUBJECTS.length,unit:window.__pulse.SUBJECTS.reduce((a,s)=>a+s.d.u.length,0),q:window.__pulse.SUBJECTS.reduce((a,s)=>a+s.d.q.length,0),theme:window.__nativeTheme})))
   await p.click('[data-gear]');

@@ -45,10 +45,12 @@ const DEFAULT = {xp:0, streak:0, lastDay:null, done:{}, wrong:{}, flags:{}, srs:
 /* Personal corrections: original bank and question keys are never mutated. */
 let editDraft = null;
 function validQuestionEdit(q){
-  return Array.isArray(q) && typeof q[0]==='string' && q[0].trim().length>0
-    && Array.isArray(q[1]) && q[1].length>=2 && q[1].length<=26
+  if (!Array.isArray(q) || typeof q[0]!=='string' || !q[0].trim() || typeof q[3]!=='string') return false;
+  /* fill and matching questions carry their key in slot 7, not in q[1]/q[2] */
+  if (typeof richKind==='function' && richKind(q)) return true;
+  return Array.isArray(q[1]) && q[1].length>=2 && q[1].length<=26
     && q[1].every(x=>typeof x==='string' && x.trim().length>0)
-    && Number.isInteger(q[2]) && q[2]>=0 && q[2]<q[1].length && typeof q[3]==='string';
+    && Number.isInteger(q[2]) && q[2]>=0 && q[2]<q[1].length;
 }
 function cleanEdits(edits){
   if(!edits || typeof edits!=='object' || Array.isArray(edits)) return {};
@@ -75,6 +77,23 @@ function openQuestionEditor(key){
 function closeQuestionEditor(force){
   if(!force && editDraft && editDraft.dirty && !confirm('Discard your unsaved question changes?')) return;
   editDraft=null; document.getElementById('questionEditor')?.remove(); document.body.style.overflow='';
+}
+function optionsEditorBlock(q){
+  if (typeof richKind!=='function') return '';
+  if (isFillQ(q)){
+    const m=qMeta(q)||{};
+    return '<h3>Answer</h3><p class="editor-help">This is a fill-in-the-blank question. The accepted answer comes from the book source.</p>'
+      + '<div class="editor-note"><b>'+esc(m.blank||'')+'</b>'
+      + ((m.aliases&&m.aliases.length)?'<span class="editor-alias">Also accepted: '+esc(m.aliases.join(', '))+'</span>':'')+'</div>';
+  }
+  if (isMatchQ(q)){
+    const m=qMeta(q)||{}, key=matchKey(q);
+    return '<h3>Matching pairs</h3><p class="editor-help">This is a matching question. The pairs and their key come from the book source.</p>'
+      + '<div class="editor-note">'+(m.left||[]).map((L,i)=>'<div><b>'+esc(L)+'</b> \u2192 '+esc((m.right||[])[key[i]]||'')+'</div>').join('')+'</div>';
+  }
+  return '<h3>Options & correct answer</h3><p class="editor-help">Select the circle next to the correct option.</p>'
+    + q[1].map((o,i)=>'<div class="editor-option"><label><input type="radio" name="editCorrect" value="'+i+'" '+(q[2]===i?'checked':'')+' aria-label="Correct answer '+String.fromCharCode(65+i)+'">'+String.fromCharCode(65+i)+'</label><textarea data-edit-option="'+i+'" rows="2" maxlength="10000" aria-label="Option '+String.fromCharCode(65+i)+'">'+esc(o)+'</textarea><button type="button" data-edit-remove="'+i+'" '+(q[1].length<=2?'disabled':'')+' aria-label="Remove option '+String.fromCharCode(65+i)+'">\u00d7</button></div>').join('')
+    + '<button type="button" class="btn sm" data-edit-add '+(q[1].length>=26?'disabled':'')+'>+ Add option</button>';
 }
 function drawQuestionEditor(){
   const d=editDraft;if(!d)return;
@@ -113,9 +132,7 @@ function drawQuestionEditor(){
   el.innerHTML='<div class="editor-panel"><div class="editor-heading"><div><h2 id="editorTitle">Edit question</h2><p>'+esc(subjectById(d.sid).name)+' · Question '+(d.qi+1)+'</p></div><button type="button" data-edit-close aria-label="Close editor">×</button></div>'
     + '<div class="editor-scroll"><p class="editor-help">Add the missing case or matching lists below. Changes stay on this device and are included in progress backups. Past scores are not recalculated; an already answered question uses the correction on its next attempt.</p>'
     + '<label for="editStem">Question / full case</label><textarea id="editStem" rows="7" maxlength="30000">'+esc(d.q[0])+'</textarea>'
-    + '<h3>Options & correct answer</h3><p class="editor-help">Select the circle next to the correct option.</p>'
-    + d.q[1].map((o,i)=>'<div class="editor-option"><label><input type="radio" name="editCorrect" value="'+i+'" '+(d.q[2]===i?'checked':'')+' aria-label="Correct answer '+String.fromCharCode(65+i)+'">'+String.fromCharCode(65+i)+'</label><textarea data-edit-option="'+i+'" rows="2" maxlength="10000" aria-label="Option '+String.fromCharCode(65+i)+'">'+esc(o)+'</textarea><button type="button" data-edit-remove="'+i+'" '+(d.q[1].length<=2?'disabled':'')+' aria-label="Remove option '+String.fromCharCode(65+i)+'">×</button></div>').join('')
-    + '<button type="button" class="btn sm" data-edit-add '+(d.q[1].length>=26?'disabled':'')+'>+ Add option</button>'
+    + optionsEditorBlock(d.q)
     + '<label for="editExplanation">Explanation</label><textarea id="editExplanation" rows="5" maxlength="30000">'+esc(d.q[3]||'')+'</textarea>'
     + '<p id="editError" role="alert"></p>'
     + ((S.edits||{})[d.key]?'<button type="button" class="btn ghost full" data-edit-original>Restore original question</button>':'')
@@ -123,8 +140,12 @@ function drawQuestionEditor(){
 }
 function saveQuestionEdit(){
   const d=editDraft;if(!d)return;
-  const q=d.q;q[0]=q[0].trim();q[1]=q[1].map(s=>s.trim());q[3]=(q[3]||'').trim();
-  if(!validQuestionEdit(q)){document.getElementById('editError').textContent='Enter a question, at least two non-empty options, and select the correct answer.';return;}
+  const q=d.q;q[0]=q[0].trim();
+  if(!(typeof richKind==='function' && richKind(q))) q[1]=q[1].map(s=>s.trim());
+  q[3]=(q[3]||'').trim();
+  if(!validQuestionEdit(q)){document.getElementById('editError').textContent=((typeof richKind==='function' && richKind(q))
+      ? 'Enter the question text. The answer key for this question type comes from the book source.'
+      : 'Enter a question, at least two non-empty options, and select the correct answer.');return;}
   S.edits=S.edits||{};const old=S.edits[d.key];S.edits[d.key]=q;
   try{localStorage.setItem(SKEY,JSON.stringify(S));}catch(e){
     if(old)S.edits[d.key]=old;else delete S.edits[d.key];
@@ -291,8 +312,87 @@ function toast(msg){
 }
 function fmtLabel(f){
   const m = {recall:'Recall', scenario:'Scenario', numeric:'Numeric', truefalse:'True / False',
-    oddoneout:'Odd one out', fillup:'Fill up', match:'Match', management:'Management'};
+    tf:'True / False', oddoneout:'Odd one out', odd:'Odd one out', fillup:'Fill up', fill:'Fill up',
+    match:'Match', management:'Management', case:'Case', mcq:'MCQ'};
   return m[String(f||'').toLowerCase()] || (f ? String(f).replace(/^\w/,c=>c.toUpperCase()) : 'MCQ');
+}
+/* ---------- rich question kinds: fill-in-the-blank and matching ----------
+   Some sources do not store every question as multiple choice. A fill question
+   carries a `blank` (plus optional `aliases`); a match question carries
+   left/right pair lists and a key. The flat bank tuple keeps that payload in an
+   optional slot 7, so slots 0-6 mean exactly what they always did. */
+function qMeta(q){ const x = Array.isArray(q) ? q[7] : null; return (x && typeof x==='object') ? x : null; }
+function richKind(q){
+  const m = qMeta(q);
+  if (m && m.t==='fill' && typeof m.blank==='string' && m.blank.trim()) return 'fill';
+  if (m && m.t==='match' && Array.isArray(m.left) && Array.isArray(m.right)
+      && m.left.length===m.right.length && m.left.length>=2) return 'match';
+  return '';
+}
+function isFillQ(q){ return richKind(q)==='fill'; }
+function isMatchQ(q){ return richKind(q)==='match'; }
+function isRichQ(q){ return !!richKind(q); }
+function matchKey(q){
+  const m = qMeta(q) || {};
+  if (Array.isArray(m.key) && Array.isArray(m.left) && m.key.length===m.left.length) return m.key;
+  return Array.isArray(q[2]) ? q[2] : [];
+}
+function normFill(s){
+  return String(s==null?'':s).toLowerCase()
+    .replace(/,/g,'')
+    .replace(/[\u2013\u2014\u2212]/g,'-')
+    .replace(/[\u03bc\u00b5]/g,'u')
+    .replace(/\u03b1/g,'a').replace(/\u03b2/g,'b').replace(/\u03b3/g,'g')
+    .replace(/[^a-z0-9+\-/%. ]/g,' ')
+    .replace(/\s+/g,' ')
+    .trim();
+}
+function stripUnits(s){
+  return String(s)
+    .replace(/\b(mg\/l|mg\/dl|mg\/kg|mg|mcg|ug|iu|hours?|hrs?|days?|weeks?|wks?|years?|yrs?|months?|min|minutes?|seconds?|sec|od|bd|tds|qid|percent|meq\/l|mmol\/l|ng\/ml)\b/g,'')
+    .replace(/%/g,'').replace(/\s+/g,' ').trim();
+}
+function fillMatches(q, input){
+  const m = qMeta(q) || {};
+  const cands = [m.blank].concat(m.aliases||[]).filter(x=>typeof x==='string' && x.trim()).map(normFill);
+  const n = normFill(input);
+  if (!n || !cands.length) return false;
+  if (cands.indexOf(n)>=0) return true;
+  /* a typed answer often ends in a full stop; that alone must not fail it */
+  const nEnd = n.replace(/[.;:,]+$/,'').trim();
+  if (nEnd && cands.indexOf(nEnd)>=0) return true;
+  const ns = stripUnits(n);
+  if (ns && cands.some(c=>stripUnits(c)===ns)) return true;
+  return cands.some(c=>c.replace(/ /g,'')===n.replace(/ /g,''));
+}
+function matchFilled(q, chosen){
+  const k = matchKey(q);
+  return Array.isArray(chosen) && k.length>0 && k.every((v,i)=>chosen[i]!=null);
+}
+function matchCorrect(q, chosen){
+  const k = matchKey(q);
+  return matchFilled(q, chosen) && k.every((v,i)=>chosen[i]===v);
+}
+/* The canonical correct answer on one line, for results and flashcards. */
+function correctAnswerText(q){
+  const m = qMeta(q);
+  if (isFillQ(q)) return m.blank;
+  if (isMatchQ(q)){
+    const k = matchKey(q);
+    return m.left.map((L,i)=>L+' \u2192 '+(m.right[k[i]]!=null?m.right[k[i]]:'')).join('; ');
+  }
+  return (Array.isArray(q[1]) && Number.isInteger(q[2]) && q[1][q[2]]!=null) ? String(q[1][q[2]]) : '';
+}
+/* What the learner chose. `chosen` is an option index for MCQ, a string for
+   fill, and an array of right-hand indexes for match. */
+function chosenAnswerText(q, chosen){
+  const m = qMeta(q);
+  if (isFillQ(q)) return typeof chosen==='string' ? chosen : '';
+  if (isMatchQ(q)){
+    if (!Array.isArray(chosen)) return '';
+    return m.left.map((L,i)=>L+' \u2192 '+(m.right[chosen[i]]!=null?m.right[chosen[i]]:'\u2014')).join('; ');
+  }
+  return (Array.isArray(q[1]) && Number.isInteger(chosen) && chosen>=0 && q[1][chosen]!=null) ? String(q[1][chosen]) : '';
 }
 function totUnits(){ return SUBJECTS.reduce((a,s)=>a+s.d.u.length,0); }
 function totQs(){ return SUBJECTS.reduce((a,s)=>a+s.d.q.length,0); }
@@ -663,7 +763,8 @@ function qotdExcerpt(text, n){
 function buildRun(items, title, opts){
   opts = opts||{};
   run = { title:title, items:items, idx:0, correct:0, answered:0, xp:0, log:[], startTs:Date.now(), qStart:Date.now(),
-          s:(opts.s||null), i:(opts.i!=null?opts.i:null), mode:opts.mode||'unit', done:false, rated:{}, qtime:0 };
+          s:(opts.s||null), i:(opts.i!=null?opts.i:null), mode:opts.mode||'unit', done:false, rated:{}, qtime:0,
+          draft:'', match:null, msel:null };
   noteOpen = false;
   persistRun();
 }
@@ -688,7 +789,7 @@ function restoreActive(){
   if(!a.items.length){ delete S.active; save(); return false; }
   if(!(a.idx>=0) || a.idx>=a.items.length) a.idx=0;
   if(!Array.isArray(a.log)) a.log=[];
-  a.done=false;
+  a.done=false; a.draft=''; a.match=null; a.msel=null;
   run=a; noteOpen=false; sheetOpen=false; cardRun=null;
   nav=[{v:'home'},{v:'quiz'}]; tab='subjects';
   if(run.mode==='test' && run.timerEnd && Date.now()>run.timerEnd) collectResults();
@@ -758,13 +859,15 @@ function viewQuiz(){
       + editButton(it)
       + (answered && S.edits[key] ? '<p class="editor-help">This attempt keeps the question as answered. Your correction applies on the next attempt.</p>' : '')
       + questionHtml(q)
-      + '<div class="opts" id="opts">'+q[1].map((o,k)=>optionHtml(o,k,q,answered,test)).join('')+'</div>'
+      + '<div class="opts" id="opts">'+optionsHtml(q,answered,revealed,test)+'</div>'
       + (noteOpen ? '<textarea class="noteedit" id="noteTa" placeholder="Your note on this question \u2014 appears in Review and in your backup">'+esc(note||'')+'</textarea>'
           + '<div class="btns" style="margin-top:10px"><button class="btn primary full" id="noteSave">Save note</button>'
           + (note ? '<button class="btn ghost" id="noteDel">Delete</button>' : '')+'</div>'
         : (note && revealed ? '<div class="usernote"><b>Your note</b>'+esc(note)+'</div>' : ''))
       + (answered && !revealed ? '<div class="note" style="margin-top:14px">Answer locked in \u2014 you will see the score and explanations when the test ends.</div>' : '')
-      + (answered && revealed ? '<div class="exp'+(answered.ok?'':' bad')+'"><b>'+(answered.ok?'Correct':'Answer: '+String.fromCharCode(65+q[2]))+'</b>'+rich(q[3]||'Answer recorded in the book.')+'</div>' : '')
+      + (answered && revealed ? '<div class="exp'+(answered.ok?'':' bad')+'">'
+          + (answered.ok ? '<b>Correct</b>' : (isMatchQ(q) ? '' : '<b>Answer: '+answerHead(q)+'</b>'))
+          + rich(q[3]||'Answer recorded in the book.')+'</div>' : '')
       + (answered && revealed ? '<div class="rate">'
           + '<div class="rl">Spaced revision · when to see this again'+(sch?' ':'')+'</div>'
           + '<div class="rbtns">'
@@ -794,10 +897,74 @@ function optionHtml(o,k,q,answered,test){
   return '<button class="opt'+cls+'" data-opt="'+k+'"'+dis+'>'
     + '<span class="l">'+String.fromCharCode(65+k)+'</span><span class="o">'+rich(o)+'</span></button>';
 }
+function answerHead(q){
+  return isRichQ(q) ? esc(correctAnswerText(q)||'\u2014') : String.fromCharCode(65+q[2]);
+}
+/* The interactive answer area: MCQ buttons, a fill box, or a matching board. */
+function optionsHtml(q, answered, revealed, test){
+  const kind = richKind(q);
+  if (kind==='fill')  return fillHtml(q, answered, revealed);
+  if (kind==='match') return matchHtml(q, answered, revealed);
+  return q[1].map((o,k)=>optionHtml(o,k,q,answered,test)).join('');
+}
+function fillHtml(q, answered, revealed){
+  const draft = (run && typeof run.draft==='string') ? run.draft : '';
+  if (answered){
+    const val = typeof answered.chosen==='string' ? answered.chosen : draft;
+    if (!revealed)
+      return '<div class="fillwrap"><input class="fillin" type="text" value="'+esc(val)+'" disabled aria-label="Your answer">'
+        + '<div class="fillfb">Answer locked in \u2014 it is marked when the test ends.</div></div>';
+    return '<div class="fillwrap"><input class="fillin '+(answered.ok?'right':'wrong')+'" type="text" value="'+esc(val)+'" disabled aria-label="Your answer">'
+      + '<div class="fillfb '+(answered.ok?'ok':'no')+'">'+(answered.ok?'Correct':(val?'Answer: <b>'+esc(correctAnswerText(q))+'</b>':'Skipped \u2014 answer: <b>'+esc(correctAnswerText(q))+'</b>'))+'</div></div>';
+  }
+  return '<div class="fillwrap">'
+    + '<input class="fillin" id="fillBox" type="text" value="'+esc(draft)+'" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Type the missing word or value" aria-label="Your answer">'
+    + '<button class="btn primary" id="fillCheck">Check answer</button>'
+    + '</div>';
+}
+function matchState(q){
+  const m = qMeta(q) || {};
+  const n = Array.isArray(m.left) ? m.left.length : 0;
+  if (!run) return [];
+  if (!Array.isArray(run.match) || run.match.length!==n) run.match = new Array(n).fill(null);
+  return run.match;
+}
+function matchHtml(q, answered, revealed){
+  const m = qMeta(q), key = matchKey(q);
+  const done = !!answered;
+  const chosen = done ? (Array.isArray(answered.chosen) ? answered.chosen : [])
+                      : matchState(q);
+  const sel = (!done && run) ? run.msel : null;
+  let rows = '';
+  m.left.forEach((L,i)=>{
+    const c = chosen[i];
+    let cls = 'mslot', label = (c!=null && m.right[c]!=null) ? m.right[c] : 'Tap, then pick a match';
+    if (done && revealed){
+      const okCell = c===key[i];
+      cls += okCell ? ' right' : ' wrong';
+      if (!okCell) label = 'Correct: '+m.right[key[i]];
+    } else if (done) cls += ' locked';
+    else if (c!=null) cls += ' filled';
+    if (!done && sel===i) cls += ' sel';
+    rows += '<div class="mrow"><span class="mleft">'+rich(L)+'</span>'
+      + '<button type="button" class="'+cls+'" data-mslot="'+i+'"'+(done?' disabled':'')+'>'+rich(label)+'</button></div>';
+  });
+  let bank = '';
+  if (!done){
+    bank = '<div class="mbank">'+m.right.map((R,j)=>{
+      const used = chosen.indexOf(j)>=0;
+      return '<button type="button" class="mchip'+(used?' used':'')+'" data-mchip="'+j+'"'+(used?' disabled':'')+'>'+rich(R)+'</button>';
+    }).join('')+'</div>';
+  }
+  const complete = done || matchFilled(q, chosen);
+  return '<div class="matchwrap">'+rows+bank
+    + (done ? '' : '<button class="btn primary" id="matchCheck"'+(complete?'':' disabled')+'>Check answer</button>')
+    + '</div>';
+}
 function questionHtml(q){
   const fmt = String(q[4]||'').toLowerCase();
   let text = String(q[0]||'');
-  if (fmt==='fillup' && text.indexOf('____')>=0)
+  if ((fmt==='fillup' || fmt==='fill' || isFillQ(q)) && text.indexOf('____')>=0)
     return '<p class="qtext">'+esc(text).split('____').join('<span class="blank"></span>')+'</p>';
   if (fmt==='match'){
     const parts = text.split(/\s*(?:…|\.\.\.)\s*/);
@@ -820,9 +987,28 @@ function questionHtml(q){
 }
 function answer(i){
   if(!run || run.log[run.idx]) return;
+  const q = itemQ(run.items[run.idx]);
+  commitAnswer(i, i===q[2]);
+}
+function answerFill(){
+  if(!run || run.log[run.idx]) return;
+  const q = itemQ(run.items[run.idx]), box = document.getElementById('fillBox');
+  const val = String(box ? box.value : (run.draft||'')).trim();
+  if (!val){ toast('Type an answer first'); if(box) box.focus(); return; }
+  run.draft = val;
+  commitAnswer(val, fillMatches(q, val));
+}
+function answerMatch(){
+  if(!run || run.log[run.idx]) return;
+  const q = itemQ(run.items[run.idx]);
+  const chosen = matchState(q).slice();
+  if (!matchFilled(q, chosen)){ toast('Match every item first'); return; }
+  commitAnswer(chosen, matchCorrect(q, chosen));
+}
+function commitAnswer(chosen, ok){
+  if(!run || run.log[run.idx]) return;
   const it = run.items[run.idx], q = itemQ(it), key = qKey(it.s, it.q);
-  const ok = (i===q[2]);
-  run.log[run.idx] = {chosen:i, ok:ok, question:JSON.parse(JSON.stringify(q))};
+  run.log[run.idx] = {chosen:chosen, ok:ok, question:JSON.parse(JSON.stringify(q))};
   run.answered++;
   const isTest = run.mode === 'test';
   const spent = Math.min(600000, Math.max(400, Date.now() - (run.qStart||Date.now())));
@@ -856,7 +1042,10 @@ function applyPending(){
   const it = run.items[run.idx], key = qKey(it.s,it.q);
   if (run.pending[key]){ srsRate(key, run.pending[key]); delete run.pending[key]; }
 }
-function nextQ(){ if(!run) return; applyPending(); noteOpen = false; if(run.idx+1>=run.items.length){ collectResults(); return; } run.idx++; run.qStart = Date.now(); persistRun(); render(); }
+function nextQ(){ if(!run) return; applyPending(); noteOpen = false;
+  if(run.idx+1>=run.items.length){ collectResults(); return; }
+  run.idx++; run.qStart = Date.now(); run.draft=''; run.match=null; run.msel=null;
+  persistRun(); render(); }
 function skipQ(){
   const it = run.items[run.idx], key = qKey(it.s,it.q);
   run.log[run.idx] = {chosen:-1, ok:false, skipped:true, question:JSON.parse(JSON.stringify(itemQ(it)))}; run.answered++;
@@ -966,8 +1155,8 @@ function viewResults(){
           + '<span style="display:block;font-family:var(--mono);font-size:10px;color:var(--dim);margin-top:5px">'+esc(sub.name)+(uu?' · '+esc(uu[1]):'')+'</span></span>'
           + '<span style="color:var(--dim)">▾</span></button>'
           + '<div class="body">'
-            + '<div>Your answer: '+(lg.chosen>=0?esc(q[1][lg.chosen]):'<span style="color:var(--mut)">skipped</span>')+'</div>'
-            + (ok?'':'<div>Correct: <em>'+esc(q[1][q[2]])+'</em></div>')
+            + '<div>Your answer: '+(lg.skipped?'<span style="color:var(--mut)">skipped</span>':'<em>'+esc(chosenAnswerText(q, lg.chosen)||'\u2014')+'</em>')+'</div>'
+            + (ok?'':'<div>Correct: <em>'+esc(correctAnswerText(q))+'</em></div>')
             + '<div class="ex">'+(q[3]?rich(q[3]):'—')+'</div>'
           + '</div></div>';
       }).join('') + '</div>'
@@ -1159,7 +1348,7 @@ function viewCards(){
         + (S.flags[key] ? '<span class="chip">\u2605</span>' : '')+'</div>'
       + '<div class="fq">'+rich(q[0])+'</div>'
       + (fl
-          ? '<div class="ans"><b>Answer</b><p>'+rich(q[1][q[2]])+'</p>'
+          ? '<div class="ans"><b>Answer</b><p>'+rich(correctAnswerText(q)||'Answer recorded in the book')+'</p>'
             + (q[3] ? '<div class="ansx">'+rich(q[3])+'</div>' : '')
             + (note ? '<div class="usernote"><b>Your note</b>'+esc(note)+'</div>' : '')
           + '</div>'
@@ -1492,6 +1681,24 @@ document.addEventListener('click', e=>{
     }
     return;
   }
+  if (t.closest('#fillCheck')){ answerFill(); return; }
+  if (t.closest('#matchCheck')){ answerMatch(); return; }
+  const mslot = t.closest('[data-mslot]');
+  if (mslot && run && !run.log[run.idx]){
+    const i = +mslot.dataset.mslot, q = itemQ(run.items[run.idx]), st = matchState(q);
+    if (st[i]!=null){ st[i]=null; run.msel=i; } else { run.msel = (run.msel===i ? null : i); }
+    render(); return;
+  }
+  const mchip = t.closest('[data-mchip]');
+  if (mchip && run && !run.log[run.idx]){
+    const j = +mchip.dataset.mchip, q = itemQ(run.items[run.idx]), st = matchState(q);
+    let slot = (run.msel!=null) ? run.msel : st.indexOf(null);
+    if (slot==null || slot<0){ toast('Tap an item on the left first'); return; }
+    for (let k=0;k<st.length;k++) if (st[k]===j) st[k]=null;
+    st[slot] = j;
+    const nx = st.indexOf(null); run.msel = nx<0 ? null : nx;
+    render(); return;
+  }
   const opt = t.closest('[data-opt]'); if (opt && run){ answer(+opt.dataset.opt); return; }
   const rat = t.closest('[data-rate]'); if (rat && run){ rate(rat.dataset.rate); return; }
   if (t.closest('#nextQ')){ nextQ(); return; }
@@ -1579,6 +1786,7 @@ addEventListener('keydown', e=>{
     return;
   }
   if (run && cur().v==='quiz'){
+    if (e.target && e.target.id==='fillBox' && e.key==='Enter'){ e.preventDefault(); answerFill(); return; }
     if (document.activeElement && ['INPUT','TEXTAREA'].includes(document.activeElement.tagName)) return;
     const it = run.items[run.idx], q = itemQ(it), answered = run.log[run.idx];
     if (!answered){
@@ -1595,6 +1803,7 @@ addEventListener('keydown', e=>{
 });
 let tmr=null;
 document.addEventListener('input', e=>{
+  if (e.target.id==='fillBox'){ if (run) run.draft = e.target.value; return; }
   if (e.target.id!=='sq') return;
   const val = e.target.value;
   clearTimeout(tmr);
@@ -1614,6 +1823,7 @@ applyPrefs();
 const __resumed = restoreActive();
 window.__pulse = { get run(){return run;}, ACCENTS, applyPrefs, get prefs(){return prefs();}, setPref, heatmapHtml, get S(){return S;}, get nav(){return nav;}, set nav(v){nav=v;},
   BANK, SUBJECTS, startUnit, startDrill, dueKeys, render,
+  richKind, isRichQ, fillMatches, matchFilled, matchCorrect, matchKey, correctAnswerText, chosenAnswerText, qMeta,
   get tab(){return tab;}, setTab };
 
 render();
