@@ -5,11 +5,10 @@ Everything needed to continue work on the PULSE MBBS offline app. Read this firs
 ## 1. What exists today
 
 - **Offline single-file web app**: `index.html` (19.1 MB) — 12 subjects, 3,665→**4,800 units**, **49,709 questions**, Subject→Chapter→Unit, quiz, mistakes/spaced Review tab, focus timer, notes, mock tests, flashcards, Light/Dark + accent themes, fully offline (fonts embedded).
-- **Android APK**: `PULSE-MBBS-offline.apk` — **versionName 1.3 / versionCode 4**, package `com.deva20045.pulsembbs`, minSdk 23 / target 34, only permission `VIBRATE`, signed v1/v2/v3 (v4 off). WebView loads the HTML through the `appassets.androidplatform.net` origin (no INTERNET permission).
+- **Android APK**: `PULSE-MBBS-offline.apk` — **versionName 1.4 / versionCode 5**, package `com.deva20045.pulsembbs`, minSdk 23 / target 34, only permission `VIBRATE`, signed v1/v2/v3 with certificate SHA-256 `41380ada09d0f07a002e44ae55373ba84f6cb2fca257cd120a5f8d57095367b8` (unchanged, so it installs over 1.3 and keeps progress). WebView loads the HTML through the `appassets.androidplatform.net` origin (no INTERNET permission).
 - **Live**: https://deva20045.github.io/MBBS/ (site) and https://deva20045.github.io/MBBS/PULSE-MBBS-offline.apk — both verified byte-identical to local files at publish time (commit `047fbb28` in `Deva20045/MBBS`, branch `main`, files at repo root).
-- Latest SHA256 (verify after any rebuild): `index.html` = `0c58ad84b21654ceb4ac42b4d7743f07f26184fad68a9e825acd16b79c7a64d4`.
-  The shipped APK is still the **1.3** build `bcbedbe1343b2065efd748e2800c41252a7969be5f92accc3b9439672e8dc22a`, so it carries the
-  pre-slot-7 HTML — read §1.1 before publishing anything.
+- Latest SHA256 (verify after any rebuild): `index.html` = `0c58ad84b21654ceb4ac42b4d7743f07f26184fad68a9e825acd16b79c7a64d4`,
+  APK = `13ac313684bfe68edc9b40de78943a95fa7d599adc787e3625fef5b17ae8ff9e`.
 
 ### Features added late in the project (shipped unless noted)
 1. **Edit question** — ✎ button above every quiz question/flashcard: edit stem/case, options, correct answer, explanation; **Restore original**; edits stored in `S.edits` (key `subjectId#questionIndex`), survive relaunch, included in progress backups; attempts snapshot the question so completed scores are never rewritten.
@@ -24,13 +23,13 @@ Everything needed to continue work on the PULSE MBBS offline app. Read this firs
    results and flashcards, resume after relaunch, and edit safely. Payload lives in an optional `q[7]` slot — see §5.1.
    Subject/chapter/unit/question counts are unchanged (12 / 4,800 / 49,709).
 
-### 1.1 Outstanding (read before shipping)
+### 1.1 Outstanding / caveats
 
-- **The APK has not been rebuilt this session.** `tools/apk/keys/pulse-upload.p12` + `password.txt` are intentionally not in
-  this repo (§9: they travel as text). Until they are restored, `index.html` is ahead of the APK, and publishing the current
-  `PULSE-MBBS-offline.apk` would ship the old HTML. Rebuild with `bash tools/apk/build.sh` after restoring the key; that
-  also needs Build-Tools 34, which `setup-sdk.py` downloads to `/tmp`, so it needs network.
-- Nothing has been published. The MBBS site still serves the 1.3 files.
+- **The APK was rebuilt by repacking, not by `build.sh`.** This session had no JDK and no reachable `dl.google.com`, so
+  Build-Tools 34 could not be installed. `tools/apk/sign_apk.py` therefore re-signed the previous APK with the new web
+  payload instead of recompiling it; the Java sources were untouched, so the binary payload is byte-identical (verified).
+  Next time `build.sh` can run, prefer it — it is the canonical path and produces the same app.
+- Signing material is **not** in this repo and is gitignored (`.gitignore`, §9). It must be restored before any rebuild.
 - `pulse-mbbs.html` is a transient build output; it is not tracked (it is just a copy of `index.html`).
 
 ## 2. File map
@@ -60,6 +59,9 @@ tools/sources/                 source material: *-app.html (repo-published apps)
                                {medv1,aneesh,gyne}-data.json (extracted chapter data),
                                {medv2,medv3,obg}.html (original subject pages), pharm-app.html
 tools/apk/build.sh             full Android build+sign pipeline (run this to make the APK)
+tools/apk/sign_apk.py          repack + re-sign WITHOUT the SDK (self-tested; needs asn1crypto)
+tools/apk/verify_apk.py        independent v1/v2/v3 verifier (calibrate on a known-good APK)
+tools/apk/repack.sh            wrapper: swap the web payload and re-sign an existing APK
 tools/apk/setup-sdk.py         downloads official Build-Tools 34 + Platform 34 to /tmp
 tools/apk/app/src/main/...     AndroidManifest.xml (versionCode 4 / 1.3), styles, icon, MainActivity.java
 tools/apk/keys/pulse-upload.p12 + keys/password.txt   ★ SIGNING KEY — REQUIRED FOR ALL FUTURE UPDATES
@@ -93,6 +95,12 @@ node tools/apk/smoke-android-js.js
 # APK (self-fetches SDK to /tmp if missing; javac/keytool from /usr/lib/jvm/jdk-11)
 bash tools/apk/build.sh
 /tmp/pulse-mbbs-android-sdk/build-tools/android-14/apksigner verify --verbose PULSE-MBBS-offline.apk
+
+# APK without a JDK / without the SDK download (repack + re-sign the previous APK):
+# restore the keys first, then
+PYTHON=/path/to/python VERSION_NAME=1.4 VERSION_CODE=5 bash tools/apk/repack.sh
+# and verify independently (works on any APK, no SDK needed):
+python3 tools/apk/verify_apk.py PULSE-MBBS-offline.apk --expect-html index.html
 ```
 
 `/tmp/node_modules/playwright` disappears between sessions — reinstall it for tests.
@@ -171,6 +179,11 @@ Re-check upstream before content work: `pushed_at` per repo; questions diff by `
 - `recover_context.py` needs the `json.dumps` signature fix (already in file) and exact `page`/`exp` disambiguation; med-v2/v3/obg originals carry no stem/pairs.
 - Some bank options arrays historically held nested lists — never hash `tuple(opts)`.
 - **No emulator/adb/kvm exists in this environment** — never claim on-device testing; headless Chromium + simulated bridge is the test floor.
+- The APK is a ZIP whose eight entries must keep their order and the STORED ones their 4-byte alignment; `sign_apk.py`
+  handles that. Never rebuild the ZIP with a generic tool and never re-sign with a different key — either breaks in-place
+  updates (progress loss) or Android's verifier.
+- `versionName` is a fixed-width UTF-16 string in the binary manifest, so `sign_apk.py --version-name` only accepts a value
+  of the same length (`1.3` → `1.4`). A longer name needs a real `aapt` rebuild.
 - Playwright browser and system libs reset between sessions (see §3).
 - Search caps at 200 question hits; `effectiveQ()` must be used everywhere questions render (edits override).
 - **Silent payload loss in importers.** The original Pharm import dropped `blank`/`aliases`/`left`/`right` because the tuple
@@ -186,7 +199,9 @@ Re-check upstream before content work: `pushed_at` per repo; questions diff by `
 1. `node --check tools/app/app.js`, assemble, byte-compare counts: 12 subjects / 4,800 units / 49,709 q
    (and 554 rows carrying `q[7]` — 464 fill + 90 match).
 2. Four test suites green (`test-ui`, `test-new-content`, `test-rich-questions`, `smoke-android-js`), zero page errors.
-3. Build APK → apksigner v1/v2/v3 true → embedded `assets/index.html` == `index.html` (needs the signing key, §9).
+3. Build APK → v1/v2/v3 valid → embedded `assets/index.html` == `index.html` (needs the signing key, §9). Without the
+   SDK, `verify_apk.py` proves this independently: ZIP CRCs + alignment, v1 manifest/`.SF`/PKCS#7, v2+v3 content digests
+   recomputed from the file, the RSA signatures, and cert == `41380ada…`. Bump `versionCode` for every release.
 4. Upload (or user uploads) → raw SHA match → live SHA match → spot-check site markers (`data-fam="Medicine"`, footer link) and APK download.
 5. Tell the user to revoke any token that appeared in chat.
 
