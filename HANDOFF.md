@@ -88,6 +88,7 @@ node tools/apk/smoke-android-js.js
 # A pinned binary that still needs libnspr4/libnss3: `npm i @sparticuz/chromium`, then
 # extract bin/al2023.tar.br with brotli and point LD_LIBRARY_PATH at the extracted lib/.
 # PULSE_HTML=file:///path/to/index.html overrides the page under test.
+# The suites now default to <repo>/index.html, so they work from any clone.
 
 # APK (self-fetches SDK to /tmp if missing; javac/keytool from /usr/lib/jvm/jdk-11)
 bash tools/apk/build.sh
